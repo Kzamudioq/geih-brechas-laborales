@@ -1,0 +1,353 @@
+anio_mes,zip,modulo,filas,columnas,codificacion
+2023-01,Enero.zip,"Características generales, seguridad social en salud y educación",73471,74,utf-8
+2023-01,Enero.zip,Datos del hogar y la vivienda,24703,48,utf-8
+2023-01,Enero.zip,Fuerza de trabajo,57364,43,cp1252
+2023-01,Enero.zip,Migración,73471,43,cp1252
+2023-01,Enero.zip,No ocupados,27669,38,cp1252
+2023-01,Enero.zip,Ocupados,29695,200,cp1252
+2023-01,Enero.zip,Otras formas de trabajo,57364,112,cp1252
+2023-01,Enero.zip,Otros ingresos e impuestos,57364,59,cp1252
+2023-02,Febrero.zip,"Características generales, seguridad social en salud y educación",74214,74,cp1252
+2023-02,Febrero.zip,Datos del hogar y la vivienda.CSV,25010,48,cp1252
+2023-02,Febrero.zip,Fuerza de trabajo,58035,43,cp1252
+2023-02,Febrero.zip,Migración,74214,43,cp1252
+2023-02,Febrero.zip,No ocupados,27309,38,cp1252
+2023-02,Febrero.zip,Ocupados,30726,200,cp1252
+2023-02,Febrero.zip,Otras formas de trabajo,58035,112,utf-8
+2023-02,Febrero.zip,Otros ingresos e impuestos,58035,59,cp1252
+2023-03,Marzo.zip,"Características generales, seguridad social en salud y educación",73415,67,cp1252
+2023-03,Marzo.zip,Datos del hogar y la vivienda,24947,48,cp1252
+2023-03,Marzo.zip,Fuerza de trabajo,57404,43,cp1252
+2023-03,Marzo.zip,Migración,73415,43,cp1252
+2023-03,Marzo.zip,No ocupados,26395,38,cp1252
+2023-03,Marzo.zip,Ocupados,31009,200,cp1252
+2023-03,Marzo.zip,Otras formas de trabajo,57404,112,cp1252
+2023-03,Marzo.zip,Otros ingresos e impuestos,57404,59,cp1252
+2023-04,Abril.zip,"Características generales, seguridad social en salud y educación",72222,67,cp1252
+2023-04,Abril.zip,Datos del hogar y la vivienda,24725,48,utf-8
+2023-04,Abril.zip,Fuerza de trabajo,56543,43,cp1252
+2023-04,Abril.zip,Migración,72222,43,cp1252
+2023-04,Abril.zip,No ocupados,25889,37,utf-8
+2023-04,Abril.zip,Ocupados,30654,200,cp1252
+2023-04,Abril.zip,Otras formas de trabajo,56543,112,utf-8
+2023-04,Abril.zip,Otros ingresos e impuestos,56543,59,cp1252
+2023-05,Mayo.zip,"Características generales, seguridad social en salud y educación",71702,67,utf-8
+2023-05,Mayo.zip,Datos del hogar y la vivienda,24429,48,utf-8
+2023-05,Mayo.zip,Fuerza de trabajo,56214,43,cp1252
+2023-05,Mayo.zip,Migración,71702,43,utf-8
+2023-05,Mayo.zip,No ocupados,25697,37,utf-8
+2023-05,Mayo.zip,Ocupados,30517,200,cp1252
+2023-05,Mayo.zip,Otras formas de trabajo,56214,112,cp1252
+2023-05,Mayo.zip,Otros ingresos e impuestos,56214,59,utf-8
+2023-06,Junio.zip,"Características generales, seguridad social en salud y educación",71777,67,cp1252
+2023-06,Junio.zip,Datos del hogar y la vivienda,24321,48,cp1252
+2023-06,Junio.zip,Fuerza de trabajo,55959,43,cp1252
+2023-06,Junio.zip,Migración,71777,43,cp1252
+2023-06,Junio.zip,No ocupados,25424,37,utf-8
+2023-06,Junio.zip,Ocupados,30535,200,cp1252
+2023-06,Junio.zip,Otras formas de trabajo,55959,112,utf-8
+2023-06,Junio.zip,Otros ingresos e impuestos,55959,59,utf-8
+2023-07,Julio.zip,"Características generales, seguridad social en salud y educación",72034,67,cp1252
+2023-07,Julio.zip,Datos del hogar y la vivienda,24501,48,utf-8
+2023-07,Julio.zip,Fuerza de trabajo,56509,43,cp1252
+2023-07,Julio.zip,Migración,72034,43,utf-8
+2023-07,Julio.zip,No ocupados,25491,37,utf-8
+2023-07,Julio.zip,Ocupados,31018,200,cp1252
+2023-07,Julio.zip,Otras formas de trabajo,56509,112,utf-8
+2023-07,Julio.zip,Otros ingresos e impuestos,56509,59,cp1252
+2023-08,Agosto.zip,"Características generales, seguridad social en salud y educación",72033,67,cp1252
+2023-08,Agosto.zip,Datos del hogar y la vivienda,24644,48,utf-8
+2023-08,Agosto.zip,Fuerza de trabajo,56564,43,cp1252
+2023-08,Agosto.zip,Migración,72033,43,utf-8
+2023-08,Agosto.zip,No ocupados,25478,37,utf-8
+2023-08,Agosto.zip,Ocupados,31086,200,cp1252
+2023-08,Agosto.zip,Otras formas de trabajo,56564,112,utf-8
+2023-08,Agosto.zip,Otros ingresos e impuestos,56564,59,cp1252
+2023-09,Septiembre.zip,"Características generales, seguridad social en salud y educación",70992,67,cp1252
+2023-09,Septiembre.zip,Datos del hogar y la vivienda,24314,48,cp1252
+2023-09,Septiembre.zip,Fuerza de trabajo,55724,43,cp1252
+2023-09,Septiembre.zip,Migración,70992,43,cp1252
+2023-09,Septiembre.zip,No ocupados,25138,37,utf-8
+2023-09,Septiembre.zip,Ocupados,30586,200,cp1252
+2023-09,Septiembre.zip,Otras formas de trabajo,55724,112,utf-8
+2023-09,Septiembre.zip,Otros ingresos e impuestos,55724,59,cp1252
+2023-10,Octubre.zip,"Características generales, seguridad social en salud y educación",69133,67,cp1252
+2023-10,Octubre.zip,Datos del hogar y la vivienda,23951,48,cp1252
+2023-10,Octubre.zip,Fuerza de trabajo,54368,43,cp1252
+2023-10,Octubre.zip,Migración,69133,43,cp1252
+2023-10,Octubre.zip,No ocupados,24571,37,utf-8
+2023-10,Octubre.zip,Ocupados,29797,200,cp1252
+2023-10,Octubre.zip,Otras formas de trabajo,54368,112,utf-8
+2023-10,Octubre.zip,Otros ingresos e impuestos,54368,59,utf-8
+2023-11,Noviembre.zip,"Características generales, seguridad social en salud y educación",70305,67,cp1252
+2023-11,Noviembre.zip,Datos del hogar y la vivienda,24151,48,cp1252
+2023-11,Noviembre.zip,Fuerza de trabajo,55240,43,cp1252
+2023-11,Noviembre.zip,Migración,70305,43,cp1252
+2023-11,Noviembre.zip,No ocupados,24761,37,utf-8
+2023-11,Noviembre.zip,Ocupados,30479,200,cp1252
+2023-11,Noviembre.zip,Otras formas de trabajo,55240,112,cp1252
+2023-11,Noviembre.zip,Otros ingresos e impuestos,55240,59,utf-8
+2023-12,Diciembre.zip,"Características generales, seguridad social en salud y educación",69504,67,cp1252
+2023-12,Diciembre.zip,Datos del hogar y la vivienda,23815,48,cp1252
+2023-12,Diciembre.zip,Fuerza de trabajo,54676,43,cp1252
+2023-12,Diciembre.zip,Migración,69504,43,utf-8
+2023-12,Diciembre.zip,No ocupados,24959,37,utf-8
+2023-12,Diciembre.zip,Ocupados,29717,200,cp1252
+2023-12,Diciembre.zip,Otras formas de trabajo,54676,112,utf-8
+2023-12,Diciembre.zip,Otros ingresos e impuestos,54676,59,utf-8
+2024-01,Ene_2024.zip,"Características generales, seguridad social en salud y educación",70648,67,cp1252
+2024-01,Ene_2024.zip,Datos del hogar y la vivienda,24247,48,cp1252
+2024-01,Ene_2024.zip,Fuerza de trabajo,55738,43,cp1252
+2024-01,Ene_2024.zip,Migración,70648,43,cp1252
+2024-01,Ene_2024.zip,No ocupados,26923,37,utf-8
+2024-01,Ene_2024.zip,Ocupados,28815,200,cp1252
+2024-01,Ene_2024.zip,Otras formas de trabajo,55738,112,utf-8
+2024-01,Ene_2024.zip,Otros ingresos e impuestos,55738,59,utf-8
+2024-02,Febrero_2024.zip,"Características generales, seguridad social en salud y educación",72148,67,cp1252
+2024-02,Febrero_2024.zip,Datos del hogar y la vivienda,24743,48,cp1252
+2024-02,Febrero_2024.zip,Fuerza de trabajo,56856,43,cp1252
+2024-02,Febrero_2024.zip,Migración,72148,43,cp1252
+2024-02,Febrero_2024.zip,No ocupados,26913,37,utf-8
+2024-02,Febrero_2024.zip,Ocupados,29943,200,cp1252
+2024-02,Febrero_2024.zip,Otras formas de trabajo,56856,112,utf-8
+2024-02,Febrero_2024.zip,Otros ingresos e impuestos,56856,59,utf-8
+2024-03,Marzo_2024.zip,"Características generales, seguridad social en salud y educación",70719,67,cp1252
+2024-03,Marzo_2024.zip,Datos del hogar y la vivienda,24647,48,cp1252
+2024-03,Marzo_2024.zip,Fuerza de trabajo,56063,43,cp1252
+2024-03,Marzo_2024.zip,Migración,70719,43,cp1252
+2024-03,Marzo_2024.zip,No ocupado,26425,37,utf-8
+2024-03,Marzo_2024.zip,Ocupados,29638,200,cp1252
+2024-03,Marzo_2024.zip,Otras formas de trabajo,56063,112,utf-8
+2024-03,Marzo_2024.zip,Otros ingresos e impuestos,56063,59,cp1252
+2024-04,Abril 2024.zip,"Características generales, seguridad social en salud y educación",70457,67,cp1252
+2024-04,Abril 2024.zip,Datos del hogar y la vivienda,24590,48,cp1252
+2024-04,Abril 2024.zip,Fuerza de trabajo,55696,43,cp1252
+2024-04,Abril 2024.zip,Migración,70457,43,cp1252
+2024-04,Abril 2024.zip,No ocupados,25955,37,utf-8
+2024-04,Abril 2024.zip,Ocupados,29741,200,cp1252
+2024-04,Abril 2024.zip,Otras formas de trabajo,55696,112,utf-8
+2024-04,Abril 2024.zip,Otros ingresos e impuestos,55696,59,cp1252
+2024-05,Mayo_2024 1.zip,"Características generales, seguridad social en salud y educación",70188,67,utf-8
+2024-05,Mayo_2024 1.zip,Datos del hogar y la vivienda,24569,48,cp1252
+2024-05,Mayo_2024 1.zip,Fuerza de trabajo,55773,43,cp1252
+2024-05,Mayo_2024 1.zip,Migración,70188,43,cp1252
+2024-05,Mayo_2024 1.zip,No ocupados,25631,37,utf-8
+2024-05,Mayo_2024 1.zip,Ocupados,30142,200,cp1252
+2024-05,Mayo_2024 1.zip,Otras formas de trabajo,55773,112,utf-8
+2024-05,Mayo_2024 1.zip,Otros ingresos e impuestos,55773,59,utf-8
+2024-06,Junio_2024.zip,"Características generales, seguridad social en salud y educación",70020,67,cp1252
+2024-06,Junio_2024.zip,Datos del hogar y la vivienda,24373,48,cp1252
+2024-06,Junio_2024.zip,Fuerza de trabajo,55530,43,cp1252
+2024-06,Junio_2024.zip,Migración,70020,43,cp1252
+2024-06,Junio_2024.zip,No ocupados,25605,37,utf-8
+2024-06,Junio_2024.zip,Ocupados,29925,200,cp1252
+2024-06,Junio_2024.zip,Otras formas de trabajo,55530,112,utf-8
+2024-06,Junio_2024.zip,Otros ingresos e impuestos,55530,59,cp1252
+2024-07,Julio_2024.zip,"Características generales, seguridad social en salud y educación",69694,67,cp1252
+2024-07,Julio_2024.zip,Datos del hogar y la vivienda,24343,48,cp1252
+2024-07,Julio_2024.zip,Fuerza de trabajo,55038,43,cp1252
+2024-07,Julio_2024.zip,Migración,69694,43,cp1252
+2024-07,Julio_2024.zip,No ocupados,25109,37,utf-8
+2024-07,Julio_2024.zip,Ocupados,29929,200,cp1252
+2024-07,Julio_2024.zip,Otras formas de trabajo,55038,112,utf-8
+2024-07,Julio_2024.zip,Otros ingresos e impuestos,55038,59,utf-8
+2024-08,Agosto_2024.zip,"Características generales, seguridad social en salud y educación",69390,67,cp1252
+2024-08,Agosto_2024.zip,Datos del hogar y la vivienda,24402,48,cp1252
+2024-08,Agosto_2024.zip,Fuerza de trabajo,54844,43,cp1252
+2024-08,Agosto_2024.zip,Migración,69390,43,utf-8
+2024-08,Agosto_2024.zip,No ocupados,24893,37,utf-8
+2024-08,Agosto_2024.zip,Ocupados,29951,200,cp1252
+2024-08,Agosto_2024.zip,Otras formas de trabajo,54844,112,utf-8
+2024-08,Agosto_2024.zip,Otros ingresos e impuestos,54844,59,utf-8
+2024-09,Septiembre_2024.zip,"Características generales, seguridad social en salud y educación",68341,67,cp1252
+2024-09,Septiembre_2024.zip,Datos del hogar y la vivienda,24217,48,cp1252
+2024-09,Septiembre_2024.zip,Fuerza de trabajo,54228,43,cp1252
+2024-09,Septiembre_2024.zip,Migración,68341,43,utf-8
+2024-09,Septiembre_2024.zip,No ocupados,24845,37,utf-8
+2024-09,Septiembre_2024.zip,Ocupados,29383,200,cp1252
+2024-09,Septiembre_2024.zip,Otras formas de trabajo,54228,112,utf-8
+2024-09,Septiembre_2024.zip,Otros ingresos e impuestos,54228,59,cp1252
+2024-10,Octubre_2024.zip,"Características generales, seguridad social en salud y educación",67216,67,cp1252
+2024-10,Octubre_2024.zip,Datos del hogar y la vivienda,24074,48,cp1252
+2024-10,Octubre_2024.zip,Fuerza de trabajo,53631,43,cp1252
+2024-10,Octubre_2024.zip,Migración,67216,43,cp1252
+2024-10,Octubre_2024.zip,No ocupados,24504,37,utf-8
+2024-10,Octubre_2024.zip,Ocupados,29127,200,cp1252
+2024-10,Octubre_2024.zip,Otras formas de trabajo,53631,112,utf-8
+2024-10,Octubre_2024.zip,Otros ingresos e impuestos,53631,59,utf-8
+2024-11,Noviembre_ 2024.zip,"Características generales, seguridad social en salud y educación",66235,67,utf-8
+2024-11,Noviembre_ 2024.zip,Datos del hogar y la vivienda,23694,48,cp1252
+2024-11,Noviembre_ 2024.zip,Fuerza de trabajo,52679,43,cp1252
+2024-11,Noviembre_ 2024.zip,Migración,66235,43,utf-8
+2024-11,Noviembre_ 2024.zip,No ocupados,23755,37,utf-8
+2024-11,Noviembre_ 2024.zip,Ocupados,28924,200,cp1252
+2024-11,Noviembre_ 2024.zip,Otras formas de trabajo,52679,112,utf-8
+2024-11,Noviembre_ 2024.zip,Otros ingresos e impuestos,52679,59,utf-8
+2024-12,Diciembre_2024.zip,"Características generales, seguridad social en salud y educación",64627,67,cp1252
+2024-12,Diciembre_2024.zip,Datos del hogar y la vivienda,23069,48,cp1252
+2024-12,Diciembre_2024.zip,Fuerza de trabajo,51727,43,cp1252
+2024-12,Diciembre_2024.zip,Migración,64627,43,cp1252
+2024-12,Diciembre_2024.zip,No ocupados,23573,37,utf-8
+2024-12,Diciembre_2024.zip,Ocupados,28154,200,cp1252
+2024-12,Diciembre_2024.zip,Otras formas de trabajo,51727,112,utf-8
+2024-12,Diciembre_2024.zip,Otros ingresos e impuestos,51727,59,cp1252
+2025-01,Enero 2025.zip,"Características generales, seguridad social en salud y educación",67857,55,utf-8
+2025-01,Enero 2025.zip,Datos del hogar y la vivienda,24109,49,cp1252
+2025-01,Enero 2025.zip,Fuerza de trabajo,54070,42,cp1252
+2025-01,Enero 2025.zip,Migración,67857,43,cp1252
+2025-01,Enero 2025.zip,No ocupados,25753,37,utf-8
+2025-01,Enero 2025.zip,Ocupados,28317,202,cp1252
+2025-01,Enero 2025.zip,Otras formas de trabajo,54070,112,utf-8
+2025-01,Enero 2025.zip,Otros ingresos e impuestos,54070,59,cp1252
+2025-02,Febrero 2025.zip,"Características generales, seguridad social en salud y educación",67953,55,utf-8
+2025-02,Febrero 2025.zip,Datos del hogar y la vivienda,24313,49,cp1252
+2025-02,Febrero 2025.zip,Fuerza de trabajo,54436,42,cp1252
+2025-02,Febrero 2025.zip,Migración,67953,43,cp1252
+2025-02,Febrero 2025.zip,No ocupados,25225,37,utf-8
+2025-02,Febrero 2025.zip,Ocupados,29211,202,cp1252
+2025-02,Febrero 2025.zip,Otras formas de trabajo,54436,112,utf-8
+2025-02,Febrero 2025.zip,Otros ingresos e impuestos,54436,59,utf-8
+2025-03,Marzo 2025.zip,"Características generales, seguridad social en salud y educación",68083,55,utf-8
+2025-03,Marzo 2025.zip,Datos del hogar y la vivienda,24193,49,utf-8
+2025-03,Marzo 2025.zip,Fuerza de trabajo,54372,42,cp1252
+2025-03,Marzo 2025.zip,Migración,68083,43,cp1252
+2025-03,Marzo 2025.zip,No ocupados,24901,37,utf-8
+2025-03,Marzo 2025.zip,Ocupados,29471,202,cp1252
+2025-03,Marzo 2025.zip,Otras formas de trabajo,54372,112,utf-8
+2025-03,Marzo 2025.zip,Otros ingresos e impuestos,54372,59,cp1252
+2025-04,Abril 2025.zip,"Características generales, seguridad social en salud y educación",68253,55,utf-8
+2025-04,Abril 2025.zip,Datos del hogar y la vivienda,24253,49,cp1252
+2025-04,Abril 2025.zip,Fuerza de trabajo,54331,42,cp1252
+2025-04,Abril 2025.zip,Migración,68253,43,cp1252
+2025-04,Abril 2025.zip,No ocupados,24817,37,utf-8
+2025-04,Abril 2025.zip,Ocupados,29514,202,cp1252
+2025-04,Abril 2025.zip,Otras formas de trabajo,54331,112,utf-8
+2025-04,Abril 2025.zip,Otros ingresos e impuestos,54331,59,cp1252
+2025-05,Mayo 2025.zip,"Características generales, seguridad social en salud y educación",68421,55,utf-8
+2025-05,Mayo 2025.zip,Datos del hogar y la vivienda,24401,49,utf-8
+2025-05,Mayo 2025.zip,Fuerza de trabajo,54662,42,cp1252
+2025-05,Mayo 2025.zip,Migración,68421,43,utf-8
+2025-05,Mayo 2025.zip,No ocupados,24705,37,utf-8
+2025-05,Mayo 2025.zip,Ocupados,29957,202,cp1252
+2025-05,Mayo 2025.zip,Otras formas de trabajo,54662,112,utf-8
+2025-05,Mayo 2025.zip,Otros ingresos e impuestos,54662,59,cp1252
+2025-06,Junio 2025.zip,"Características generales, seguridad social en salud y educación",67856,55,utf-8
+2025-06,Junio 2025.zip,Datos del hogar y la vivienda,24337,49,utf-8
+2025-06,Junio 2025.zip,Fuerza de trabajo,54450,42,cp1252
+2025-06,Junio 2025.zip,Migración,67856,43,cp1252
+2025-06,Junio 2025.zip,No ocupados,24744,37,utf-8
+2025-06,Junio 2025.zip,Ocupados,29706,202,cp1252
+2025-06,Junio 2025.zip,Otras formas de trabajo,54450,112,utf-8
+2025-06,Junio 2025.zip,Otros ingresos e impuestos,54450,59,utf-8
+2025-07,Julio 2025.zip,"Características generales, seguridad social en salud y educación",68436,55,utf-8
+2025-07,Julio 2025.zip,Datos del hogar y la vivienda,24546,49,utf-8
+2025-07,Julio 2025.zip,Fuerza de trabajo,54630,42,cp1252
+2025-07,Julio 2025.zip,Migración,68436,43,cp1252
+2025-07,Julio 2025.zip,No ocupados,24477,37,utf-8
+2025-07,Julio 2025.zip,Ocupados,30153,202,cp1252
+2025-07,Julio 2025.zip,Otras formas de trabajo,54630,112,cp1252
+2025-07,Julio 2025.zip,Otros ingresos e impuestos,54630,59,utf-8
+2025-08,Agosto 2025.zip,"Características generales, seguridad social en salud y educación",68577,55,utf-8
+2025-08,Agosto 2025.zip,Datos del hogar y la vivienda,24609,49,utf-8
+2025-08,Agosto 2025.zip,Fuerza de trabajo,54791,42,cp1252
+2025-08,Agosto 2025.zip,Migración,68577,43,cp1252
+2025-08,Agosto 2025.zip,No ocupados,24636,37,utf-8
+2025-08,Agosto 2025.zip,Ocupados,30155,202,cp1252
+2025-08,Agosto 2025.zip,Otras formas de trabajo,54791,112,utf-8
+2025-08,Agosto 2025.zip,Otros ingresos e impuestos,54791,59,cp1252
+2025-09,Septiembre 2025.zip,"Características generales, seguridad social en salud y educación",68263,55,utf-8
+2025-09,Septiembre 2025.zip,Datos del hogar y la vivienda,24524,49,utf-8
+2025-09,Septiembre 2025.zip,Fuerza de trabajo,54543,42,cp1252
+2025-09,Septiembre 2025.zip,Migración,68263,43,cp1252
+2025-09,Septiembre 2025.zip,No ocupados,24355,37,utf-8
+2025-09,Septiembre 2025.zip,Ocupados,30188,202,cp1252
+2025-09,Septiembre 2025.zip,Otras formas de trabajo,54543,112,utf-8
+2025-09,Septiembre 2025.zip,Otros ingresos e impuestos,54543,59,cp1252
+2025-10,Octubre 2025.zip,"Características generales, seguridad social en salud y educación",68710,55,utf-8
+2025-10,Octubre 2025.zip,Datos del hogar y la vivienda,24774,49,cp1252
+2025-10,Octubre 2025.zip,Fuerza de trabajo,55085,42,cp1252
+2025-10,Octubre 2025.zip,Migración,68710,43,cp1252
+2025-10,Octubre 2025.zip,No ocupados,24278,37,utf-8
+2025-10,Octubre 2025.zip,Ocupados,30807,202,cp1252
+2025-10,Octubre 2025.zip,Otras formas de trabajo,55085,112,utf-8
+2025-10,Octubre 2025.zip,Otros ingresos e impuestos,55085,59,cp1252
+2025-11,Noviembre 2025.zip,"Características generales, seguridad social en salud y educación",68582,55,utf-8
+2025-11,Noviembre 2025.zip,Datos del hogar y la vivienda,24724,49,utf-8
+2025-11,Noviembre 2025.zip,Fuerza de trabajo,55008,42,cp1252
+2025-11,Noviembre 2025.zip,Migración,68582,43,cp1252
+2025-11,Noviembre 2025.zip,No ocupados,24069,37,utf-8
+2025-11,Noviembre 2025.zip,Ocupados,30939,202,cp1252
+2025-11,Noviembre 2025.zip,Otras formas de trabajo,55008,112,cp1252
+2025-11,Noviembre 2025.zip,Otros ingresos e impuestos,55008,59,cp1252
+2025-12,Diciembre 2025.zip,"Características generales, seguridad social en salud y educación",66559,55,utf-8
+2025-12,Diciembre 2025.zip,Datos del hogar y la vivienda,24159,49,utf-8
+2025-12,Diciembre 2025.zip,Fuerza de trabajo,53461,42,cp1252
+2025-12,Diciembre 2025.zip,Migración,66559,43,cp1252
+2025-12,Diciembre 2025.zip,No ocupados,23850,37,utf-8
+2025-12,Diciembre 2025.zip,Ocupados,29611,202,cp1252
+2025-12,Diciembre 2025.zip,Otras formas de trabajo,53461,112,utf-8
+2025-12,Diciembre 2025.zip,Otros ingresos e impuestos,53461,59,cp1252
+2026-01,Enero 2026.zip,"Características generales, seguridad social en salud y educación",66606,55,utf-8
+2026-01,Enero 2026.zip,Datos del hogar y la vivienda,24075,49,utf-8
+2026-01,Enero 2026.zip,Fuerza de trabajo,53384,42,cp1252
+2026-01,Enero 2026.zip,Migración,66606,43,cp1252
+2026-01,Enero 2026.zip,No ocupados,25025,36,utf-8
+2026-01,Enero 2026.zip,Ocupados,28359,208,cp1252
+2026-01,Enero 2026.zip,Otras formas de trabajo,53384,112,utf-8
+2026-01,Enero 2026.zip,Otros ingresos e impuestos,53384,60,utf-8
+2026-02,Febrero 2026.zip,"Características generales, seguridad social en salud y educación",67736,55,utf-8
+2026-02,Febrero 2026.zip,Datos del hogar y la vivienda,24530,49,utf-8
+2026-02,Febrero 2026.zip,Fuerza de trabajo,54234,42,cp1252
+2026-02,Febrero 2026.zip,Migración,67736,43,cp1252
+2026-02,Febrero 2026.zip,No ocupados,24342,36,utf-8
+2026-02,Febrero 2026.zip,Ocupados,29892,208,cp1252
+2026-02,Febrero 2026.zip,Otras formas de trabajo,54234,112,utf-8
+2026-02,Febrero 2026.zip,Otros ingresos e impuestos,54234,60,cp1252
+2026-03,Marzo 2026.zip,"Características generales, seguridad social en salud y educación",66909,55,utf-8
+2026-03,Marzo 2026.zip,Datos del hogar y la vivienda,24357,49,utf-8
+2026-03,Marzo 2026.zip,Fuerza de trabajo,53805,42,cp1252
+2026-03,Marzo 2026.zip,Migración,66909,43,cp1252
+2026-03,Marzo 2026.zip,No ocupados,24114,36,utf-8
+2026-03,Marzo 2026.zip,Ocupados,29691,208,cp1252
+2026-03,Marzo 2026.zip,Otras formas de trabajo,53805,112,utf-8
+2026-03,Marzo 2026.zip,Otros ingresos e impuestos,53805,60,cp1252
+2026-04,Abril 2026.zip,"Características generales, seguridad social en salud y educación",67349,55,utf-8
+2026-04,Abril 2026.zip,Datos del hogar y la vivienda,24596,49,utf-8
+2026-04,Abril 2026.zip,Fuerza de trabajo,53965,42,cp1252
+2026-04,Abril 2026.zip,Migración,67349,43,utf-8
+2026-04,Abril 2026.zip,No ocupados,24091,36,utf-8
+2026-04,Abril 2026.zip,Ocupados,29874,208,cp1252
+2026-04,Abril 2026.zip,Otras formas de trabajo,53965,112,utf-8
+2026-04,Abril 2026.zip,Otros ingresos e impuestos,53965,60,cp1252
+2026-05,Mayo 2026.zip,"Características generales, seguridad social en salud y educación",67065,55,utf-8
+2026-05,Mayo 2026.zip,Datos del hogar y la vivienda,24470,49,utf-8
+2026-05,Mayo 2026.zip,Fuerza de trabajo,53752,42,cp1252
+2026-05,Mayo 2026.zip,Migración,67065,43,cp1252
+2026-05,Mayo 2026.zip,No ocupados,23832,36,utf-8
+2026-05,Mayo 2026.zip,Ocupados,29920,208,cp1252
+2026-05,Mayo 2026.zip,Otras formas de trabajo,53752,112,utf-8
+2026-05,Mayo 2026.zip,Otros ingresos e impuestos,53752,60,cp1252
+2026-06,Junio 2026.zip,"Características generales, seguridad social en salud y educación",66285,55,utf-8
+2026-06,Junio 2026.zip,Datos del hogar y la vivienda,24260,49,utf-8
+2026-06,Junio 2026.zip,Fuerza de trabajo,53131,42,cp1252
+2026-06,Junio 2026.zip,Migración,66285,43,cp1252
+2026-06,Junio 2026.zip,No ocupados,23672,36,utf-8
+2026-06,Junio 2026.zip,Ocupados,29459,208,cp1252
+2026-06,Junio 2026.zip,Otras formas de trabajo,53131,112,utf-8
+2026-06,Junio 2026.zip,Otros ingresos e impuestos,53131,60,cp1252
+2026-07,Julio 2026.zip,"Características generales, seguridad social en salud y educación",66484,55,utf-8
+2026-07,Julio 2026.zip,Datos del hogar y la vivienda,24336,49,utf-8
+2026-07,Julio 2026.zip,Fuerza de trabajo,53294,42,cp1252
+2026-07,Julio 2026.zip,Migración,66484,43,cp1252
+2026-07,Julio 2026.zip,No ocupados,23777,36,utf-8
+2026-07,Julio 2026.zip,Ocupados,29517,208,cp1252
+2026-07,Julio 2026.zip,Otras formas de trabajo,53294,112,utf-8
+2026-07,Julio 2026.zip,Otros ingresos e impuestos,53294,60,cp1252
+2026-08,Agosto 2026.zip,"Características generales, seguridad social en salud y educación",65417,55,utf-8
+2026-08,Agosto 2026.zip,Datos del hogar y la vivienda,24118,49,utf-8
+2026-08,Agosto 2026.zip,Fuerza de trabajo,52588,42,cp1252
+2026-08,Agosto 2026.zip,Migración,65417,43,utf-8
+2026-08,Agosto 2026.zip,No ocupados,24241,36,utf-8
+2026-08,Agosto 2026.zip,Ocupados,28347,208,cp1252
+2026-08,Agosto 2026.zip,Otras formas de trabajo,52588,112,utf-8
+2026-08,Agosto 2026.zip,Otros ingresos e impuestos,52588,60,utf-8

@@ -1,0 +1,722 @@
+modulo,columna,primer_mes,ultimo_mes,n_meses,en_todos
+"Características generales, seguridad social en salud y educación",PERIODO,2023-01,2026-08,44,True
+"Características generales, seguridad social en salud y educación",MES,2023-01,2026-08,44,True
+"Características generales, seguridad social en salud y educación",PER,2023-01,2026-08,44,True
+"Características generales, seguridad social en salud y educación",DIRECTORIO,2023-01,2026-08,44,True
+"Características generales, seguridad social en salud y educación",SECUENCIA_P,2023-01,2026-08,44,True
+"Características generales, seguridad social en salud y educación",ORDEN,2023-01,2026-08,44,True
+"Características generales, seguridad social en salud y educación",HOGAR,2023-01,2026-08,44,True
+"Características generales, seguridad social en salud y educación",REGIS,2023-01,2026-08,44,True
+"Características generales, seguridad social en salud y educación",AREA,2023-01,2026-08,44,True
+"Características generales, seguridad social en salud y educación",CLASE,2023-01,2026-08,44,True
+"Características generales, seguridad social en salud y educación",FEX_C18,2023-01,2026-08,44,True
+"Características generales, seguridad social en salud y educación",DPTO,2023-01,2026-08,44,True
+"Características generales, seguridad social en salud y educación",PT,2023-01,2026-08,44,True
+"Características generales, seguridad social en salud y educación",P6016,2023-01,2026-08,44,True
+"Características generales, seguridad social en salud y educación",P3271,2023-01,2026-08,44,True
+"Características generales, seguridad social en salud y educación",P6040,2023-01,2026-08,44,True
+"Características generales, seguridad social en salud y educación",P6030S1,2023-01,2026-08,44,True
+"Características generales, seguridad social en salud y educación",P6030S3,2023-01,2026-08,44,True
+"Características generales, seguridad social en salud y educación",P6050,2023-01,2026-08,44,True
+"Características generales, seguridad social en salud y educación",P6083,2023-01,2026-08,44,True
+"Características generales, seguridad social en salud y educación",P6083S1,2023-01,2026-08,44,True
+"Características generales, seguridad social en salud y educación",P6081,2023-01,2026-08,44,True
+"Características generales, seguridad social en salud y educación",P6081S1,2023-01,2026-08,44,True
+"Características generales, seguridad social en salud y educación",P2057,2023-01,2026-08,44,True
+"Características generales, seguridad social en salud y educación",P2059,2023-01,2026-08,44,True
+"Características generales, seguridad social en salud y educación",P2061,2023-01,2026-08,44,True
+"Características generales, seguridad social en salud y educación",P6080,2023-01,2026-08,44,True
+"Características generales, seguridad social en salud y educación",P6080S1,2023-01,2026-08,44,True
+"Características generales, seguridad social en salud y educación",P6080S1A1,2023-01,2026-08,44,True
+"Características generales, seguridad social en salud y educación",P6070,2023-01,2026-08,44,True
+"Características generales, seguridad social en salud y educación",P6071,2023-01,2026-08,44,True
+"Características generales, seguridad social en salud y educación",P6071S1,2023-01,2026-08,44,True
+"Características generales, seguridad social en salud y educación",P3147S1,2023-01,2024-12,24,False
+"Características generales, seguridad social en salud y educación",P3147S2,2023-01,2024-12,24,False
+"Características generales, seguridad social en salud y educación",P3147S3,2023-01,2024-12,24,False
+"Características generales, seguridad social en salud y educación",P3147S4,2023-01,2024-12,24,False
+"Características generales, seguridad social en salud y educación",P3147S5,2023-01,2024-12,24,False
+"Características generales, seguridad social en salud y educación",P3147S6,2023-01,2024-12,24,False
+"Características generales, seguridad social en salud y educación",P3147S7,2023-01,2024-12,24,False
+"Características generales, seguridad social en salud y educación",P3147S8,2023-01,2024-12,24,False
+"Características generales, seguridad social en salud y educación",P3147S9,2023-01,2024-12,24,False
+"Características generales, seguridad social en salud y educación",P3147S10,2023-01,2024-12,24,False
+"Características generales, seguridad social en salud y educación",P3147S11,2023-01,2024-12,24,False
+"Características generales, seguridad social en salud y educación",P3147S10A1,2023-01,2024-12,24,False
+"Características generales, seguridad social en salud y educación",P6090,2023-01,2026-08,44,True
+"Características generales, seguridad social en salud y educación",P6100,2023-01,2026-08,44,True
+"Características generales, seguridad social en salud y educación",P6110,2023-01,2026-08,44,True
+"Características generales, seguridad social en salud y educación",P6120,2023-01,2026-08,44,True
+"Características generales, seguridad social en salud y educación",P1906S1,2023-01,2026-08,44,True
+"Características generales, seguridad social en salud y educación",P1906S2,2023-01,2026-08,44,True
+"Características generales, seguridad social en salud y educación",P1906S3,2023-01,2026-08,44,True
+"Características generales, seguridad social en salud y educación",P1906S4,2023-01,2026-08,44,True
+"Características generales, seguridad social en salud y educación",P1906S5,2023-01,2026-08,44,True
+"Características generales, seguridad social en salud y educación",P1906S6,2023-01,2026-08,44,True
+"Características generales, seguridad social en salud y educación",P1906S7,2023-01,2026-08,44,True
+"Características generales, seguridad social en salud y educación",P1906S8,2023-01,2026-08,44,True
+"Características generales, seguridad social en salud y educación",P6160,2023-01,2026-08,44,True
+"Características generales, seguridad social en salud y educación",P6170,2023-01,2026-08,44,True
+"Características generales, seguridad social en salud y educación",P3041,2023-01,2026-08,44,True
+"Características generales, seguridad social en salud y educación",P3042,2023-01,2026-08,44,True
+"Características generales, seguridad social en salud y educación",P3042S1,2023-01,2026-08,44,True
+"Características generales, seguridad social en salud y educación",P3042S2,2023-01,2026-08,44,True
+"Características generales, seguridad social en salud y educación",P3043,2023-01,2026-08,44,True
+"Características generales, seguridad social en salud y educación",P3043S1,2023-01,2026-08,44,True
+"Características generales, seguridad social en salud y educación",P3038,2023-01,2026-08,44,True
+"Características generales, seguridad social en salud y educación",P3039,2023-01,2026-08,44,True
+"Características generales, seguridad social en salud y educación",POB_MAY18,2023-01,2026-08,44,True
+"Características generales, seguridad social en salud y educación",LGB_Numerica,2023-01,2023-02,2,False
+"Características generales, seguridad social en salud y educación",LGB_sectores,2023-01,2023-02,2,False
+"Características generales, seguridad social en salud y educación",LGBT_Numerica,2023-01,2023-02,2,False
+"Características generales, seguridad social en salud y educación",Trans_numerica,2023-01,2023-02,2,False
+"Características generales, seguridad social en salud y educación",Discapacidad,2023-01,2023-02,2,False
+"Características generales, seguridad social en salud y educación",Dificultad,2023-01,2023-02,2,False
+"Características generales, seguridad social en salud y educación",Campesina,2023-01,2023-02,2,False
+Datos del hogar y la vivienda,PERIODO,2023-01,2026-08,43,True
+Datos del hogar y la vivienda,MES,2023-01,2026-08,43,True
+Datos del hogar y la vivienda,PER,2023-01,2026-08,43,True
+Datos del hogar y la vivienda,DIRECTORIO,2023-01,2026-08,43,True
+Datos del hogar y la vivienda,SECUENCIA_P,2023-01,2026-08,43,True
+Datos del hogar y la vivienda,HOGAR,2023-01,2026-08,43,True
+Datos del hogar y la vivienda,REGIS,2023-01,2026-08,43,True
+Datos del hogar y la vivienda,AREA,2023-01,2026-08,43,True
+Datos del hogar y la vivienda,CLASE,2023-01,2026-08,43,True
+Datos del hogar y la vivienda,FEX_C18,2023-01,2026-08,43,True
+Datos del hogar y la vivienda,DPTO,2023-01,2026-08,43,True
+Datos del hogar y la vivienda,P4000,2023-01,2024-12,23,False
+Datos del hogar y la vivienda,P4010,2023-01,2026-08,43,True
+Datos del hogar y la vivienda,P4020,2023-01,2026-08,43,True
+Datos del hogar y la vivienda,P4030S1,2023-01,2026-08,43,True
+Datos del hogar y la vivienda,P4030S1A1,2023-01,2026-08,43,True
+Datos del hogar y la vivienda,P4030S2,2023-01,2026-08,43,True
+Datos del hogar y la vivienda,P4030S3,2023-01,2026-08,43,True
+Datos del hogar y la vivienda,P4030S4,2023-01,2026-08,43,True
+Datos del hogar y la vivienda,P4030S4A1,2023-01,2026-08,43,True
+Datos del hogar y la vivienda,P4030S5,2023-01,2026-08,43,True
+Datos del hogar y la vivienda,P70,2023-01,2026-08,43,True
+Datos del hogar y la vivienda,P5000,2023-01,2026-08,43,True
+Datos del hogar y la vivienda,P5010,2023-01,2026-08,43,True
+Datos del hogar y la vivienda,P5020,2023-01,2026-08,43,True
+Datos del hogar y la vivienda,P5030,2023-01,2026-08,43,True
+Datos del hogar y la vivienda,P5040,2023-01,2026-08,43,True
+Datos del hogar y la vivienda,P5050,2023-01,2026-08,43,True
+Datos del hogar y la vivienda,P5070,2023-01,2026-08,43,True
+Datos del hogar y la vivienda,P5080,2023-01,2026-08,43,True
+Datos del hogar y la vivienda,P5090,2023-01,2026-08,43,True
+Datos del hogar y la vivienda,P5090S1,2023-01,2026-08,43,True
+Datos del hogar y la vivienda,P5100,2023-01,2026-08,43,True
+Datos del hogar y la vivienda,P5110,2023-01,2026-08,43,True
+Datos del hogar y la vivienda,P5130,2023-01,2026-08,43,True
+Datos del hogar y la vivienda,P5140,2023-01,2026-08,43,True
+Datos del hogar y la vivienda,P5222S1,2023-01,2026-08,43,True
+Datos del hogar y la vivienda,P5222S2,2023-01,2026-08,43,True
+Datos del hogar y la vivienda,P5222S3,2023-01,2026-08,43,True
+Datos del hogar y la vivienda,P5222S4,2023-01,2026-08,43,True
+Datos del hogar y la vivienda,P5222S5,2023-01,2026-08,43,True
+Datos del hogar y la vivienda,P5222S6,2023-01,2026-08,43,True
+Datos del hogar y la vivienda,P5222S7,2023-01,2026-08,43,True
+Datos del hogar y la vivienda,P5222S8,2023-01,2026-08,43,True
+Datos del hogar y la vivienda,P5222S9,2023-01,2026-08,43,True
+Datos del hogar y la vivienda,P5222S10,2023-01,2026-08,43,True
+Datos del hogar y la vivienda,P5222S8A1,2023-01,2026-08,43,True
+Datos del hogar y la vivienda,P6008,2023-01,2026-08,43,True
+Datos del hogar y la vivienda,P4005,2025-01,2026-08,20,False
+Datos del hogar y la vivienda,P5222S11,2025-01,2026-08,20,False
+Datos del hogar y la vivienda.CSV,PERIODO,2023-02,2023-02,1,True
+Datos del hogar y la vivienda.CSV,MES,2023-02,2023-02,1,True
+Datos del hogar y la vivienda.CSV,PER,2023-02,2023-02,1,True
+Datos del hogar y la vivienda.CSV,DIRECTORIO,2023-02,2023-02,1,True
+Datos del hogar y la vivienda.CSV,SECUENCIA_P,2023-02,2023-02,1,True
+Datos del hogar y la vivienda.CSV,HOGAR,2023-02,2023-02,1,True
+Datos del hogar y la vivienda.CSV,REGIS,2023-02,2023-02,1,True
+Datos del hogar y la vivienda.CSV,AREA,2023-02,2023-02,1,True
+Datos del hogar y la vivienda.CSV,CLASE,2023-02,2023-02,1,True
+Datos del hogar y la vivienda.CSV,FEX_C18,2023-02,2023-02,1,True
+Datos del hogar y la vivienda.CSV,DPTO,2023-02,2023-02,1,True
+Datos del hogar y la vivienda.CSV,P4000,2023-02,2023-02,1,True
+Datos del hogar y la vivienda.CSV,P4010,2023-02,2023-02,1,True
+Datos del hogar y la vivienda.CSV,P4020,2023-02,2023-02,1,True
+Datos del hogar y la vivienda.CSV,P4030S1,2023-02,2023-02,1,True
+Datos del hogar y la vivienda.CSV,P4030S1A1,2023-02,2023-02,1,True
+Datos del hogar y la vivienda.CSV,P4030S2,2023-02,2023-02,1,True
+Datos del hogar y la vivienda.CSV,P4030S3,2023-02,2023-02,1,True
+Datos del hogar y la vivienda.CSV,P4030S4,2023-02,2023-02,1,True
+Datos del hogar y la vivienda.CSV,P4030S4A1,2023-02,2023-02,1,True
+Datos del hogar y la vivienda.CSV,P4030S5,2023-02,2023-02,1,True
+Datos del hogar y la vivienda.CSV,P70,2023-02,2023-02,1,True
+Datos del hogar y la vivienda.CSV,P5000,2023-02,2023-02,1,True
+Datos del hogar y la vivienda.CSV,P5010,2023-02,2023-02,1,True
+Datos del hogar y la vivienda.CSV,P5020,2023-02,2023-02,1,True
+Datos del hogar y la vivienda.CSV,P5030,2023-02,2023-02,1,True
+Datos del hogar y la vivienda.CSV,P5040,2023-02,2023-02,1,True
+Datos del hogar y la vivienda.CSV,P5050,2023-02,2023-02,1,True
+Datos del hogar y la vivienda.CSV,P5070,2023-02,2023-02,1,True
+Datos del hogar y la vivienda.CSV,P5080,2023-02,2023-02,1,True
+Datos del hogar y la vivienda.CSV,P5090,2023-02,2023-02,1,True
+Datos del hogar y la vivienda.CSV,P5090S1,2023-02,2023-02,1,True
+Datos del hogar y la vivienda.CSV,P5100,2023-02,2023-02,1,True
+Datos del hogar y la vivienda.CSV,P5110,2023-02,2023-02,1,True
+Datos del hogar y la vivienda.CSV,P5130,2023-02,2023-02,1,True
+Datos del hogar y la vivienda.CSV,P5140,2023-02,2023-02,1,True
+Datos del hogar y la vivienda.CSV,P5222S1,2023-02,2023-02,1,True
+Datos del hogar y la vivienda.CSV,P5222S2,2023-02,2023-02,1,True
+Datos del hogar y la vivienda.CSV,P5222S3,2023-02,2023-02,1,True
+Datos del hogar y la vivienda.CSV,P5222S4,2023-02,2023-02,1,True
+Datos del hogar y la vivienda.CSV,P5222S5,2023-02,2023-02,1,True
+Datos del hogar y la vivienda.CSV,P5222S6,2023-02,2023-02,1,True
+Datos del hogar y la vivienda.CSV,P5222S7,2023-02,2023-02,1,True
+Datos del hogar y la vivienda.CSV,P5222S8,2023-02,2023-02,1,True
+Datos del hogar y la vivienda.CSV,P5222S9,2023-02,2023-02,1,True
+Datos del hogar y la vivienda.CSV,P5222S10,2023-02,2023-02,1,True
+Datos del hogar y la vivienda.CSV,P5222S8A1,2023-02,2023-02,1,True
+Datos del hogar y la vivienda.CSV,P6008,2023-02,2023-02,1,True
+Fuerza de trabajo,PERIODO,2023-01,2026-08,44,True
+Fuerza de trabajo,MES,2023-01,2026-08,44,True
+Fuerza de trabajo,PER,2023-01,2026-08,44,True
+Fuerza de trabajo,DIRECTORIO,2023-01,2026-08,44,True
+Fuerza de trabajo,SECUENCIA_P,2023-01,2026-08,44,True
+Fuerza de trabajo,ORDEN,2023-01,2026-08,44,True
+Fuerza de trabajo,HOGAR,2023-01,2026-08,44,True
+Fuerza de trabajo,REGIS,2023-01,2026-08,44,True
+Fuerza de trabajo,AREA,2023-01,2026-08,44,True
+Fuerza de trabajo,CLASE,2023-01,2026-08,44,True
+Fuerza de trabajo,FEX_C18,2023-01,2026-08,44,True
+Fuerza de trabajo,DPTO,2023-01,2026-08,44,True
+Fuerza de trabajo,FT,2023-01,2026-08,44,True
+Fuerza de trabajo,FFT,2023-01,2026-08,44,True
+Fuerza de trabajo,PET,2023-01,2026-08,44,True
+Fuerza de trabajo,P6240,2023-01,2026-08,44,True
+Fuerza de trabajo,P6240S1,2023-01,2026-08,44,True
+Fuerza de trabajo,P6240S2,2023-01,2026-08,44,True
+Fuerza de trabajo,P6250,2023-01,2026-08,44,True
+Fuerza de trabajo,P6260,2023-01,2026-08,44,True
+Fuerza de trabajo,P6260S1,2023-01,2026-08,44,True
+Fuerza de trabajo,P6260S1A1,2023-01,2026-08,44,True
+Fuerza de trabajo,P6260S2,2023-01,2026-08,44,True
+Fuerza de trabajo,P6270,2023-01,2026-08,44,True
+Fuerza de trabajo,P6280,2023-01,2026-08,44,True
+Fuerza de trabajo,P6290,2023-01,2024-12,24,False
+Fuerza de trabajo,P3362S1,2023-01,2026-08,44,True
+Fuerza de trabajo,P3362S2,2023-01,2026-08,44,True
+Fuerza de trabajo,P3362S3,2023-01,2026-08,44,True
+Fuerza de trabajo,P3362S4,2023-01,2026-08,44,True
+Fuerza de trabajo,P3362S5,2023-01,2026-08,44,True
+Fuerza de trabajo,P3362S6,2023-01,2026-08,44,True
+Fuerza de trabajo,P3362S7,2023-01,2026-08,44,True
+Fuerza de trabajo,P3362S8,2023-01,2026-08,44,True
+Fuerza de trabajo,P3362S7A1,2023-01,2026-08,44,True
+Fuerza de trabajo,P6300,2023-01,2026-08,44,True
+Fuerza de trabajo,P6310,2023-01,2026-08,44,True
+Fuerza de trabajo,P6310S1,2023-01,2026-08,44,True
+Fuerza de trabajo,P6320,2023-01,2026-08,44,True
+Fuerza de trabajo,P6330,2023-01,2026-08,44,True
+Fuerza de trabajo,P6340,2023-01,2026-08,44,True
+Fuerza de trabajo,P6350,2023-01,2026-08,44,True
+Fuerza de trabajo,P6351,2023-01,2026-08,44,True
+Migración,PERIODO,2023-01,2026-08,44,True
+Migración,MES,2023-01,2026-08,44,True
+Migración,PER,2023-01,2026-08,44,True
+Migración,DIRECTORIO,2023-01,2026-08,44,True
+Migración,SECUENCIA_P,2023-01,2026-08,44,True
+Migración,ORDEN,2023-01,2026-08,44,True
+Migración,HOGAR,2023-01,2026-08,44,True
+Migración,REGIS,2023-01,2026-08,44,True
+Migración,AREA,2023-01,2026-08,44,True
+Migración,CLASE,2023-01,2026-08,44,True
+Migración,FEX_C18,2023-01,2026-08,44,True
+Migración,DPTO,2023-01,2026-08,44,True
+Migración,P3373,2023-01,2026-08,44,True
+Migración,P3373S1,2023-01,2026-08,44,True
+Migración,P3373S2,2023-01,2026-08,44,True
+Migración,P3373S3,2023-01,2026-08,44,True
+Migración,P3373S3A1,2023-01,2026-08,44,True
+Migración,P3373S3A2,2023-01,2026-08,44,True
+Migración,P3374,2023-01,2026-08,44,True
+Migración,P3374S1,2023-01,2026-08,44,True
+Migración,P3374S2,2023-01,2026-08,44,True
+Migración,P3374S3,2023-01,2026-08,44,True
+Migración,P3375S1,2023-01,2026-08,44,True
+Migración,P3376,2023-01,2026-08,44,True
+Migración,P3377,2023-01,2026-08,44,True
+Migración,P3378,2023-01,2026-08,44,True
+Migración,P3378S1,2023-01,2026-08,44,True
+Migración,P3379,2023-01,2026-08,44,True
+Migración,P3380,2023-01,2026-08,44,True
+Migración,P3381,2023-01,2026-08,44,True
+Migración,P3382,2023-01,2026-08,44,True
+Migración,P3382S1,2023-01,2026-08,44,True
+Migración,P3382S2,2023-01,2026-08,44,True
+Migración,P3382S3,2023-01,2026-08,44,True
+Migración,P3383,2023-01,2026-08,44,True
+Migración,P3384,2023-01,2026-08,44,True
+Migración,P3384S1,2023-01,2026-08,44,True
+Migración,P3384S2,2023-01,2026-08,44,True
+Migración,P3384S3,2023-01,2026-08,44,True
+Migración,P3385,2023-01,2026-08,44,True
+Migración,P3386,2023-01,2026-08,44,True
+Migración,P3386S1,2023-01,2026-08,44,True
+Migración,P3375,2023-01,2026-08,44,True
+No ocupado,PERIODO,2024-03,2024-03,1,True
+No ocupado,MES,2024-03,2024-03,1,True
+No ocupado,PER,2024-03,2024-03,1,True
+No ocupado,DIRECTORIO,2024-03,2024-03,1,True
+No ocupado,SECUENCIA_P,2024-03,2024-03,1,True
+No ocupado,ORDEN,2024-03,2024-03,1,True
+No ocupado,HOGAR,2024-03,2024-03,1,True
+No ocupado,REGIS,2024-03,2024-03,1,True
+No ocupado,AREA,2024-03,2024-03,1,True
+No ocupado,CLASE,2024-03,2024-03,1,True
+No ocupado,FEX_C18,2024-03,2024-03,1,True
+No ocupado,DPTO,2024-03,2024-03,1,True
+No ocupado,FFT,2024-03,2024-03,1,True
+No ocupado,DSCY,2024-03,2024-03,1,True
+No ocupado,DSI,2024-03,2024-03,1,True
+No ocupado,P7250,2024-03,2024-03,1,True
+No ocupado,P7280,2024-03,2024-03,1,True
+No ocupado,P744,2024-03,2024-03,1,True
+No ocupado,P3074,2024-03,2024-03,1,True
+No ocupado,P7260,2024-03,2024-03,1,True
+No ocupado,P1806,2024-03,2024-03,1,True
+No ocupado,P7430,2024-03,2024-03,1,True
+No ocupado,P7440S1,2024-03,2024-03,1,True
+No ocupado,P7440S2,2024-03,2024-03,1,True
+No ocupado,P7450,2024-03,2024-03,1,True
+No ocupado,P7350,2024-03,2024-03,1,True
+No ocupado,P7360,2024-03,2024-03,1,True
+No ocupado,P9460,2024-03,2024-03,1,True
+No ocupado,P1519,2024-03,2024-03,1,True
+No ocupado,P1883,2024-03,2024-03,1,True
+No ocupado,P7422,2024-03,2024-03,1,True
+No ocupado,P7422S1,2024-03,2024-03,1,True
+No ocupado,OFICIO1_C8,2024-03,2024-03,1,True
+No ocupado,OFICIO2_C8,2024-03,2024-03,1,True
+No ocupado,RAMA2D_D_R4,2024-03,2024-03,1,True
+No ocupado,RAMA4D_D_R4,2024-03,2024-03,1,True
+No ocupado,P7440,2024-03,2024-03,1,True
+No ocupados,PERIODO,2023-01,2026-08,43,True
+No ocupados,MES,2023-01,2026-08,43,True
+No ocupados,PER,2023-01,2026-08,43,True
+No ocupados,DIRECTORIO,2023-01,2026-08,43,True
+No ocupados,SECUENCIA_P,2023-01,2026-08,43,True
+No ocupados,ORDEN,2023-01,2026-08,43,True
+No ocupados,HOGAR,2023-01,2026-08,43,True
+No ocupados,REGIS,2023-01,2026-08,43,True
+No ocupados,AREA,2023-01,2026-08,43,True
+No ocupados,CLASE,2023-01,2026-08,43,True
+No ocupados,FEX_C18,2023-01,2026-08,43,True
+No ocupados,DPTO,2023-01,2026-08,43,True
+No ocupados,FFT,2023-01,2026-08,43,True
+No ocupados,DSCY,2023-01,2024-12,23,False
+No ocupados,DSI,2023-01,2026-08,43,True
+No ocupados,P7250,2023-01,2026-08,43,True
+No ocupados,P7280,2023-01,2026-08,43,True
+No ocupados,P744,2023-01,2026-08,43,True
+No ocupados,P3074,2023-01,2026-08,43,True
+No ocupados,P7260,2023-01,2026-08,43,True
+No ocupados,P1806,2023-01,2026-08,43,True
+No ocupados,P7430,2023-01,2026-08,43,True
+No ocupados,P7440,2023-01,2025-12,35,False
+No ocupados,P7440S1,2023-01,2026-08,43,True
+No ocupados,P7440S2,2023-01,2026-08,43,True
+No ocupados,P7450,2023-01,2026-08,43,True
+No ocupados,P7330,2023-01,2023-03,3,False
+No ocupados,P7350,2023-01,2026-08,43,True
+No ocupados,P7360,2023-01,2026-08,43,True
+No ocupados,P9460,2023-01,2026-08,43,True
+No ocupados,P1519,2023-01,2026-08,43,True
+No ocupados,P1883,2023-01,2026-08,43,True
+No ocupados,P7422,2023-01,2026-08,43,True
+No ocupados,P7422S1,2023-01,2026-08,43,True
+No ocupados,OFICIO1_C8,2023-01,2026-08,43,True
+No ocupados,OFICIO2_C8,2023-01,2026-08,43,True
+No ocupados,RAMA2D_D_R4,2023-01,2026-08,43,True
+No ocupados,RAMA4D_D_R4,2023-01,2026-08,43,True
+No ocupados,P7280S1,2025-01,2026-08,20,False
+Ocupados,PERIODO,2023-01,2026-08,44,True
+Ocupados,MES,2023-01,2026-08,44,True
+Ocupados,PER,2023-01,2026-08,44,True
+Ocupados,DIRECTORIO,2023-01,2026-08,44,True
+Ocupados,SECUENCIA_P,2023-01,2026-08,44,True
+Ocupados,ORDEN,2023-01,2026-08,44,True
+Ocupados,HOGAR,2023-01,2026-08,44,True
+Ocupados,REGIS,2023-01,2026-08,44,True
+Ocupados,AREA,2023-01,2026-08,44,True
+Ocupados,CLASE,2023-01,2026-08,44,True
+Ocupados,FEX_C18,2023-01,2026-08,44,True
+Ocupados,DPTO,2023-01,2026-08,44,True
+Ocupados,FT,2023-01,2026-08,44,True
+Ocupados,P3044S2,2023-01,2026-08,44,True
+Ocupados,P6440,2023-01,2026-08,44,True
+Ocupados,P6450,2023-01,2026-08,44,True
+Ocupados,P6460,2023-01,2026-08,44,True
+Ocupados,P6460S1,2023-01,2026-08,44,True
+Ocupados,P6400,2023-01,2026-08,44,True
+Ocupados,P6410,2023-01,2026-08,44,True
+Ocupados,P6422,2023-01,2026-08,44,True
+Ocupados,P6420S2,2023-01,2026-08,44,True
+Ocupados,P6424S1,2023-01,2026-08,44,True
+Ocupados,P6424S2,2023-01,2026-08,44,True
+Ocupados,P6424S3,2023-01,2026-08,44,True
+Ocupados,P6424S5,2023-01,2026-08,44,True
+Ocupados,P6426,2023-01,2026-08,44,True
+Ocupados,P6430,2023-01,2026-08,44,True
+Ocupados,P6430S1,2023-01,2026-08,44,True
+Ocupados,P3045S1,2023-01,2026-08,44,True
+Ocupados,P3045S2,2023-01,2026-08,44,True
+Ocupados,P3045S3,2023-01,2026-08,44,True
+Ocupados,P3046,2023-01,2026-08,44,True
+Ocupados,P3363,2023-01,2026-08,44,True
+Ocupados,P9440,2023-01,2026-08,44,True
+Ocupados,P6500,2023-01,2026-08,44,True
+Ocupados,P3364,2023-01,2026-08,44,True
+Ocupados,P3364S1,2023-01,2026-08,44,True
+Ocupados,P6510,2023-01,2026-08,44,True
+Ocupados,P6510S1,2023-01,2026-08,44,True
+Ocupados,P6510S2,2023-01,2026-08,44,True
+Ocupados,P6590,2023-01,2026-08,44,True
+Ocupados,P6590S1,2023-01,2026-08,44,True
+Ocupados,P6600,2023-01,2026-08,44,True
+Ocupados,P6600S1,2023-01,2026-08,44,True
+Ocupados,P6610,2023-01,2026-08,44,True
+Ocupados,P6610S1,2023-01,2026-08,44,True
+Ocupados,P6620,2023-01,2026-08,44,True
+Ocupados,P6620S1,2023-01,2026-08,44,True
+Ocupados,P6585S1,2023-01,2026-08,44,True
+Ocupados,P6585S1A1,2023-01,2026-08,44,True
+Ocupados,P6585S1A2,2023-01,2026-08,44,True
+Ocupados,P6585S2,2023-01,2026-08,44,True
+Ocupados,P6585S2A1,2023-01,2026-08,44,True
+Ocupados,P6585S2A2,2023-01,2026-08,44,True
+Ocupados,P6585S3,2023-01,2026-08,44,True
+Ocupados,P6585S3A1,2023-01,2026-08,44,True
+Ocupados,P6585S3A2,2023-01,2026-08,44,True
+Ocupados,P6585S4,2023-01,2026-08,44,True
+Ocupados,P6585S4A1,2023-01,2026-08,44,True
+Ocupados,P6585S4A2,2023-01,2026-08,44,True
+Ocupados,P6545,2023-01,2026-08,44,True
+Ocupados,P6545S1,2023-01,2026-08,44,True
+Ocupados,P6545S2,2023-01,2026-08,44,True
+Ocupados,P6580,2023-01,2026-08,44,True
+Ocupados,P6580S1,2023-01,2026-08,44,True
+Ocupados,P6580S2,2023-01,2026-08,44,True
+Ocupados,P6630S1,2023-01,2026-08,44,True
+Ocupados,P6630S1A1,2023-01,2026-08,44,True
+Ocupados,P6630S2,2023-01,2026-08,44,True
+Ocupados,P6630S2A1,2023-01,2026-08,44,True
+Ocupados,P6630S3,2023-01,2026-08,44,True
+Ocupados,P6630S3A1,2023-01,2026-08,44,True
+Ocupados,P6630S4,2023-01,2026-08,44,True
+Ocupados,P6630S4A1,2023-01,2026-08,44,True
+Ocupados,P6630S6,2023-01,2026-08,44,True
+Ocupados,P6630S6A1,2023-01,2026-08,44,True
+Ocupados,P6640,2023-01,2026-08,44,True
+Ocupados,P6640S1,2023-01,2026-08,44,True
+Ocupados,P1800,2023-01,2026-08,44,True
+Ocupados,P1800S1,2023-01,2026-08,44,True
+Ocupados,P1801S1,2023-01,2026-08,44,True
+Ocupados,P1801S2,2023-01,2026-08,44,True
+Ocupados,P1801S3,2023-01,2026-08,44,True
+Ocupados,P1802,2023-01,2026-08,44,True
+Ocupados,P3047,2023-01,2026-08,44,True
+Ocupados,P3048,2023-01,2026-08,44,True
+Ocupados,P3049,2023-01,2026-08,44,True
+Ocupados,P6765,2023-01,2026-08,44,True
+Ocupados,P6765S1,2023-01,2026-08,44,True
+Ocupados,P3051,2023-01,2026-08,44,True
+Ocupados,P3051S1,2023-01,2024-12,24,False
+Ocupados,P3052,2023-01,2026-08,44,True
+Ocupados,P3052S1,2023-01,2024-12,24,False
+Ocupados,P3053,2023-01,2026-08,44,True
+Ocupados,P3365,2023-01,2026-08,44,True
+Ocupados,P3365S1,2023-01,2026-08,44,True
+Ocupados,P3054,2023-01,2026-08,44,True
+Ocupados,P3054S1,2023-01,2026-08,44,True
+Ocupados,P3055,2023-01,2026-08,44,True
+Ocupados,P3055S1,2023-01,2026-08,44,True
+Ocupados,P3056,2023-01,2026-08,44,True
+Ocupados,P3057,2023-01,2026-08,44,True
+Ocupados,P6760,2023-01,2026-08,44,True
+Ocupados,P3058S1,2023-01,2026-08,44,True
+Ocupados,P3058S2,2023-01,2026-08,44,True
+Ocupados,P3058S3,2023-01,2026-08,44,True
+Ocupados,P3058S4,2023-01,2026-08,44,True
+Ocupados,P3058S5,2023-01,2026-08,44,True
+Ocupados,P3059,2023-01,2026-08,44,True
+Ocupados,P3061,2023-01,2026-08,44,True
+Ocupados,P3062S1,2023-01,2026-08,44,True
+Ocupados,P3062S2,2023-01,2026-08,44,True
+Ocupados,P3062S3,2023-01,2026-08,44,True
+Ocupados,P3062S4,2023-01,2026-08,44,True
+Ocupados,P3062S5,2023-01,2026-08,44,True
+Ocupados,P3062S6,2023-01,2026-08,44,True
+Ocupados,P3062S7,2023-01,2026-08,44,True
+Ocupados,P3062S8,2023-01,2026-08,44,True
+Ocupados,P3062S9,2023-01,2026-08,44,True
+Ocupados,P3063,2023-01,2026-08,44,True
+Ocupados,P3063S1,2023-01,2026-08,44,True
+Ocupados,P3064,2023-01,2026-08,44,True
+Ocupados,P3064S1,2023-01,2026-08,44,True
+Ocupados,P3065,2023-01,2026-08,44,True
+Ocupados,P3066,2023-01,2026-08,44,True
+Ocupados,P3067,2023-01,2026-08,44,True
+Ocupados,P3067S1,2023-01,2026-08,44,True
+Ocupados,P3067S2,2023-01,2026-08,44,True
+Ocupados,P6775,2023-01,2026-08,44,True
+Ocupados,P3068,2023-01,2026-08,44,True
+Ocupados,P6750,2023-01,2026-08,44,True
+Ocupados,P3073,2023-01,2026-08,44,True
+Ocupados,P550,2023-01,2026-08,44,True
+Ocupados,P6780,2023-01,2026-08,44,True
+Ocupados,P6780S1,2023-01,2026-08,44,True
+Ocupados,P1879,2023-01,2026-08,44,True
+Ocupados,P1805,2023-01,2026-08,44,True
+Ocupados,P6790,2023-01,2026-08,44,True
+Ocupados,P6800,2023-01,2026-08,44,True
+Ocupados,P6810,2023-01,2026-08,44,True
+Ocupados,P6810S1,2023-01,2026-08,44,True
+Ocupados,P6850,2023-01,2026-08,44,True
+Ocupados,P6830,2023-01,2026-08,44,True
+Ocupados,P6830S1,2023-01,2026-08,44,True
+Ocupados,P3366,2023-01,2024-12,24,False
+Ocupados,P3069,2023-01,2026-08,44,True
+Ocupados,P6880,2023-01,2026-08,44,True
+Ocupados,P6880S1,2023-01,2026-08,44,True
+Ocupados,P6915,2023-01,2026-08,44,True
+Ocupados,P6915S1,2023-01,2026-08,44,True
+Ocupados,P6920,2023-01,2026-08,44,True
+Ocupados,P6930,2023-01,2026-08,44,True
+Ocupados,P6940,2023-01,2026-08,44,True
+Ocupados,P6960,2023-01,2026-08,44,True
+Ocupados,P6990,2023-01,2026-08,44,True
+Ocupados,P9450,2023-01,2026-08,44,True
+Ocupados,P7020,2023-01,2026-08,44,True
+Ocupados,P760,2023-01,2026-08,44,True
+Ocupados,P7026,2023-01,2026-08,44,True
+Ocupados,P7028,2023-01,2026-08,44,True
+Ocupados,P7028S1,2023-01,2026-08,44,True
+Ocupados,P1880,2023-01,2026-08,44,True
+Ocupados,P1880S1,2023-01,2026-08,44,True
+Ocupados,P7040,2023-01,2026-08,44,True
+Ocupados,P7045,2023-01,2026-08,44,True
+Ocupados,P7050,2023-01,2026-08,44,True
+Ocupados,P7070,2023-01,2026-08,44,True
+Ocupados,P7075,2023-01,2026-08,44,True
+Ocupados,P7077,2023-01,2026-08,44,True
+Ocupados,P7090,2023-01,2026-08,44,True
+Ocupados,P7100,2023-01,2026-08,44,True
+Ocupados,P7110,2023-01,2026-08,44,True
+Ocupados,P7120,2023-01,2026-08,44,True
+Ocupados,P7130,2023-01,2026-08,44,True
+Ocupados,P7140S1,2023-01,2026-08,44,True
+Ocupados,P7140S2,2023-01,2026-08,44,True
+Ocupados,P7140S3,2023-01,2026-08,44,True
+Ocupados,P7140S4,2023-01,2026-08,44,True
+Ocupados,P7140S5,2023-01,2026-08,44,True
+Ocupados,P7140S6,2023-01,2026-08,44,True
+Ocupados,P7140S7,2023-01,2026-08,44,True
+Ocupados,P7140S8,2023-01,2026-08,44,True
+Ocupados,P7140S9,2023-01,2026-08,44,True
+Ocupados,P7150,2023-01,2026-08,44,True
+Ocupados,P7160,2023-01,2026-08,44,True
+Ocupados,P7170S1,2023-01,2026-08,44,True
+Ocupados,P7170S5,2023-01,2026-08,44,True
+Ocupados,P7170S6,2023-01,2026-08,44,True
+Ocupados,P7180,2023-01,2026-08,44,True
+Ocupados,P514,2023-01,2026-08,44,True
+Ocupados,P515,2023-01,2026-08,44,True
+Ocupados,P1881,2023-01,2026-08,44,True
+Ocupados,P1882,2023-01,2026-08,44,True
+Ocupados,P7240,2023-01,2026-08,44,True
+Ocupados,OCI,2023-01,2026-08,44,True
+Ocupados,INGLABO,2023-01,2026-08,44,True
+Ocupados,RAMA2D_R4,2023-01,2026-08,44,True
+Ocupados,RAMA4D_R4,2023-01,2026-08,44,True
+Ocupados,OFICIO_C8,2023-01,2026-08,44,True
+Ocupados,P3071S3,2025-01,2026-08,20,False
+Ocupados,P3072S2,2025-01,2026-08,20,False
+Ocupados,P7140S9A1,2025-01,2026-08,20,False
+Ocupados,P1881S1,2025-01,2026-08,20,False
+Ocupados,P7240S1,2025-01,2026-08,20,False
+Ocupados,P3363S1,2026-01,2026-08,8,False
+Ocupados,P3560,2026-01,2026-08,8,False
+Ocupados,P3561,2026-01,2026-08,8,False
+Ocupados,P3562,2026-01,2026-08,8,False
+Ocupados,P3563,2026-01,2026-08,8,False
+Ocupados,P1879S1,2026-01,2026-08,8,False
+Otras formas de trabajo,PERIODO,2023-01,2026-08,44,True
+Otras formas de trabajo,MES,2023-01,2026-08,44,True
+Otras formas de trabajo,PER,2023-01,2026-08,44,True
+Otras formas de trabajo,DIRECTORIO,2023-01,2026-08,44,True
+Otras formas de trabajo,SECUENCIA_P,2023-01,2026-08,44,True
+Otras formas de trabajo,ORDEN,2023-01,2026-08,44,True
+Otras formas de trabajo,HOGAR,2023-01,2026-08,44,True
+Otras formas de trabajo,REGIS,2023-01,2026-08,44,True
+Otras formas de trabajo,AREA,2023-01,2026-08,44,True
+Otras formas de trabajo,CLASE,2023-01,2026-08,44,True
+Otras formas de trabajo,FEX_C18,2023-01,2026-08,44,True
+Otras formas de trabajo,DPTO,2023-01,2026-08,44,True
+Otras formas de trabajo,P3076S1,2023-01,2026-08,44,True
+Otras formas de trabajo,P3076S1A1,2023-01,2026-08,44,True
+Otras formas de trabajo,P3076S1A2,2023-01,2026-08,44,True
+Otras formas de trabajo,P3076S2,2023-01,2026-08,44,True
+Otras formas de trabajo,P3076S2A1,2023-01,2026-08,44,True
+Otras formas de trabajo,P3076S2A2,2023-01,2026-08,44,True
+Otras formas de trabajo,P3076S3,2023-01,2026-08,44,True
+Otras formas de trabajo,P3076S3A1,2023-01,2026-08,44,True
+Otras formas de trabajo,P3076S3A2,2023-01,2026-08,44,True
+Otras formas de trabajo,P3077S1,2023-01,2026-08,44,True
+Otras formas de trabajo,P3077S1A1,2023-01,2026-08,44,True
+Otras formas de trabajo,P3077S1A2,2023-01,2026-08,44,True
+Otras formas de trabajo,P3077S2,2023-01,2026-08,44,True
+Otras formas de trabajo,P3077S2A1,2023-01,2026-08,44,True
+Otras formas de trabajo,P3077S2A2,2023-01,2026-08,44,True
+Otras formas de trabajo,P3077S3,2023-01,2026-08,44,True
+Otras formas de trabajo,P3077S3A1,2023-01,2026-08,44,True
+Otras formas de trabajo,P3077S3A2,2023-01,2026-08,44,True
+Otras formas de trabajo,P3078S1,2023-01,2026-08,44,True
+Otras formas de trabajo,P3078S1A1,2023-01,2026-08,44,True
+Otras formas de trabajo,P3078S1A2,2023-01,2026-08,44,True
+Otras formas de trabajo,P3078S2,2023-01,2026-08,44,True
+Otras formas de trabajo,P3078S2A1,2023-01,2026-08,44,True
+Otras formas de trabajo,P3078S2A2,2023-01,2026-08,44,True
+Otras formas de trabajo,P3078S3,2023-01,2026-08,44,True
+Otras formas de trabajo,P3078S3A1,2023-01,2026-08,44,True
+Otras formas de trabajo,P3078S3A2,2023-01,2026-08,44,True
+Otras formas de trabajo,P3079S1,2023-01,2026-08,44,True
+Otras formas de trabajo,P3079S1A1,2023-01,2026-08,44,True
+Otras formas de trabajo,P3079S1A2,2023-01,2026-08,44,True
+Otras formas de trabajo,P3079S2,2023-01,2026-08,44,True
+Otras formas de trabajo,P3079S2A1,2023-01,2026-08,44,True
+Otras formas de trabajo,P3079S2A2,2023-01,2026-08,44,True
+Otras formas de trabajo,P3079S3,2023-01,2026-08,44,True
+Otras formas de trabajo,P3079S3A1,2023-01,2026-08,44,True
+Otras formas de trabajo,P3079S3A2,2023-01,2026-08,44,True
+Otras formas de trabajo,P3081S1,2023-01,2026-08,44,True
+Otras formas de trabajo,P3081S1A1,2023-01,2026-08,44,True
+Otras formas de trabajo,P3081S1A2,2023-01,2026-08,44,True
+Otras formas de trabajo,P3081S2,2023-01,2026-08,44,True
+Otras formas de trabajo,P3081S2A1,2023-01,2026-08,44,True
+Otras formas de trabajo,P3081S2A2,2023-01,2026-08,44,True
+Otras formas de trabajo,P3081S3,2023-01,2026-08,44,True
+Otras formas de trabajo,P3081S3A1,2023-01,2026-08,44,True
+Otras formas de trabajo,P3081S3A2,2023-01,2026-08,44,True
+Otras formas de trabajo,P3082S1,2023-01,2026-08,44,True
+Otras formas de trabajo,P3082S1A1,2023-01,2026-08,44,True
+Otras formas de trabajo,P3082S1A2,2023-01,2026-08,44,True
+Otras formas de trabajo,P3082S2,2023-01,2026-08,44,True
+Otras formas de trabajo,P3082S2A1,2023-01,2026-08,44,True
+Otras formas de trabajo,P3082S2A2,2023-01,2026-08,44,True
+Otras formas de trabajo,P3082S3,2023-01,2026-08,44,True
+Otras formas de trabajo,P3082S3A1,2023-01,2026-08,44,True
+Otras formas de trabajo,P3082S3A2,2023-01,2026-08,44,True
+Otras formas de trabajo,P3083,2023-01,2026-08,44,True
+Otras formas de trabajo,P3083S1,2023-01,2026-08,44,True
+Otras formas de trabajo,P3084S2,2023-01,2026-08,44,True
+Otras formas de trabajo,P3085,2023-01,2026-08,44,True
+Otras formas de trabajo,P3086,2023-01,2026-08,44,True
+Otras formas de trabajo,P3086S1,2023-01,2026-08,44,True
+Otras formas de trabajo,P3087,2023-01,2026-08,44,True
+Otras formas de trabajo,P3087S1,2023-01,2026-08,44,True
+Otras formas de trabajo,P3088,2023-01,2026-08,44,True
+Otras formas de trabajo,P3089,2023-01,2026-08,44,True
+Otras formas de trabajo,P3089S1,2023-01,2026-08,44,True
+Otras formas de trabajo,P3089S2,2023-01,2026-08,44,True
+Otras formas de trabajo,P3089S3,2023-01,2026-08,44,True
+Otras formas de trabajo,P3091,2023-01,2026-08,44,True
+Otras formas de trabajo,P3091S1,2023-01,2026-08,44,True
+Otras formas de trabajo,P3091S2,2023-01,2026-08,44,True
+Otras formas de trabajo,P3092,2023-01,2026-08,44,True
+Otras formas de trabajo,P3092S1,2023-01,2026-08,44,True
+Otras formas de trabajo,P3092S2,2023-01,2026-08,44,True
+Otras formas de trabajo,P3093,2023-01,2026-08,44,True
+Otras formas de trabajo,P3093S1,2023-01,2026-08,44,True
+Otras formas de trabajo,P3093S2,2023-01,2026-08,44,True
+Otras formas de trabajo,P3094,2023-01,2026-08,44,True
+Otras formas de trabajo,P3094S1,2023-01,2026-08,44,True
+Otras formas de trabajo,P3094S2,2023-01,2026-08,44,True
+Otras formas de trabajo,P3094S3,2023-01,2026-08,44,True
+Otras formas de trabajo,P3095,2023-01,2026-08,44,True
+Otras formas de trabajo,P3095S1,2023-01,2026-08,44,True
+Otras formas de trabajo,P3095S2,2023-01,2026-08,44,True
+Otras formas de trabajo,P3095S3,2023-01,2026-08,44,True
+Otras formas de trabajo,P3096,2023-01,2026-08,44,True
+Otras formas de trabajo,P3096S1,2023-01,2026-08,44,True
+Otras formas de trabajo,P3096S2,2023-01,2026-08,44,True
+Otras formas de trabajo,P3096S3,2023-01,2026-08,44,True
+Otras formas de trabajo,P3097,2023-01,2026-08,44,True
+Otras formas de trabajo,P3097S1,2023-01,2026-08,44,True
+Otras formas de trabajo,P3097S2,2023-01,2026-08,44,True
+Otras formas de trabajo,P3098,2023-01,2026-08,44,True
+Otras formas de trabajo,P3098S1,2023-01,2026-08,44,True
+Otras formas de trabajo,P3098S2,2023-01,2026-08,44,True
+Otras formas de trabajo,P3099,2023-01,2026-08,44,True
+Otras formas de trabajo,P3099S1,2023-01,2026-08,44,True
+Otras formas de trabajo,P3099S2,2023-01,2026-08,44,True
+Otras formas de trabajo,P3101,2023-01,2026-08,44,True
+Otras formas de trabajo,P3101S1,2023-01,2026-08,44,True
+Otras formas de trabajo,P3101S2,2023-01,2026-08,44,True
+Otros ingresos e impuestos,PERIODO,2023-01,2026-08,44,True
+Otros ingresos e impuestos,MES,2023-01,2026-08,44,True
+Otros ingresos e impuestos,PER,2023-01,2026-08,44,True
+Otros ingresos e impuestos,DIRECTORIO,2023-01,2026-08,44,True
+Otros ingresos e impuestos,SECUENCIA_P,2023-01,2026-08,44,True
+Otros ingresos e impuestos,ORDEN,2023-01,2026-08,44,True
+Otros ingresos e impuestos,HOGAR,2023-01,2026-08,44,True
+Otros ingresos e impuestos,REGIS,2023-01,2026-08,44,True
+Otros ingresos e impuestos,AREA,2023-01,2026-08,44,True
+Otros ingresos e impuestos,CLASE,2023-01,2026-08,44,True
+Otros ingresos e impuestos,FEX_C18,2023-01,2026-08,44,True
+Otros ingresos e impuestos,DPTO,2023-01,2026-08,44,True
+Otros ingresos e impuestos,P7495,2023-01,2026-08,44,True
+Otros ingresos e impuestos,P7500S1,2023-01,2026-08,44,True
+Otros ingresos e impuestos,P7500S1A1,2023-01,2026-08,44,True
+Otros ingresos e impuestos,P7500S2,2023-01,2026-08,44,True
+Otros ingresos e impuestos,P7500S2A1,2023-01,2026-08,44,True
+Otros ingresos e impuestos,P7500S3,2023-01,2026-08,44,True
+Otros ingresos e impuestos,P7500S3A1,2023-01,2026-08,44,True
+Otros ingresos e impuestos,P7505,2023-01,2026-08,44,True
+Otros ingresos e impuestos,P7510S1,2023-01,2026-08,44,True
+Otros ingresos e impuestos,P7510S1A1,2023-01,2026-08,44,True
+Otros ingresos e impuestos,P7510S2,2023-01,2026-08,44,True
+Otros ingresos e impuestos,P7510S2A1,2023-01,2026-08,44,True
+Otros ingresos e impuestos,P7510S3,2023-01,2026-08,44,True
+Otros ingresos e impuestos,P7510S3A1,2023-01,2026-08,44,True
+Otros ingresos e impuestos,P750S1,2023-01,2026-08,44,True
+Otros ingresos e impuestos,P750S1A1,2023-01,2026-08,44,True
+Otros ingresos e impuestos,P750S2,2023-01,2026-08,44,True
+Otros ingresos e impuestos,P750S2A1,2023-01,2026-08,44,True
+Otros ingresos e impuestos,P1661S1,2023-01,2024-12,24,False
+Otros ingresos e impuestos,P1661S1A1,2023-01,2024-12,24,False
+Otros ingresos e impuestos,P1661S2,2023-01,2024-12,24,False
+Otros ingresos e impuestos,P1661S2A1,2023-01,2024-12,24,False
+Otros ingresos e impuestos,P1661S3,2023-01,2026-08,44,True
+Otros ingresos e impuestos,P1661S3A1,2023-01,2026-08,44,True
+Otros ingresos e impuestos,P1661S4,2023-01,2026-08,44,True
+Otros ingresos e impuestos,P1661S4A1,2023-01,2026-08,44,True
+Otros ingresos e impuestos,P1661S4A2,2023-01,2026-08,44,True
+Otros ingresos e impuestos,P750S3,2023-01,2026-08,44,True
+Otros ingresos e impuestos,P750S3A1,2023-01,2026-08,44,True
+Otros ingresos e impuestos,P7510S5,2023-01,2026-08,44,True
+Otros ingresos e impuestos,P7510S5A1,2023-01,2026-08,44,True
+Otros ingresos e impuestos,P7510S6,2023-01,2026-08,44,True
+Otros ingresos e impuestos,P7510S6A1,2023-01,2026-08,44,True
+Otros ingresos e impuestos,P7510S7,2023-01,2026-08,44,True
+Otros ingresos e impuestos,P7510S7A1,2023-01,2026-08,44,True
+Otros ingresos e impuestos,P3367,2023-01,2026-08,44,True
+Otros ingresos e impuestos,P3368,2023-01,2026-08,44,True
+Otros ingresos e impuestos,P3369,2023-01,2026-08,44,True
+Otros ingresos e impuestos,P3370,2023-01,2026-08,44,True
+Otros ingresos e impuestos,P3370S1,2023-01,2026-08,44,True
+Otros ingresos e impuestos,P3371,2023-01,2026-08,44,True
+Otros ingresos e impuestos,P3371S1,2023-01,2026-08,44,True
+Otros ingresos e impuestos,P3371S2,2023-01,2026-08,44,True
+Otros ingresos e impuestos,P3371S3,2023-01,2026-08,44,True
+Otros ingresos e impuestos,P3371S4,2023-01,2026-08,44,True
+Otros ingresos e impuestos,P3372,2023-01,2026-08,44,True
+Otros ingresos e impuestos,P3372S1,2023-01,2026-08,44,True
+Otros ingresos e impuestos,P1661S5,2025-01,2026-08,20,False
+Otros ingresos e impuestos,P1661S5A1,2025-01,2026-08,20,False
+Otros ingresos e impuestos,P1661S6,2025-01,2026-08,20,False
+Otros ingresos e impuestos,P1661S6A1,2025-01,2026-08,20,False
+Otros ingresos e impuestos,P750S4,2026-01,2026-08,8,False
