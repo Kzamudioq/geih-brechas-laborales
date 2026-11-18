@@ -1,0 +1,24 @@
+# Microdatos del DANE: no se versionan (pesan GB y se descargan del portal)
+data/**/*.zip
+data/**/*.csv
+data/**/*.CSV
+data/**/*.dta
+data/**/*.sav
+data/**/*.parquet
+data/**/*.xlsx
+data/**/*.duckdb
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+.ipynb_checkpoints/
+
+# Quarto
+/.quarto/
+reports/*_files/
+reports/*.html
+
+# Entorno y credenciales
+.env
+*.log
