@@ -1,4 +1,4 @@
-"""Genera sql/01_esquema_raw.sql a partir de docs/diccionario/columnas_por_modulo.csv.
+"""Genera sql/01_esquema_raw.sql a partir de docs/inventario/columnas_por_modulo.csv.
 
 Uso:  python src/geih/generar_esquema.py
 Cada tabla raw guarda la UNIÓN de columnas de todos los meses como TEXT; los meses que
@@ -14,7 +14,7 @@ sys.path.insert(0, str(Path(__file__).parent))
 from comun import LLAVES, MODULOS  # noqa: E402
 
 RAIZ = Path(__file__).resolve().parents[2]
-ENTRADA = RAIZ / "docs" / "diccionario" / "columnas_por_modulo.csv"
+ENTRADA = RAIZ / "docs" / "inventario" / "columnas_por_modulo.csv"
 SALIDA = RAIZ / "sql" / "01_esquema_raw.sql"
 
 columnas = OrderedDict((t, []) for t in MODULOS.values())

@@ -17,12 +17,13 @@ import openpyxl
 
 RAIZ = Path(__file__).resolve().parents[2]
 DIR = RAIZ / "docs" / "diccionario"
+FUENTES = DIR / "fuentes_dane"
 
 ARCHIVOS = {
-    "2023": DIR / "diccionario_2023_anonimizadas.xlsx",
-    "2023_completa": DIR / "diccionario_2023_completa.xlsx",
-    "2025": DIR / "diccionario_2025.xlsx",
-    "2026": DIR / "diccionario_2026.xlsx",
+    "2023": FUENTES / "diccionario_2023_anonimizadas.xlsx",
+    "2023_completa": FUENTES / "diccionario_2023_completa.xlsx",
+    "2025": FUENTES / "diccionario_2025.xlsx",
+    "2026": FUENTES / "diccionario_2026.xlsx",
 }
 
 

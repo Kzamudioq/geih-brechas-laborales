@@ -73,104 +73,56 @@ modulo,columna,primer_mes,ultimo_mes,n_meses,en_todos
 "Características generales, seguridad social en salud y educación",Discapacidad,2023-01,2023-02,2,False
 "Características generales, seguridad social en salud y educación",Dificultad,2023-01,2023-02,2,False
 "Características generales, seguridad social en salud y educación",Campesina,2023-01,2023-02,2,False
-Datos del hogar y la vivienda,PERIODO,2023-01,2026-08,43,True
-Datos del hogar y la vivienda,MES,2023-01,2026-08,43,True
-Datos del hogar y la vivienda,PER,2023-01,2026-08,43,True
-Datos del hogar y la vivienda,DIRECTORIO,2023-01,2026-08,43,True
-Datos del hogar y la vivienda,SECUENCIA_P,2023-01,2026-08,43,True
-Datos del hogar y la vivienda,HOGAR,2023-01,2026-08,43,True
-Datos del hogar y la vivienda,REGIS,2023-01,2026-08,43,True
-Datos del hogar y la vivienda,AREA,2023-01,2026-08,43,True
-Datos del hogar y la vivienda,CLASE,2023-01,2026-08,43,True
-Datos del hogar y la vivienda,FEX_C18,2023-01,2026-08,43,True
-Datos del hogar y la vivienda,DPTO,2023-01,2026-08,43,True
-Datos del hogar y la vivienda,P4000,2023-01,2024-12,23,False
-Datos del hogar y la vivienda,P4010,2023-01,2026-08,43,True
-Datos del hogar y la vivienda,P4020,2023-01,2026-08,43,True
-Datos del hogar y la vivienda,P4030S1,2023-01,2026-08,43,True
-Datos del hogar y la vivienda,P4030S1A1,2023-01,2026-08,43,True
-Datos del hogar y la vivienda,P4030S2,2023-01,2026-08,43,True
-Datos del hogar y la vivienda,P4030S3,2023-01,2026-08,43,True
-Datos del hogar y la vivienda,P4030S4,2023-01,2026-08,43,True
-Datos del hogar y la vivienda,P4030S4A1,2023-01,2026-08,43,True
-Datos del hogar y la vivienda,P4030S5,2023-01,2026-08,43,True
-Datos del hogar y la vivienda,P70,2023-01,2026-08,43,True
-Datos del hogar y la vivienda,P5000,2023-01,2026-08,43,True
-Datos del hogar y la vivienda,P5010,2023-01,2026-08,43,True
-Datos del hogar y la vivienda,P5020,2023-01,2026-08,43,True
-Datos del hogar y la vivienda,P5030,2023-01,2026-08,43,True
-Datos del hogar y la vivienda,P5040,2023-01,2026-08,43,True
-Datos del hogar y la vivienda,P5050,2023-01,2026-08,43,True
-Datos del hogar y la vivienda,P5070,2023-01,2026-08,43,True
-Datos del hogar y la vivienda,P5080,2023-01,2026-08,43,True
-Datos del hogar y la vivienda,P5090,2023-01,2026-08,43,True
-Datos del hogar y la vivienda,P5090S1,2023-01,2026-08,43,True
-Datos del hogar y la vivienda,P5100,2023-01,2026-08,43,True
-Datos del hogar y la vivienda,P5110,2023-01,2026-08,43,True
-Datos del hogar y la vivienda,P5130,2023-01,2026-08,43,True
-Datos del hogar y la vivienda,P5140,2023-01,2026-08,43,True
-Datos del hogar y la vivienda,P5222S1,2023-01,2026-08,43,True
-Datos del hogar y la vivienda,P5222S2,2023-01,2026-08,43,True
-Datos del hogar y la vivienda,P5222S3,2023-01,2026-08,43,True
-Datos del hogar y la vivienda,P5222S4,2023-01,2026-08,43,True
-Datos del hogar y la vivienda,P5222S5,2023-01,2026-08,43,True
-Datos del hogar y la vivienda,P5222S6,2023-01,2026-08,43,True
-Datos del hogar y la vivienda,P5222S7,2023-01,2026-08,43,True
-Datos del hogar y la vivienda,P5222S8,2023-01,2026-08,43,True
-Datos del hogar y la vivienda,P5222S9,2023-01,2026-08,43,True
-Datos del hogar y la vivienda,P5222S10,2023-01,2026-08,43,True
-Datos del hogar y la vivienda,P5222S8A1,2023-01,2026-08,43,True
-Datos del hogar y la vivienda,P6008,2023-01,2026-08,43,True
+Datos del hogar y la vivienda,PERIODO,2023-01,2026-08,44,True
+Datos del hogar y la vivienda,MES,2023-01,2026-08,44,True
+Datos del hogar y la vivienda,PER,2023-01,2026-08,44,True
+Datos del hogar y la vivienda,DIRECTORIO,2023-01,2026-08,44,True
+Datos del hogar y la vivienda,SECUENCIA_P,2023-01,2026-08,44,True
+Datos del hogar y la vivienda,HOGAR,2023-01,2026-08,44,True
+Datos del hogar y la vivienda,REGIS,2023-01,2026-08,44,True
+Datos del hogar y la vivienda,AREA,2023-01,2026-08,44,True
+Datos del hogar y la vivienda,CLASE,2023-01,2026-08,44,True
+Datos del hogar y la vivienda,FEX_C18,2023-01,2026-08,44,True
+Datos del hogar y la vivienda,DPTO,2023-01,2026-08,44,True
+Datos del hogar y la vivienda,P4000,2023-01,2024-12,24,False
+Datos del hogar y la vivienda,P4010,2023-01,2026-08,44,True
+Datos del hogar y la vivienda,P4020,2023-01,2026-08,44,True
+Datos del hogar y la vivienda,P4030S1,2023-01,2026-08,44,True
+Datos del hogar y la vivienda,P4030S1A1,2023-01,2026-08,44,True
+Datos del hogar y la vivienda,P4030S2,2023-01,2026-08,44,True
+Datos del hogar y la vivienda,P4030S3,2023-01,2026-08,44,True
+Datos del hogar y la vivienda,P4030S4,2023-01,2026-08,44,True
+Datos del hogar y la vivienda,P4030S4A1,2023-01,2026-08,44,True
+Datos del hogar y la vivienda,P4030S5,2023-01,2026-08,44,True
+Datos del hogar y la vivienda,P70,2023-01,2026-08,44,True
+Datos del hogar y la vivienda,P5000,2023-01,2026-08,44,True
+Datos del hogar y la vivienda,P5010,2023-01,2026-08,44,True
+Datos del hogar y la vivienda,P5020,2023-01,2026-08,44,True
+Datos del hogar y la vivienda,P5030,2023-01,2026-08,44,True
+Datos del hogar y la vivienda,P5040,2023-01,2026-08,44,True
+Datos del hogar y la vivienda,P5050,2023-01,2026-08,44,True
+Datos del hogar y la vivienda,P5070,2023-01,2026-08,44,True
+Datos del hogar y la vivienda,P5080,2023-01,2026-08,44,True
+Datos del hogar y la vivienda,P5090,2023-01,2026-08,44,True
+Datos del hogar y la vivienda,P5090S1,2023-01,2026-08,44,True
+Datos del hogar y la vivienda,P5100,2023-01,2026-08,44,True
+Datos del hogar y la vivienda,P5110,2023-01,2026-08,44,True
+Datos del hogar y la vivienda,P5130,2023-01,2026-08,44,True
+Datos del hogar y la vivienda,P5140,2023-01,2026-08,44,True
+Datos del hogar y la vivienda,P5222S1,2023-01,2026-08,44,True
+Datos del hogar y la vivienda,P5222S2,2023-01,2026-08,44,True
+Datos del hogar y la vivienda,P5222S3,2023-01,2026-08,44,True
+Datos del hogar y la vivienda,P5222S4,2023-01,2026-08,44,True
+Datos del hogar y la vivienda,P5222S5,2023-01,2026-08,44,True
+Datos del hogar y la vivienda,P5222S6,2023-01,2026-08,44,True
+Datos del hogar y la vivienda,P5222S7,2023-01,2026-08,44,True
+Datos del hogar y la vivienda,P5222S8,2023-01,2026-08,44,True
+Datos del hogar y la vivienda,P5222S9,2023-01,2026-08,44,True
+Datos del hogar y la vivienda,P5222S10,2023-01,2026-08,44,True
+Datos del hogar y la vivienda,P5222S8A1,2023-01,2026-08,44,True
+Datos del hogar y la vivienda,P6008,2023-01,2026-08,44,True
 Datos del hogar y la vivienda,P4005,2025-01,2026-08,20,False
 Datos del hogar y la vivienda,P5222S11,2025-01,2026-08,20,False
-Datos del hogar y la vivienda.CSV,PERIODO,2023-02,2023-02,1,True
-Datos del hogar y la vivienda.CSV,MES,2023-02,2023-02,1,True
-Datos del hogar y la vivienda.CSV,PER,2023-02,2023-02,1,True
-Datos del hogar y la vivienda.CSV,DIRECTORIO,2023-02,2023-02,1,True
-Datos del hogar y la vivienda.CSV,SECUENCIA_P,2023-02,2023-02,1,True
-Datos del hogar y la vivienda.CSV,HOGAR,2023-02,2023-02,1,True
-Datos del hogar y la vivienda.CSV,REGIS,2023-02,2023-02,1,True
-Datos del hogar y la vivienda.CSV,AREA,2023-02,2023-02,1,True
-Datos del hogar y la vivienda.CSV,CLASE,2023-02,2023-02,1,True
-Datos del hogar y la vivienda.CSV,FEX_C18,2023-02,2023-02,1,True
-Datos del hogar y la vivienda.CSV,DPTO,2023-02,2023-02,1,True
-Datos del hogar y la vivienda.CSV,P4000,2023-02,2023-02,1,True
-Datos del hogar y la vivienda.CSV,P4010,2023-02,2023-02,1,True
-Datos del hogar y la vivienda.CSV,P4020,2023-02,2023-02,1,True
-Datos del hogar y la vivienda.CSV,P4030S1,2023-02,2023-02,1,True
-Datos del hogar y la vivienda.CSV,P4030S1A1,2023-02,2023-02,1,True
-Datos del hogar y la vivienda.CSV,P4030S2,2023-02,2023-02,1,True
-Datos del hogar y la vivienda.CSV,P4030S3,2023-02,2023-02,1,True
-Datos del hogar y la vivienda.CSV,P4030S4,2023-02,2023-02,1,True
-Datos del hogar y la vivienda.CSV,P4030S4A1,2023-02,2023-02,1,True
-Datos del hogar y la vivienda.CSV,P4030S5,2023-02,2023-02,1,True
-Datos del hogar y la vivienda.CSV,P70,2023-02,2023-02,1,True
-Datos del hogar y la vivienda.CSV,P5000,2023-02,2023-02,1,True
-Datos del hogar y la vivienda.CSV,P5010,2023-02,2023-02,1,True
-Datos del hogar y la vivienda.CSV,P5020,2023-02,2023-02,1,True
-Datos del hogar y la vivienda.CSV,P5030,2023-02,2023-02,1,True
-Datos del hogar y la vivienda.CSV,P5040,2023-02,2023-02,1,True
-Datos del hogar y la vivienda.CSV,P5050,2023-02,2023-02,1,True
-Datos del hogar y la vivienda.CSV,P5070,2023-02,2023-02,1,True
-Datos del hogar y la vivienda.CSV,P5080,2023-02,2023-02,1,True
-Datos del hogar y la vivienda.CSV,P5090,2023-02,2023-02,1,True
-Datos del hogar y la vivienda.CSV,P5090S1,2023-02,2023-02,1,True
-Datos del hogar y la vivienda.CSV,P5100,2023-02,2023-02,1,True
-Datos del hogar y la vivienda.CSV,P5110,2023-02,2023-02,1,True
-Datos del hogar y la vivienda.CSV,P5130,2023-02,2023-02,1,True
-Datos del hogar y la vivienda.CSV,P5140,2023-02,2023-02,1,True
-Datos del hogar y la vivienda.CSV,P5222S1,2023-02,2023-02,1,True
-Datos del hogar y la vivienda.CSV,P5222S2,2023-02,2023-02,1,True
-Datos del hogar y la vivienda.CSV,P5222S3,2023-02,2023-02,1,True
-Datos del hogar y la vivienda.CSV,P5222S4,2023-02,2023-02,1,True
-Datos del hogar y la vivienda.CSV,P5222S5,2023-02,2023-02,1,True
-Datos del hogar y la vivienda.CSV,P5222S6,2023-02,2023-02,1,True
-Datos del hogar y la vivienda.CSV,P5222S7,2023-02,2023-02,1,True
-Datos del hogar y la vivienda.CSV,P5222S8,2023-02,2023-02,1,True
-Datos del hogar y la vivienda.CSV,P5222S9,2023-02,2023-02,1,True
-Datos del hogar y la vivienda.CSV,P5222S10,2023-02,2023-02,1,True
-Datos del hogar y la vivienda.CSV,P5222S8A1,2023-02,2023-02,1,True
-Datos del hogar y la vivienda.CSV,P6008,2023-02,2023-02,1,True
 Fuerza de trabajo,PERIODO,2023-01,2026-08,44,True
 Fuerza de trabajo,MES,2023-01,2026-08,44,True
 Fuerza de trabajo,PER,2023-01,2026-08,44,True
@@ -257,81 +209,44 @@ Migración,P3385,2023-01,2026-08,44,True
 Migración,P3386,2023-01,2026-08,44,True
 Migración,P3386S1,2023-01,2026-08,44,True
 Migración,P3375,2023-01,2026-08,44,True
-No ocupado,PERIODO,2024-03,2024-03,1,True
-No ocupado,MES,2024-03,2024-03,1,True
-No ocupado,PER,2024-03,2024-03,1,True
-No ocupado,DIRECTORIO,2024-03,2024-03,1,True
-No ocupado,SECUENCIA_P,2024-03,2024-03,1,True
-No ocupado,ORDEN,2024-03,2024-03,1,True
-No ocupado,HOGAR,2024-03,2024-03,1,True
-No ocupado,REGIS,2024-03,2024-03,1,True
-No ocupado,AREA,2024-03,2024-03,1,True
-No ocupado,CLASE,2024-03,2024-03,1,True
-No ocupado,FEX_C18,2024-03,2024-03,1,True
-No ocupado,DPTO,2024-03,2024-03,1,True
-No ocupado,FFT,2024-03,2024-03,1,True
-No ocupado,DSCY,2024-03,2024-03,1,True
-No ocupado,DSI,2024-03,2024-03,1,True
-No ocupado,P7250,2024-03,2024-03,1,True
-No ocupado,P7280,2024-03,2024-03,1,True
-No ocupado,P744,2024-03,2024-03,1,True
-No ocupado,P3074,2024-03,2024-03,1,True
-No ocupado,P7260,2024-03,2024-03,1,True
-No ocupado,P1806,2024-03,2024-03,1,True
-No ocupado,P7430,2024-03,2024-03,1,True
-No ocupado,P7440S1,2024-03,2024-03,1,True
-No ocupado,P7440S2,2024-03,2024-03,1,True
-No ocupado,P7450,2024-03,2024-03,1,True
-No ocupado,P7350,2024-03,2024-03,1,True
-No ocupado,P7360,2024-03,2024-03,1,True
-No ocupado,P9460,2024-03,2024-03,1,True
-No ocupado,P1519,2024-03,2024-03,1,True
-No ocupado,P1883,2024-03,2024-03,1,True
-No ocupado,P7422,2024-03,2024-03,1,True
-No ocupado,P7422S1,2024-03,2024-03,1,True
-No ocupado,OFICIO1_C8,2024-03,2024-03,1,True
-No ocupado,OFICIO2_C8,2024-03,2024-03,1,True
-No ocupado,RAMA2D_D_R4,2024-03,2024-03,1,True
-No ocupado,RAMA4D_D_R4,2024-03,2024-03,1,True
-No ocupado,P7440,2024-03,2024-03,1,True
-No ocupados,PERIODO,2023-01,2026-08,43,True
-No ocupados,MES,2023-01,2026-08,43,True
-No ocupados,PER,2023-01,2026-08,43,True
-No ocupados,DIRECTORIO,2023-01,2026-08,43,True
-No ocupados,SECUENCIA_P,2023-01,2026-08,43,True
-No ocupados,ORDEN,2023-01,2026-08,43,True
-No ocupados,HOGAR,2023-01,2026-08,43,True
-No ocupados,REGIS,2023-01,2026-08,43,True
-No ocupados,AREA,2023-01,2026-08,43,True
-No ocupados,CLASE,2023-01,2026-08,43,True
-No ocupados,FEX_C18,2023-01,2026-08,43,True
-No ocupados,DPTO,2023-01,2026-08,43,True
-No ocupados,FFT,2023-01,2026-08,43,True
-No ocupados,DSCY,2023-01,2024-12,23,False
-No ocupados,DSI,2023-01,2026-08,43,True
-No ocupados,P7250,2023-01,2026-08,43,True
-No ocupados,P7280,2023-01,2026-08,43,True
-No ocupados,P744,2023-01,2026-08,43,True
-No ocupados,P3074,2023-01,2026-08,43,True
-No ocupados,P7260,2023-01,2026-08,43,True
-No ocupados,P1806,2023-01,2026-08,43,True
-No ocupados,P7430,2023-01,2026-08,43,True
-No ocupados,P7440,2023-01,2025-12,35,False
-No ocupados,P7440S1,2023-01,2026-08,43,True
-No ocupados,P7440S2,2023-01,2026-08,43,True
-No ocupados,P7450,2023-01,2026-08,43,True
+No ocupados,PERIODO,2023-01,2026-08,44,True
+No ocupados,MES,2023-01,2026-08,44,True
+No ocupados,PER,2023-01,2026-08,44,True
+No ocupados,DIRECTORIO,2023-01,2026-08,44,True
+No ocupados,SECUENCIA_P,2023-01,2026-08,44,True
+No ocupados,ORDEN,2023-01,2026-08,44,True
+No ocupados,HOGAR,2023-01,2026-08,44,True
+No ocupados,REGIS,2023-01,2026-08,44,True
+No ocupados,AREA,2023-01,2026-08,44,True
+No ocupados,CLASE,2023-01,2026-08,44,True
+No ocupados,FEX_C18,2023-01,2026-08,44,True
+No ocupados,DPTO,2023-01,2026-08,44,True
+No ocupados,FFT,2023-01,2026-08,44,True
+No ocupados,DSCY,2023-01,2024-12,24,False
+No ocupados,DSI,2023-01,2026-08,44,True
+No ocupados,P7250,2023-01,2026-08,44,True
+No ocupados,P7280,2023-01,2026-08,44,True
+No ocupados,P744,2023-01,2026-08,44,True
+No ocupados,P3074,2023-01,2026-08,44,True
+No ocupados,P7260,2023-01,2026-08,44,True
+No ocupados,P1806,2023-01,2026-08,44,True
+No ocupados,P7430,2023-01,2026-08,44,True
+No ocupados,P7440,2023-01,2025-12,36,False
+No ocupados,P7440S1,2023-01,2026-08,44,True
+No ocupados,P7440S2,2023-01,2026-08,44,True
+No ocupados,P7450,2023-01,2026-08,44,True
 No ocupados,P7330,2023-01,2023-03,3,False
-No ocupados,P7350,2023-01,2026-08,43,True
-No ocupados,P7360,2023-01,2026-08,43,True
-No ocupados,P9460,2023-01,2026-08,43,True
-No ocupados,P1519,2023-01,2026-08,43,True
-No ocupados,P1883,2023-01,2026-08,43,True
-No ocupados,P7422,2023-01,2026-08,43,True
-No ocupados,P7422S1,2023-01,2026-08,43,True
-No ocupados,OFICIO1_C8,2023-01,2026-08,43,True
-No ocupados,OFICIO2_C8,2023-01,2026-08,43,True
-No ocupados,RAMA2D_D_R4,2023-01,2026-08,43,True
-No ocupados,RAMA4D_D_R4,2023-01,2026-08,43,True
+No ocupados,P7350,2023-01,2026-08,44,True
+No ocupados,P7360,2023-01,2026-08,44,True
+No ocupados,P9460,2023-01,2026-08,44,True
+No ocupados,P1519,2023-01,2026-08,44,True
+No ocupados,P1883,2023-01,2026-08,44,True
+No ocupados,P7422,2023-01,2026-08,44,True
+No ocupados,P7422S1,2023-01,2026-08,44,True
+No ocupados,OFICIO1_C8,2023-01,2026-08,44,True
+No ocupados,OFICIO2_C8,2023-01,2026-08,44,True
+No ocupados,RAMA2D_D_R4,2023-01,2026-08,44,True
+No ocupados,RAMA4D_D_R4,2023-01,2026-08,44,True
 No ocupados,P7280S1,2025-01,2026-08,20,False
 Ocupados,PERIODO,2023-01,2026-08,44,True
 Ocupados,MES,2023-01,2026-08,44,True

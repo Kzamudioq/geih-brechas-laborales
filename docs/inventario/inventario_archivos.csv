@@ -8,7 +8,7 @@ anio_mes,zip,modulo,filas,columnas,codificacion
 2023-01,Enero.zip,Otras formas de trabajo,57364,112,cp1252
 2023-01,Enero.zip,Otros ingresos e impuestos,57364,59,cp1252
 2023-02,Febrero.zip,"Características generales, seguridad social en salud y educación",74214,74,cp1252
-2023-02,Febrero.zip,Datos del hogar y la vivienda.CSV,25010,48,cp1252
+2023-02,Febrero.zip,Datos del hogar y la vivienda,25010,48,cp1252
 2023-02,Febrero.zip,Fuerza de trabajo,58035,43,cp1252
 2023-02,Febrero.zip,Migración,74214,43,cp1252
 2023-02,Febrero.zip,No ocupados,27309,38,cp1252
@@ -115,7 +115,7 @@ anio_mes,zip,modulo,filas,columnas,codificacion
 2024-03,Marzo_2024.zip,Datos del hogar y la vivienda,24647,48,cp1252
 2024-03,Marzo_2024.zip,Fuerza de trabajo,56063,43,cp1252
 2024-03,Marzo_2024.zip,Migración,70719,43,cp1252
-2024-03,Marzo_2024.zip,No ocupado,26425,37,utf-8
+2024-03,Marzo_2024.zip,No ocupados,26425,37,utf-8
 2024-03,Marzo_2024.zip,Ocupados,29638,200,cp1252
 2024-03,Marzo_2024.zip,Otras formas de trabajo,56063,112,utf-8
 2024-03,Marzo_2024.zip,Otros ingresos e impuestos,56063,59,cp1252

@@ -43,7 +43,7 @@ Todas las tablas incluyen `PERIODO`, `MES`, `PER`, `REGIS`, `AREA`, `CLASE`, `DP
 
 ## Columnas que cambian entre años
 
-Cada tabla guarda la **unión** de columnas; si un mes no la trae queda en `NULL`. El detalle por columna está en `columnas_por_modulo.csv`.
+Cada tabla guarda la **unión** de columnas; si un mes no la trae queda en `NULL`. El detalle por columna está en `docs/inventario/columnas_por_modulo.csv`.
 
 - **ocupados:** 14 columnas parciales (3 solo 2023-24, 5 solo desde 2025, 6 solo en 2026).
 - **persona:** las 11 variables `P3147S*` solo existen en 2023-24. Las variables de orientación (`LGB_*`, `LGBT_*`, `Trans_numerica`), `Discapacidad`, `Dificultad` y `Campesina` solo vienen en enero y febrero de 2023, por lo que **no sirven para brechas en toda la serie**.
@@ -66,4 +66,4 @@ Los 44 meses se cargaron en una base de prueba (PostgreSQL 16) con `src/geih/car
 ## Pendientes antes de la capa tipada
 
 1. Definir informalidad (criterio DANE) y construirla desde `ocupados`.
-2. Extraer las etiquetas de valores de los DTA para el diccionario.
+2. Comparar código por código las 44 variables cuyas categorías cambian entre 2023, 2025 y 2026.

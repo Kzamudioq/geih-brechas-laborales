@@ -40,7 +40,7 @@ El modelo es relacional: hogar, persona, fuerza de trabajo, migración, ocupados
 | Carpeta | Contenido |
 |---------|-----------|
 | `data/raw/` | Zips mensuales del DANE, una carpeta por año. No se versionan |
-| `docs/` | Modelo de datos, plan del estudio, diccionario de variables y boletines del DANE para validar |
+| `docs/` | Modelo de datos, plan del estudio, diccionario de variables (`diccionario/`), inventario de archivos (`inventario/`) y boletines del DANE para validar (`boletines_dane/`) |
 | `sql/` | Creación de la base, esquema crudo, diccionario y capas posteriores |
 | `src/geih/` | Carga, diccionario, inventario y utilidades comunes |
 | `notebooks/` | Exploración |
