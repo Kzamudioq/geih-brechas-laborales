@@ -1,0 +1,5020 @@
+version,variable,valor,etiqueta
+2023,p4000,1,Casa
+2023,p4000,2,Apartamento
+2023,p4000,3,Cuarto (s) en inquilinato
+2023,p4000,4,Cuarto (s) en otro tipo de estructura
+2023,p4000,5,Vivienda indígena
+2023,p4000,6,"Otra vivienda (carpa, vagón, embarcación, cueva, refugio natural, etc.)"
+2023,p4010,1,"Ladrillo, bloque, material prefabricado, piedra"
+2023,p4010,2,Madera pulida
+2023,p4010,3,Adobe o tapia pisada
+2023,p4010,4,Bahareque
+2023,p4010,5,"Madera burda, tabla, tablón"
+2023,p4010,6,Guadua
+2023,p4010,7,"Caña, esterilla, otro tipo de material vegetal"
+2023,p4010,8,"Zinc, tela, cartón, latas, desechos, plástico"
+2023,p4010,9,Sin paredes
+2023,p4020,1,"Tierra, arena"
+2023,p4020,2,"Cemento, gravilla"
+2023,p4020,3,"Madera burda, tabla, tablón, otro vegetal"
+2023,p4020,4,"Baldosín, ladrillo, vinisol, otros materiales sintéticos"
+2023,p4020,5,Mármol
+2023,p4020,6,Madera pulida
+2023,p4020,7,Alfombra o tapete de pared a pared
+2023,p4030s1,1,Si
+2023,p4030s1,2,No
+2023,p4030s1a1,2,No
+2023,p4030s2,1,Si
+2023,p4030s2,2,No
+2023,p4030s3,1,Si
+2023,p4030s3,2,No
+2023,p4030s4,1,Si
+2023,p4030s4,2,No
+2023,p4030s4a1,2,No
+2023,p4030s5,1,Si
+2023,p4030s5,2,No
+2023,p5020,1,Inodoro conectado a alcantarillado
+2023,p5020,2,Inodoro conectado a pozo séptico
+2023,p5020,3,Inodoro sin conexión
+2023,p5020,4,Letrina
+2023,p5020,5,Bajamar
+2023,p5020,6,No tiene servicio sanitario
+2023,p5030,1,De uso exclusivo de las personas del hogar
+2023,p5030,2,Compartido con personas de otros hogares
+2023,p5040,1,Por recolección pública o privada
+2023,p5040,2,"La tiran a un río, quebrada, caño o laguna"
+2023,p5040,3,"La tiran a un patio, lote, zanja o baldío"
+2023,p5040,4,La queman o entierran
+2023,p5040,5,La eliminan de otra forma
+2023,p5050,1,De acueducto por tubería
+2023,p5050,2,De otra fuente por tubería
+2023,p5050,3,De pozo con bomba
+2023,p5050,4,"De pozo sin bomba, aljibe, jagüey o barreno"
+2023,p5050,5,Aguas lluvias
+2023,p5050,6,"Rio, quebrada, nacimiento o manantial"
+2023,p5050,7,De pila pública
+2023,p5050,8,Carrotanque
+2023,p5050,9,Aguatero
+2023,p5050,10,Agua embotellada o en bolsa
+2023,p5070,1,En un cuarto usado sólo para cocinar?
+2023,p5070,2,En un cuarto usado también para dormir?
+2023,p5070,3,En una sala comedor con lavaplatos?
+2023,p5070,4,En una sala comedor sin lavaplatos?
+2023,p5070,5,"En un patio, corredor, enramada, al aire libre?"
+2023,p5070,6,"En ninguna parte, no preparan alimentos?"
+2023,p5080,1,Electricidad
+2023,p5080,2,"Petróleo, gasolina, kerosene, alcohol"
+2023,p5080,3,Gas natural conectado a red pública
+2023,p5080,4,Gas propano en cilindro o pipeta
+2023,p5080,5,"Leña, madera o carbón de leña"
+2023,p5080,6,Carbón mineral
+2023,p5080,7,Materiales de desecho
+2023,p5090,1,"Propia, totalmente pagada"
+2023,p5090,2,"Propia, la están pagando"
+2023,p5090,3,En arriendo o subarriendo
+2023,p5090,4,En usufructo
+2023,p5090,5,Posesión sin título
+2023,p5090,6,Propiedad colectiva
+2023,p5090,7,Otra
+2023,p5222s1,1,Cuenta corriente
+2023,p5222s2,2,Cuenta de ahorros
+2023,p5222s3,3,CDT
+2023,p5222s4,4,Préstamo para compra de vivienda
+2023,p5222s5,5,Préstamo para compra de vehículo
+2023,p5222s6,6,Préstamo de libre inversión
+2023,p5222s7,7,Tarjeta de crédito
+2023,p5222s8,8,Otro
+2023,p5222s9,9,Ninguno
+2023,p5222s10,10,No sabe
+2023,regis,01,Registro de vivienda y hogares
+2023,dpto,05,ANTIOQUIA
+2023,area,05,MEDELLIN A.M.
+2023,clase,1,Cabecera
+2023,p3271,1,Masculino
+2023,p3271,2,Femenino
+2023,p6050,1,Jefe (a) del hogar
+2023,p6050,2,"Pareja, esposo(a), cónyuge, compañero(a)"
+2023,p6050,3,"Hijo(a), hijastro(a)"
+2023,p6050,4,Padre o madre
+2023,p6050,5,Suegro(a)
+2023,p6050,6,Hermano(a) o hermanastro(a)
+2023,p6050,7,Yerno o nuera
+2023,p6050,8,Nieto(a)
+2023,p6050,9,Otro pariente
+2023,p6050,10,Empleado(a) del servicio doméstico y sus parientes
+2023,p6050,11,Pensionista
+2023,p6050,12,Trabajador
+2023,p6050,13,Otro no pariente
+2023,p6083,1,Sí
+2023,p6083,2,No
+2023,p6083,3,Fallecida
+2023,p6081,1,Sí
+2023,p6081,2,No
+2023,p6081,3,Fallecido
+2023,p2057,1,Si
+2023,p2057,2,No
+2023,p2057,9,No informa
+2023,p2059,1,Si
+2023,p2059,2,No
+2023,p2059,9,No informa
+2023,p2061,1,Si
+2023,p2061,2,No
+2023,p2061,9,No informa
+2023,p6080,1,Indígena
+2023,p6080,2,Gitano (Rom)
+2023,p6080,3,Raizal del archipiélago
+2023,p6080,4,Palenquero
+2023,p6080,5,"Negro, mulato (afrodescendiente)"
+2023,p6080,6,Ninguno de los anteriores
+2023,p6070,1,No esta casado(a) y vive en pareja hace menos de dos años
+2023,p6070,2,No esta casado (a) y vive en pareja hace dos años o más
+2023,p6070,3,Esta casado (a)
+2023,p6070,4,Esta separado (a) o divorciado (a)
+2023,p6070,5,Esta viudo (a)
+2023,p6070,6,Esta soltero (a)
+2023,p6071,1,Si
+2023,p6071,2,No
+2023,p3147s1,1,Está o estuvo enfermo(a) por el virus
+2023,p3147s2,2,Problemas para conseguir alimentos o productos de limpieza
+2023,p3147s3,3,No ha podido realizar pagos de facturas y deudas
+2023,p3147s4,4,Reducción de actividad económica y de ingresos
+2023,p3147s5,5,"No ha podido ejercer, buscar trabajo o iniciar un negocio"
+2023,p3147s6,6,Le suspendieron sin remuneración el contrato de trabajo
+2023,p3147s7,7,Perdió el trabajo o la fuente de ingresos
+2023,p3147s8,8,"Suspensión de clases presenciales (colegio, universidad u otra institución educativa)"
+2023,p3147s9,9,"Se siente solo(a), estresado, preocupado, deprimido"
+2023,p3147s10,10,"Otra dificultad, ¿cuál?"
+2023,p3147s11,11,No se le han presentado dificultades
+2023,p6090,1,Si
+2023,p6090,2,No
+2023,p6090,9,"No sabe, no informa"
+2023,p6100,1,Contributivo (EPS)?
+2023,p6100,2,"Especial ? (Fuerzas Armadas, Ecopetrol, universidades públicas)"
+2023,p6100,3,Subsidiado? (EPS-S)
+2023,p6100,9,"No sabe, no informa"
+2023,p6110,1,... paga una parte y otra la empresa o patrón
+2023,p6110,2,Le descuentan de la pensión
+2023,p6110,3,... paga la totalidad de la afiliación
+2023,p6110,4,Paga completamente la empresa o patrón donde trabaja o trabajó
+2023,p6110,5,"No paga, es beneficiario"
+2023,p6110,9,"No sabe, no informa"
+2023,p1906s1,1,No puede hacerlo
+2023,p1906s1,2,"Sí, con mucha dificultad"
+2023,p1906s1,3,"Sí, con alguna dificultad"
+2023,p1906s1,4,Sin dificultad
+2023,p1906s2,1,No puede hacerlo
+2023,p1906s2,2,"Sí, con mucha dificultad"
+2023,p1906s2,3,"Sí, con alguna dificultad"
+2023,p1906s2,4,Sin dificultad
+2023,p1906s3,1,No puede hacerlo
+2023,p1906s3,2,"Sí, con mucha dificultad"
+2023,p1906s3,3,"Sí, con alguna dificultad"
+2023,p1906s3,4,Sin dificultad
+2023,p1906s4,1,No puede hacerlo
+2023,p1906s4,2,"Sí, con mucha dificultad"
+2023,p1906s4,3,"Sí, con alguna dificultad"
+2023,p1906s4,4,Sin dificultad
+2023,p1906s5,1,No puede hacerlo
+2023,p1906s5,2,"Sí, con mucha dificultad"
+2023,p1906s5,3,"Sí, con alguna dificultad"
+2023,p1906s5,4,Sin dificultad
+2023,p1906s6,1,No puede hacerlo
+2023,p1906s6,2,"Sí, con mucha dificultad"
+2023,p1906s6,3,"Sí, con alguna dificultad"
+2023,p1906s6,4,Sin dificultad
+2023,p1906s7,1,No puede hacerlo
+2023,p1906s7,2,"Sí, con mucha dificultad"
+2023,p1906s7,3,"Sí, con alguna dificultad"
+2023,p1906s7,4,Sin dificultad
+2023,p1906s8,1,No puede hacerlo
+2023,p1906s8,2,"Sí, con mucha dificultad"
+2023,p1906s8,3,"Sí, con alguna dificultad"
+2023,p1906s8,4,Sin dificultad
+2023,p6160,1,Si
+2023,p6160,2,No
+2023,p6170,1,Si
+2023,p6170,2,No
+2023,p3041,1,Pública
+2023,p3041,2,Privada
+2023,p3042,1,Ninguno
+2023,p3042,2,Preescolar
+2023,p3042,3,Básica primaria (1o - 5o)
+2023,p3042,4,Básica secundaria (6o - 9o)
+2023,p3042,5,Media académica (Bachillerato clásico)
+2023,p3042,6,Media técnica (Bachillerato técnico)
+2023,p3042,7,Normalista
+2023,p3042,8,Técnica profesional
+2023,p3042,9,Tecnológica
+2023,p3042,10,Universitaria
+2023,p3042,11,Especialización
+2023,p3042,12,Maestría
+2023,p3042,13,Doctorado
+2023,p3042,99,"No sabe, no informa"
+2023,p3042s1,0,Ninguno
+2023,p3042s1,1,Grado uno
+2023,p3042s1,2,Segundo
+2023,p3042s1,3,Tercero
+2023,p3042s1,4,Cuarto
+2023,p3042s1,5,Quinto
+2023,p3042s1,6,Sexto
+2023,p3042s1,7,Septimo
+2023,p3042s1,8,Octavo
+2023,p3042s1,9,Noveno
+2023,p3042s1,10,Decimo
+2023,p3042s1,11,Once
+2023,p3042s1,12,12
+2023,p3042s1,14,14
+2023,p3043,1,Ninguno
+2023,p3043,2,Media académica (Bachillerato clásico)
+2023,p3043,3,Media técnica (Bachillerato técnico)
+2023,p3043,4,Normalista
+2023,p3043,5,Técnica profesional
+2023,p3043,6,Tecnológica
+2023,p3043,7,Universitaria
+2023,p3043,8,Especialización
+2023,p3043,9,Maestría
+2023,p3043,10,Doctorado
+2023,p3043,99,"No sabe, no informa"
+2023,p3038,1,Hombres
+2023,p3038,2,Mujeres
+2023,p3038,3,Ambos sexos
+2023,p3038,4,Otro
+2023,p3039,1,Hombre
+2023,p3039,2,Mujer
+2023,p3039,3,Hombre trans
+2023,p3039,4,Mujer trans
+2023,p3039,5,Otro
+2023,regis,10,Registro de personas
+2023,p6240s2,1,Si
+2023,p6250,1,Si
+2023,p6260,1,Si
+2023,p6260s1,1,"Enfermedad, permiso o licencia"
+2023,p6260s2,1,Hasta 4 meses
+2023,p6270,1,Si
+2023,p6280,1,Si
+2023,p6290,1,"Pidió ayuda a familiares, amigos, colegas"
+2023,p6300,1,Si
+2023,p6310,1,Ya encontró trabajo
+2023,p6320,1,Si
+2023,p6330,1,Si
+2023,p6340,1,Si
+2023,p6350,1,Si
+2023,p6351,1,Si
+2023,regis,50,Registro de fuerza de trabajo
+2023,p6440,1,Si
+2023,p6440,2,No
+2023,p6450,1,Verbal
+2023,p6450,2,Escrito
+2023,p6450,9,"No sabe, no informa"
+2023,p6460,1,A término Indefinido
+2023,p6460,2,A término fijo
+2023,p6460,9,"No sabe, no informa"
+2023,p6400,1,Si
+2023,p6400,2,No
+2023,p6400,9,"No sabe, no informa"
+2023,p6410,1,Una empresa de servicios temporales
+2023,p6410,2,Una cooperativa de trabajo asociado
+2023,p6410,3,Una empresa asociativa de trabajo
+2023,p6410,4,Otra
+2023,p6422,1,Si
+2023,p6422,2,No
+2023,p6424s1,1,Si
+2023,p6424s1,2,No
+2023,p6424s2,1,Si
+2023,p6424s2,2,No
+2023,p6424s3,1,Si
+2023,p6424s3,2,No
+2023,p6424s5,1,Si
+2023,p6424s5,2,No
+2023,p6430,1,Obrero o empleado de empresa particular
+2023,p6430,2,Obrero o empleado del gobierno
+2023,p6430,3,Empleado doméstico
+2023,p6430,4,Trabajador por cuenta propia
+2023,p6430,5,Patrón o empleador
+2023,p6430,6,Trabajador familiar sin remuneración
+2023,p6430,7,Trabajador sin remuneración en empresas o negocios de otros hogares
+2023,p6430,8,Jornalero o Peón
+2023,p6430,9,"Otro, ¿cuál?"
+2023,p3045s1,1,Si
+2023,p3045s1,2,No
+2023,p3045s1,3,"No sabe, no informa"
+2023,p3045s2,1,Si
+2023,p3045s2,2,No
+2023,p3045s2,9,"No sabe, no informa"
+2023,p3045s3,1,Si
+2023,p3045s3,2,No
+2023,p3045s3,9,"No sabe, no informa"
+2023,p3046,1,Si
+2023,p3046,2,No
+2023,p3046,9,"No sabe, no informa"
+2023,p3363,1,"Pidió ayuda a familiares, amigos, colegas"
+2023,p3363,2,"Visitó, llevó o envió hojas de vida a empresas o empleadores"
+2023,p3363,3,"Hizo uso de los servicios de agencias o bolsas de empleo, Cajas de Compensación Familiar, SENA, Entes Territoriales (Servicio Público de Empleo - SPE)"
+2023,p3363,4,Puso o consultó avisos clasificados
+2023,p3363,5,Se presentó a convocatorias
+2023,p3363,6,Otro medio
+2023,p3363,9,"No sabe, no informa"
+2023,p9440,1,Si
+2023,p9440,2,No
+2023,p3364,1,Si
+2023,p3364,2,No
+2023,p3364,9,"No sabe, no informa"
+2023,p6510,1,Si
+2023,p6510,2,No
+2023,p6510,9,"No sabe, no informa"
+2023,p6510s2,1,Si
+2023,p6510s2,2,No
+2023,p6590,1,Si
+2023,p6590,2,No
+2023,p6590,9,"No sabe, no informa"
+2023,p6600,1,Si
+2023,p6600,2,No
+2023,p6600,9,"No sabe, no informa"
+2023,p6610,1,Si
+2023,p6610,2,No
+2023,p6610,9,"No sabe, no informa"
+2023,p6620,1,Si
+2023,p6620,2,No
+2023,p6620,9,"No sabe, no informa"
+2023,p6585s1,1,Si
+2023,p6585s1,2,No
+2023,p6585s1,9,"No sabe, no informa"
+2023,p6585s1a2,1,Si
+2023,p6585s1a2,2,No
+2023,p6585s2,1,Si
+2023,p6585s2,2,No
+2023,p6585s2,9,"No sabe, no informa"
+2023,p6585s2a2,1,Si
+2023,p6585s2a2,2,No
+2023,p6585s3,1,Si
+2023,p6585s3,2,No
+2023,p6585s3,9,"No sabe, no informa"
+2023,p6585s3a2,1,Si
+2023,p6585s3a2,2,No
+2023,p6585s4,1,Si
+2023,p6585s4,2,No
+2023,p6585s4,9,"No sabe, no informa"
+2023,p6585s4a2,1,Si
+2023,p6585s4a2,2,No
+2023,p6545,1,Si
+2023,p6545,2,No
+2023,p6545,9,"No sabe, no informa"
+2023,p6545s2,1,Si
+2023,p6545s2,2,No
+2023,p6580,1,Si
+2023,p6580,2,No
+2023,p6580,9,"No sabe, no informa"
+2023,p6580s2,1,Si
+2023,p6580s2,2,No
+2023,p6630s1,1,Si
+2023,p6630s1,2,No
+2023,p6630s2,1,Si
+2023,p6630s2,2,No
+2023,p6630s3,1,Si
+2023,p6630s3,2,No
+2023,p6630s4,1,Si
+2023,p6630s4,2,No
+2023,p6630s6,1,Si
+2023,p6630s6,2,No
+2023,p6640,1,Si
+2023,p6640,2,No
+2023,p1800,1,Si
+2023,p1800,2,No
+2023,p1802,1,"A una sola empresa, negocio, hogar o intermediario"
+2023,p1802,2,"A varias empresas, negocios, hogares o intermediarios"
+2023,p1802,3,Directamente al público
+2023,p1802,4,"No sabe, no informa"
+2023,p3047,1,Usted
+2023,p3047,2,Usted y sus socios
+2023,p3047,3,Quien lo contrató
+2023,p3047,4,Su cliente o proveedor principal
+2023,p3048,1,Usted
+2023,p3048,2,Usted y sus socios
+2023,p3048,3,Quien lo contrató
+2023,p3048,4,Su cliente o proveedor principal
+2023,p3049,1,Usted
+2023,p3049,2,Usted y sus socios
+2023,p3049,3,Quien lo contrató
+2023,p3049,4,Su cliente o proveedor principal
+2023,p6765,1,Trabajó por honorarios o prestación de servicios?
+2023,p6765,2,Trabajó por obra?
+2023,p6765,3,"Trabajó por piezas o a destajo? (Satelite, maquila, etc)"
+2023,p6765,4,Trabajó por comisión únicamente?
+2023,p6765,5,Trabajó vendiendo por catálogo?
+2023,p6765,6,"Trabajó en su oficio? (plomero, taxista, doméstica por días, etc)"
+2023,p6765,7,"Tiene un negocio de industria, comercio, servicios o una finca?"
+2023,p6765,8,Otro?
+2023,p3365,1,Si
+2023,p3365,2,No
+2023,p3365,9,"No sabe, no informa"
+2023,p3054,1,Si
+2023,p3054,2,No
+2023,p3054,9,"No sabe, no informa"
+2023,p3055,1,Si
+2023,p3055,2,No
+2023,p3055,9,"No sabe, no informa"
+2023,p3056,1,"Producción, compra y venta de mercancías o prestación de servicios"
+2023,p3056,2,"Producción / extracción (agricultura, pesca, minas, etc.) de bienes agropecuarios"
+2023,p3063,1,Si
+2023,p3063,2,No
+2023,p3063,9,"No sabe, no informa"
+2023,p3064,1,Si
+2023,p3064,2,No
+2023,p3064,9,"No sabe, no informa"
+2023,p3065,1,Si
+2023,p3065,2,No
+2023,p3065,9,"No sabe, no informa"
+2023,p3066,1,Si
+2023,p3066,2,No
+2023,p3066,9,"No sabe, no informa"
+2023,p3067,1,Si
+2023,p3067,2,No
+2023,p3067s1,1,Si
+2023,p3067s1,2,No
+2023,p6775,1,Si
+2023,p6775,2,No
+2023,p6775,3,No aplica
+2023,p6775,9,No sabe
+2023,p3068,1,Si
+2023,p3068,2,No
+2023,p3068,9,"No sabe, no informa"
+2023,p6780,1,Ocasional (De vez en cuando)?
+2023,p6780,2,"Estacional ? (En ciertas epocas del año, cosechas, temporadas)"
+2023,p6780,3,Permanente?
+2023,p6780,4,Otro ?
+2023,p1879,1,No encontró trabajo como asalariado
+2023,p1879,2,Por despido
+2023,p1879,3,Más independencia
+2023,p1879,4,Horario de trabajo más flexible
+2023,p1879,5,Se considera muy joven o muy viejo
+2023,p1879,6,Empezó su empresa o negocio
+2023,p1879,7,Trabaja en un negocio familiar
+2023,p1879,8,Mayor nivel de ingreso
+2023,p1879,9,Por tradición familiar
+2023,p1879,10,Considera que no tiene los estudios necesarios
+2023,p1879,11,Otro ¿Cuál?
+2023,p1805,1,Si
+2023,p1805,2,No
+2023,p6810,1,Es lo único que ha conseguido pero quiere trabajar más horas
+2023,p6810,2,Es la jornada que se ajusta a sus necesidades
+2023,p6810,3,Otra razón
+2023,p6830,1,"Enfermedad, permiso o licencia"
+2023,p6830,2,Festivos
+2023,p6830,3,Vacaciones
+2023,p6830,4,Capacitación
+2023,p6830,5,Suspensión o terminación del empleo
+2023,p6830,6,Reducción de la actividad económica de la empresa
+2023,p6830,7,Otra
+2023,p3366,1,Si
+2023,p3366,2,No
+2023,p3069,1,Trabaja solo
+2023,p3069,2,2 a 3 personas
+2023,p3069,3,4 a 5 personas
+2023,p3069,4,6 a 10 personas
+2023,p3069,5,11 a 19 personas
+2023,p3069,6,20 a 30 personas
+2023,p3069,7,31 a 50 personas
+2023,p3069,8,51 a 100 personas
+2023,p3069,9,101 a 200 personas
+2023,p3069,10,201 o más personas
+2023,p6880,1,En esta vivienda
+2023,p6880,2,En otras viviendas
+2023,p6880,3,En kiosco - caseta
+2023,p6880,4,En un vehículo
+2023,p6880,5,De puerta en puerta
+2023,p6880,6,Sitio al descubierto en la calle (ambulante y estacionario)
+2023,p6880,7,"Local fijo, oficina, fábrica, etc."
+2023,p6880,8,"En el campo o área rural, mar o río."
+2023,p6880,9,En una obra en construcción
+2023,p6880,10,En una mina o cantera
+2023,p6880,11,Otro
+2023,p6915,1,Es afiliado como cotizante a un régimen contributivo de salud (EPS)
+2023,p6915,2,Es afiliado a un régimen subsidiado de salud
+2023,p6915,3,Es beneficiario de un afiliado
+2023,p6915,4,Con ahorros personales
+2023,p6915,5,Con ayudas de los hijos o familiares
+2023,p6915,6,Con otro tipo de seguro o cubrimiento
+2023,p6915,7,Pidiendo dinero prestado
+2023,p6915,8,Vendería su vivienda o bienes del hogar
+2023,p6915,9,Empeñaría bienes del hogar
+2023,p6915,10,No lo ha considerado
+2023,p6915,11,No tiene recursos
+2023,p6915,12,Otro medio
+2023,p6920,1,Si
+2023,p6920,2,No
+2023,p6920,3,Ya es pensionado
+2023,p6930,1,Fondo privado?
+2023,p6930,2,Colpensiones?
+2023,p6930,3,"Régimenes especiales ? (FFMM, Ecopetrol, etc.)"
+2023,p6930,4,"Fondo subsidiado ?(prosperar, ect.)"
+2023,p6940,1,… paga una parte y otra la empresa o patrón
+2023,p6940,2,… paga la totalidad de la afiliación
+2023,p6940,3,Paga completamente la empresa o patrón
+2023,p6940,4,No paga
+2023,p6990,1,Si
+2023,p6990,2,No
+2023,p6990,9,"No sabe, no informa"
+2023,p9450,1,Si
+2023,p9450,2,No
+2023,p9450,9,"No sabe, no informa"
+2023,p7020,1,Si
+2023,p7020,2,No
+2023,p7028,1,Obrero o empleado de empresa particular
+2023,p7028,2,Obrero o empleado del gobierno
+2023,p7028,3,Empleado doméstico
+2023,p7028,4,Trabajador por cuenta propia
+2023,p7028,5,Patrón o empleador
+2023,p7028,6,Trabajador familiar sin remuneración
+2023,p7028,7,Trabajador sin remuneración en empresas o negocios de otros hogares
+2023,p7028,8,Jornalero o Peón
+2023,p7028,9,"Otro, ¿cuál?"
+2023,p1880,1,Terminó su contrato
+2023,p1880,2,Por quiebra o cierre de la empresa
+2023,p1880,3,Condiciones laborales insatisfactorias
+2023,p1880,4,Porque se jubiló
+2023,p1880,5,Lo despidieron
+2023,p1880,6,Por su edad
+2023,p1880,7,Reducción de personal
+2023,p1880,8,Renunció porque deseaba un empleo con mejores ingresos
+2023,p1880,9,"Renunció por razones personales (matrimonio, embarazo, responsabilidades familiares)"
+2023,p1880,10,Renunció para empezar su propio negocio
+2023,p1880,11,Renunció por motivos de salud
+2023,p1880,12,Renunció para estudiar
+2023,p1880,13,Otra ¿cuál?
+2023,p7040,1,Si
+2023,p7040,2,No
+2023,p7050,1,Obrero o empleado de empresa particular
+2023,p7050,2,Obrero o empleado del gobierno
+2023,p7050,3,Empleado doméstico
+2023,p7050,4,Trabajador por cuenta propia
+2023,p7050,5,Patrón o empleador
+2023,p7050,6,Trabajador familiar sin remuneración
+2023,p7050,7,Trabajador sin remuneración en empresas o negocios de otros hogares
+2023,p7050,8,Jornalero o Peón
+2023,p7050,9,"Otro, ¿cuál?"
+2023,p7075,1,Trabaja solo
+2023,p7075,2,2 a 5 personas
+2023,p7075,3,6 a 10 personas
+2023,p7075,4,11 y más personas
+2023,p7077,1,En su vivienda
+2023,p7077,2,En otras viviendas
+2023,p7077,3,En kiosko - caseta
+2023,p7077,4,En un vehículo
+2023,p7077,5,De puerta en puerta
+2023,p7077,6,Sitio al descubierto en la calle
+2023,p7077,7,"Local fijo, oficina, fábrica, etc."
+2023,p7077,8,En el campo o área rural
+2023,p7090,1,Si
+2023,p7090,2,No
+2023,p7100,1,Si
+2023,p7110,2,No
+2023,p7110,1,Si
+2023,p7120,1,Si
+2023,p7120,2,No
+2023,p7130,1,Si
+2023,p7130,2,No
+2023,p7140s1,1,Si
+2023,p7140s1,2,No
+2023,p7140s2,1,Si
+2023,p7140s2,2,No
+2023,p7140s3,1,Si
+2023,p7140s3,2,No
+2023,p7140s4,1,Si
+2023,p7140s4,2,No
+2023,p7140s5,1,Si
+2023,p7140s5,2,No
+2023,p7140s6,1,Si
+2023,p7140s6,2,No
+2023,p7140s7,1,Si
+2023,p7140s7,2,No
+2023,p7140s8,1,Si
+2023,p7140s8,2,No
+2023,p7140s9,1,Si
+2023,p7140s9,2,No
+2023,p7150,1,Si
+2023,p7150,2,No
+2023,p7160,1,Si
+2023,p7160,2,No
+2023,p7160,9,"No sabe, no informa"
+2023,p7170s1,1,Si
+2023,p7170s1,2,No
+2023,p7170s5,1,Si
+2023,p7170s5,2,No
+2023,p7170s6,1,Si
+2023,p7170s6,2,No
+2023,p7180,1,Si
+2023,p7180,2,No
+2023,p514,1,Si
+2023,p514,2,No
+2023,p515,1,Si
+2023,p515,2,No
+2023,p1881,1,Bus intermunicipal
+2023,p1881,2,Bus urbano
+2023,p1881,3,A pie
+2023,p1881,4,Metro
+2023,p1881,5,"Transporte articulado (Transmilenio, MIO y otros)"
+2023,p1881,6,Taxi
+2023,p1881,7,Transporte de la empresa
+2023,p1881,8,Automóvil de uso particular
+2023,p1881,9,"Lancha, planchón, canoa"
+2023,p1881,10,Caballo
+2023,p1881,11,Moto
+2023,p1881,12,Mototaxi
+2023,p1881,13,Bicicleta
+2023,p1881,14,No se desplaza
+2023,p1881,15,Otro ¿cuál?
+2023,p7240,1,Cesantías?
+2023,p7240,2,Ahorros personales?
+2023,p7240,3,Ayudas de hijos o familiares?
+2023,p7240,4,Indemnización o similar?
+2023,p7240,5,No lo ha considerado?
+2023,p7240,6,Vendería su vivienda o bienes del hogar?
+2023,p7240,7,Empeñaría bienes del hogar?
+2023,p7240,8,No tendría recursos?
+2023,p7240,9,Solicitaría dinero prestado?
+2023,p7240,10,Otros
+2023,regis,60,Registro de ocupados
+2023,p7280,1,Obrero o empleado de empresa particular
+2023,p7280,2,Obrero o empleado del gobierno
+2023,p7280,3,Empleado doméstico
+2023,p7280,4,Trabajador por cuenta propia
+2023,p7280,5,Patrón o empleador
+2023,p7280,6,Trabajador familiar sin remuneración
+2023,p7280,7,Trabajador sin remuneración en empresas o negocios de otros hogares
+2023,p7280,8,Jornalero o peón
+2023,p7280,9,Otro
+2023,p744,1,Si
+2023,p744,2,No
+2023,p3074,1,Esta semana
+2023,p3074,2,En los próximos 15 días
+2023,p3074,3,Dentro del próximo mes
+2023,p3074,4,Dentro de los próximos 3 meses
+2023,p3074,5,No antes de 3 meses
+2023,p7430,1,Si
+2023,p7430,2,No
+2023,p7450,1,Por despido
+2023,p7450,2,Para dedicarse a estudiar
+2023,p7450,3,Responsabilidades familiares
+2023,p7450,4,Enfermedad o accidente
+2023,p7450,5,Jubilación o retiro
+2023,p7450,6,Condiciones de trabajo insatisfactorias
+2023,p7450,7,Cierre o dificultades de la empresa
+2023,p7450,8,Trabajo temporal terminado
+2023,p7450,9,Otro
+2023,p7350,1,Obrero o empleado de empresa particular
+2023,p7350,2,Obrero o empleado del gobierno
+2023,p7350,3,Empleado doméstico
+2023,p7350,4,Trabajador por cuenta propia
+2023,p7350,5,Patrón o empleador
+2023,p7350,6,Trabajador familiar sin remuneración
+2023,p7350,7,Trabajador sin remuneración en empresas de otros hogares
+2023,p7350,8,Jornalero o peón
+2023,p7350,9,Otro
+2023,p7360,1,Trabaja solo
+2023,p7360,2,2 a 3 personas
+2023,p7360,3,4 a 5 personas
+2023,p7360,4,6 a 10 personas
+2023,p7360,5,11 a 19 personas
+2023,p7360,6,20 a 30 personas
+2023,p7360,7,31 a 50 personas
+2023,p7360,8,51 a 100 personas
+2023,p7360,9,101 a 200 personas
+2023,p7360,10,201 o más personas
+2023,p9460,1,Si
+2023,p9460,2,No
+2023,p9460,9,"No sabe, no informa"
+2023,p1519,1,Si
+2023,p1519,2,No
+2023,p1519,3,Ya es pensionado
+2023,p1883,1,Fondo privado?
+2023,p1883,2,Colpensiones?
+2023,p1883,3,"Régimenes especiales ? (FFMM, Ecopetrol, etc.)"
+2023,p1883,4,"Fondo subsidiado ?(prosperar, ect.)"
+2023,p7422,1,Si
+2023,p7422,2,No
+2023,regis,70,Registro de no ocupados
+2023,p3076s1,1,Si
+2023,p3076s1,2,No
+2023,p3076s2,1,Si
+2023,p3076s2,2,No
+2023,p3076s3,1,Si
+2023,p3076s3,2,No
+2023,p3077s1,1,Si
+2023,p3077s1,2,No
+2023,p3077s2,1,Si
+2023,p3077s2,2,No
+2023,p3077s3,1,Si
+2023,p3077s3,2,No
+2023,p3078s1,1,Si
+2023,p3078s1,2,No
+2023,p3078s2,1,Si
+2023,p3078s2,2,No
+2023,p3078s3,1,Si
+2023,p3078s3,2,No
+2023,p3079s1,1,Si
+2023,p3079s1,2,No
+2023,p3079s2,1,Si
+2023,p3079s2,2,No
+2023,p3079s3,1,Si
+2023,p3079s3,2,No
+2023,p3081s1,1,Si
+2023,p3081s1,2,No
+2023,p3081s2,1,Si
+2023,p3081s2,2,No
+2023,p3081s3,1,Si
+2023,p3081s3,2,No
+2023,p3082s1,1,Si
+2023,p3082s1,2,No
+2023,p3082s2,1,Si
+2023,p3082s2,2,No
+2023,p3082s3,1,Si
+2023,p3082s3,2,No
+2023,p3083,1,Si
+2023,p3083,2,No
+2023,p3085,1,Si
+2023,p3085,2,No
+2023,p3086,1,El SENA
+2023,p3086,2,Una universidad
+2023,p3086,3,Un colegio
+2023,p3086,4,Otra institución educativa
+2023,p3087,1,Si
+2023,p3087,2,No
+2023,p3088,1,Si
+2023,p3088,2,No
+2023,p3089,1,Si
+2023,p3089,2,No
+2023,p3091,1,Si
+2023,p3091,2,No
+2023,p3092,1,Si
+2023,p3092,2,No
+2023,p3093,1,Si
+2023,p3093,2,No
+2023,p3094,1,Si
+2023,p3094,2,No
+2023,p3095,1,Si
+2023,p3095,2,No
+2023,p3096,1,Si
+2023,p3096,2,No
+2023,p3097,1,Si
+2023,p3097,2,No
+2023,p3098,1,Si
+2023,p3098,2,No
+2023,p3099,1,Si
+2023,p3099,2,No
+2023,p3101,1,Si
+2023,p3101,2,No
+2023,regis,80,Registro de otras formas de trabajo
+2023,p7495,1,Si
+2023,p7495,2,No
+2023,p7500s1,1,Si
+2023,p7500s1,2,No
+2023,p7500s1,9,"No sabe, no informa"
+2023,p7500s2,1,Si
+2023,p7500s2,2,No
+2023,p7500s2,9,"No sabe, no informa"
+2023,p7500s3,1,Si
+2023,p7500s3,2,No
+2023,p7500s3,9,"No sabe, no informa"
+2023,p7505,1,Si
+2023,p7505,2,No
+2023,p7510s1,1,Si
+2023,p7510s1,2,No
+2023,p7510s1,9,"No sabe, no informa"
+2023,p7510s2,1,Si
+2023,p7510s2,2,No
+2023,p7510s2,9,"No sabe, no informa"
+2023,p7510s3,1,Si
+2023,p7510s3,2,No
+2023,p7510s3,9,"No sabe, no informa"
+2023,p7510s5,1,Si
+2023,p7510s5,2,No
+2023,p7510s5,9,"No sabe, no informa"
+2023,p7510s6,1,Si
+2023,p7510s6,2,No
+2023,p7510s6,9,"No sabe, no informa"
+2023,p7510s7,1,Si
+2023,p7510s7,2,No
+2023,p7510s7,9,"No sabe, no informa"
+2023,p3367,1,Si
+2023,p3367,2,No
+2023,p3370,1,Si
+2023,p3370,2,No
+2023,p3370,9,"No sabe, no informa"
+2023,p3371,1,Si
+2023,p3371,2,No
+2023,p3371,9,"No sabe, no informa"
+2023,p3372,1,Si
+2023,p3372,2,No
+2023,p3372,9,"No sabe, no informa"
+2023,regis,90,Registro otros ingresos e impuestos
+2023,p3373,1,Aquí en este municipio
+2023,p3373,2,En otro Municipio
+2023,p3373,3,En otro país:
+2023,p3373s3,4,Afganistán
+2023,p3373s3,8,Albania
+2023,p3373s3,10,Antártida
+2023,p3373s3,12,Argelia
+2023,p3373s3,16,Samoa Americana
+2023,p3373s3,20,Andorra
+2023,p3373s3,24,Angola
+2023,p3373s3,28,Antigua y Barbuda
+2023,p3373s3,31,Azerbaiyán
+2023,p3373s3,32,Argentina
+2023,p3373s3,36,Australia
+2023,p3373s3,40,Austria
+2023,p3373s3,44,Bahamas
+2023,p3373s3,48,Bahrein
+2023,p3373s3,50,Bangladesh
+2023,p3373s3,51,Armenia
+2023,p3373s3,52,Barbados
+2023,p3373s3,56,Bélgica
+2023,p3373s3,60,Bermuda
+2023,p3373s3,64,Bhután
+2023,p3373s3,68,Bolivia
+2023,p3373s3,70,Bosnia y Herzegovina
+2023,p3373s3,72,Botswana
+2023,p3373s3,74,Isla Bouvet
+2023,p3373s3,76,Brasil
+2023,p3373s3,84,Belice
+2023,p3373s3,86,Territorio Británico del Océano Índico
+2023,p3373s3,90,Islas Salomón
+2023,p3373s3,92,Islas Vírgenes Británicas
+2023,p3373s3,96,Brunei Darussalam
+2023,p3373s3,100,Bulgaria
+2023,p3373s3,104,Myanmar
+2023,p3373s3,108,Burundi
+2023,p3373s3,112,Belarús
+2023,p3373s3,116,Camboya
+2023,p3373s3,120,Camerún
+2023,p3373s3,124,Canadá
+2023,p3373s3,132,Cabo Verde
+2023,p3373s3,136,Islas Caimán
+2023,p3373s3,140,República Centroafricana
+2023,p3373s3,144,Sri Lanka
+2023,p3373s3,148,Chad
+2023,p3373s3,152,Chile
+2023,p3373s3,156,China
+2023,p3373s3,162,Isla Christmas
+2023,p3373s3,166,Islas Cocos (Keeling)
+2023,p3373s3,170,Colombia
+2023,p3373s3,174,Comoras
+2023,p3373s3,175,Mayotte
+2023,p3373s3,178,Congo
+2023,p3373s3,180,República Democrática del Congo
+2023,p3373s3,184,Islas Cook
+2023,p3373s3,188,Costa Rica
+2023,p3373s3,191,Croacia
+2023,p3373s3,192,Cuba
+2023,p3373s3,196,Chipre
+2023,p3373s3,203,Chequia
+2023,p3373s3,204,Benin
+2023,p3373s3,208,Dinamarca
+2023,p3373s3,212,Dominica
+2023,p3373s3,214,República Dominicana
+2023,p3373s3,218,Ecuador
+2023,p3373s3,222,El Salvador
+2023,p3373s3,226,Guinea Ecuatorial
+2023,p3373s3,231,Etiopía
+2023,p3373s3,232,Eritrea
+2023,p3373s3,233,Estonia
+2023,p3373s3,234,Islas Feroe
+2023,p3373s3,238,Islas Malvinas (Falkland)
+2023,p3373s3,239,Georgia del Sur y las Islas Sandwich del Sur
+2023,p3373s3,242,Fiji
+2023,p3373s3,246,Finlandia
+2023,p3373s3,248,Islas Åland
+2023,p3373s3,250,Francia
+2023,p3373s3,254,Guayana Francesa
+2023,p3373s3,258,Polinesia Francesa
+2023,p3373s3,260,Territorio de las Tierras Australes Francesas
+2023,p3373s3,262,Djibouti
+2023,p3373s3,266,Gabón
+2023,p3373s3,268,Georgia
+2023,p3373s3,270,Gambia
+2023,p3373s3,275,Estado de Palestina
+2023,p3373s3,276,Alemania
+2023,p3373s3,288,Ghana
+2023,p3373s3,292,Gibraltar
+2023,p3373s3,296,Kiribati
+2023,p3373s3,300,Grecia
+2023,p3373s3,304,Groenlandia
+2023,p3373s3,308,Granada
+2023,p3373s3,312,Guadalupe
+2023,p3373s3,316,Guam
+2023,p3373s3,320,Guatemala
+2023,p3373s3,324,Guinea
+2023,p3373s3,328,Guyana
+2023,p3373s3,332,Haití
+2023,p3373s3,334,Islas Heard y McDonald
+2023,p3373s3,336,Santa Sede
+2023,p3373s3,340,Honduras
+2023,p3373s3,344,"China, región administrativa especial de Hong Kong"
+2023,p3373s3,348,Hungría
+2023,p3373s3,352,Islandia
+2023,p3373s3,356,India
+2023,p3373s3,360,Indonesia
+2023,p3373s3,364,Irán
+2023,p3373s3,368,Iraq
+2023,p3373s3,372,Irlanda
+2023,p3373s3,376,Israel
+2023,p3373s3,380,Italia
+2023,p3373s3,384,Costa de Marfil
+2023,p3373s3,388,Jamaica
+2023,p3373s3,392,Japón
+2023,p3373s3,398,Kazajstán
+2023,p3373s3,400,Jordania
+2023,p3373s3,404,Kenya
+2023,p3373s3,408,República Popular Democrática de Corea
+2023,p3373s3,410,República de Corea
+2023,p3373s3,414,Kuwait
+2023,p3373s3,417,Kirguistán
+2023,p3373s3,418,República Democrática Popular Lao
+2023,p3373s3,422,Líbano
+2023,p3373s3,426,Lesotho
+2023,p3373s3,428,Letonia
+2023,p3373s3,430,Liberia
+2023,p3373s3,434,Libia
+2023,p3373s3,438,Liechtenstein
+2023,p3373s3,440,Lituania
+2023,p3373s3,442,Luxemburgo
+2023,p3373s3,446,"China, región administrativa especial de Macao"
+2023,p3373s3,450,Madagascar
+2023,p3373s3,454,Malawi
+2023,p3373s3,458,Malasia
+2023,p3373s3,462,Maldivas
+2023,p3373s3,466,Malí
+2023,p3373s3,470,Malta
+2023,p3373s3,474,Martinica
+2023,p3373s3,478,Mauritania
+2023,p3373s3,480,Mauricio
+2023,p3373s3,484,México
+2023,p3373s3,492,Mónaco
+2023,p3373s3,496,Mongolia
+2023,p3373s3,498,República de Moldova
+2023,p3373s3,499,Montenegro
+2023,p3373s3,500,Montserrat
+2023,p3373s3,504,Marruecos
+2023,p3373s3,508,Mozambique
+2023,p3373s3,512,Omán
+2023,p3373s3,516,Namibia
+2023,p3373s3,520,Nauru
+2023,p3373s3,524,Nepal
+2023,p3373s3,528,Países Bajos
+2023,p3373s3,531,Curazao
+2023,p3373s3,533,Aruba
+2023,p3373s3,534,San Martín (parte Holandesa)
+2023,p3373s3,535,"Bonaire, San Eustaquio y Saba"
+2023,p3373s3,540,Nueva Caledonia
+2023,p3373s3,548,Vanuatu
+2023,p3373s3,554,Nueva Zelandia
+2023,p3373s3,558,Nicaragua
+2023,p3373s3,562,Níger
+2023,p3373s3,566,Nigeria
+2023,p3373s3,570,Niue
+2023,p3373s3,574,Isla Norfolk
+2023,p3373s3,578,Noruega
+2023,p3373s3,580,Islas Marianas Septentrionales
+2023,p3373s3,581,Islas menores alejadas de Estados Unidos
+2023,p3373s3,583,Micronesia (Estados Federados de)
+2023,p3373s3,584,Islas Marshall
+2023,p3373s3,585,Palau
+2023,p3373s3,586,Pakistán
+2023,p3373s3,591,Panamá
+2023,p3373s3,598,Papua Nueva Guinea
+2023,p3373s3,600,Paraguay
+2023,p3373s3,604,Perú
+2023,p3373s3,608,Filipinas
+2023,p3373s3,612,Pitcairn
+2023,p3373s3,616,Polonia
+2023,p3373s3,620,Portugal
+2023,p3373s3,624,Guinea-Bissau
+2023,p3373s3,626,Timor-Leste
+2023,p3373s3,630,Puerto Rico
+2023,p3373s3,634,Qatar
+2023,p3373s3,638,Reunión
+2023,p3373s3,642,Rumania
+2023,p3373s3,643,Federación de Rusia
+2023,p3373s3,646,Rwanda
+2023,p3373s3,652,San Barthélemy
+2023,p3373s3,654,Santa Elena
+2023,p3373s3,659,Saint Kitts y Nevis
+2023,p3373s3,660,Anguila
+2023,p3373s3,662,Santa Lucía
+2023,p3373s3,663,San Martín (parte francesa)
+2023,p3373s3,666,San Pedro y Miquelón
+2023,p3373s3,670,San Vicente y las Granadinas
+2023,p3373s3,674,San Marino
+2023,p3373s3,678,Santo Tomé y Príncipe
+2023,p3373s3,680,Sark
+2023,p3373s3,682,Arabia Saudita
+2023,p3373s3,686,Senegal
+2023,p3373s3,688,Serbia
+2023,p3373s3,690,Seychelles
+2023,p3373s3,694,Sierra Leona
+2023,p3373s3,702,Singapur
+2023,p3373s3,703,Eslovaquia
+2023,p3373s3,704,Viet Nam
+2023,p3373s3,705,Eslovenia
+2023,p3373s3,706,Somalia
+2023,p3373s3,710,Sudáfrica
+2023,p3373s3,716,Zimbabwe
+2023,p3373s3,724,España
+2023,p3373s3,728,Sudán del Sur
+2023,p3373s3,729,Sudán
+2023,p3373s3,732,Sáhara Occidental
+2023,p3373s3,740,Suriname
+2023,p3373s3,744,Islas Svalbard y Jan Mayen
+2023,p3373s3,748,Eswatini
+2023,p3373s3,752,Suecia
+2023,p3373s3,756,Suiza
+2023,p3373s3,760,República Árabe Siria
+2023,p3373s3,762,Tayikistán
+2023,p3373s3,764,Tailandia
+2023,p3373s3,768,Togo
+2023,p3373s3,772,Tokelau
+2023,p3373s3,776,Tonga
+2023,p3373s3,780,Trinidad y Tabago
+2023,p3373s3,784,Emiratos Árabes Unidos
+2023,p3373s3,788,Túnez
+2023,p3373s3,792,Turquía
+2023,p3373s3,795,Turkmenistán
+2023,p3373s3,796,Islas Turcas y Caicos
+2023,p3373s3,798,Tuvalu
+2023,p3373s3,800,Uganda
+2023,p3373s3,804,Ucrania
+2023,p3373s3,807,Macedonia del Norte
+2023,p3373s3,818,Egipto
+2023,p3373s3,826,Reino Unido de Gran Bretaña e Irlanda del Norte
+2023,p3373s3,831,Guernsey
+2023,p3373s3,832,Jersey
+2023,p3373s3,833,Isla de Man
+2023,p3373s3,834,República Unida de Tanzanía
+2023,p3373s3,840,Estados Unidos de América
+2023,p3373s3,850,Islas Vírgenes de los Estados Unidos
+2023,p3373s3,854,Burkina Faso
+2023,p3373s3,858,Uruguay
+2023,p3373s3,860,Uzbekistán
+2023,p3373s3,862,Venezuela
+2023,p3373s3,876,Islas Wallis y Futuna
+2023,p3373s3,882,Samoa
+2023,p3373s3,887,Yemen
+2023,p3373s3,894,Zambia
+2023,p3374,1,Colombiana
+2023,p3374,2,Colombiana y otra(s). Cúal(es)
+2023,p3374,3,No tiene nacionalidad Colombiana.
+2023,p3374s1 - p3374s2 - p3374s3,4,Afganistán
+2023,p3375,1,Sí
+2023,p3375,2,No
+2023,p3375,3,Siempre ha vivido en este país
+2023,p3375,9,"No sabe, no informa"
+2023,p3376,1,Sí
+2023,p3376,2,No
+2023,p3377,1,Sí
+2023,p3377,2,No
+2023,p3378,4,Afganistán
+2023,p3382,1,No había nacido
+2023,p3382,2,En este municipio
+2023,p3382,3,En otro Municipio
+2023,p3382,4,En otro país
+2023,p3382s3,4,Afganistán
+2023,p3382s3,8,Albania
+2023,p3382s3,10,Antártida
+2023,p3382s3,12,Argelia
+2023,p3382s3,16,Samoa Americana
+2023,p3382s3,20,Andorra
+2023,p3382s3,24,Angola
+2023,p3382s3,28,Antigua y Barbuda
+2023,p3382s3,31,Azerbaiyán
+2023,p3382s3,32,Argentina
+2023,p3382s3,36,Australia
+2023,p3382s3,40,Austria
+2023,p3382s3,44,Bahamas
+2023,p3382s3,48,Bahrein
+2023,p3382s3,50,Bangladesh
+2023,p3382s3,51,Armenia
+2023,p3382s3,52,Barbados
+2023,p3382s3,56,Bélgica
+2023,p3382s3,60,Bermuda
+2023,p3382s3,64,Bhután
+2023,p3382s3,68,Bolivia
+2023,p3382s3,70,Bosnia y Herzegovina
+2023,p3382s3,72,Botswana
+2023,p3382s3,74,Isla Bouvet
+2023,p3382s3,76,Brasil
+2023,p3382s3,84,Belice
+2023,p3382s3,86,Territorio Británico del Océano Índico
+2023,p3382s3,90,Islas Salomón
+2023,p3382s3,92,Islas Vírgenes Británicas
+2023,p3382s3,96,Brunei Darussalam
+2023,p3382s3,100,Bulgaria
+2023,p3382s3,104,Myanmar
+2023,p3382s3,108,Burundi
+2023,p3382s3,112,Belarús
+2023,p3382s3,116,Camboya
+2023,p3382s3,120,Camerún
+2023,p3382s3,124,Canadá
+2023,p3382s3,132,Cabo Verde
+2023,p3382s3,136,Islas Caimán
+2023,p3382s3,140,República Centroafricana
+2023,p3382s3,144,Sri Lanka
+2023,p3382s3,148,Chad
+2023,p3382s3,152,Chile
+2023,p3382s3,156,China
+2023,p3382s3,162,Isla Christmas
+2023,p3382s3,166,Islas Cocos (Keeling)
+2023,p3382s3,170,Colombia
+2023,p3382s3,174,Comoras
+2023,p3382s3,175,Mayotte
+2023,p3382s3,178,Congo
+2023,p3382s3,180,República Democrática del Congo
+2023,p3382s3,184,Islas Cook
+2023,p3382s3,188,Costa Rica
+2023,p3382s3,191,Croacia
+2023,p3382s3,192,Cuba
+2023,p3382s3,196,Chipre
+2023,p3382s3,203,Chequia
+2023,p3382s3,204,Benin
+2023,p3382s3,208,Dinamarca
+2023,p3382s3,212,Dominica
+2023,p3382s3,214,República Dominicana
+2023,p3382s3,218,Ecuador
+2023,p3382s3,222,El Salvador
+2023,p3382s3,226,Guinea Ecuatorial
+2023,p3382s3,231,Etiopía
+2023,p3382s3,232,Eritrea
+2023,p3382s3,233,Estonia
+2023,p3382s3,234,Islas Feroe
+2023,p3382s3,238,Islas Malvinas (Falkland)
+2023,p3382s3,239,Georgia del Sur y las Islas Sandwich del Sur
+2023,p3382s3,242,Fiji
+2023,p3382s3,246,Finlandia
+2023,p3382s3,248,Islas Åland
+2023,p3382s3,250,Francia
+2023,p3382s3,254,Guayana Francesa
+2023,p3382s3,258,Polinesia Francesa
+2023,p3382s3,260,Territorio de las Tierras Australes Francesas
+2023,p3382s3,262,Djibouti
+2023,p3382s3,266,Gabón
+2023,p3382s3,268,Georgia
+2023,p3382s3,270,Gambia
+2023,p3382s3,275,Estado de Palestina
+2023,p3382s3,276,Alemania
+2023,p3382s3,288,Ghana
+2023,p3382s3,292,Gibraltar
+2023,p3382s3,296,Kiribati
+2023,p3382s3,300,Grecia
+2023,p3382s3,304,Groenlandia
+2023,p3382s3,308,Granada
+2023,p3382s3,312,Guadalupe
+2023,p3382s3,316,Guam
+2023,p3382s3,320,Guatemala
+2023,p3382s3,324,Guinea
+2023,p3382s3,328,Guyana
+2023,p3382s3,332,Haití
+2023,p3382s3,334,Islas Heard y McDonald
+2023,p3382s3,336,Santa Sede
+2023,p3382s3,340,Honduras
+2023,p3382s3,344,"China, región administrativa especial de Hong Kong"
+2023,p3382s3,348,Hungría
+2023,p3382s3,352,Islandia
+2023,p3382s3,356,India
+2023,p3382s3,360,Indonesia
+2023,p3382s3,364,Irán
+2023,p3382s3,368,Iraq
+2023,p3382s3,372,Irlanda
+2023,p3382s3,376,Israel
+2023,p3382s3,380,Italia
+2023,p3382s3,384,Costa de Marfil
+2023,p3382s3,388,Jamaica
+2023,p3382s3,392,Japón
+2023,p3382s3,398,Kazajstán
+2023,p3382s3,400,Jordania
+2023,p3382s3,404,Kenya
+2023,p3382s3,408,República Popular Democrática de Corea
+2023,p3382s3,410,República de Corea
+2023,p3382s3,414,Kuwait
+2023,p3382s3,417,Kirguistán
+2023,p3382s3,418,República Democrática Popular Lao
+2023,p3382s3,422,Líbano
+2023,p3382s3,426,Lesotho
+2023,p3382s3,428,Letonia
+2023,p3382s3,430,Liberia
+2023,p3382s3,434,Libia
+2023,p3382s3,438,Liechtenstein
+2023,p3382s3,440,Lituania
+2023,p3382s3,442,Luxemburgo
+2023,p3382s3,446,"China, región administrativa especial de Macao"
+2023,p3382s3,450,Madagascar
+2023,p3382s3,454,Malawi
+2023,p3382s3,458,Malasia
+2023,p3382s3,462,Maldivas
+2023,p3382s3,466,Malí
+2023,p3382s3,470,Malta
+2023,p3382s3,474,Martinica
+2023,p3382s3,478,Mauritania
+2023,p3382s3,480,Mauricio
+2023,p3382s3,484,México
+2023,p3382s3,492,Mónaco
+2023,p3382s3,496,Mongolia
+2023,p3382s3,498,República de Moldova
+2023,p3382s3,499,Montenegro
+2023,p3382s3,500,Montserrat
+2023,p3382s3,504,Marruecos
+2023,p3382s3,508,Mozambique
+2023,p3382s3,512,Omán
+2023,p3382s3,516,Namibia
+2023,p3382s3,520,Nauru
+2023,p3382s3,524,Nepal
+2023,p3382s3,528,Países Bajos
+2023,p3382s3,531,Curazao
+2023,p3382s3,533,Aruba
+2023,p3382s3,534,San Martín (parte Holandesa)
+2023,p3382s3,535,"Bonaire, San Eustaquio y Saba"
+2023,p3382s3,540,Nueva Caledonia
+2023,p3382s3,548,Vanuatu
+2023,p3382s3,554,Nueva Zelandia
+2023,p3382s3,558,Nicaragua
+2023,p3382s3,562,Níger
+2023,p3382s3,566,Nigeria
+2023,p3382s3,570,Niue
+2023,p3382s3,574,Isla Norfolk
+2023,p3382s3,578,Noruega
+2023,p3382s3,580,Islas Marianas Septentrionales
+2023,p3382s3,581,Islas menores alejadas de Estados Unidos
+2023,p3382s3,583,Micronesia (Estados Federados de)
+2023,p3382s3,584,Islas Marshall
+2023,p3382s3,585,Palau
+2023,p3382s3,586,Pakistán
+2023,p3382s3,591,Panamá
+2023,p3382s3,598,Papua Nueva Guinea
+2023,p3382s3,600,Paraguay
+2023,p3382s3,604,Perú
+2023,p3382s3,608,Filipinas
+2023,p3382s3,612,Pitcairn
+2023,p3382s3,616,Polonia
+2023,p3382s3,620,Portugal
+2023,p3382s3,624,Guinea-Bissau
+2023,p3382s3,626,Timor-Leste
+2023,p3382s3,630,Puerto Rico
+2023,p3382s3,634,Qatar
+2023,p3382s3,638,Reunión
+2023,p3382s3,642,Rumania
+2023,p3382s3,643,Federación de Rusia
+2023,p3382s3,646,Rwanda
+2023,p3382s3,652,San Barthélemy
+2023,p3382s3,654,Santa Elena
+2023,p3382s3,659,Saint Kitts y Nevis
+2023,p3382s3,660,Anguila
+2023,p3382s3,662,Santa Lucía
+2023,p3382s3,663,San Martín (parte francesa)
+2023,p3382s3,666,San Pedro y Miquelón
+2023,p3382s3,670,San Vicente y las Granadinas
+2023,p3382s3,674,San Marino
+2023,p3382s3,678,Santo Tomé y Príncipe
+2023,p3382s3,680,Sark
+2023,p3382s3,682,Arabia Saudita
+2023,p3382s3,686,Senegal
+2023,p3382s3,688,Serbia
+2023,p3382s3,690,Seychelles
+2023,p3382s3,694,Sierra Leona
+2023,p3382s3,702,Singapur
+2023,p3382s3,703,Eslovaquia
+2023,p3382s3,704,Viet Nam
+2023,p3382s3,705,Eslovenia
+2023,p3382s3,706,Somalia
+2023,p3382s3,710,Sudáfrica
+2023,p3382s3,716,Zimbabwe
+2023,p3382s3,724,España
+2023,p3382s3,728,Sudán del Sur
+2023,p3382s3,729,Sudán
+2023,p3382s3,732,Sáhara Occidental
+2023,p3382s3,740,Suriname
+2023,p3382s3,744,Islas Svalbard y Jan Mayen
+2023,p3382s3,748,Eswatini
+2023,p3382s3,752,Suecia
+2023,p3382s3,756,Suiza
+2023,p3382s3,760,República Árabe Siria
+2023,p3382s3,762,Tayikistán
+2023,p3382s3,764,Tailandia
+2023,p3382s3,768,Togo
+2023,p3382s3,772,Tokelau
+2023,p3382s3,776,Tonga
+2023,p3382s3,780,Trinidad y Tabago
+2023,p3382s3,784,Emiratos Árabes Unidos
+2023,p3382s3,788,Túnez
+2023,p3382s3,792,Turquía
+2023,p3382s3,795,Turkmenistán
+2023,p3382s3,796,Islas Turcas y Caicos
+2023,p3382s3,798,Tuvalu
+2023,p3382s3,800,Uganda
+2023,p3382s3,804,Ucrania
+2023,p3382s3,807,Macedonia del Norte
+2023,p3382s3,818,Egipto
+2023,p3382s3,826,Reino Unido de Gran Bretaña e Irlanda del Norte
+2023,p3382s3,831,Guernsey
+2023,p3382s3,832,Jersey
+2023,p3382s3,833,Isla de Man
+2023,p3382s3,834,República Unida de Tanzanía
+2023,p3382s3,840,Estados Unidos de América
+2023,p3382s3,850,Islas Vírgenes de los Estados Unidos
+2023,p3382s3,854,Burkina Faso
+2023,p3382s3,858,Uruguay
+2023,p3382s3,860,Uzbekistán
+2023,p3382s3,862,Venezuela
+2023,p3382s3,876,Islas Wallis y Futuna
+2023,p3382s3,882,Samoa
+2023,p3382s3,887,Yemen
+2023,p3382s3,894,Zambia
+2023,p3383,1,¿La cabecera municipal (donde está la alcaldía)?
+2023,p3383,2,"¿Parte rural (centro poblado, corregimiento, inspección, caserío, vereda, campo?"
+2023,p3384,1,No había nacido
+2023,p3384,2,En este municipio
+2023,p3384,3,En otro Municipio
+2023,p3384,4,En otro país
+2023,p3384s3,4,Afganistán
+2023,p3384s3,8,Albania
+2023,p3384s3,10,Antártida
+2023,p3384s3,12,Argelia
+2023,p3384s3,16,Samoa Americana
+2023,p3384s3,20,Andorra
+2023,p3384s3,24,Angola
+2023,p3384s3,28,Antigua y Barbuda
+2023,p3384s3,31,Azerbaiyán
+2023,p3384s3,32,Argentina
+2023,p3384s3,36,Australia
+2023,p3384s3,40,Austria
+2023,p3384s3,44,Bahamas
+2023,p3384s3,48,Bahrein
+2023,p3384s3,50,Bangladesh
+2023,p3384s3,51,Armenia
+2023,p3384s3,52,Barbados
+2023,p3384s3,56,Bélgica
+2023,p3384s3,60,Bermuda
+2023,p3384s3,64,Bhután
+2023,p3384s3,68,Bolivia
+2023,p3384s3,70,Bosnia y Herzegovina
+2023,p3384s3,72,Botswana
+2023,p3384s3,74,Isla Bouvet
+2023,p3384s3,76,Brasil
+2023,p3384s3,84,Belice
+2023,p3384s3,86,Territorio Británico del Océano Índico
+2023,p3384s3,90,Islas Salomón
+2023,p3384s3,92,Islas Vírgenes Británicas
+2023,p3384s3,96,Brunei Darussalam
+2023,p3384s3,100,Bulgaria
+2023,p3384s3,104,Myanmar
+2023,p3384s3,108,Burundi
+2023,p3384s3,112,Belarús
+2023,p3384s3,116,Camboya
+2023,p3384s3,120,Camerún
+2023,p3384s3,124,Canadá
+2023,p3384s3,132,Cabo Verde
+2023,p3384s3,136,Islas Caimán
+2023,p3384s3,140,República Centroafricana
+2023,p3384s3,144,Sri Lanka
+2023,p3384s3,148,Chad
+2023,p3384s3,152,Chile
+2023,p3384s3,156,China
+2023,p3384s3,162,Isla Christmas
+2023,p3384s3,166,Islas Cocos (Keeling)
+2023,p3384s3,170,Colombia
+2023,p3384s3,174,Comoras
+2023,p3384s3,175,Mayotte
+2023,p3384s3,178,Congo
+2023,p3384s3,180,República Democrática del Congo
+2023,p3384s3,184,Islas Cook
+2023,p3384s3,188,Costa Rica
+2023,p3384s3,191,Croacia
+2023,p3384s3,192,Cuba
+2023,p3384s3,196,Chipre
+2023,p3384s3,203,Chequia
+2023,p3384s3,204,Benin
+2023,p3384s3,208,Dinamarca
+2023,p3384s3,212,Dominica
+2023,p3384s3,214,República Dominicana
+2023,p3384s3,218,Ecuador
+2023,p3384s3,222,El Salvador
+2023,p3384s3,226,Guinea Ecuatorial
+2023,p3384s3,231,Etiopía
+2023,p3384s3,232,Eritrea
+2023,p3384s3,233,Estonia
+2023,p3384s3,234,Islas Feroe
+2023,p3384s3,238,Islas Malvinas (Falkland)
+2023,p3384s3,239,Georgia del Sur y las Islas Sandwich del Sur
+2023,p3384s3,242,Fiji
+2023,p3384s3,246,Finlandia
+2023,p3384s3,248,Islas Åland
+2023,p3384s3,250,Francia
+2023,p3384s3,254,Guayana Francesa
+2023,p3384s3,258,Polinesia Francesa
+2023,p3384s3,260,Territorio de las Tierras Australes Francesas
+2023,p3384s3,262,Djibouti
+2023,p3384s3,266,Gabón
+2023,p3384s3,268,Georgia
+2023,p3384s3,270,Gambia
+2023,p3384s3,275,Estado de Palestina
+2023,p3384s3,276,Alemania
+2023,p3384s3,288,Ghana
+2023,p3384s3,292,Gibraltar
+2023,p3384s3,296,Kiribati
+2023,p3384s3,300,Grecia
+2023,p3384s3,304,Groenlandia
+2023,p3384s3,308,Granada
+2023,p3384s3,312,Guadalupe
+2023,p3384s3,316,Guam
+2023,p3384s3,320,Guatemala
+2023,p3384s3,324,Guinea
+2023,p3384s3,328,Guyana
+2023,p3384s3,332,Haití
+2023,p3384s3,334,Islas Heard y McDonald
+2023,p3384s3,336,Santa Sede
+2023,p3384s3,340,Honduras
+2023,p3384s3,344,"China, región administrativa especial de Hong Kong"
+2023,p3384s3,348,Hungría
+2023,p3384s3,352,Islandia
+2023,p3384s3,356,India
+2023,p3384s3,360,Indonesia
+2023,p3384s3,364,Irán
+2023,p3384s3,368,Iraq
+2023,p3384s3,372,Irlanda
+2023,p3384s3,376,Israel
+2023,p3384s3,380,Italia
+2023,p3384s3,384,Costa de Marfil
+2023,p3384s3,388,Jamaica
+2023,p3384s3,392,Japón
+2023,p3384s3,398,Kazajstán
+2023,p3384s3,400,Jordania
+2023,p3384s3,404,Kenya
+2023,p3384s3,408,República Popular Democrática de Corea
+2023,p3384s3,410,República de Corea
+2023,p3384s3,414,Kuwait
+2023,p3384s3,417,Kirguistán
+2023,p3384s3,418,República Democrática Popular Lao
+2023,p3384s3,422,Líbano
+2023,p3384s3,426,Lesotho
+2023,p3384s3,428,Letonia
+2023,p3384s3,430,Liberia
+2023,p3384s3,434,Libia
+2023,p3384s3,438,Liechtenstein
+2023,p3384s3,440,Lituania
+2023,p3384s3,442,Luxemburgo
+2023,p3384s3,446,"China, región administrativa especial de Macao"
+2023,p3384s3,450,Madagascar
+2023,p3384s3,454,Malawi
+2023,p3384s3,458,Malasia
+2023,p3384s3,462,Maldivas
+2023,p3384s3,466,Malí
+2023,p3384s3,470,Malta
+2023,p3384s3,474,Martinica
+2023,p3384s3,478,Mauritania
+2023,p3384s3,480,Mauricio
+2023,p3384s3,484,México
+2023,p3384s3,492,Mónaco
+2023,p3384s3,496,Mongolia
+2023,p3384s3,498,República de Moldova
+2023,p3384s3,499,Montenegro
+2023,p3384s3,500,Montserrat
+2023,p3384s3,504,Marruecos
+2023,p3384s3,508,Mozambique
+2023,p3384s3,512,Omán
+2023,p3384s3,516,Namibia
+2023,p3384s3,520,Nauru
+2023,p3384s3,524,Nepal
+2023,p3384s3,528,Países Bajos
+2023,p3384s3,531,Curazao
+2023,p3384s3,533,Aruba
+2023,p3384s3,534,San Martín (parte Holandesa)
+2023,p3384s3,535,"Bonaire, San Eustaquio y Saba"
+2023,p3384s3,540,Nueva Caledonia
+2023,p3384s3,548,Vanuatu
+2023,p3384s3,554,Nueva Zelandia
+2023,p3384s3,558,Nicaragua
+2023,p3384s3,562,Níger
+2023,p3384s3,566,Nigeria
+2023,p3384s3,570,Niue
+2023,p3384s3,574,Isla Norfolk
+2023,p3384s3,578,Noruega
+2023,p3384s3,580,Islas Marianas Septentrionales
+2023,p3384s3,581,Islas menores alejadas de Estados Unidos
+2023,p3384s3,583,Micronesia (Estados Federados de)
+2023,p3384s3,584,Islas Marshall
+2023,p3384s3,585,Palau
+2023,p3384s3,586,Pakistán
+2023,p3384s3,591,Panamá
+2023,p3384s3,598,Papua Nueva Guinea
+2023,p3384s3,600,Paraguay
+2023,p3384s3,604,Perú
+2023,p3384s3,608,Filipinas
+2023,p3384s3,612,Pitcairn
+2023,p3384s3,616,Polonia
+2023,p3384s3,620,Portugal
+2023,p3384s3,624,Guinea-Bissau
+2023,p3384s3,626,Timor-Leste
+2023,p3384s3,630,Puerto Rico
+2023,p3384s3,634,Qatar
+2023,p3384s3,638,Reunión
+2023,p3384s3,642,Rumania
+2023,p3384s3,643,Federación de Rusia
+2023,p3384s3,646,Rwanda
+2023,p3384s3,652,San Barthélemy
+2023,p3384s3,654,Santa Elena
+2023,p3384s3,659,Saint Kitts y Nevis
+2023,p3384s3,660,Anguila
+2023,p3384s3,662,Santa Lucía
+2023,p3384s3,663,San Martín (parte francesa)
+2023,p3384s3,666,San Pedro y Miquelón
+2023,p3384s3,670,San Vicente y las Granadinas
+2023,p3384s3,674,San Marino
+2023,p3384s3,678,Santo Tomé y Príncipe
+2023,p3384s3,680,Sark
+2023,p3384s3,682,Arabia Saudita
+2023,p3384s3,686,Senegal
+2023,p3384s3,688,Serbia
+2023,p3384s3,690,Seychelles
+2023,p3384s3,694,Sierra Leona
+2023,p3384s3,702,Singapur
+2023,p3384s3,703,Eslovaquia
+2023,p3384s3,704,Viet Nam
+2023,p3384s3,705,Eslovenia
+2023,p3384s3,706,Somalia
+2023,p3384s3,710,Sudáfrica
+2023,p3384s3,716,Zimbabwe
+2023,p3384s3,724,España
+2023,p3384s3,728,Sudán del Sur
+2023,p3384s3,729,Sudán
+2023,p3384s3,732,Sáhara Occidental
+2023,p3384s3,740,Suriname
+2023,p3384s3,744,Islas Svalbard y Jan Mayen
+2023,p3384s3,748,Eswatini
+2023,p3384s3,752,Suecia
+2023,p3384s3,756,Suiza
+2023,p3384s3,760,República Árabe Siria
+2023,p3384s3,762,Tayikistán
+2023,p3384s3,764,Tailandia
+2023,p3384s3,768,Togo
+2023,p3384s3,772,Tokelau
+2023,p3384s3,776,Tonga
+2023,p3384s3,780,Trinidad y Tabago
+2023,p3384s3,784,Emiratos Árabes Unidos
+2023,p3384s3,788,Túnez
+2023,p3384s3,792,Turquía
+2023,p3384s3,795,Turkmenistán
+2023,p3384s3,796,Islas Turcas y Caicos
+2023,p3384s3,798,Tuvalu
+2023,p3384s3,800,Uganda
+2023,p3384s3,804,Ucrania
+2023,p3384s3,807,Macedonia del Norte
+2023,p3384s3,818,Egipto
+2023,p3384s3,826,Reino Unido de Gran Bretaña e Irlanda del Norte
+2023,p3384s3,831,Guernsey
+2023,p3384s3,832,Jersey
+2023,p3384s3,833,Isla de Man
+2023,p3384s3,834,República Unida de Tanzanía
+2023,p3384s3,840,Estados Unidos de América
+2023,p3384s3,850,Islas Vírgenes de los Estados Unidos
+2023,p3384s3,854,Burkina Faso
+2023,p3384s3,858,Uruguay
+2023,p3384s3,860,Uzbekistán
+2023,p3384s3,862,Venezuela
+2023,p3384s3,876,Islas Wallis y Futuna
+2023,p3384s3,882,Samoa
+2023,p3384s3,887,Yemen
+2023,p3384s3,894,Zambia
+2023,p3385,1,¿La cabecera municipal (donde está la alcaldía)?
+2023,p3386,1,Trabajo
+2023,p3386,2,Estudio
+2023,p3386,3,Salud
+2023,p3386,4,Amenaza o riesgo para su vida o integridad física ocasionada por conflicto armado o grupos armados
+2023,p3386,5,"Amenaza o riesgo para su vida o integridad física por violencia NO asociada al conflicto armado (inseguridad, delincuencia común)"
+2023,p3386,6,Desastres naturales
+2023,p3386,7,Conformación de un nuevo hogar
+2023,p3386,8,Acompañar a otros miembros del hogar
+2023,p3386,9,Motivos culturales asociados a grupos étnicos
+2023,p3386,10,Adquisición de vivienda propia
+2023,p3386,12,Otro
+2023,regis,94,Registro de Migración
+2023_completa,nro_encuesta,4,Identificador de la Investigación
+2023_completa,p7,1,Encuestador
+2023_completa,p18,1,Si
+2023_completa,p4090,1,Vivienda ocupada
+2023_completa,p4090s1,1,Dirección inexistente
+2023_completa,p4091,1,Vivienda ocupada con personas presentes
+2023_completa,p4091s1,1,Ausente temporal
+2023_completa,p4091s1a1,1,Le produce desconfianza
+2023_completa,p8868,1,Si
+2023_completa,p922,1,Completa
+2023_completa,p5588,1,Si
+2023_completa,nro_encuesta,5,Identificador de la Investigación
+2023_completa,p5002,1,Si
+2023_completa,p5002,2,No
+2023_completa,p5002s1,1,Rechazo
+2023_completa,p5002s1,2,Persona(s) ocupada(s)
+2023_completa,p5002s1,3,Nadie en el hogar
+2023_completa,p5002s1,4,Ausente temporal
+2023_completa,p5002s1a1,1,Le produce desconfianza
+2023_completa,p5002s1a1,2,No le interesa o no le agrada lo que tiene que ver con el Estado.
+2023_completa,p5002s1a1,3,No hubo empatía con el encuestador
+2023_completa,p5002s1a1,4,Está cansado de responder encuestas
+2023_completa,p5002s1a1,5,No comprende el objetivo de la investigación
+2023_completa,p5002s1a1,6,No tenía ánimo para responder en ese momento / Se sentía indispuesto.
+2023_completa,p5002s1a1,7,Le parece muy larga la encuesta
+2023_completa,p5950,1,Completa
+2023_completa,p5950,2,Incompleta
+2023_completa,p3242,2,Fecha de finalización de la encuesta
+2023_completa,nro_encuesta,6,Identificador de la Investigación
+2023_completa,p6001,1,Si
+2023_completa,p6001,2,No
+2023_completa,p6001s1,1,Rechazo
+2023_completa,p6001s1,2,Ocupado
+2023_completa,p6001s1,3,Ausente temporal
+2023_completa,p6001s1a1,1,Le produce desconfianza
+2023_completa,p6001s1a1,2,No le interesa o no le agrada lo que tiene que ver con el Estado.
+2023_completa,p6001s1a1,3,No hubo empatía con el encuestador
+2023_completa,p6001s1a1,4,Está cansado de responder encuestas
+2023_completa,p6001s1a1,5,No comprende el objetivo de la investigación
+2023_completa,p6001s1a1,6,No tenía ánimo para responder en ese momento / Se sentía indispuesto.
+2023_completa,p6001s1a1,7,Le parece muy larga la encuesta
+2023_completa,p548,1,Digite Fecha
+2023_completa,p548,2,No Sabe
+2023_completa,p8655,1,Si
+2023_completa,p8655,2,No
+2023_completa,p8663,1,Completa
+2023_completa,p8663,2,Incompleta
+2023_completa,p6360,1,Debe costearse el estudio
+2023_completa,p6360,2,Debe ayudar con los gastos de la casa
+2023_completa,p6360,3,Debe participar en la actividad económica de la familia
+2023_completa,p6360,4,El trabajo lo forma y lo hace honrado
+2023_completa,p6360,5,El trabajo lo aleja de los vicios
+2023_completa,p6360,6,Le gusta trabajar para tener su propio dinero
+2023_completa,p6360,7,"Otra razón, ¿cuál?"
+2023_completa,p6480,1,"Pidió ayuda a familiares, amigos, colegas"
+2023_completa,p3560,1,Si
+2023_completa,p3561,1,Si
+2023_completa,p3562,1,Si
+2023_completa,p3563,1,Si
+2023_completa,p1887,1,Si
+2023_completa,p1888,1,Si
+2023_completa,p1889,1,Si
+2023_completa,p1890,1,Si
+2023_completa,p439,1,… es el único dueño
+2023_completa,p440,1,Si
+2023_completa,p455,1,Si
+2023_completa,p455,2,No
+2023_completa,p456,1,Si
+2023_completa,p456,2,No
+2023_completa,p456s1,1,Un curso
+2023_completa,p456s1,2,Más de un curso
+2023_completa,p457,1,Hasta 40 horas
+2023_completa,p457,2,Entre 41 y 100 horas
+2023_completa,p457,3,Entre 101 y 600 horas
+2023_completa,p457,4,Entre 601 y 1800 horas
+2023_completa,p458,1,Presencial
+2023_completa,p458,2,A distancia
+2023_completa,p459,1,Pública
+2023_completa,p459,2,Privada
+2023_completa,p460,1,SENA
+2023_completa,p460,2,Institución de Educación Superior
+2023_completa,p460,3,Otra
+2023_completa,p461,1,Institución de formación para el trabajo
+2023_completa,p461,2,Institución de educación superior
+2023_completa,p461,3,"ONG, Fundaciones, gremios asociaciones"
+2023_completa,p461,4,Otra
+2023_completa,p759,1,Educación
+2023_completa,p759,2,Humanidades y artes
+2023_completa,p759,3,Ciencias sociales y del comportamiento
+2023_completa,p759,4,Periodismo e información
+2023_completa,p759,5,Educación comercial y administración
+2023_completa,p759,6,Derecho
+2023_completa,p759,7,Ciencias de la vida y ciencias físicas
+2023_completa,p759,8,Matemáticas y estadística
+2023_completa,p759,9,Informática
+2023_completa,p759,10,Ingeniería y profesiones afines
+2023_completa,p759,11,Industria y producción
+2023_completa,p759,12,Arquitectura y construcción
+2023_completa,p759,13,Agricultura y veterinaria
+2023_completa,p759,14,Salud y Servicios sociales
+2023_completa,p759,15,Servicios personales
+2023_completa,p759,16,Servicios de transporte
+2023_completa,p759,17,Protección del medio ambiente
+2023_completa,p759,18,Servicios de seguridad
+2023_completa,p759,19,Sectores desconocidos o no especificados
+2023_completa,p758,1,Pagó todo
+2023_completa,p758,2,Pagó una parte
+2023_completa,p758,3,Fue gratuito
+2023_completa,p758,4,Pagó la totalidad otra persona o institución
+2023_completa,p757,1,Obtuvo una beca
+2023_completa,p757,2,Obtuvo un subsidio
+2023_completa,p757,3,Otra persona o institución
+2023_completa,p464,1,Conseguir empleo
+2023_completa,p464,2,Cambiar de empleo
+2023_completa,p464,3,Crear su propia empresa o mejorar el manejo de ella
+2023_completa,p464,4,Mejorar su desempeño laboral
+2023_completa,p464,5,Continuar con sus estudios
+2023_completa,p464,6,Fue exigencia de la empresa
+2023_completa,p464,7,Otra
+2023_completa,p465,1,Conseguir empleo
+2023_completa,p465,2,Cambiar de empleo
+2023_completa,p465,3,Crear su propia empresa o mejorar el manejo de ella
+2023_completa,p465,4,Mejorar su desempeño laboral
+2023_completa,p465,5,Otra
+2023_completa,p465,6,Nada
+2023_completa,p466,1,Certificado de aprobación
+2023_completa,p466,2,Certificado de participación
+2023_completa,p466,3,Otro
+2023_completa,p466,4,No sabe
+2023_completa,p466,5,Ninguno
+2023_completa,p467,1,No reporta ningún beneficio
+2023_completa,p467,2,La oferta actual de cursos no le parece interesante
+2023_completa,p467,3,"Falta de recursos (dinero, tiempo, recursos físicos por ejem. computador)"
+2023_completa,p467,4,Falta de cupos
+2023_completa,p467,5,Desconoce la oferta de cursos
+2023_completa,p467,6,Se considera muy joven o muy viejo
+2023_completa,p467,7,Asiste a colegio o universidad
+2023_completa,p467,8,Otra
+2023_completa,p468,1,Si
+2023_completa,p468,2,No
+2023_completa,p469,1,Si
+2023_completa,p469,2,No
+2023_completa,p469,3,No conoce el proceso
+2023_completa,p9380,1,Si
+2023_completa,p9380,2,No
+2023_completa,p9390,1,Cantidad:
+2023_completa,p9390,2,No sabe
+2023_completa,p3102s2,1,Enero
+2023_completa,p3102s2,2,Febrero
+2023_completa,p3102s2,3,Marzo
+2023_completa,p3102s2,4,Abril
+2023_completa,p3102s2,5,Mayo
+2023_completa,p3102s2,6,Junio
+2023_completa,p3102s2,7,Julio
+2023_completa,p3102s2,8,Agosto
+2023_completa,p3102s2,9,Septiembre
+2023_completa,p3102s2,10,Octubre
+2023_completa,p3102s2,11,Noviembre
+2023_completa,p3102s2,12,Diciembre
+2023_completa,p3102s2,98,No sabe
+2023_completa,p6074,1,Si
+2023_completa,p756,1,Aquí en este municipio
+2023_completa,p756s3,1,Estados Unidos
+2023_completa,p755,1,No había nacido
+2023_completa,p755s3,1,Estados Unidos
+2023_completa,p754,1,¿La cabecera municipal (donde está la alcaldía)?
+2023_completa,p753,1,No había nacido
+2023_completa,p753s3,1,Estados Unidos
+2023_completa,p752,1,¿La cabecera municipal (donde está la alcaldía)?
+2023_completa,p1662,1,Trabajo
+2023_completa,p400,1,Trabajando
+2023_completa,p400,2,Buscando trabajo
+2023_completa,p400,3,Estudiando
+2023_completa,p400,4,Oficios del hogar
+2023_completa,p400,5,Incapacitado permanente para trabajar
+2023_completa,p400,6,Otra actividad
+2023_completa,p3564,1,Si
+2023_completa,p401,1,Si
+2023_completa,p401,2,No
+2023_completa,p402,1,Si
+2023_completa,p402,2,No
+2023_completa,p403,1,Si
+2023_completa,p403,2,No
+2023_completa,p404,1,Si
+2023_completa,p404,2,No
+2023_completa,p405,1,Debe costearse el estudio
+2023_completa,p405,2,Debe ayudar con los gastos de la casa
+2023_completa,p405,3,Debe participar en la actividad económica de la familia
+2023_completa,p405,4,El trabajo lo forma y lo hace honrado
+2023_completa,p405,5,El trabajo lo aleja de los vicios
+2023_completa,p405,6,Le gusta trabajar para tener su propio dinero
+2023_completa,p405,7,"Otra razón, ¿cuál?"
+2023_completa,p408,1,Obrero o empleado
+2023_completa,p408,3,Empleado doméstico
+2023_completa,p408,4,Trabajador por cuenta propia
+2023_completa,p408,6,Trabajador familiar sin remuneración
+2023_completa,p408,7,Jornalero o Peón
+2023_completa,p408,8,"Otro, ¿cuál?"
+2023_completa,p410,1,Si
+2023_completa,p410,2,No
+2023_completa,p411,1,Si
+2023_completa,p411,2,No
+2023_completa,p412,1,Si
+2023_completa,p412,2,No
+2023_completa,p420,1,En esta vivienda
+2023_completa,p420,2,En otras viviendas
+2023_completa,p420,3,En kiosco - caseta
+2023_completa,p420,4,En un vehículo
+2023_completa,p420,5,De puerta en puerta
+2023_completa,p420,6,Sitio al descubierto en la calle (ambulante y estacionario)
+2023_completa,p420,7,"Local fijo, oficina, fábrica, etc."
+2023_completa,p420,8,"En el campo o área rural, mar o río."
+2023_completa,p420,9,En una obra en construcción
+2023_completa,p420,10,En una mina o cantera
+2023_completa,p420,11,Otro
+2023_completa,p3131s1,1,Si
+2023_completa,p3131s1,2,No
+2023_completa,p3131s2,1,Si
+2023_completa,p3131s2,2,No
+2023_completa,p3131s3,1,Si
+2023_completa,p3131s3,2,No
+2023_completa,p3132s1,1,Si
+2023_completa,p3132s1,2,No
+2023_completa,p3132s2,1,Si
+2023_completa,p3132s2,2,No
+2023_completa,p3132s3,1,Si
+2023_completa,p3132s3,2,No
+2023_completa,p3133s1,1,Si
+2023_completa,p3133s1,2,No
+2023_completa,p3133s2,1,Si
+2023_completa,p3133s2,2,No
+2023_completa,p3133s3,1,Si
+2023_completa,p3133s3,2,No
+2023_completa,p3134s1,1,Si
+2023_completa,p3134s1,2,No
+2023_completa,p3134s2,1,Si
+2023_completa,p3134s2,2,No
+2023_completa,p3134s3,1,Si
+2023_completa,p3134s3,2,No
+2023_completa,p3135s1,1,Si
+2023_completa,p3135s1,2,No
+2023_completa,p3135s2,1,Si
+2023_completa,p3135s2,2,No
+2023_completa,p3135s3,1,Si
+2023_completa,p3135s3,2,No
+2023_completa,p3136s1,1,Si
+2023_completa,p3136s1,2,No
+2023_completa,p3136s2,1,Si
+2023_completa,p3136s2,2,No
+2023_completa,p3136s3,1,Si
+2023_completa,p3136s3,2,No
+2023_completa,p3137,1,Si
+2023_completa,p3137,2,No
+2023_completa,p3138,1,Si
+2023_completa,p3138,2,No
+2023_completa,p3139,1,Si
+2023_completa,p3139,2,No
+2023_completa,p3141,1,Si
+2023_completa,p3141,2,No
+2023_completa,p3142,1,Si
+2023_completa,p3142,2,No
+2023_completa,p3143,1,Si
+2023_completa,p3143,2,No
+2023_completa,p3144,1,Si
+2023_completa,p3144,2,No
+2023_completa,p3145,1,Si
+2023_completa,p3145,2,No
+2023_completa,p3502,1,Si
+2023_completa,p3502,2,No
+2023_completa,p3503,1,Si
+2023_completa,p3503,2,No
+2023_completa,p3504,1,Si
+2023_completa,p3504,2,No
+2023_completa,p423,1,Sus padres tienen que trabajar
+2023_completa,p423,2,No hay otra persona quien los haga
+2023_completa,p423,3,Tiene que colaborar en el hogar
+2023_completa,p423,4,Debe aprender a hacerlos
+2023_completa,p423,5,Por herencia o tradición
+2023_completa,p423,6,"Otra razón, ¿cuál?"
+2023_completa,p5998,1,Cédula de ciudadanía
+2023_completa,p5998,2,Cédula de extranjería
+2023_completa,p5998,3,Tarjeta de identidad
+2023_completa,p5998,4,Pasaporte
+2023_completa,p5998,5,Registro civil
+2023_completa,p5998,6,Otro
+2023_completa,p5998,7,No tiene
+2023_completa,p3270,1,Teléfono fijo:
+2023_completa,p3270,2,Teléfono celular:
+2025,p4005,1,Casa
+2025,p4010,1,"Ladrillo, bloque, material prefabricado, piedra"
+2025,p4020,1,"Tierra, arena"
+2025,p4030s1,1,Si
+2025,p4030s1,2,No
+2025,p4030s2,1,Si
+2025,p4030s2,2,No
+2025,p4030s3,1,Si
+2025,p4030s3,2,No
+2025,p4030s4,1,Si
+2025,p4030s4,2,No
+2025,p4030s5,1,Si
+2025,p4030s5,2,No
+2025,p5020,1,Inodoro conectado a alcantarillado
+2025,p5020,2,Inodoro conectado a pozo séptico
+2025,p5020,3,Inodoro sin conexión
+2025,p5020,4,Letrina
+2025,p5020,5,Bajamar
+2025,p5020,6,No tiene servicio sanitario
+2025,p5030,1,De uso exclusivo de las personas del hogar
+2025,p5030,2,Compartido con personas de otros hogares
+2025,p5040,1,Por recolección pública o privada
+2025,p5040,2,"La tiran a un río, quebrada, caño o laguna"
+2025,p5040,3,"La tiran a un patio, lote, zanja o baldío"
+2025,p5040,4,La queman o entierran
+2025,p5040,5,La eliminan de otra forma
+2025,p5050,1,De acueducto por tubería
+2025,p5050,2,De otra fuente por tubería
+2025,p5050,3,De pozo con bomba
+2025,p5050,4,"De pozo sin bomba, aljibe, jagüey o barreno"
+2025,p5050,5,Aguas lluvias
+2025,p5050,6,"Rio, quebrada, nacimiento o manantial"
+2025,p5050,7,De pila pública
+2025,p5050,8,Carrotanque
+2025,p5050,9,Aguatero
+2025,p5050,10,Agua embotellada o en bolsa
+2025,p5070,1,En un cuarto usado sólo para cocinar?
+2025,p5070,2,En un cuarto usado también para dormir?
+2025,p5070,3,En una sala comedor con lavaplatos?
+2025,p5070,4,En una sala comedor sin lavaplatos?
+2025,p5070,5,"En un patio, corredor, enramada, al aire libre?"
+2025,p5070,6,"En ninguna parte, no preparan alimentos?"
+2025,p5080,1,Electricidad
+2025,p5080,2,"Petróleo, gasolina, kerosene, alcohol"
+2025,p5080,3,Gas natural conectado a red pública
+2025,p5080,4,Gas propano/GLP (cilindro o pipeta)
+2025,p5080,5,"Leña, madera o carbón de leña"
+2025,p5080,6,Carbón mineral
+2025,p5080,7,Materiales de desecho
+2025,p5090,1,"Propia, totalmente pagada"
+2025,p5090,2,"Propia, la están pagando"
+2025,p5090,3,En arriendo o subarriendo
+2025,p5090,4,En usufructo
+2025,p5090,5,Posesión sin título
+2025,p5090,6,Propiedad colectiva
+2025,p5090,7,Otra
+2025,p5222s1,1,Cuenta corriente
+2025,p5222s2,1,Cuenta de ahorros
+2025,p5222s3,1,CDT (Certificado de depósito a término)
+2025,p5222s4,1,Préstamo para compra de vivienda
+2025,p5222s5,1,Préstamo para compra de vehículo
+2025,p5222s6,1,Préstamo de libre inversión
+2025,p5222s7,1,Tarjeta de crédito
+2025,p5222s11,1,"Plataforma móvil (Daviplata, Bancolombia a la mano, Nequi, Movii, entre otros)"
+2025,p5222s8,1,Otro
+2025,p5222s9,1,Ninguno
+2025,p5222s10,1,No sabe
+2025,regis,01,Registro de vivienda y hogares
+2025,dpto,05,ANTIOQUIA
+2025,area,05,MEDELLIN A.M.
+2025,clase,1,Cabecera
+2025,pob_may18,1,Indicador de fuerza de trabajo
+2025,pt,1,Indicador de fuerza de trabajo
+2025,p3038,1,Hombres
+2025,p3038,2,Mujeres
+2025,p3038,3,Ambos sexos
+2025,p3038,4,Otro
+2025,p3039,1,Hombre
+2025,p3039,2,Mujer
+2025,p3039,3,"Persona no binaria (ni hombre, ni mujer)"
+2025,p3039,4,Prefiere identicarse de otra forma
+2025,p3271,1,Masculino
+2025,p3271,2,Femenino
+2025,p6050,1,Jefe (a) del hogar
+2025,p6050,2,"Pareja, esposo(a), cónyuge, compañero(a)"
+2025,p6050,3,"Hijo(a), hijastro(a)"
+2025,p6050,4,Padre o madre
+2025,p6050,5,Suegro(a)
+2025,p6050,6,Hermano(a) o hermanastro(a)
+2025,p6050,7,Yerno o nuera
+2025,p6050,8,Nieto(a)
+2025,p6050,9,Otro pariente
+2025,p6050,10,Empleado(a) del servicio doméstico y sus parientes
+2025,p6050,11,Pensionista
+2025,p6050,12,Trabajador
+2025,p6050,13,Otro no pariente
+2025,p6083,1,Sí
+2025,p6083,2,No
+2025,p6083,3,Fallecida
+2025,p6081,1,Sí
+2025,p6081,2,No
+2025,p6081,3,Fallecido
+2025,p2057,1,Sí
+2025,p2057,2,No
+2025,p2057,9,No informa
+2025,p2059,1,Sí
+2025,p2059,2,No
+2025,p2059,9,No informa
+2025,p2061,1,Sí
+2025,p2061,2,No
+2025,p2061,9,No informa
+2025,p6080,1,Indígena
+2025,p6080,2,Gitano (a) o Rrom
+2025,p6080,3,"Raizal del Archipiélago de San Andrés, Providencia y Santa Catalina"
+2025,p6080,4,Palenquero(a) de San Basilio
+2025,p6080,5,"Negro(a), mulato(a), afrodescendiente, afrocolombiano(a)"
+2025,p6080,6,Ningún grupo étnico
+2025,p6070,1,No está casado (a) y vive en pareja hace menos de dos años
+2025,p6070,2,No está casado (a) y vive en pareja hace dos años o más
+2025,p6070,3,Está casado (a)
+2025,p6070,4,Está separado (a) o divorciado (a)
+2025,p6070,5,Está viudo (a)
+2025,p6070,6,Está soltero (a)
+2025,p6071,1,Si
+2025,p6071,2,No
+2025,p6090,1,Si
+2025,p6090,2,No
+2025,p6090,9,"No sabe, no informa"
+2025,p6100,1,Contributivo (EPS)?
+2025,p6100,2,"Especial ? (Fuerzas Armadas, Ecopetrol, universidades públicas)"
+2025,p6100,3,Subsidiado? (EPS-S)
+2025,p6100,9,"No sabe, no informa"
+2025,p6110,1,"..., paga una parte y otra la empresa o patrón"
+2025,p6110,2,Le descuentan de la pensión
+2025,p6110,3,"..., paga la totalidad de la afiliación"
+2025,p6110,4,Paga completamente la empresa o patrón donde trabaja o trabajó
+2025,p6110,5,"No paga, es beneficiario"
+2025,p6110,9,"No sabe, no informa"
+2025,p1906s1,1,No puede hacerlo
+2025,p1906s1,2,"Sí, con mucha dificultad"
+2025,p1906s1,3,"Sí, con alguna dificultad"
+2025,p1906s1,4,Sin dificultad
+2025,p1906s2,1,No puede hacerlo
+2025,p1906s2,2,"Sí, con mucha dificultad"
+2025,p1906s2,3,"Sí, con alguna dificultad"
+2025,p1906s2,4,Sin dificultad
+2025,p1906s3,1,No puede hacerlo
+2025,p1906s3,2,"Sí, con mucha dificultad"
+2025,p1906s3,3,"Sí, con alguna dificultad"
+2025,p1906s3,4,Sin dificultad
+2025,p1906s4,1,No puede hacerlo
+2025,p1906s4,2,"Sí, con mucha dificultad"
+2025,p1906s4,3,"Sí, con alguna dificultad"
+2025,p1906s4,4,Sin dificultad
+2025,p1906s5,1,No puede hacerlo
+2025,p1906s5,2,"Sí, con mucha dificultad"
+2025,p1906s5,3,"Sí, con alguna dificultad"
+2025,p1906s5,4,Sin dificultad
+2025,p1906s6,1,No puede hacerlo
+2025,p1906s6,2,"Sí, con mucha dificultad"
+2025,p1906s6,3,"Sí, con alguna dificultad"
+2025,p1906s6,4,Sin dificultad
+2025,p1906s7,1,No puede hacerlo
+2025,p1906s7,2,"Sí, con mucha dificultad"
+2025,p1906s7,3,"Sí, con alguna dificultad"
+2025,p1906s7,4,Sin dificultad
+2025,p1906s8,1,No puede hacerlo
+2025,p1906s8,2,"Sí, con mucha dificultad"
+2025,p1906s8,3,"Sí, con alguna dificultad"
+2025,p1906s8,4,Sin dificultad
+2025,p6160,1,Si
+2025,p6160,2,No
+2025,p6170,1,Si
+2025,p6170,2,No
+2025,p3041,1,Pública
+2025,p3041,2,Privada
+2025,p3042,1,Ninguno
+2025,p3042,2,Preescolar
+2025,p3042,3,Básica primaria (1o - 5o)
+2025,p3042,4,Básica secundaria (6o - 9o)
+2025,p3042,5,Media académica (Bachillerato clásico)
+2025,p3042,6,Media técnica (Bachillerato técnico)
+2025,p3042,7,Normalista
+2025,p3042,8,Técnica profesional
+2025,p3042,9,Tecnológica
+2025,p3042,10,Universitaria
+2025,p3042,11,Especialización
+2025,p3042,12,Maestría
+2025,p3042,13,Doctorado
+2025,p3042,99,"No sabe, no informa"
+2025,p3042s1,0,Ninguno
+2025,p3042s1,1,Grado uno
+2025,p3042s1,2,Segundo
+2025,p3042s1,3,Tercero
+2025,p3042s1,4,Cuarto
+2025,p3042s1,5,Quinto
+2025,p3042s1,6,Sexto
+2025,p3042s1,7,Septimo
+2025,p3042s1,8,Octavo
+2025,p3042s1,9,Noveno
+2025,p3042s1,10,Decimo
+2025,p3042s1,11,Once
+2025,p3042s1,12,12
+2025,p3042s1,14,14
+2025,p3043,1,Ninguno
+2025,p3043,2,Media académica (Bachillerato clásico)
+2025,p3043,3,Media técnica (Bachillerato técnico)
+2025,p3043,4,Normalista
+2025,p3043,5,Técnica profesional
+2025,p3043,6,Tecnológica
+2025,p3043,7,Universitaria
+2025,p3043,8,Especialización
+2025,p3043,9,Maestría
+2025,p3043,10,Doctorado
+2025,p3043,99,"No sabe, no informa"
+2025,regis,10,Registro de personas
+2025,ft,1,Indicador de fuerza de trabajo
+2025,fft,1,Indicador de fuerza de trabajo
+2025,pet,1,Indicador de población en edad de trabajar
+2025,p6240,1,Trabajando
+2025,p6240s2,1,Si
+2025,p6250,1,Si
+2025,p6260,1,Si
+2025,p6260s1,1,"Enfermedad, permiso o licencia"
+2025,p6260s2,1,Hasta 4 meses
+2025,p6270,1,Si
+2025,p6280,1,Si
+2025,p3362s1,1,"Pidió ayuda a familiares, amigos, colegas"
+2025,p3362s2,1,"Visitó, llevó o envió hojas de vida a empresas o empleadores."
+2025,p3362s3,1,"Hizo uso de los servicios de agencias o bolsas de empleo, Cajas de Compensación Familiar, SENA, Entes Territoriales (Servicio Público de Empleo - SPE)"
+2025,p3362s4,1,Puso o consultó avisos clasificados.
+2025,p3362s5,1,Se presentó a convocatorias.
+2025,p3362s6,1,Hizo preparativos para iniciar un negocio
+2025,p3362s7,1,Otro medio
+2025,p3362s8,1,"No sabe, no informa."
+2025,p6300,1,Si
+2025,p6310,1,Ya encontró trabajo
+2025,p6320,1,Si
+2025,p6330,1,Si
+2025,p6340,1,Si
+2025,p6351,1,Si
+2025,regis,50,Registro de fuerza de trabajo
+2025,p6440,1,Si
+2025,p6440,2,No
+2025,p6450,1,Verbal
+2025,p6450,2,Escrito
+2025,p6450,9,"No sabe, no informa"
+2025,p6460,1,A término Indefinido
+2025,p6460,2,A término fijo
+2025,p6460,9,"No sabe, no informa"
+2025,p6400,1,Si
+2025,p6400,2,No
+2025,p6400,9,"No sabe, no informa"
+2025,p6410,1,Una empresa de servicios temporales
+2025,p6410,2,Una cooperativa de trabajo asociado
+2025,p6410,3,Una empresa asociativa de trabajo
+2025,p6410,4,Otra
+2025,p6422,1,Si
+2025,p6422,2,No
+2025,p6424s1,1,Si
+2025,p6424s1,2,No
+2025,p6424s2,1,Si
+2025,p6424s2,2,No
+2025,p6424s3,1,Si
+2025,p6424s3,2,No
+2025,p6424s5,1,Si
+2025,p6424s5,2,No
+2025,p6430,1,Obrero o empleado de empresa particular
+2025,p6430,2,Obrero o empleado del gobierno
+2025,p6430,3,Empleado doméstico
+2025,p6430,4,Trabajador por cuenta propia
+2025,p6430,5,Patrón o empleador
+2025,p6430,6,Trabajador familiar sin remuneración
+2025,p6430,7,Jornalero o Peón
+2025,p6430,8,Otro
+2025,p3045s1,1,Si
+2025,p3045s1,2,No
+2025,p3045s1,9,"No sabe, no informa"
+2025,p3045s2,1,Si
+2025,p3045s2,2,No
+2025,p3045s2,9,"No sabe, no informa"
+2025,p3045s3,1,Si
+2025,p3045s3,2,No
+2025,p3045s3,9,"No sabe, no informa"
+2025,p3046,1,Si
+2025,p3046,2,No
+2025,p3046,9,"No sabe, no informa"
+2025,p3363,1,"Pidió ayuda a familiares, amigos, colegas"
+2025,p3363,2,"Visitó, llevó o envió hojas de vida a empresas o empleadores"
+2025,p3363,3,"Hizo uso de los servicios de agencias o bolsas de empleo, Cajas de Compensación Familiar, SENA, Entes Territoriales (Servicio Público de Empleo - SPE)"
+2025,p3363,4,Puso o consultó avisos clasificados
+2025,p3363,5,Se presentó a convocatorias
+2025,p3363,6,Otro medio
+2025,p3363,9,"No sabe, no informa"
+2025,p9440,1,Si
+2025,p9440,2,No
+2025,p3364,1,Si
+2025,p3364,2,No
+2025,p3364,9,"No sabe, no informa"
+2025,p6510,1,Si
+2025,p6510,2,No
+2025,p6510,9,"No sabe, no informa"
+2025,p6510s2,1,Si
+2025,p6510s2,2,No
+2025,p6590,1,Si
+2025,p6590,2,No
+2025,p6590,9,"No sabe, no informa"
+2025,p6600,1,Si
+2025,p6600,2,No
+2025,p6600,9,"No sabe, no informa"
+2025,p6610,1,Si
+2025,p6610,2,No
+2025,p6610,9,"No sabe, no informa"
+2025,p6620,1,Si
+2025,p6620,2,No
+2025,p6620,9,"No sabe, no informa"
+2025,p6585s1,1,Si
+2025,p6585s1,2,No
+2025,p6585s1,9,"No sabe, no informa"
+2025,p6585s1a2,1,Si
+2025,p6585s1a2,2,No
+2025,p6585s2,1,Si
+2025,p6585s2,2,No
+2025,p6585s2,9,"No sabe, no informa"
+2025,p6585s2a2,1,Si
+2025,p6585s2a2,2,No
+2025,p6585s3,1,Si
+2025,p6585s3,2,No
+2025,p6585s3,9,"No sabe, no informa"
+2025,p6585s3a2,1,Si
+2025,p6585s3a2,2,No
+2025,p6585s4,1,Si
+2025,p6585s4,2,No
+2025,p6585s4,9,"No sabe, no informa"
+2025,p6585s4a2,1,Si
+2025,p6585s4a2,2,No
+2025,p6545,1,Si
+2025,p6545,2,No
+2025,p6545,9,"No sabe, no informa"
+2025,p6545s2,1,Si
+2025,p6545s2,2,No
+2025,p6580,1,Si
+2025,p6580,2,No
+2025,p6580,9,"No sabe, no informa"
+2025,p6580s2,1,Si
+2025,p6580s2,2,No
+2025,p6630s1,1,Si
+2025,p6630s1,2,No
+2025,p6630s2,1,Si
+2025,p6630s2,2,No
+2025,p6630s3,1,Si
+2025,p6630s3,2,No
+2025,p6630s4,1,Si
+2025,p6630s4,2,No
+2025,p6630s6,1,Si
+2025,p6630s6,2,No
+2025,p6640,1,Si
+2025,p6640,2,No
+2025,p1800,1,Si
+2025,p1800,2,No
+2025,p1802,1,"A una sola empresa, negocio, hogar o intermediario"
+2025,p1802,2,"A varias empresas, negocios, hogares o intermediarios"
+2025,p1802,3,Directamente al público
+2025,p1802,4,"No sabe, no informa"
+2025,p3047,1,Usted
+2025,p3047,2,Usted y sus socios
+2025,p3047,3,Quien lo contrató
+2025,p3047,4,Su cliente o proveedor principal
+2025,p3048,1,Usted
+2025,p3048,2,Usted y sus socios
+2025,p3048,3,Quien lo contrató
+2025,p3048,4,Su cliente o proveedor principal
+2025,p3049,1,Usted
+2025,p3049,2,Usted y sus socios
+2025,p3049,3,Quien lo contrató
+2025,p3049,4,Su cliente o proveedor principal
+2025,p6765,1,Trabajó por honorarios o prestación de servicios?
+2025,p6765,2,Trabajó por obra?
+2025,p6765,3,"Trabajó por piezas o a destajo? (Satelite, maquila, etc)"
+2025,p6765,4,Trabajó por comisión únicamente?
+2025,p6765,5,Trabajó vendiendo por catálogo?
+2025,p6765,6,"Trabajó en su oficio? (plomero, taxista, doméstica por días, etc)"
+2025,p6765,7,"Tiene un negocio de industria, comercio, servicios o una finca?"
+2025,p6765,8,Otro?
+2025,p3365,1,Si
+2025,p3365,2,No
+2025,p3365,9,"No sabe, no informa"
+2025,p3054,1,Si
+2025,p3054,2,No
+2025,p3054,9,"No sabe, no informa"
+2025,p3055,1,Si
+2025,p3055,2,No
+2025,p3055,9,"No sabe, no informa"
+2025,p3056,1,"Producción, compra y venta de mercancías o prestación de servicios"
+2025,p3056,2,"Producción / extracción (agricultura, pesca, minas, etc.) de bienes agropecuarios"
+2025,p3063,1,Si
+2025,p3063,2,No
+2025,p3063,9,"No sabe, no informa"
+2025,p3064,1,Si
+2025,p3064,2,No
+2025,p3064,9,"No sabe, no informa"
+2025,p3065,1,Si
+2025,p3065,2,No
+2025,p3065,9,"No sabe, no informa"
+2025,p3066,1,Si
+2025,p3066,2,No
+2025,p3066,9,"No sabe, no informa"
+2025,p3067,1,Si
+2025,p3067,2,No
+2025,p3067s1,1,Si
+2025,p3067s1,2,No
+2025,p6775,1,Si
+2025,p6775,2,No
+2025,p6775,3,No aplica
+2025,p6775,9,No sabe
+2025,p3068,1,Si
+2025,p3068,2,No
+2025,p3068,3,"No sabe, no informa"
+2025,p6780,1,Ocasional (De vez en cuando)?
+2025,p6780,2,"Estacional ? (En ciertas epocas del año, cosechas, temporadas)"
+2025,p6780,3,Permanente?
+2025,p6780,4,Otro?
+2025,p1879,1,No encontró trabajo como asalariado
+2025,p1879,2,Por despido
+2025,p1879,3,Más independencia
+2025,p1879,4,Horario de trabajo más flexible
+2025,p1879,5,Se considera muy joven o muy viejo
+2025,p1879,6,Empezó su empresa o negocio
+2025,p1879,7,Trabaja en un negocio familiar
+2025,p1879,8,Mayor nivel de ingreso
+2025,p1879,9,Por tradición familiar
+2025,p1879,10,Considera que no tiene los estudios necesarios
+2025,p1879,11,Otro
+2025,p1805,1,Si
+2025,p1805,2,No
+2025,p6810,1,Es lo único que ha conseguido pero quiere trabajar más horas
+2025,p6810,2,Es la jornada que se ajusta a sus necesidades
+2025,p6810,3,Otra razón
+2025,p6830,1,"Enfermedad, permiso o licencia"
+2025,p6830,2,Festivos
+2025,p6830,3,Vacaciones
+2025,p6830,4,Capacitación
+2025,p6830,5,Suspensión o terminación del empleo
+2025,p6830,6,Reducción de la actividad económica de la empresa
+2025,p6830,7,Otro
+2025,p3069,1,Trabaja solo
+2025,p3069,2,2 a 3 personas
+2025,p3069,3,4 a 5 personas
+2025,p3069,4,6 a 10 personas
+2025,p3069,5,11 a 19 personas
+2025,p3069,6,20 a 30 personas
+2025,p3069,7,31 a 50 personas
+2025,p3069,8,51 a 100 personas
+2025,p3069,9,101 a 200 personas
+2025,p3069,10,201 o más personas
+2025,p6880,1,En esta vivienda
+2025,p6880,2,En otras viviendas
+2025,p6880,3,En kiosco - caseta
+2025,p6880,4,En un vehículo
+2025,p6880,5,De puerta en puerta
+2025,p6880,6,Sitio al descubierto en la calle (ambulante y estacionario)
+2025,p6880,7,"Local fijo, oficina, fábrica, etc."
+2025,p6880,8,"En el campo o área rural, mar o río."
+2025,p6880,9,En una obra en construcción
+2025,p6880,10,En una mina o cantera
+2025,p6880,11,Otro
+2025,p6915,1,Es afiliado como cotizante a un régimen contributivo de salud (EPS)
+2025,p6915,2,Es afiliado a un régimen subsidiado de salud
+2025,p6915,3,Es beneficiario de un afiliado
+2025,p6915,4,Con ahorros personales
+2025,p6915,5,Con ayudas de los hijos o familiares
+2025,p6915,6,Con otro tipo de seguro o cubrimiento
+2025,p6915,7,Pidiendo dinero prestado
+2025,p6915,8,Vendería su vivienda o bienes del hogar
+2025,p6915,9,Empeñaría bienes del hogar
+2025,p6915,10,No lo ha considerado
+2025,p6915,11,No tiene recursos
+2025,p6915,12,Otro medio
+2025,p6920,1,Si
+2025,p6920,2,No
+2025,p6920,3,Ya es pensionado
+2025,p6930,1,Fondo privado?
+2025,p6930,2,Colpensiones?
+2025,p6930,3,"Régimenes especiales ? (FFMM, Ecopetrol, etc.)"
+2025,p6930,4,"Fondo Subsidiado (Prosperar, etc.)?"
+2025,p6940,1,"..., paga una parte y otra la empresa o patrón"
+2025,p6940,2,"..., paga la totalidad de la afiliación"
+2025,p6940,3,Paga completamente la empresa o patrón
+2025,p6940,4,No paga
+2025,p6990,1,Si
+2025,p6990,2,No
+2025,p6990,9,"No sabe, no informa"
+2025,p9450,1,Si
+2025,p9450,2,No
+2025,p9450,9,"No sabe, no informa"
+2025,p7020,1,Si
+2025,p7020,2,No
+2025,p7028,1,Obrero o empleado de empresa particular
+2025,p7028,2,Obrero o empleado del gobierno
+2025,p7028,3,Empleado doméstico
+2025,p7028,4,Trabajador por cuenta propia
+2025,p7028,5,Patrón o empleador
+2025,p7028,6,Trabajador familiar sin remuneración
+2025,p7028,7,Jornalero o Peón
+2025,p7028,8,Otro
+2025,p1880,1,Terminó su contrato
+2025,p1880,2,Por quiebra o cierre de la empresa
+2025,p1880,3,Condiciones laborales insatisfactorias
+2025,p1880,4,Porque se jubiló
+2025,p1880,5,Lo despidieron
+2025,p1880,6,Por su edad
+2025,p1880,7,Reducción de personal
+2025,p1880,8,Renunció porque deseaba un empleo con mejores ingresos
+2025,p1880,9,"Renunció por razones personales (matrimonio, embarazo, responsabilidades familiares)"
+2025,p1880,10,Renunció para empezar su propio negocio
+2025,p1880,11,Renunció por motivos de salud
+2025,p1880,12,Renunció para estudiar
+2025,p1880,13,Otra
+2025,p7040,1,Si
+2025,p7040,2,No
+2025,p7050,1,Obrero o empleado de empresa particular
+2025,p7050,2,Obrero o empleado del gobierno
+2025,p7050,3,Empleado doméstico
+2025,p7050,4,Trabajador por cuenta propia
+2025,p7050,5,Patrón o empleador
+2025,p7050,6,Trabajador familiar sin remuneración
+2025,p7050,7,Jornalero o Peón
+2025,p7050,8,Otro
+2025,p7075,1,Trabaja solo
+2025,p7075,2,2 a 5 personas
+2025,p7075,3,6 a 10 personas
+2025,p7075,4,11 y más personas
+2025,p7077,1,En su vivienda
+2025,p7077,2,En otras viviendas
+2025,p7077,3,En kiosko - caseta
+2025,p7077,4,En un vehículo
+2025,p7077,5,De puerta en puerta
+2025,p7077,6,Sitio al descubierto en la calle
+2025,p7077,7,"Local fijo, oficina, fábrica, etc."
+2025,p7077,8,En el campo o área rural
+2025,p7090,1,Si
+2025,p7090,2,No
+2025,p7110,1,Si
+2025,p7110,2,No
+2025,p7120,1,Si
+2025,p7120,2,No
+2025,p7130,1,Si
+2025,p7130,2,No
+2025,p7140s1,1,Si
+2025,p7140s1,2,No
+2025,p7140s2,1,Si
+2025,p7140s2,2,No
+2025,p7140s3,1,Si
+2025,p7140s3,2,No
+2025,p7140s4,1,Si
+2025,p7140s4,2,No
+2025,p7140s5,1,Si
+2025,p7140s5,2,No
+2025,p7140s6,1,Si
+2025,p7140s6,2,No
+2025,p7140s7,1,Si
+2025,p7140s7,2,No
+2025,p7140s8,1,Si
+2025,p7140s8,2,No
+2025,p7140s9,1,Si
+2025,p7140s9,2,No
+2025,p7150,1,Si
+2025,p7150,2,No
+2025,p7160,1,Si
+2025,p7160,2,No
+2025,p7160,9,"No sabe, no informa"
+2025,p7170s1,1,Si
+2025,p7170s1,2,No
+2025,p7170s5,1,Si
+2025,p7170s5,2,No
+2025,p7170s6,1,Si
+2025,p7170s6,2,No
+2025,p7180,1,Si
+2025,p7180,2,No
+2025,p514,1,Si
+2025,p514,2,No
+2025,p515,1,Si
+2025,p515,2,No
+2025,p1881,1,Bus intermunicipal
+2025,p1881,2,Bus urbano
+2025,p1881,3,A pie
+2025,p1881,4,Metro
+2025,p1881,5,"Transporte articulado (Transmilenio, MIO y otros)"
+2025,p1881,6,Taxi
+2025,p1881,7,Transporte de la empresa
+2025,p1881,8,Automóvil de uso particular
+2025,p1881,9,"Lancha, planchón, canoa"
+2025,p1881,10,Caballo
+2025,p1881,11,Moto
+2025,p1881,12,Mototaxi
+2025,p1881,13,Bicicleta
+2025,p1881,14,No se desplaza
+2025,p1881,15,Otro
+2025,p7240,1,Cesantías?
+2025,regis,60,Registro de ocupados
+2025,p7280,1,Obrero o empleado de empresa particular
+2025,p7280,2,Obrero o empleado del gobierno
+2025,p7280,3,Empleado doméstico
+2025,p7280,4,Trabajador por cuenta propia
+2025,p7280,5,Patrón o empleador
+2025,p7280,6,Trabajador familiar sin remuneración
+2025,p7280,7,Jornalero o Peón
+2025,p7280,8,Otro
+2025,p744,1,Si
+2025,p744,2,No
+2025,p3074,1,Esta semana
+2025,p3074,2,En los próximos 15 días
+2025,p3074,3,Dentro del próximo mes
+2025,p3074,4,Dentro de los próximos 3 meses
+2025,p3074,5,No antes de 3 meses
+2025,p7430,1,Si
+2025,p7430,2,No
+2025,p7450,1,Por despido
+2025,p7450,2,Para dedicarse a estudiar
+2025,p7450,3,Responsabilidades familiares
+2025,p7450,4,Enfermedad o accidente
+2025,p7450,5,Jubilación o retiro
+2025,p7450,6,Condiciones de trabajo insatisfactorias
+2025,p7450,7,Cierre o dificultades de la empresa
+2025,p7450,8,Trabajo temporal terminado
+2025,p7450,9,Otra
+2025,p7350,1,Obrero o empleado de empresa particular
+2025,p7350,2,Obrero o empleado del gobierno
+2025,p7350,3,Empleado doméstico
+2025,p7350,4,Trabajador por cuenta propia
+2025,p7350,5,Patrón o empleador
+2025,p7350,6,Trabajador familiar sin remuneración
+2025,p7350,7,Jornalero o Peón
+2025,p7350,9,Otro
+2025,p7360,1,Trabaja solo
+2025,p7360,2,2 a 3 personas
+2025,p7360,3,4 a 5 personas
+2025,p7360,4,6 a 10 personas
+2025,p7360,5,11 a 19 personas
+2025,p7360,6,20 a 30 personas
+2025,p7360,7,31 a 50 personas
+2025,p7360,8,51 a 100 personas
+2025,p7360,9,101 a 200 personas
+2025,p7360,10,201 o más personas
+2025,p9460,1,Si
+2025,p9460,2,No
+2025,p9460,9,"No sabe, no informa"
+2025,p1519,1,Si
+2025,p1519,2,No
+2025,p1519,3,Ya es pensionado
+2025,p1883,1,Fondo privado ?
+2025,p1883,2,Colpensiones?
+2025,p1883,3,"Regímenes especiales ? ( Fuerzas militares, ecopetrol,etc )"
+2025,p1883,4,"Fondo subsidiado ? (Prosperar, etc)"
+2025,p7422,1,Si
+2025,p7422,2,No
+2025,regis,70,Registro de los no ocupados
+2025,p3076s1,1,Si
+2025,p3076s1,2,No
+2025,p3076s2,1,Si
+2025,p3076s2,2,No
+2025,p3076s3,1,Si
+2025,p3076s3,2,No
+2025,p3077s1,1,Si
+2025,p3077s1,2,No
+2025,p3077s2,1,Si
+2025,p3077s2,2,No
+2025,p3077s3,1,Si
+2025,p3077s3,2,No
+2025,p3078s1,1,Si
+2025,p3078s1,2,No
+2025,p3078s2,1,Si
+2025,p3078s2,2,No
+2025,p3078s3,1,Si
+2025,p3078s3,2,No
+2025,p3079s1,1,Si
+2025,p3079s1,2,No
+2025,p3079s2,1,Si
+2025,p3079s2,2,No
+2025,p3079s3,1,Si
+2025,p3079s3,2,No
+2025,p3081s1,1,Si
+2025,p3081s1,2,No
+2025,p3081s2,1,Si
+2025,p3081s2,2,No
+2025,p3081s3,1,Si
+2025,p3081s3,2,No
+2025,p3082s1,1,Si
+2025,p3082s1,2,No
+2025,p3082s2,1,Si
+2025,p3082s2,2,No
+2025,p3082s3,1,Si
+2025,p3082s3,2,No
+2025,p3083,1,Si
+2025,p3083,2,No
+2025,p3085,1,Si
+2025,p3085,2,No
+2025,p3086,1,El SENA
+2025,p3086,2,Una universidad
+2025,p3086,3,Un colegio
+2025,p3086,4,Otra institución educativa
+2025,p3087,1,Si
+2025,p3087,2,No
+2025,p3088,1,Si
+2025,p3088,2,No
+2025,p3089,1,Si
+2025,p3089,2,No
+2025,p3091,1,Si
+2025,p3091,2,No
+2025,p3092,1,Si
+2025,p3092,2,No
+2025,p3093,1,Si
+2025,p3093,2,No
+2025,p3094,1,Si
+2025,p3094,2,No
+2025,p3095,1,Si
+2025,p3095,2,No
+2025,p3096,1,Si
+2025,p3096,2,No
+2025,p3097,1,Si
+2025,p3097,2,No
+2025,p3098,1,Si
+2025,p3098,2,No
+2025,p3099,1,Si
+2025,p3099,2,No
+2025,p3101,1,Si
+2025,p3101,2,No
+2025,regis,80,Registro de otras formas de trabajo
+2025,p7495,1,Si
+2025,p7495,2,No
+2025,p7500s1,1,Si
+2025,p7500s1,2,No
+2025,p7500s1,9,"No sabe, no informa"
+2025,p7500s2,1,Si
+2025,p7500s2,2,No
+2025,p7500s2,9,"No sabe, no informa"
+2025,p7500s3,1,Si
+2025,p7500s3,2,No
+2025,p7500s3,9,"No sabe, no informa"
+2025,p7505,1,Si
+2025,p7505,2,No
+2025,p7510s1,1,Si
+2025,p7510s1,2,No
+2025,p7510s1,9,"No sabe, no informa"
+2025,p7510s2,1,Si
+2025,p7510s2,2,No
+2025,p7510s2,9,"No sabe, no informa"
+2025,p7510s3,1,Si
+2025,p7510s3,2,No
+2025,p7510s3,9,"No sabe, no informa"
+2025,p7510s5,1,Si
+2025,p7510s5,2,No
+2025,p7510s5,9,"No sabe, no informa"
+2025,p7510s6,1,Si
+2025,p7510s6,2,No
+2025,p7510s6,9,"No sabe, no informa"
+2025,p7510s7,1,Si
+2025,p7510s7,2,No
+2025,p7510s7,9,"No sabe, no informa"
+2025,p3367,1,Si
+2025,p3367,2,No
+2025,p3370,1,Si
+2025,p3370,2,No
+2025,p3370,9,"No sabe, no informa"
+2025,p3371,1,Si
+2025,p3371,2,No
+2025,p3371,9,"No sabe, no informa"
+2025,p3372,1,Si
+2025,p3372,2,No
+2025,p3372,9,"No sabe, no informa"
+2025,regis,90,Registro de otros ingresos e impuestos
+2025,p3373,1,Aquí en este municipio
+2025,p3373,2,En otro Municipio
+2025,p3373,3,En otro país:
+2025,p3373s3,004,Afganistán
+2025,p3373s3,008,Albania
+2025,p3373s3,276,Alemania
+2025,p3373s3,020,Andorra
+2025,p3373s3,024,Angola
+2025,p3373s3,660,Anguila
+2025,p3373s3,010,Antártida
+2025,p3373s3,028,Antigua y Barbuda
+2025,p3373s3,682,Arabia Saudita
+2025,p3373s3,012,Argelia
+2025,p3373s3,032,Argentina
+2025,p3373s3,051,Armenia
+2025,p3373s3,533,Aruba
+2025,p3373s3,036,Australia
+2025,p3373s3,040,Austria
+2025,p3373s3,031,Azerbaiyán
+2025,p3373s3,044,Bahamas
+2025,p3373s3,048,Bahrein
+2025,p3373s3,050,Bangladesh
+2025,p3373s3,052,Barbados
+2025,p3373s3,112,Belarús
+2025,p3373s3,056,Bélgica
+2025,p3373s3,084,Belice
+2025,p3373s3,204,Benin
+2025,p3373s3,060,Bermuda
+2025,p3373s3,064,Bhután
+2025,p3373s3,068,Bolivia (Estado Plurinacional de)
+2025,p3373s3,535,"Bonaire, San Eustaquio y Saba"
+2025,p3373s3,070,Bosnia y Herzegovina
+2025,p3373s3,072,Botswana
+2025,p3373s3,076,Brasil
+2025,p3373s3,096,Brunei Darussalam
+2025,p3373s3,100,Bulgaria
+2025,p3373s3,854,Burkina Faso
+2025,p3373s3,108,Burundi
+2025,p3373s3,132,Cabo Verde
+2025,p3373s3,116,Camboya
+2025,p3373s3,120,Camerún
+2025,p3373s3,124,Canadá
+2025,p3373s3,148,Chad
+2025,p3373s3,203,Chequia
+2025,p3373s3,152,Chile
+2025,p3373s3,156,China
+2025,p3373s3,344,"China, región administrativa especial de Hong Kong"
+2025,p3373s3,446,"China, región administrativa especial de Macao"
+2025,p3373s3,196,Chipre
+2025,p3373s3,170,Colombia
+2025,p3373s3,174,Comoras
+2025,p3373s3,178,Congo
+2025,p3373s3,188,Costa Rica
+2025,p3373s3,384,Côte d’Ivoire (Antiguo Costa de Marfil)
+2025,p3373s3,191,Croacia
+2025,p3373s3,192,Cuba
+2025,p3373s3,531,Curazao
+2025,p3373s3,208,Dinamarca
+2025,p3373s3,262,Djibouti
+2025,p3373s3,212,Dominica
+2025,p3373s3,218,Ecuador
+2025,p3373s3,818,Egipto
+2025,p3373s3,222,El Salvador
+2025,p3373s3,784,Emiratos Árabes Unidos
+2025,p3373s3,232,Eritrea
+2025,p3373s3,703,Eslovaquia
+2025,p3373s3,705,Eslovenia
+2025,p3373s3,724,España
+2025,p3373s3,275,Estado de Palestina
+2025,p3373s3,840,Estados Unidos de América
+2025,p3373s3,233,Estonia
+2025,p3373s3,748,Eswatini
+2025,p3373s3,231,Etiopía
+2025,p3373s3,643,Federación de Rusia
+2025,p3373s3,242,Fiji
+2025,p3373s3,608,Filipinas
+2025,p3373s3,246,Finlandia
+2025,p3373s3,250,Francia
+2025,p3373s3,266,Gabón
+2025,p3373s3,270,Gambia
+2025,p3373s3,268,Georgia
+2025,p3373s3,239,Georgia del Sur y las Islas Sandwich del Sur
+2025,p3373s3,288,Ghana
+2025,p3373s3,292,Gibraltar
+2025,p3373s3,308,Granada
+2025,p3373s3,300,Grecia
+2025,p3373s3,304,Groenlandia
+2025,p3373s3,312,Guadalupe
+2025,p3373s3,316,Guam
+2025,p3373s3,320,Guatemala
+2025,p3373s3,254,Guayana Francesa
+2025,p3373s3,831,Guernsey
+2025,p3373s3,324,Guinea
+2025,p3373s3,226,Guinea Ecuatorial
+2025,p3373s3,624,Guinea-Bissau
+2025,p3373s3,328,Guyana
+2025,p3373s3,332,Haití
+2025,p3373s3,340,Honduras
+2025,p3373s3,348,Hungría
+2025,p3373s3,356,India
+2025,p3373s3,360,Indonesia
+2025,p3373s3,364,Irán (República Islámica del)
+2025,p3373s3,368,Iraq
+2025,p3373s3,372,Irlanda
+2025,p3373s3,074,Isla Bouvet
+2025,p3373s3,162,Isla Christmas
+2025,p3373s3,833,Isla de Man
+2025,p3373s3,574,Isla Norfolk
+2025,p3373s3,352,Islandia
+2025,p3373s3,248,Islas Åland
+2025,p3373s3,136,Islas Caimán
+2025,p3373s3,166,Islas Cocos (Keeling)
+2025,p3373s3,184,Islas Cook
+2025,p3373s3,234,Islas Feroe
+2025,p3373s3,334,Islas Heard y McDonald
+2025,p3373s3,238,Islas Malvinas (Falkland)
+2025,p3373s3,580,Islas Marianas Septentrionales
+2025,p3373s3,584,Islas Marshall
+2025,p3373s3,581,Islas menores alejadas de Estados Unidos
+2025,p3373s3,090,Islas Salomón
+2025,p3373s3,744,Islas Svalbard y Jan Mayen
+2025,p3373s3,796,Islas Turcas y Caicos
+2025,p3373s3,092,Islas Vírgenes Británicas
+2025,p3373s3,850,Islas Vírgenes de los Estados Unidos
+2025,p3373s3,876,Islas Wallis y Futuna
+2025,p3373s3,376,Israel
+2025,p3373s3,380,Italia
+2025,p3373s3,388,Jamaica
+2025,p3373s3,392,Japón
+2025,p3373s3,832,Jersey
+2025,p3373s3,400,Jordania
+2025,p3373s3,398,Kazajstán
+2025,p3373s3,404,Kenya
+2025,p3373s3,417,Kirguistán
+2025,p3373s3,296,Kiribati
+2025,p3373s3,414,Kuwait
+2025,p3373s3,426,Lesotho
+2025,p3373s3,428,Letonia
+2025,p3373s3,422,Líbano
+2025,p3373s3,430,Liberia
+2025,p3373s3,434,Libia
+2025,p3373s3,438,Liechtenstein
+2025,p3373s3,440,Lituania
+2025,p3373s3,442,Luxemburgo
+2025,p3373s3,807,Macedonia del Norte
+2025,p3373s3,450,Madagascar
+2025,p3373s3,458,Malasia
+2025,p3373s3,454,Malawi
+2025,p3373s3,462,Maldivas
+2025,p3373s3,466,Malí
+2025,p3373s3,470,Malta
+2025,p3373s3,504,Marruecos
+2025,p3373s3,474,Martinica
+2025,p3373s3,480,Mauricio
+2025,p3373s3,478,Mauritania
+2025,p3373s3,175,Mayotte
+2025,p3373s3,484,México
+2025,p3373s3,583,Micronesia (Estados Federados de)
+2025,p3373s3,492,Mónaco
+2025,p3373s3,496,Mongolia
+2025,p3373s3,499,Montenegro
+2025,p3373s3,500,Montserrat
+2025,p3373s3,508,Mozambique
+2025,p3373s3,104,Myanmar
+2025,p3373s3,516,Namibia
+2025,p3373s3,520,Nauru
+2025,p3373s3,524,Nepal
+2025,p3373s3,558,Nicaragua
+2025,p3373s3,562,Níger
+2025,p3373s3,566,Nigeria
+2025,p3373s3,570,Niue
+2025,p3373s3,578,Noruega
+2025,p3373s3,540,Nueva Caledonia
+2025,p3373s3,554,Nueva Zelandia
+2025,p3373s3,512,Omán
+2025,p3373s3,528,Países Bajos (Reino de los)
+2025,p3373s3,586,Pakistán
+2025,p3373s3,585,Palau
+2025,p3373s3,591,Panamá
+2025,p3373s3,598,Papua Nueva Guinea
+2025,p3373s3,600,Paraguay
+2025,p3373s3,604,Perú
+2025,p3373s3,612,Pitcairn
+2025,p3373s3,258,Polinesia Francesa
+2025,p3373s3,616,Polonia
+2025,p3373s3,620,Portugal
+2025,p3373s3,630,Puerto Rico
+2025,p3373s3,634,Qatar
+2025,p3373s3,826,Reino Unido de Gran Bretaña e Irlanda del Norte
+2025,p3373s3,760,República Árabe Siria
+2025,p3373s3,140,República Centroafricana
+2025,p3373s3,410,República de Corea
+2025,p3373s3,498,República de Moldova
+2025,p3373s3,180,República Democrática del Congo
+2025,p3373s3,418,República Democrática Popular Lao
+2025,p3373s3,214,República Dominicana
+2025,p3373s3,408,República Popular Democrática de Corea
+2025,p3373s3,834,República Unida de Tanzanía
+2025,p3373s3,638,Reunión
+2025,p3373s3,642,Rumania
+2025,p3373s3,646,Rwanda
+2025,p3373s3,732,Sáhara Occidental
+2025,p3373s3,659,Saint Kitts y Nevis
+2025,p3373s3,882,Samoa
+2025,p3373s3,016,Samoa Americana
+2025,p3373s3,652,San Barthélemy
+2025,p3373s3,674,San Marino
+2025,p3373s3,663,San Martín (parte francesa)
+2025,p3373s3,534,San Martín (parte Holandesa)
+2025,p3373s3,666,San Pedro y Miquelón
+2025,p3373s3,670,San Vicente y las Granadinas
+2025,p3373s3,654,Santa Elena
+2025,p3373s3,662,Santa Lucía
+2025,p3373s3,336,Santa Sede
+2025,p3373s3,678,Santo Tomé y Príncipe
+2025,p3373s3,686,Senegal
+2025,p3373s3,688,Serbia
+2025,p3373s3,690,Seychelles
+2025,p3373s3,694,Sierra Leona
+2025,p3373s3,702,Singapur
+2025,p3373s3,706,Somalia
+2025,p3373s3,144,Sri Lanka
+2025,p3373s3,710,Sudáfrica
+2025,p3373s3,729,Sudán
+2025,p3373s3,728,Sudán del Sur
+2025,p3373s3,752,Suecia
+2025,p3373s3,756,Suiza
+2025,p3373s3,740,Suriname
+2025,p3373s3,764,Tailandia
+2025,p3373s3,762,Tayikistán
+2025,p3373s3,086,Territorio Británico del Océano Índico
+2025,p3373s3,260,Territorio de las Tierras Australes Francesas
+2025,p3373s3,626,Timor-Leste
+2025,p3373s3,768,Togo
+2025,p3373s3,772,Tokelau
+2025,p3373s3,776,Tonga
+2025,p3373s3,780,Trinidad y Tabago
+2025,p3373s3,788,Túnez
+2025,p3373s3,795,Turkmenistán
+2025,p3373s3,792,Türkiye (Turquía)
+2025,p3373s3,798,Tuvalu
+2025,p3373s3,804,Ucrania
+2025,p3373s3,800,Uganda
+2025,p3373s3,858,Uruguay
+2025,p3373s3,860,Uzbekistán
+2025,p3373s3,548,Vanuatu
+2025,p3373s3,862,Venezuela (República Bolivariana de)
+2025,p3373s3,704,Viet Nam
+2025,p3373s3,887,Yemen
+2025,p3373s3,894,Zambia
+2025,p3373s3,716,Zimbabwe
+2025,p3374,1,Colombiana
+2025,p3374,2,Colombiana y otra(s). Cúal(es)
+2025,p3374,3,No tiene nacionalidad Colombiana.
+2025,p3374s1 - p3374s2 - p3374s3,004,Afganistán
+2025,p3375,1,Sí
+2025,p3375,2,No
+2025,p3375,3,Siempre ha vivido en este país
+2025,p3375,9,"No sabe, no informa"
+2025,p3376,1,Sí
+2025,p3376,2,No
+2025,p3377,1,Sí
+2025,p3377,2,No
+2025,p3378,004,Afganistán
+2025,p3382,1,No había nacido
+2025,p3382,2,En este municipio
+2025,p3382,3,En otro Municipio
+2025,p3382,4,En otro país
+2025,p3382s3,004,Afganistán
+2025,p3382s3,008,Albania
+2025,p3382s3,276,Alemania
+2025,p3382s3,020,Andorra
+2025,p3382s3,024,Angola
+2025,p3382s3,660,Anguila
+2025,p3382s3,010,Antártida
+2025,p3382s3,028,Antigua y Barbuda
+2025,p3382s3,682,Arabia Saudita
+2025,p3382s3,012,Argelia
+2025,p3382s3,032,Argentina
+2025,p3382s3,051,Armenia
+2025,p3382s3,533,Aruba
+2025,p3382s3,036,Australia
+2025,p3382s3,040,Austria
+2025,p3382s3,031,Azerbaiyán
+2025,p3382s3,044,Bahamas
+2025,p3382s3,048,Bahrein
+2025,p3382s3,050,Bangladesh
+2025,p3382s3,052,Barbados
+2025,p3382s3,112,Belarús
+2025,p3382s3,056,Bélgica
+2025,p3382s3,084,Belice
+2025,p3382s3,204,Benin
+2025,p3382s3,060,Bermuda
+2025,p3382s3,064,Bhután
+2025,p3382s3,068,Bolivia (Estado Plurinacional de)
+2025,p3382s3,535,"Bonaire, San Eustaquio y Saba"
+2025,p3382s3,070,Bosnia y Herzegovina
+2025,p3382s3,072,Botswana
+2025,p3382s3,076,Brasil
+2025,p3382s3,096,Brunei Darussalam
+2025,p3382s3,100,Bulgaria
+2025,p3382s3,854,Burkina Faso
+2025,p3382s3,108,Burundi
+2025,p3382s3,132,Cabo Verde
+2025,p3382s3,116,Camboya
+2025,p3382s3,120,Camerún
+2025,p3382s3,124,Canadá
+2025,p3382s3,148,Chad
+2025,p3382s3,203,Chequia
+2025,p3382s3,152,Chile
+2025,p3382s3,156,China
+2025,p3382s3,344,"China, región administrativa especial de Hong Kong"
+2025,p3382s3,446,"China, región administrativa especial de Macao"
+2025,p3382s3,196,Chipre
+2025,p3382s3,170,Colombia
+2025,p3382s3,174,Comoras
+2025,p3382s3,178,Congo
+2025,p3382s3,188,Costa Rica
+2025,p3382s3,384,Côte d’Ivoire (Antiguo Costa de Marfil)
+2025,p3382s3,191,Croacia
+2025,p3382s3,192,Cuba
+2025,p3382s3,531,Curazao
+2025,p3382s3,208,Dinamarca
+2025,p3382s3,262,Djibouti
+2025,p3382s3,212,Dominica
+2025,p3382s3,218,Ecuador
+2025,p3382s3,818,Egipto
+2025,p3382s3,222,El Salvador
+2025,p3382s3,784,Emiratos Árabes Unidos
+2025,p3382s3,232,Eritrea
+2025,p3382s3,703,Eslovaquia
+2025,p3382s3,705,Eslovenia
+2025,p3382s3,724,España
+2025,p3382s3,275,Estado de Palestina
+2025,p3382s3,840,Estados Unidos de América
+2025,p3382s3,233,Estonia
+2025,p3382s3,748,Eswatini
+2025,p3382s3,231,Etiopía
+2025,p3382s3,643,Federación de Rusia
+2025,p3382s3,242,Fiji
+2025,p3382s3,608,Filipinas
+2025,p3382s3,246,Finlandia
+2025,p3382s3,250,Francia
+2025,p3382s3,266,Gabón
+2025,p3382s3,270,Gambia
+2025,p3382s3,268,Georgia
+2025,p3382s3,239,Georgia del Sur y las Islas Sandwich del Sur
+2025,p3382s3,288,Ghana
+2025,p3382s3,292,Gibraltar
+2025,p3382s3,308,Granada
+2025,p3382s3,300,Grecia
+2025,p3382s3,304,Groenlandia
+2025,p3382s3,312,Guadalupe
+2025,p3382s3,316,Guam
+2025,p3382s3,320,Guatemala
+2025,p3382s3,254,Guayana Francesa
+2025,p3382s3,831,Guernsey
+2025,p3382s3,324,Guinea
+2025,p3382s3,226,Guinea Ecuatorial
+2025,p3382s3,624,Guinea-Bissau
+2025,p3382s3,328,Guyana
+2025,p3382s3,332,Haití
+2025,p3382s3,340,Honduras
+2025,p3382s3,348,Hungría
+2025,p3382s3,356,India
+2025,p3382s3,360,Indonesia
+2025,p3382s3,364,Irán (República Islámica del)
+2025,p3382s3,368,Iraq
+2025,p3382s3,372,Irlanda
+2025,p3382s3,074,Isla Bouvet
+2025,p3382s3,162,Isla Christmas
+2025,p3382s3,833,Isla de Man
+2025,p3382s3,574,Isla Norfolk
+2025,p3382s3,352,Islandia
+2025,p3382s3,248,Islas Åland
+2025,p3382s3,136,Islas Caimán
+2025,p3382s3,166,Islas Cocos (Keeling)
+2025,p3382s3,184,Islas Cook
+2025,p3382s3,234,Islas Feroe
+2025,p3382s3,334,Islas Heard y McDonald
+2025,p3382s3,238,Islas Malvinas (Falkland)
+2025,p3382s3,580,Islas Marianas Septentrionales
+2025,p3382s3,584,Islas Marshall
+2025,p3382s3,581,Islas menores alejadas de Estados Unidos
+2025,p3382s3,090,Islas Salomón
+2025,p3382s3,744,Islas Svalbard y Jan Mayen
+2025,p3382s3,796,Islas Turcas y Caicos
+2025,p3382s3,092,Islas Vírgenes Británicas
+2025,p3382s3,850,Islas Vírgenes de los Estados Unidos
+2025,p3382s3,876,Islas Wallis y Futuna
+2025,p3382s3,376,Israel
+2025,p3382s3,380,Italia
+2025,p3382s3,388,Jamaica
+2025,p3382s3,392,Japón
+2025,p3382s3,832,Jersey
+2025,p3382s3,400,Jordania
+2025,p3382s3,398,Kazajstán
+2025,p3382s3,404,Kenya
+2025,p3382s3,417,Kirguistán
+2025,p3382s3,296,Kiribati
+2025,p3382s3,414,Kuwait
+2025,p3382s3,426,Lesotho
+2025,p3382s3,428,Letonia
+2025,p3382s3,422,Líbano
+2025,p3382s3,430,Liberia
+2025,p3382s3,434,Libia
+2025,p3382s3,438,Liechtenstein
+2025,p3382s3,440,Lituania
+2025,p3382s3,442,Luxemburgo
+2025,p3382s3,807,Macedonia del Norte
+2025,p3382s3,450,Madagascar
+2025,p3382s3,458,Malasia
+2025,p3382s3,454,Malawi
+2025,p3382s3,462,Maldivas
+2025,p3382s3,466,Malí
+2025,p3382s3,470,Malta
+2025,p3382s3,504,Marruecos
+2025,p3382s3,474,Martinica
+2025,p3382s3,480,Mauricio
+2025,p3382s3,478,Mauritania
+2025,p3382s3,175,Mayotte
+2025,p3382s3,484,México
+2025,p3382s3,583,Micronesia (Estados Federados de)
+2025,p3382s3,492,Mónaco
+2025,p3382s3,496,Mongolia
+2025,p3382s3,499,Montenegro
+2025,p3382s3,500,Montserrat
+2025,p3382s3,508,Mozambique
+2025,p3382s3,104,Myanmar
+2025,p3382s3,516,Namibia
+2025,p3382s3,520,Nauru
+2025,p3382s3,524,Nepal
+2025,p3382s3,558,Nicaragua
+2025,p3382s3,562,Níger
+2025,p3382s3,566,Nigeria
+2025,p3382s3,570,Niue
+2025,p3382s3,578,Noruega
+2025,p3382s3,540,Nueva Caledonia
+2025,p3382s3,554,Nueva Zelandia
+2025,p3382s3,512,Omán
+2025,p3382s3,528,Países Bajos (Reino de los)
+2025,p3382s3,586,Pakistán
+2025,p3382s3,585,Palau
+2025,p3382s3,591,Panamá
+2025,p3382s3,598,Papua Nueva Guinea
+2025,p3382s3,600,Paraguay
+2025,p3382s3,604,Perú
+2025,p3382s3,612,Pitcairn
+2025,p3382s3,258,Polinesia Francesa
+2025,p3382s3,616,Polonia
+2025,p3382s3,620,Portugal
+2025,p3382s3,630,Puerto Rico
+2025,p3382s3,634,Qatar
+2025,p3382s3,826,Reino Unido de Gran Bretaña e Irlanda del Norte
+2025,p3382s3,760,República Árabe Siria
+2025,p3382s3,140,República Centroafricana
+2025,p3382s3,410,República de Corea
+2025,p3382s3,498,República de Moldova
+2025,p3382s3,180,República Democrática del Congo
+2025,p3382s3,418,República Democrática Popular Lao
+2025,p3382s3,214,República Dominicana
+2025,p3382s3,408,República Popular Democrática de Corea
+2025,p3382s3,834,República Unida de Tanzanía
+2025,p3382s3,638,Reunión
+2025,p3382s3,642,Rumania
+2025,p3382s3,646,Rwanda
+2025,p3382s3,732,Sáhara Occidental
+2025,p3382s3,659,Saint Kitts y Nevis
+2025,p3382s3,882,Samoa
+2025,p3382s3,016,Samoa Americana
+2025,p3382s3,652,San Barthélemy
+2025,p3382s3,674,San Marino
+2025,p3382s3,663,San Martín (parte francesa)
+2025,p3382s3,534,San Martín (parte Holandesa)
+2025,p3382s3,666,San Pedro y Miquelón
+2025,p3382s3,670,San Vicente y las Granadinas
+2025,p3382s3,654,Santa Elena
+2025,p3382s3,662,Santa Lucía
+2025,p3382s3,336,Santa Sede
+2025,p3382s3,678,Santo Tomé y Príncipe
+2025,p3382s3,686,Senegal
+2025,p3382s3,688,Serbia
+2025,p3382s3,690,Seychelles
+2025,p3382s3,694,Sierra Leona
+2025,p3382s3,702,Singapur
+2025,p3382s3,706,Somalia
+2025,p3382s3,144,Sri Lanka
+2025,p3382s3,710,Sudáfrica
+2025,p3382s3,729,Sudán
+2025,p3382s3,728,Sudán del Sur
+2025,p3382s3,752,Suecia
+2025,p3382s3,756,Suiza
+2025,p3382s3,740,Suriname
+2025,p3382s3,764,Tailandia
+2025,p3382s3,762,Tayikistán
+2025,p3382s3,086,Territorio Británico del Océano Índico
+2025,p3382s3,260,Territorio de las Tierras Australes Francesas
+2025,p3382s3,626,Timor-Leste
+2025,p3382s3,768,Togo
+2025,p3382s3,772,Tokelau
+2025,p3382s3,776,Tonga
+2025,p3382s3,780,Trinidad y Tabago
+2025,p3382s3,788,Túnez
+2025,p3382s3,795,Turkmenistán
+2025,p3382s3,792,Türkiye (Turquía)
+2025,p3382s3,798,Tuvalu
+2025,p3382s3,804,Ucrania
+2025,p3382s3,800,Uganda
+2025,p3382s3,858,Uruguay
+2025,p3382s3,860,Uzbekistán
+2025,p3382s3,548,Vanuatu
+2025,p3382s3,862,Venezuela (República Bolivariana de)
+2025,p3382s3,704,Viet Nam
+2025,p3382s3,887,Yemen
+2025,p3382s3,894,Zambia
+2025,p3382s3,716,Zimbabwe
+2025,p3383,1,¿La cabecera municipal (donde está la alcaldía)?
+2025,p3383,2,"¿Parte rural (centro poblado, corregimiento, inspección, caserío, vereda, campo?"
+2025,p3384,1,No había nacido
+2025,p3384,2,En este municipio
+2025,p3384,3,En otro Municipio
+2025,p3384,4,En otro país
+2025,p3384s3,004,Afganistán
+2025,p3384s3,008,Albania
+2025,p3384s3,276,Alemania
+2025,p3384s3,020,Andorra
+2025,p3384s3,024,Angola
+2025,p3384s3,660,Anguila
+2025,p3384s3,010,Antártida
+2025,p3384s3,028,Antigua y Barbuda
+2025,p3384s3,682,Arabia Saudita
+2025,p3384s3,012,Argelia
+2025,p3384s3,032,Argentina
+2025,p3384s3,051,Armenia
+2025,p3384s3,533,Aruba
+2025,p3384s3,036,Australia
+2025,p3384s3,040,Austria
+2025,p3384s3,031,Azerbaiyán
+2025,p3384s3,044,Bahamas
+2025,p3384s3,048,Bahrein
+2025,p3384s3,050,Bangladesh
+2025,p3384s3,052,Barbados
+2025,p3384s3,112,Belarús
+2025,p3384s3,056,Bélgica
+2025,p3384s3,084,Belice
+2025,p3384s3,204,Benin
+2025,p3384s3,060,Bermuda
+2025,p3384s3,064,Bhután
+2025,p3384s3,068,Bolivia (Estado Plurinacional de)
+2025,p3384s3,535,"Bonaire, San Eustaquio y Saba"
+2025,p3384s3,070,Bosnia y Herzegovina
+2025,p3384s3,072,Botswana
+2025,p3384s3,076,Brasil
+2025,p3384s3,096,Brunei Darussalam
+2025,p3384s3,100,Bulgaria
+2025,p3384s3,854,Burkina Faso
+2025,p3384s3,108,Burundi
+2025,p3384s3,132,Cabo Verde
+2025,p3384s3,116,Camboya
+2025,p3384s3,120,Camerún
+2025,p3384s3,124,Canadá
+2025,p3384s3,148,Chad
+2025,p3384s3,203,Chequia
+2025,p3384s3,152,Chile
+2025,p3384s3,156,China
+2025,p3384s3,344,"China, región administrativa especial de Hong Kong"
+2025,p3384s3,446,"China, región administrativa especial de Macao"
+2025,p3384s3,196,Chipre
+2025,p3384s3,170,Colombia
+2025,p3384s3,174,Comoras
+2025,p3384s3,178,Congo
+2025,p3384s3,188,Costa Rica
+2025,p3384s3,384,Côte d’Ivoire (Antiguo Costa de Marfil)
+2025,p3384s3,191,Croacia
+2025,p3384s3,192,Cuba
+2025,p3384s3,531,Curazao
+2025,p3384s3,208,Dinamarca
+2025,p3384s3,262,Djibouti
+2025,p3384s3,212,Dominica
+2025,p3384s3,218,Ecuador
+2025,p3384s3,818,Egipto
+2025,p3384s3,222,El Salvador
+2025,p3384s3,784,Emiratos Árabes Unidos
+2025,p3384s3,232,Eritrea
+2025,p3384s3,703,Eslovaquia
+2025,p3384s3,705,Eslovenia
+2025,p3384s3,724,España
+2025,p3384s3,275,Estado de Palestina
+2025,p3384s3,840,Estados Unidos de América
+2025,p3384s3,233,Estonia
+2025,p3384s3,748,Eswatini
+2025,p3384s3,231,Etiopía
+2025,p3384s3,643,Federación de Rusia
+2025,p3384s3,242,Fiji
+2025,p3384s3,608,Filipinas
+2025,p3384s3,246,Finlandia
+2025,p3384s3,250,Francia
+2025,p3384s3,266,Gabón
+2025,p3384s3,270,Gambia
+2025,p3384s3,268,Georgia
+2025,p3384s3,239,Georgia del Sur y las Islas Sandwich del Sur
+2025,p3384s3,288,Ghana
+2025,p3384s3,292,Gibraltar
+2025,p3384s3,308,Granada
+2025,p3384s3,300,Grecia
+2025,p3384s3,304,Groenlandia
+2025,p3384s3,312,Guadalupe
+2025,p3384s3,316,Guam
+2025,p3384s3,320,Guatemala
+2025,p3384s3,254,Guayana Francesa
+2025,p3384s3,831,Guernsey
+2025,p3384s3,324,Guinea
+2025,p3384s3,226,Guinea Ecuatorial
+2025,p3384s3,624,Guinea-Bissau
+2025,p3384s3,328,Guyana
+2025,p3384s3,332,Haití
+2025,p3384s3,340,Honduras
+2025,p3384s3,348,Hungría
+2025,p3384s3,356,India
+2025,p3384s3,360,Indonesia
+2025,p3384s3,364,Irán (República Islámica del)
+2025,p3384s3,368,Iraq
+2025,p3384s3,372,Irlanda
+2025,p3384s3,074,Isla Bouvet
+2025,p3384s3,162,Isla Christmas
+2025,p3384s3,833,Isla de Man
+2025,p3384s3,574,Isla Norfolk
+2025,p3384s3,352,Islandia
+2025,p3384s3,248,Islas Åland
+2025,p3384s3,136,Islas Caimán
+2025,p3384s3,166,Islas Cocos (Keeling)
+2025,p3384s3,184,Islas Cook
+2025,p3384s3,234,Islas Feroe
+2025,p3384s3,334,Islas Heard y McDonald
+2025,p3384s3,238,Islas Malvinas (Falkland)
+2025,p3384s3,580,Islas Marianas Septentrionales
+2025,p3384s3,584,Islas Marshall
+2025,p3384s3,581,Islas menores alejadas de Estados Unidos
+2025,p3384s3,090,Islas Salomón
+2025,p3384s3,744,Islas Svalbard y Jan Mayen
+2025,p3384s3,796,Islas Turcas y Caicos
+2025,p3384s3,092,Islas Vírgenes Británicas
+2025,p3384s3,850,Islas Vírgenes de los Estados Unidos
+2025,p3384s3,876,Islas Wallis y Futuna
+2025,p3384s3,376,Israel
+2025,p3384s3,380,Italia
+2025,p3384s3,388,Jamaica
+2025,p3384s3,392,Japón
+2025,p3384s3,832,Jersey
+2025,p3384s3,400,Jordania
+2025,p3384s3,398,Kazajstán
+2025,p3384s3,404,Kenya
+2025,p3384s3,417,Kirguistán
+2025,p3384s3,296,Kiribati
+2025,p3384s3,414,Kuwait
+2025,p3384s3,426,Lesotho
+2025,p3384s3,428,Letonia
+2025,p3384s3,422,Líbano
+2025,p3384s3,430,Liberia
+2025,p3384s3,434,Libia
+2025,p3384s3,438,Liechtenstein
+2025,p3384s3,440,Lituania
+2025,p3384s3,442,Luxemburgo
+2025,p3384s3,807,Macedonia del Norte
+2025,p3384s3,450,Madagascar
+2025,p3384s3,458,Malasia
+2025,p3384s3,454,Malawi
+2025,p3384s3,462,Maldivas
+2025,p3384s3,466,Malí
+2025,p3384s3,470,Malta
+2025,p3384s3,504,Marruecos
+2025,p3384s3,474,Martinica
+2025,p3384s3,480,Mauricio
+2025,p3384s3,478,Mauritania
+2025,p3384s3,175,Mayotte
+2025,p3384s3,484,México
+2025,p3384s3,583,Micronesia (Estados Federados de)
+2025,p3384s3,492,Mónaco
+2025,p3384s3,496,Mongolia
+2025,p3384s3,499,Montenegro
+2025,p3384s3,500,Montserrat
+2025,p3384s3,508,Mozambique
+2025,p3384s3,104,Myanmar
+2025,p3384s3,516,Namibia
+2025,p3384s3,520,Nauru
+2025,p3384s3,524,Nepal
+2025,p3384s3,558,Nicaragua
+2025,p3384s3,562,Níger
+2025,p3384s3,566,Nigeria
+2025,p3384s3,570,Niue
+2025,p3384s3,578,Noruega
+2025,p3384s3,540,Nueva Caledonia
+2025,p3384s3,554,Nueva Zelandia
+2025,p3384s3,512,Omán
+2025,p3384s3,528,Países Bajos (Reino de los)
+2025,p3384s3,586,Pakistán
+2025,p3384s3,585,Palau
+2025,p3384s3,591,Panamá
+2025,p3384s3,598,Papua Nueva Guinea
+2025,p3384s3,600,Paraguay
+2025,p3384s3,604,Perú
+2025,p3384s3,612,Pitcairn
+2025,p3384s3,258,Polinesia Francesa
+2025,p3384s3,616,Polonia
+2025,p3384s3,620,Portugal
+2025,p3384s3,630,Puerto Rico
+2025,p3384s3,634,Qatar
+2025,p3384s3,826,Reino Unido de Gran Bretaña e Irlanda del Norte
+2025,p3384s3,760,República Árabe Siria
+2025,p3384s3,140,República Centroafricana
+2025,p3384s3,410,República de Corea
+2025,p3384s3,498,República de Moldova
+2025,p3384s3,180,República Democrática del Congo
+2025,p3384s3,418,República Democrática Popular Lao
+2025,p3384s3,214,República Dominicana
+2025,p3384s3,408,República Popular Democrática de Corea
+2025,p3384s3,834,República Unida de Tanzanía
+2025,p3384s3,638,Reunión
+2025,p3384s3,642,Rumania
+2025,p3384s3,646,Rwanda
+2025,p3384s3,732,Sáhara Occidental
+2025,p3384s3,659,Saint Kitts y Nevis
+2025,p3384s3,882,Samoa
+2025,p3384s3,016,Samoa Americana
+2025,p3384s3,652,San Barthélemy
+2025,p3384s3,674,San Marino
+2025,p3384s3,663,San Martín (parte francesa)
+2025,p3384s3,534,San Martín (parte Holandesa)
+2025,p3384s3,666,San Pedro y Miquelón
+2025,p3384s3,670,San Vicente y las Granadinas
+2025,p3384s3,654,Santa Elena
+2025,p3384s3,662,Santa Lucía
+2025,p3384s3,336,Santa Sede
+2025,p3384s3,678,Santo Tomé y Príncipe
+2025,p3384s3,686,Senegal
+2025,p3384s3,688,Serbia
+2025,p3384s3,690,Seychelles
+2025,p3384s3,694,Sierra Leona
+2025,p3384s3,702,Singapur
+2025,p3384s3,706,Somalia
+2025,p3384s3,144,Sri Lanka
+2025,p3384s3,710,Sudáfrica
+2025,p3384s3,729,Sudán
+2025,p3384s3,728,Sudán del Sur
+2025,p3384s3,752,Suecia
+2025,p3384s3,756,Suiza
+2025,p3384s3,740,Suriname
+2025,p3384s3,764,Tailandia
+2025,p3384s3,762,Tayikistán
+2025,p3384s3,086,Territorio Británico del Océano Índico
+2025,p3384s3,260,Territorio de las Tierras Australes Francesas
+2025,p3384s3,626,Timor-Leste
+2025,p3384s3,768,Togo
+2025,p3384s3,772,Tokelau
+2025,p3384s3,776,Tonga
+2025,p3384s3,780,Trinidad y Tabago
+2025,p3384s3,788,Túnez
+2025,p3384s3,795,Turkmenistán
+2025,p3384s3,792,Türkiye (Turquía)
+2025,p3384s3,798,Tuvalu
+2025,p3384s3,804,Ucrania
+2025,p3384s3,800,Uganda
+2025,p3384s3,858,Uruguay
+2025,p3384s3,860,Uzbekistán
+2025,p3384s3,548,Vanuatu
+2025,p3384s3,862,Venezuela (República Bolivariana de)
+2025,p3384s3,704,Viet Nam
+2025,p3384s3,887,Yemen
+2025,p3384s3,894,Zambia
+2025,p3384s3,716,Zimbabwe
+2025,p3385,1,¿La cabecera municipal (donde está la alcaldía)?
+2025,p3386,1,Trabajo
+2025,p3386,2,Estudio
+2025,p3386,3,Salud
+2025,p3386,4,Amenaza o riesgo para su vida o integridad física ocasionada por conflicto armado o grupos armados
+2025,p3386,5,"Amenaza o riesgo para su vida o integridad física por violencia NO asociada al conflicto armado (inseguridad, delincuencia común)"
+2025,p3386,6,Desastres naturales
+2025,p3386,7,Conformación de un nuevo hogar
+2025,p3386,8,Acompañar a otros miembros del hogar
+2025,p3386,9,Motivos culturales asociados a grupos étnicos
+2025,p3386,10,Adquisición de vivienda propia
+2025,p3386,11,Otro
+2025,regis,94,Registro de migración
+2026,p4005,1,Casa
+2026,p4000,2,Apartamento
+2026,p4000,3,Cuarto (s)
+2026,p4000,5,Vivienda indígena
+2026,p4010,1,"Ladrillo, bloque, material prefabricado, piedra"
+2026,p4010,2,Madera pulida
+2026,p4010,3,Adobe o tapia pisada
+2026,p4010,4,Bahareque
+2026,p4010,5,"Madera burda, tabla, tablón"
+2026,p4010,6,Guadua
+2026,p4010,7,"Caña, esterilla, otro tipo de material vegetal."
+2026,p4010,8,"Zinc, tela, cartón, latas, desechos, plástico"
+2026,p4010,9,Sin paredes
+2026,p4020,1,"Tierra, arena"
+2026,p4020,2,"Cemento, gravilla"
+2026,p4020,3,"Madera burda, tabla, tablón otro vegetal"
+2026,p4020,4,"Baldosa, vinilo, tableta, ladrillo, laminado"
+2026,p4020,5,Mármol
+2026,p4020,6,"Madera pulida, parqué"
+2026,p4020,7,Alfombra o tapete de pared a pared
+2026,p4030s1,1,Si
+2026,p4030s1,2,No
+2026,p4030s2,1,Si
+2026,p4030s2,2,No
+2026,p4030s3,1,Si
+2026,p4030s3,2,No
+2026,p4030s4,1,Si
+2026,p4030s4,2,No
+2026,p4030s5,1,Si
+2026,p4030s5,2,No
+2026,p5020,1,Inodoro conectado a alcantarillado
+2026,p5020,2,Inodoro conectado a pozo séptico
+2026,p5020,3,Inodoro sin conexión
+2026,p5020,4,Letrina
+2026,p5020,5,Bajamar
+2026,p5020,6,No tiene servicio sanitario
+2026,p5030,1,De uso exclusivo de las personas del hogar
+2026,p5030,2,Compartido con personas de otros hogares
+2026,p5040,1,Por recolección pública o privada
+2026,p5040,2,"La tiran a un río, quebrada, caño o laguna"
+2026,p5040,3,"La tiran a un patio, lote, zanja o baldío"
+2026,p5040,4,La queman o entierran
+2026,p5040,5,La eliminan de otra forma
+2026,p5050,1,De acueducto por tubería
+2026,p5050,2,De otra fuente por tubería
+2026,p5050,3,De pozo con bomba
+2026,p5050,4,"De pozo sin bomba, aljibe, jagüey o barreno"
+2026,p5050,5,Aguas lluvias
+2026,p5050,6,"Rio, quebrada, nacimiento o manantial"
+2026,p5050,7,De pila pública
+2026,p5050,8,Carrotanque
+2026,p5050,9,Aguatero
+2026,p5050,10,Agua embotellada o en bolsa
+2026,p5070,1,En un cuarto usado sólo para cocinar?
+2026,p5070,2,En un cuarto usado también para dormir?
+2026,p5070,3,En una sala comedor con lavaplatos?
+2026,p5070,4,En una sala comedor sin lavaplatos?
+2026,p5070,5,"En un patio, corredor, enramada, al aire libre?"
+2026,p5070,6,"En ninguna parte, no preparan alimentos?"
+2026,p5080,1,Electricidad
+2026,p5080,2,"Petróleo, gasolina, kerosene, alcohol"
+2026,p5080,3,Gas natural conectado a red pública
+2026,p5080,4,Gas propano/GLP (cilindro o pipeta)
+2026,p5080,5,"Leña, madera o carbón de leña"
+2026,p5080,6,Carbón mineral
+2026,p5080,7,Materiales de desecho
+2026,p5090,1,"Propia, totalmente pagada"
+2026,p5090,2,"Propia, la están pagando"
+2026,p5090,3,En arriendo o subarriendo
+2026,p5090,4,En usufructo
+2026,p5090,5,Posesión sin título
+2026,p5090,6,Propiedad colectiva
+2026,p5090,7,Otra
+2026,p5222s1,1,Cuenta corriente
+2026,p5222s2,1,Cuenta de ahorros
+2026,p5222s3,1,CDT (Certificado de depósito a término)
+2026,p5222s4,1,Préstamo para compra de vivienda
+2026,p5222s5,1,Préstamo para compra de vehículo
+2026,p5222s6,1,Préstamo de libre inversión
+2026,p5222s7,1,Tarjeta de crédito
+2026,p5222s8,1,Otro
+2026,p5222s9,1,Ninguno
+2026,p5222s10,1,No sabe
+2026,p5222s11,1,"Plataforma móvil (Daviplata, Bancolombia a la mano, Nequi, Movii, entre otros)"
+2026,regis,01,Registro de vivienda y hogares
+2026,dpto,05,ANTIOQUIA
+2026,area,05,MEDELLIN A.M.
+2026,clase,1,Cabecera
+2026,regis,10,Registro de personas
+2026,p3038,1,Hombres
+2026,p3038,2,Mujeres
+2026,p3038,3,Ambos sexos
+2026,p3038,4,Otro
+2026,p3039,1,Hombre
+2026,p3039,2,Mujer
+2026,p3039,3,"Persona no binaria (ni hombre, ni mujer)"
+2026,p3039,4,Prefiere identicarse de otra forma
+2026,p3271,1,Masculino
+2026,p3271,2,Femenino
+2026,p6050,1,Jefe (a) del hogar
+2026,p6050,2,"Pareja, esposo(a), cónyuge, compañero(a)"
+2026,p6050,3,"Hijo(a), hijastro(a)"
+2026,p6050,4,Padre o madre
+2026,p6050,5,Suegro(a)
+2026,p6050,6,Hermano(a) o hermanastro(a)
+2026,p6050,7,Yerno o nuera
+2026,p6050,8,Nieto(a)
+2026,p6050,9,Otro pariente
+2026,p6050,10,Empleado(a) del servicio doméstico y sus parientes
+2026,p6050,11,Pensionista
+2026,p6050,12,Trabajador
+2026,p6050,13,Otro no pariente
+2026,p6083,1,Sí
+2026,p6083,2,No
+2026,p6083,3,Fallecida
+2026,p6081,1,Sí
+2026,p6081,2,No
+2026,p6081,3,Fallecido
+2026,p2057,1,Sí
+2026,p2057,2,No
+2026,p2057,9,No informa
+2026,p2059,1,Sí
+2026,p2059,2,No
+2026,p2059,9,No informa
+2026,p2061,1,Sí
+2026,p2061,2,No
+2026,p2061,9,No informa
+2026,p6080,1,Indígena
+2026,p6080,2,Gitano(a) o Rrom
+2026,p6080,3,"Raizal del Archipiélago de San Andrés, Providencia y Santa Catalina"
+2026,p6080,4,Palenquero(a) de San Basilio
+2026,p6080,5,"Negro(a), mulato(a), afrodescendiente, afrocolombiano(a)"
+2026,p6080,6,Ningún grupo étnico
+2026,p6070,1,No está casado (a) y vive en pareja hace menos de dos años
+2026,p6070,2,No está casado (a) y vive en pareja hace dos años o más
+2026,p6070,3,Está casado (a)
+2026,p6070,4,Está separado (a) o divorciado (a)
+2026,p6070,5,Está viudo (a)
+2026,p6070,6,Está soltero (a)
+2026,p6071,1,Si
+2026,p6071,2,No
+2026,pob_may18,1,Indicador de fuerza de trabajo
+2026,pt,1,Indicador de fuerza de trabajo
+2026,p6090,1,Si
+2026,p6090,2,No
+2026,p6090,9,"No sabe, no informa"
+2026,p6100,1,Contributivo (EPS)?
+2026,p6100,2,"Especial ? (Fuerzas Armadas, Ecopetrol, universidades públicas)"
+2026,p6100,3,Subsidiado? (EPS-S)
+2026,p6100,9,"No sabe, no informa"
+2026,p6110,1,"..., paga una parte y otra la empresa o patrón"
+2026,p6110,2,Le descuentan de la pensión
+2026,p6110,3,"..., paga la totalidad de la afiliación"
+2026,p6110,4,Paga completamente la empresa o patrón donde trabaja o trabajó
+2026,p6110,5,"No paga, es beneficiario"
+2026,p6110,9,"No sabe, no informa"
+2026,p1906s1,1,No puede hacerlo
+2026,p1906s1,2,"Sí, con mucha dificultad"
+2026,p1906s1,3,"Sí, con alguna dificultad"
+2026,p1906s1,4,Sin dificultad
+2026,p1906s2,1,No puede hacerlo
+2026,p1906s2,2,"Sí, con mucha dificultad"
+2026,p1906s2,3,"Sí, con alguna dificultad"
+2026,p1906s2,4,Sin dificultad
+2026,p1906s3,1,No puede hacerlo
+2026,p1906s3,2,"Sí, con mucha dificultad"
+2026,p1906s3,3,"Sí, con alguna dificultad"
+2026,p1906s3,4,Sin dificultad
+2026,p1906s4,1,No puede hacerlo
+2026,p1906s4,2,"Sí, con mucha dificultad"
+2026,p1906s4,3,"Sí, con alguna dificultad"
+2026,p1906s4,4,Sin dificultad
+2026,p1906s5,1,No puede hacerlo
+2026,p1906s5,2,"Sí, con mucha dificultad"
+2026,p1906s5,3,"Sí, con alguna dificultad"
+2026,p1906s5,4,Sin dificultad
+2026,p1906s6,1,No puede hacerlo
+2026,p1906s6,2,"Sí, con mucha dificultad"
+2026,p1906s6,3,"Sí, con alguna dificultad"
+2026,p1906s6,4,Sin dificultad
+2026,p1906s7,1,No puede hacerlo
+2026,p1906s7,2,"Sí, con mucha dificultad"
+2026,p1906s7,3,"Sí, con alguna dificultad"
+2026,p1906s7,4,Sin dificultad
+2026,p1906s8,1,No puede hacerlo
+2026,p1906s8,2,"Sí, con mucha dificultad"
+2026,p1906s8,3,"Sí, con alguna dificultad"
+2026,p1906s8,4,Sin dificultad
+2026,p6160,1,Si
+2026,p6160,2,No
+2026,p6170,1,Si
+2026,p6170,2,No
+2026,p3041,1,Pública
+2026,p3041,2,Privada
+2026,p3042,1,Ninguno
+2026,p3042,2,Preescolar
+2026,p3042,3,Básica primaria (1o - 5o)
+2026,p3042,4,Básica secundaria (6o - 9o)
+2026,p3042,5,Media académica (Bachillerato clásico)
+2026,p3042,6,Media técnica (Bachillerato técnico)
+2026,p3042,7,Normalista
+2026,p3042,8,Técnica profesional
+2026,p3042,9,Tecnológica
+2026,p3042,10,Universitaria
+2026,p3042,11,Especialización
+2026,p3042,12,Maestría
+2026,p3042,13,Doctorado
+2026,p3042,99,"No sabe, no informa"
+2026,p3042s1,0,Ninguno
+2026,p3042s1,1,Grado uno
+2026,p3042s1,2,Segundo
+2026,p3042s1,3,Tercero
+2026,p3042s1,4,Cuarto
+2026,p3042s1,5,Quinto
+2026,p3042s1,6,Sexto
+2026,p3042s1,7,Septimo
+2026,p3042s1,8,Octavo
+2026,p3042s1,9,Noveno
+2026,p3042s1,10,Decimo
+2026,p3042s1,11,Once
+2026,p3042s1,12,12
+2026,p3042s1,14,14
+2026,p3043,1,Ninguno
+2026,p3043,2,Media académica (Bachillerato clásico)
+2026,p3043,3,Media técnica (Bachillerato técnico)
+2026,p3043,4,Normalista
+2026,p3043,5,Técnica profesional
+2026,p3043,6,Tecnológica
+2026,p3043,7,Universitaria
+2026,p3043,8,Especialización
+2026,p3043,9,Maestría
+2026,p3043,10,Doctorado
+2026,p3043,99,"No sabe, no informa"
+2026,p6240,1,Trabajando
+2026,p6240s2,1,Si
+2026,p6250,1,Si
+2026,p6260,1,Si
+2026,p6260s1,1,"Enfermedad, permiso o licencia"
+2026,p6260s2,1,Hasta 4 meses
+2026,p6270,1,Si
+2026,p6280,1,Si
+2026,p3362s1,1,"Pidió ayuda a familiares, amigos, colegas"
+2026,p3362s2,1,"Visitó, llevó o envió hojas de vida a empresas o empleadores."
+2026,p3362s3,1,"Hizo uso de los servicios de agencias o bolsas de empleo, Cajas de Compensación Familiar, SENA, Entes Territoriales (Servicio Público de Empleo - SPE)"
+2026,p3362s4,1,Puso o consultó avisos clasificados.
+2026,p3362s5,1,Se presentó a convocatorias.
+2026,p3362s6,1,Hizo preparativos para iniciar un negocio
+2026,p3362s7,1,Otro medio
+2026,p3362s8,1,"No sabe, no informa."
+2026,p6300,1,Si
+2026,p6310,1,Ya encontró trabajo
+2026,p6320,1,Si
+2026,p6330,1,Si
+2026,p6340,1,Si
+2026,p6351,1,Si
+2026,ft,1,Indicador de fuerza de trabajo
+2026,fft,1,Indicador de fuerza de trabajo
+2026,pet,1,Indicador de población en edad de trabajar
+2026,regis,70,Registro de los no ocupados
+2026,p6440,1,Si
+2026,p6440,2,No
+2026,p6450,1,Verbal
+2026,p6450,2,Escrito
+2026,p6450,9,"No sabe, no informa"
+2026,p6460,1,A término Indefinido
+2026,p6460,2,A término fijo
+2026,p6460,9,"No sabe, no informa"
+2026,p6400,1,Si
+2026,p6400,2,No
+2026,p6400,9,"No sabe, no informa"
+2026,p6410,1,Una empresa de servicios temporales
+2026,p6410,2,Una cooperativa de trabajo asociado
+2026,p6410,3,Una empresa asociativa de trabajo
+2026,p6410,4,Otra
+2026,p6422,1,Si
+2026,p6422,2,No
+2026,p6424s1,1,Si
+2026,p6424s1,2,No
+2026,p6424s2,1,Si
+2026,p6424s2,2,No
+2026,p6424s3,1,Si
+2026,p6424s3,2,No
+2026,p6424s5,1,Si
+2026,p6424s5,2,No
+2026,p6430,1,Obrero o empleado de empresa particular
+2026,p6430,2,Obrero o empleado del gobierno
+2026,p6430,3,Empleado doméstico
+2026,p6430,4,Trabajador por cuenta propia
+2026,p6430,5,Patrón o empleador
+2026,p6430,6,Trabajador familiar sin remuneración
+2026,p6430,7,Jornalero o Peón
+2026,p6430,8,Otro
+2026,p3045s1,1,Si
+2026,p3045s1,2,No
+2026,p3045s1,9,"No sabe, no informa"
+2026,p3045s2,1,Si
+2026,p3045s2,2,No
+2026,p3045s2,9,"No sabe, no informa"
+2026,p3045s3,1,Si
+2026,p3045s3,2,No
+2026,p3045s3,9,"No sabe, no informa"
+2026,p3046,1,Si
+2026,p3046,2,No
+2026,p3046,9,"No sabe, no informa"
+2026,p3363,1,"Pidió ayuda a familiares, amigos, colegas"
+2026,p3363,2,"Visitó, llevó o envió hojas de vida a empresas o empleadores"
+2026,p3363,3,"Hizo uso de los servicios de agencias o bolsas de empleo, Cajas de Compensación Familiar, SENA, Entes Territoriales (Servicio Público de Empleo - SPE)"
+2026,p3363,4,Puso o consultó avisos clasificados
+2026,p3363,5,Se presentó a convocatorias
+2026,p3363,6,Otro medio
+2026,p3363,9,"No sabe, no informa"
+2026,p9440,1,Si
+2026,p9440,2,No
+2026,p3364,1,Si
+2026,p3364,2,No
+2026,p3364,9,"No sabe, no informa"
+2026,p6510,1,Si
+2026,p6510,2,No
+2026,p6510,9,"No sabe, no informa"
+2026,p6510s2,1,Si
+2026,p6510s2,2,No
+2026,p6590,1,Si
+2026,p6590,2,No
+2026,p6590,9,"No sabe, no informa"
+2026,p6600,1,Si
+2026,p6600,2,No
+2026,p6600,9,"No sabe, no informa"
+2026,p6610,1,Si
+2026,p6610,2,No
+2026,p6610,9,"No sabe, no informa"
+2026,p6620,1,Si
+2026,p6620,2,No
+2026,p6620,9,"No sabe, no informa"
+2026,p6585s1,1,Si
+2026,p6585s1,2,No
+2026,p6585s1,9,"No sabe, no informa"
+2026,p6585s1a2,1,Si
+2026,p6585s1a2,2,No
+2026,p6585s2,1,Si
+2026,p6585s2,2,No
+2026,p6585s2,9,"No sabe, no informa"
+2026,p6585s2a2,1,Si
+2026,p6585s2a2,2,No
+2026,p6585s3,1,Si
+2026,p6585s3,2,No
+2026,p6585s3,9,"No sabe, no informa"
+2026,p6585s3a2,1,Si
+2026,p6585s3a2,2,No
+2026,p6585s4,1,Si
+2026,p6585s4,2,No
+2026,p6585s4,9,"No sabe, no informa"
+2026,p6585s4a2,1,Si
+2026,p6585s4a2,2,No
+2026,p6545,1,Si
+2026,p6545,2,No
+2026,p6545,9,"No sabe, no informa"
+2026,p6545s2,1,Si
+2026,p6545s2,2,No
+2026,p6580,1,Si
+2026,p6580,2,No
+2026,p6580,9,"No sabe, no informa"
+2026,p6580s2,1,Si
+2026,p6580s2,2,No
+2026,p6630s1,1,Si
+2026,p6630s1,2,No
+2026,p6630s2,1,Si
+2026,p6630s2,2,No
+2026,p6630s3,1,Si
+2026,p6630s3,2,No
+2026,p6630s4,1,Si
+2026,p6630s4,2,No
+2026,p6630s6,1,Si
+2026,p6630s6,2,No
+2026,p6640,1,Si
+2026,p6640,2,No
+2026,p1800,1,Si
+2026,p1800,2,No
+2026,p1802,1,"A una sola empresa, negocio, hogar o intermediario"
+2026,p1802,2,"A varias empresas, negocios, hogares o intermediarios"
+2026,p1802,3,Directamente al público
+2026,p1802,4,"No sabe, no informa"
+2026,p3047,1,Usted
+2026,p3047,2,Usted y sus socios
+2026,p3047,3,Quien lo contrató
+2026,p3047,4,Su cliente o proveedor principal
+2026,p3048,1,Usted
+2026,p3048,2,Usted y sus socios
+2026,p3048,3,Quien lo contrató
+2026,p3048,4,Su cliente o proveedor principal
+2026,p3049,1,Usted
+2026,p3049,2,Usted y sus socios
+2026,p3049,3,Quien lo contrató
+2026,p3049,4,Su cliente o proveedor principal
+2026,p6765,1,Trabajó por honorarios o prestación de servicios?
+2026,p6765,2,Trabajó por obra?
+2026,p6765,3,"Trabajó por piezas o a destajo? (Satelite, maquila, etc)"
+2026,p6765,4,Trabajó por comisión únicamente?
+2026,p6765,5,Trabajó vendiendo por catálogo?
+2026,p6765,6,"Trabajó en su oficio? (plomero, taxista, doméstica por días, etc)"
+2026,p6765,7,"Tiene un negocio de industria, comercio, servicios o una finca?"
+2026,p6765,8,Otro?
+2026,p3365,1,Si
+2026,p3365,2,No
+2026,p3365,9,"No sabe, no informa"
+2026,p3054,1,Si
+2026,p3054,2,No
+2026,p3054,9,"No sabe, no informa"
+2026,p3055,1,Si
+2026,p3055,2,No
+2026,p3055,9,"No sabe, no informa"
+2026,p3056,1,"Producción, compra y venta de mercancías o prestación de servicios"
+2026,p3056,2,"Producción / extracción (agricultura, pesca, minas, etc.) de bienes agropecuarios"
+2026,p3063,1,Si
+2026,p3063,2,No
+2026,p3063,9,"No sabe, no informa"
+2026,p3064,1,Si
+2026,p3064,2,No
+2026,p3064,9,"No sabe, no informa"
+2026,p3065,1,Si
+2026,p3065,2,No
+2026,p3065,9,"No sabe, no informa"
+2026,p3066,1,Si
+2026,p3066,2,No
+2026,p3066,9,"No sabe, no informa"
+2026,p3560,1,Si
+2026,p3561,1,Si
+2026,p3067,1,Si
+2026,p3067,2,No
+2026,p3067s1,1,Si
+2026,p3067s1,2,No
+2026,p6775,1,Si
+2026,p6775,2,No
+2026,p6775,3,No aplica
+2026,p6775,9,No sabe
+2026,p3068,1,Si
+2026,p3068,2,No
+2026,p3068,3,"No sabe, no informa"
+2026,p3562,1,Si
+2026,p3563,1,Si
+2026,p6780,1,Ocasional (De vez en cuando)?
+2026,p6780,2,"Estacional ? (En ciertas epocas del año, cosechas, temporadas)"
+2026,p6780,3,Permanente?
+2026,p6780,4,Otro?
+2026,p1879,1,No encontró trabajo como asalariado
+2026,p1879,2,Por despido
+2026,p1879,3,Más independencia
+2026,p1879,4,Horario de trabajo más flexible
+2026,p1879,5,Se considera muy joven o muy viejo
+2026,p1879,6,Empezó su empresa o negocio
+2026,p1879,7,Trabaja en un negocio familiar
+2026,p1879,8,Mayor nivel de ingreso
+2026,p1879,9,Por tradición familiar
+2026,p1879,10,Considera que no tiene los estudios necesarios
+2026,p1879,11,Otro
+2026,p1805,1,Si
+2026,p1805,2,No
+2026,p6810,1,Es lo único que ha conseguido pero quiere trabajar más horas
+2026,p6810,2,Es la jornada que se ajusta a sus necesidades
+2026,p6810,3,Otra razón
+2026,p6830,1,"Enfermedad, permiso o licencia"
+2026,p6830,2,Festivos
+2026,p6830,3,Vacaciones
+2026,p6830,4,Capacitación
+2026,p6830,5,Suspensión o terminación del empleo
+2026,p6830,6,Reducción de la actividad económica de la empresa
+2026,p6830,7,Otro
+2026,p3069,1,Trabaja solo
+2026,p3069,2,2 a 3 personas
+2026,p3069,3,4 a 5 personas
+2026,p3069,4,6 a 10 personas
+2026,p3069,5,11 a 19 personas
+2026,p3069,6,20 a 30 personas
+2026,p3069,7,31 a 50 personas
+2026,p3069,8,51 a 100 personas
+2026,p3069,9,101 a 200 personas
+2026,p3069,10,201 o más personas
+2026,p6880,1,En esta vivienda
+2026,p6880,2,En otras viviendas
+2026,p6880,3,En kiosco - caseta
+2026,p6880,4,En un vehículo
+2026,p6880,5,De puerta en puerta
+2026,p6880,6,Sitio al descubierto en la calle (ambulante y estacionario)
+2026,p6880,7,"Local fijo, oficina, fábrica, etc."
+2026,p6880,8,"En el campo o área rural, mar o río."
+2026,p6880,9,En una obra en construcción
+2026,p6880,10,En una mina o cantera
+2026,p6880,11,Otro
+2026,p6915,1,Es afiliado como cotizante a un régimen contributivo de salud (EPS)
+2026,p6915,2,Es afiliado a un régimen subsidiado de salud
+2026,p6915,3,Es beneficiario de un afiliado
+2026,p6915,4,Con ahorros personales
+2026,p6915,5,Con ayudas de los hijos o familiares
+2026,p6915,6,Con otro tipo de seguro o cubrimiento
+2026,p6915,7,Pidiendo dinero prestado
+2026,p6915,8,Vendería su vivienda o bienes del hogar
+2026,p6915,9,Empeñaría bienes del hogar
+2026,p6915,10,No lo ha considerado
+2026,p6915,11,No tiene recursos
+2026,p6915,12,Otro medio
+2026,p6920,1,Si
+2026,p6920,2,No
+2026,p6920,3,Ya es pensionado
+2026,p6930,1,Fondo privado?
+2026,p6930,2,Colpensiones?
+2026,p6930,3,"Régimenes especiales ? (FFMM, Ecopetrol, etc.)"
+2026,p6930,4,"Fondo Subsidiado (Prosperar, etc.)?"
+2026,p6940,1,"..., paga una parte y otra la empresa o patrón"
+2026,p6940,2,"..., paga la totalidad de la afiliación"
+2026,p6940,3,Paga completamente la empresa o patrón
+2026,p6940,4,No paga
+2026,p6990,1,Si
+2026,p6990,2,No
+2026,p6990,9,"No sabe, no informa"
+2026,p9450,1,Si
+2026,p9450,2,No
+2026,p9450,9,"No sabe, no informa"
+2026,p7020,1,Si
+2026,p7020,2,No
+2026,p7028,1,Obrero o empleado de empresa particular
+2026,p7028,2,Obrero o empleado del gobierno
+2026,p7028,3,Empleado doméstico
+2026,p7028,4,Trabajador por cuenta propia
+2026,p7028,5,Patrón o empleador
+2026,p7028,6,Trabajador familiar sin remuneración
+2026,p7028,7,Jornalero o Peón
+2026,p7028,8,Otro
+2026,p1880,1,Terminó su contrato
+2026,p1880,2,Por quiebra o cierre de la empresa
+2026,p1880,3,Condiciones laborales insatisfactorias
+2026,p1880,4,Porque se jubiló
+2026,p1880,5,Lo despidieron
+2026,p1880,6,Por su edad
+2026,p1880,7,Reducción de personal
+2026,p1880,8,Renunció porque deseaba un empleo con mejores ingresos
+2026,p1880,9,"Renunció por razones personales (matrimonio, embarazo, responsabilidades familiares)"
+2026,p1880,10,Renunció para empezar su propio negocio
+2026,p1880,11,Renunció por motivos de salud
+2026,p1880,12,Renunció para estudiar
+2026,p1880,13,Otra
+2026,p7040,1,Si
+2026,p7040,2,No
+2026,p7050,1,Obrero o empleado de empresa particular
+2026,p7050,2,Obrero o empleado del gobierno
+2026,p7050,3,Empleado doméstico
+2026,p7050,4,Trabajador por cuenta propia
+2026,p7050,5,Patrón o empleador
+2026,p7050,6,Trabajador familiar sin remuneración
+2026,p7050,7,Jornalero o Peón
+2026,p7050,8,Otro
+2026,p7075,1,Trabaja solo
+2026,p7075,2,2 a 5 personas
+2026,p7075,3,6 a 10 personas
+2026,p7075,4,11 y más personas
+2026,p7077,1,En su vivienda
+2026,p7077,2,En otras viviendas
+2026,p7077,3,En kiosko - caseta
+2026,p7077,4,En un vehículo
+2026,p7077,5,De puerta en puerta
+2026,p7077,6,Sitio al descubierto en la calle
+2026,p7077,7,"Local fijo, oficina, fábrica, etc."
+2026,p7077,8,En el campo o área rural
+2026,p7090,1,Si
+2026,p7090,2,No
+2026,p7110,1,Si
+2026,p7110,2,No
+2026,p7120,1,Si
+2026,p7120,2,No
+2026,p7130,1,Si
+2026,p7130,2,No
+2026,p7140s1,1,Si
+2026,p7140s1,2,No
+2026,p7140s2,1,Si
+2026,p7140s2,2,No
+2026,p7140s3,1,Si
+2026,p7140s3,2,No
+2026,p7140s4,1,Si
+2026,p7140s4,2,No
+2026,p7140s5,1,Si
+2026,p7140s5,2,No
+2026,p7140s6,1,Si
+2026,p7140s6,2,No
+2026,p7140s7,1,Si
+2026,p7140s7,2,No
+2026,p7140s8,1,Si
+2026,p7140s8,2,No
+2026,p7140s9,1,Si
+2026,p7140s9,2,No
+2026,p7150,1,Si
+2026,p7150,2,No
+2026,p7160,1,Si
+2026,p7160,2,No
+2026,p7160,9,"No sabe, no informa"
+2026,p7170s1,1,Si
+2026,p7170s1,2,No
+2026,p7170s5,1,Si
+2026,p7170s5,2,No
+2026,p7170s6,1,Si
+2026,p7170s6,2,No
+2026,p7180,1,Si
+2026,p7180,2,No
+2026,p514,1,Si
+2026,p514,2,No
+2026,p515,1,Si
+2026,p515,2,No
+2026,p1881,1,Bus intermunicipal
+2026,p1881,2,Bus urbano
+2026,p1881,3,A pie
+2026,p1881,4,Metro
+2026,p1881,5,"Transporte articulado (Transmilenio, MIO y otros)"
+2026,p1881,6,Taxi
+2026,p1881,7,Transporte de la empresa
+2026,p1881,8,Automóvil de uso particular
+2026,p1881,9,"Lancha, planchón, canoa"
+2026,p1881,10,Caballo
+2026,p1881,11,Moto
+2026,p1881,12,Mototaxi
+2026,p1881,13,Bicicleta
+2026,p1881,14,No se desplaza
+2026,p1881,15,Otro
+2026,p7240,1,Cesantías?
+2026,p7240,2,Ahorros personales?
+2026,p7240,3,Ayudas de hijos o familiares?
+2026,p7240,4,Indemnización o similar?
+2026,p7240,5,No lo ha considerado?
+2026,p7240,6,Vendería su vivienda o bienes del hogar?
+2026,p7240,7,Empeñaría bienes del hogar?
+2026,p7240,8,No tendría recursos?
+2026,p7240,9,Solicitaría dinero prestado?
+2026,p7240,10,Otros
+2026,p7280,1,Obrero o empleado de empresa particular
+2026,p7280,2,Obrero o empleado del gobierno
+2026,p7280,3,Empleado doméstico
+2026,p7280,4,Trabajador por cuenta propia
+2026,p7280,5,Patrón o empleador
+2026,p7280,6,Trabajador familiar sin remuneración
+2026,p7280,7,Jornalero o Peón
+2026,p7280,8,Otro
+2026,p744,1,Si
+2026,p744,2,No
+2026,p3074,1,Esta semana
+2026,p3074,2,En los próximos 15 días
+2026,p3074,3,Dentro del próximo mes
+2026,p3074,4,Dentro de los próximos 3 meses
+2026,p3074,5,No antes de 3 meses
+2026,p7430,1,Si
+2026,p7430,2,No
+2026,p7450,1,Por despido
+2026,p7450,2,Para dedicarse a estudiar
+2026,p7450,3,Responsabilidades familiares
+2026,p7450,4,Enfermedad o accidente
+2026,p7450,5,Jubilación o retiro
+2026,p7450,6,Condiciones de trabajo insatisfactorias
+2026,p7450,7,Cierre o dificultades de la empresa
+2026,p7450,8,Trabajo temporal terminado
+2026,p7450,9,Otra
+2026,p7350,1,Obrero o empleado de empresa particular
+2026,p7350,2,Obrero o empleado del gobierno
+2026,p7350,3,Empleado doméstico
+2026,p7350,4,Trabajador por cuenta propia
+2026,p7350,5,Patrón o empleador
+2026,p7350,6,Trabajador familiar sin remuneración
+2026,p7350,7,Jornalero o Peón
+2026,p7350,9,Otro
+2026,p7360,1,Trabaja solo
+2026,p7360,2,2 a 3 personas
+2026,p7360,3,4 a 5 personas
+2026,p7360,4,6 a 10 personas
+2026,p7360,5,11 a 19 personas
+2026,p7360,6,20 a 30 personas
+2026,p7360,7,31 a 50 personas
+2026,p7360,8,51 a 100 personas
+2026,p7360,9,101 a 200 personas
+2026,p7360,10,201 o más personas
+2026,p9460,1,Si
+2026,p9460,2,No
+2026,p9460,9,"No sabe, no informa"
+2026,p1519,1,Si
+2026,p1519,2,No
+2026,p1519,3,Ya es pensionado
+2026,p1883,1,Fondo privado ?
+2026,p1883,2,Colpensiones?
+2026,p1883,3,"Regímenes especiales ? ( Fuerzas militares, ecopetrol,etc )"
+2026,p1883,4,"Fondo subsidiado ? (Prosperar, etc)"
+2026,p7422,1,Si
+2026,p7422,2,No
+2026,regis,80,Registro de otras formas de trabajo
+2026,p3076s1,1,Si
+2026,p3076s1,2,No
+2026,p3076s2,1,Si
+2026,p3076s2,2,No
+2026,p3076s3,1,Si
+2026,p3076s3,2,No
+2026,p3077s1,1,Si
+2026,p3077s1,2,No
+2026,p3077s2,1,Si
+2026,p3077s2,2,No
+2026,p3077s3,1,Si
+2026,p3077s3,2,No
+2026,p3078s1,1,Si
+2026,p3078s1,2,No
+2026,p3078s2,1,Si
+2026,p3078s2,2,No
+2026,p3078s3,1,Si
+2026,p3078s3,2,No
+2026,p3079s1,1,Si
+2026,p3079s1,2,No
+2026,p3079s2,1,Si
+2026,p3079s2,2,No
+2026,p3079s3,1,Si
+2026,p3079s3,2,No
+2026,p3081s1,1,Si
+2026,p3081s1,2,No
+2026,p3081s2,1,Si
+2026,p3081s2,2,No
+2026,p3081s3,1,Si
+2026,p3081s3,2,No
+2026,p3082s1,1,Si
+2026,p3082s1,2,No
+2026,p3082s2,1,Si
+2026,p3082s2,2,No
+2026,p3082s3,1,Si
+2026,p3082s3,2,No
+2026,p3083,1,Si
+2026,p3083,2,No
+2026,p3085,1,Si
+2026,p3085,2,No
+2026,p3086,1,El SENA
+2026,p3086,2,Una universidad
+2026,p3086,3,Un colegio
+2026,p3086,4,Otra institución educativa
+2026,p3087,1,Si
+2026,p3087,2,No
+2026,p3088,1,Si
+2026,p3088,2,No
+2026,p3089,1,Si
+2026,p3089,2,No
+2026,p3091,1,Si
+2026,p3091,2,No
+2026,p3092,1,Si
+2026,p3092,2,No
+2026,p3093,1,Si
+2026,p3093,2,No
+2026,p3094,1,Si
+2026,p3094,2,No
+2026,p3095,1,Si
+2026,p3095,2,No
+2026,p3096,1,Si
+2026,p3096,2,No
+2026,p3097,1,Si
+2026,p3097,2,No
+2026,p3098,1,Si
+2026,p3098,2,No
+2026,p3099,1,Si
+2026,p3099,2,No
+2026,p3101,1,Si
+2026,p3101,2,No
+2026,regis,90,Registro de otros ingresos e impuestos
+2026,p7495,1,Si
+2026,p7495,2,No
+2026,p7500s1,1,Si
+2026,p7500s1,2,No
+2026,p7500s1,9,"No sabe, no informa"
+2026,p7500s2,1,Si
+2026,p7500s2,2,No
+2026,p7500s2,9,"No sabe, no informa"
+2026,p7500s3,1,Si
+2026,p7500s3,2,No
+2026,p7500s3,9,"No sabe, no informa"
+2026,p7505,1,Si
+2026,p7505,2,No
+2026,p7510s1,1,Si
+2026,p7510s1,2,No
+2026,p7510s1,9,"No sabe, no informa"
+2026,p7510s2,1,Si
+2026,p7510s2,2,No
+2026,p7510s2,9,"No sabe, no informa"
+2026,p7510s3,1,Si
+2026,p7510s3,2,No
+2026,p7510s3,9,"No sabe, no informa"
+2026,p750s4,1,"No sabe, no informa"
+2026,p7510s5,1,Si
+2026,p7510s5,2,No
+2026,p7510s5,9,"No sabe, no informa"
+2026,p7510s6,1,Si
+2026,p7510s6,2,No
+2026,p7510s6,9,"No sabe, no informa"
+2026,p7510s7,1,Si
+2026,p7510s7,2,No
+2026,p7510s7,9,"No sabe, no informa"
+2026,p3367,1,Si
+2026,p3367,2,No
+2026,p3370,1,Si
+2026,p3370,2,No
+2026,p3370,9,"No sabe, no informa"
+2026,p3371,1,Si
+2026,p3371,2,No
+2026,p3371,9,"No sabe, no informa"
+2026,p3372,1,Si
+2026,p3372,2,No
+2026,p3372,9,"No sabe, no informa"
+2026,regis,94,Registro de migración
+2026,p3373,1,Aquí en este municipio
+2026,p3373,2,En otro Municipio
+2026,p3373,3,En otro país:
+2026,p3373s3,004,Afganistán
+2026,p3373s3,008,Albania
+2026,p3373s3,276,Alemania
+2026,p3373s3,020,Andorra
+2026,p3373s3,024,Angola
+2026,p3373s3,660,Anguila
+2026,p3373s3,010,Antártida
+2026,p3373s3,028,Antigua y Barbuda
+2026,p3373s3,682,Arabia Saudita
+2026,p3373s3,012,Argelia
+2026,p3373s3,032,Argentina
+2026,p3373s3,051,Armenia
+2026,p3373s3,533,Aruba
+2026,p3373s3,036,Australia
+2026,p3373s3,040,Austria
+2026,p3373s3,031,Azerbaiyán
+2026,p3373s3,044,Bahamas
+2026,p3373s3,048,Bahrein
+2026,p3373s3,050,Bangladesh
+2026,p3373s3,052,Barbados
+2026,p3373s3,112,Belarús
+2026,p3373s3,056,Bélgica
+2026,p3373s3,084,Belice
+2026,p3373s3,204,Benin
+2026,p3373s3,060,Bermuda
+2026,p3373s3,064,Bhután
+2026,p3373s3,068,Bolivia (Estado Plurinacional de)
+2026,p3373s3,535,"Bonaire, San Eustaquio y Saba"
+2026,p3373s3,070,Bosnia y Herzegovina
+2026,p3373s3,072,Botswana
+2026,p3373s3,076,Brasil
+2026,p3373s3,096,Brunei Darussalam
+2026,p3373s3,100,Bulgaria
+2026,p3373s3,854,Burkina Faso
+2026,p3373s3,108,Burundi
+2026,p3373s3,132,Cabo Verde
+2026,p3373s3,116,Camboya
+2026,p3373s3,120,Camerún
+2026,p3373s3,124,Canadá
+2026,p3373s3,148,Chad
+2026,p3373s3,203,Chequia
+2026,p3373s3,152,Chile
+2026,p3373s3,156,China
+2026,p3373s3,344,"China, región administrativa especial de Hong Kong"
+2026,p3373s3,446,"China, región administrativa especial de Macao"
+2026,p3373s3,196,Chipre
+2026,p3373s3,170,Colombia
+2026,p3373s3,174,Comoras
+2026,p3373s3,178,Congo
+2026,p3373s3,188,Costa Rica
+2026,p3373s3,384,Côte d’Ivoire (Antiguo Costa de Marfil)
+2026,p3373s3,191,Croacia
+2026,p3373s3,192,Cuba
+2026,p3373s3,531,Curazao
+2026,p3373s3,208,Dinamarca
+2026,p3373s3,262,Djibouti
+2026,p3373s3,212,Dominica
+2026,p3373s3,218,Ecuador
+2026,p3373s3,818,Egipto
+2026,p3373s3,222,El Salvador
+2026,p3373s3,784,Emiratos Árabes Unidos
+2026,p3373s3,232,Eritrea
+2026,p3373s3,703,Eslovaquia
+2026,p3373s3,705,Eslovenia
+2026,p3373s3,724,España
+2026,p3373s3,275,Estado de Palestina
+2026,p3373s3,840,Estados Unidos de América
+2026,p3373s3,233,Estonia
+2026,p3373s3,748,Eswatini
+2026,p3373s3,231,Etiopía
+2026,p3373s3,643,Federación de Rusia
+2026,p3373s3,242,Fiji
+2026,p3373s3,608,Filipinas
+2026,p3373s3,246,Finlandia
+2026,p3373s3,250,Francia
+2026,p3373s3,266,Gabón
+2026,p3373s3,270,Gambia
+2026,p3373s3,268,Georgia
+2026,p3373s3,239,Georgia del Sur y las Islas Sandwich del Sur
+2026,p3373s3,288,Ghana
+2026,p3373s3,292,Gibraltar
+2026,p3373s3,308,Granada
+2026,p3373s3,300,Grecia
+2026,p3373s3,304,Groenlandia
+2026,p3373s3,312,Guadalupe
+2026,p3373s3,316,Guam
+2026,p3373s3,320,Guatemala
+2026,p3373s3,254,Guayana Francesa
+2026,p3373s3,831,Guernsey
+2026,p3373s3,324,Guinea
+2026,p3373s3,226,Guinea Ecuatorial
+2026,p3373s3,624,Guinea-Bissau
+2026,p3373s3,328,Guyana
+2026,p3373s3,332,Haití
+2026,p3373s3,340,Honduras
+2026,p3373s3,348,Hungría
+2026,p3373s3,356,India
+2026,p3373s3,360,Indonesia
+2026,p3373s3,364,Irán (República Islámica del)
+2026,p3373s3,368,Iraq
+2026,p3373s3,372,Irlanda
+2026,p3373s3,074,Isla Bouvet
+2026,p3373s3,162,Isla Christmas
+2026,p3373s3,833,Isla de Man
+2026,p3373s3,574,Isla Norfolk
+2026,p3373s3,352,Islandia
+2026,p3373s3,248,Islas Åland
+2026,p3373s3,136,Islas Caimán
+2026,p3373s3,166,Islas Cocos (Keeling)
+2026,p3373s3,184,Islas Cook
+2026,p3373s3,234,Islas Feroe
+2026,p3373s3,334,Islas Heard y McDonald
+2026,p3373s3,238,Islas Malvinas (Falkland)
+2026,p3373s3,580,Islas Marianas Septentrionales
+2026,p3373s3,584,Islas Marshall
+2026,p3373s3,581,Islas menores alejadas de Estados Unidos
+2026,p3373s3,090,Islas Salomón
+2026,p3373s3,744,Islas Svalbard y Jan Mayen
+2026,p3373s3,796,Islas Turcas y Caicos
+2026,p3373s3,092,Islas Vírgenes Británicas
+2026,p3373s3,850,Islas Vírgenes de los Estados Unidos
+2026,p3373s3,876,Islas Wallis y Futuna
+2026,p3373s3,376,Israel
+2026,p3373s3,380,Italia
+2026,p3373s3,388,Jamaica
+2026,p3373s3,392,Japón
+2026,p3373s3,832,Jersey
+2026,p3373s3,400,Jordania
+2026,p3373s3,398,Kazajstán
+2026,p3373s3,404,Kenya
+2026,p3373s3,417,Kirguistán
+2026,p3373s3,296,Kiribati
+2026,p3373s3,414,Kuwait
+2026,p3373s3,426,Lesotho
+2026,p3373s3,428,Letonia
+2026,p3373s3,422,Líbano
+2026,p3373s3,430,Liberia
+2026,p3373s3,434,Libia
+2026,p3373s3,438,Liechtenstein
+2026,p3373s3,440,Lituania
+2026,p3373s3,442,Luxemburgo
+2026,p3373s3,807,Macedonia del Norte
+2026,p3373s3,450,Madagascar
+2026,p3373s3,458,Malasia
+2026,p3373s3,454,Malawi
+2026,p3373s3,462,Maldivas
+2026,p3373s3,466,Malí
+2026,p3373s3,470,Malta
+2026,p3373s3,504,Marruecos
+2026,p3373s3,474,Martinica
+2026,p3373s3,480,Mauricio
+2026,p3373s3,478,Mauritania
+2026,p3373s3,175,Mayotte
+2026,p3373s3,484,México
+2026,p3373s3,583,Micronesia (Estados Federados de)
+2026,p3373s3,492,Mónaco
+2026,p3373s3,496,Mongolia
+2026,p3373s3,499,Montenegro
+2026,p3373s3,500,Montserrat
+2026,p3373s3,508,Mozambique
+2026,p3373s3,104,Myanmar
+2026,p3373s3,516,Namibia
+2026,p3373s3,520,Nauru
+2026,p3373s3,524,Nepal
+2026,p3373s3,558,Nicaragua
+2026,p3373s3,562,Níger
+2026,p3373s3,566,Nigeria
+2026,p3373s3,570,Niue
+2026,p3373s3,578,Noruega
+2026,p3373s3,540,Nueva Caledonia
+2026,p3373s3,554,Nueva Zelandia
+2026,p3373s3,512,Omán
+2026,p3373s3,528,Países Bajos (Reino de los)
+2026,p3373s3,586,Pakistán
+2026,p3373s3,585,Palau
+2026,p3373s3,591,Panamá
+2026,p3373s3,598,Papua Nueva Guinea
+2026,p3373s3,600,Paraguay
+2026,p3373s3,604,Perú
+2026,p3373s3,612,Pitcairn
+2026,p3373s3,258,Polinesia Francesa
+2026,p3373s3,616,Polonia
+2026,p3373s3,620,Portugal
+2026,p3373s3,630,Puerto Rico
+2026,p3373s3,634,Qatar
+2026,p3373s3,826,Reino Unido de Gran Bretaña e Irlanda del Norte
+2026,p3373s3,760,República Árabe Siria
+2026,p3373s3,140,República Centroafricana
+2026,p3373s3,410,República de Corea
+2026,p3373s3,498,República de Moldova
+2026,p3373s3,180,República Democrática del Congo
+2026,p3373s3,418,República Democrática Popular Lao
+2026,p3373s3,214,República Dominicana
+2026,p3373s3,408,República Popular Democrática de Corea
+2026,p3373s3,834,República Unida de Tanzanía
+2026,p3373s3,638,Reunión
+2026,p3373s3,642,Rumania
+2026,p3373s3,646,Rwanda
+2026,p3373s3,732,Sáhara Occidental
+2026,p3373s3,659,Saint Kitts y Nevis
+2026,p3373s3,882,Samoa
+2026,p3373s3,016,Samoa Americana
+2026,p3373s3,652,San Barthélemy
+2026,p3373s3,674,San Marino
+2026,p3373s3,663,San Martín (parte francesa)
+2026,p3373s3,534,San Martín (parte Holandesa)
+2026,p3373s3,666,San Pedro y Miquelón
+2026,p3373s3,670,San Vicente y las Granadinas
+2026,p3373s3,654,Santa Elena
+2026,p3373s3,662,Santa Lucía
+2026,p3373s3,336,Santa Sede
+2026,p3373s3,678,Santo Tomé y Príncipe
+2026,p3373s3,686,Senegal
+2026,p3373s3,688,Serbia
+2026,p3373s3,690,Seychelles
+2026,p3373s3,694,Sierra Leona
+2026,p3373s3,702,Singapur
+2026,p3373s3,706,Somalia
+2026,p3373s3,144,Sri Lanka
+2026,p3373s3,710,Sudáfrica
+2026,p3373s3,729,Sudán
+2026,p3373s3,728,Sudán del Sur
+2026,p3373s3,752,Suecia
+2026,p3373s3,756,Suiza
+2026,p3373s3,740,Suriname
+2026,p3373s3,764,Tailandia
+2026,p3373s3,762,Tayikistán
+2026,p3373s3,086,Territorio Británico del Océano Índico
+2026,p3373s3,260,Territorio de las Tierras Australes Francesas
+2026,p3373s3,626,Timor-Leste
+2026,p3373s3,768,Togo
+2026,p3373s3,772,Tokelau
+2026,p3373s3,776,Tonga
+2026,p3373s3,780,Trinidad y Tabago
+2026,p3373s3,788,Túnez
+2026,p3373s3,795,Turkmenistán
+2026,p3373s3,792,Türkiye (Turquía)
+2026,p3373s3,798,Tuvalu
+2026,p3373s3,804,Ucrania
+2026,p3373s3,800,Uganda
+2026,p3373s3,858,Uruguay
+2026,p3373s3,860,Uzbekistán
+2026,p3373s3,548,Vanuatu
+2026,p3373s3,862,Venezuela (República Bolivariana de)
+2026,p3373s3,704,Viet Nam
+2026,p3373s3,887,Yemen
+2026,p3373s3,894,Zambia
+2026,p3373s3,716,Zimbabwe
+2026,p3374,1,Colombiana
+2026,p3374,2,Colombiana y otra(s). Cúal(es)
+2026,p3374,3,No tiene nacionalidad Colombiana.
+2026,p3374s1 - p3374s2 - p3374s3,004,Afganistán
+2026,p3375,1,Sí
+2026,p3375,2,No
+2026,p3375,3,Siempre ha vivido en este país
+2026,p3375,9,"No sabe, no informa"
+2026,p3376,1,Sí
+2026,p3376,2,No
+2026,p3377,1,Sí
+2026,p3377,2,No
+2026,p3378,004,Afganistán
+2026,p3382,1,No había nacido
+2026,p3382,2,En este municipio
+2026,p3382,3,En otro Municipio
+2026,p3382,4,En otro país
+2026,p3382s3,004,Afganistán
+2026,p3382s3,008,Albania
+2026,p3382s3,276,Alemania
+2026,p3382s3,020,Andorra
+2026,p3382s3,024,Angola
+2026,p3382s3,660,Anguila
+2026,p3382s3,010,Antártida
+2026,p3382s3,028,Antigua y Barbuda
+2026,p3382s3,682,Arabia Saudita
+2026,p3382s3,012,Argelia
+2026,p3382s3,032,Argentina
+2026,p3382s3,051,Armenia
+2026,p3382s3,533,Aruba
+2026,p3382s3,036,Australia
+2026,p3382s3,040,Austria
+2026,p3382s3,031,Azerbaiyán
+2026,p3382s3,044,Bahamas
+2026,p3382s3,048,Bahrein
+2026,p3382s3,050,Bangladesh
+2026,p3382s3,052,Barbados
+2026,p3382s3,112,Belarús
+2026,p3382s3,056,Bélgica
+2026,p3382s3,084,Belice
+2026,p3382s3,204,Benin
+2026,p3382s3,060,Bermuda
+2026,p3382s3,064,Bhután
+2026,p3382s3,068,Bolivia (Estado Plurinacional de)
+2026,p3382s3,535,"Bonaire, San Eustaquio y Saba"
+2026,p3382s3,070,Bosnia y Herzegovina
+2026,p3382s3,072,Botswana
+2026,p3382s3,076,Brasil
+2026,p3382s3,096,Brunei Darussalam
+2026,p3382s3,100,Bulgaria
+2026,p3382s3,854,Burkina Faso
+2026,p3382s3,108,Burundi
+2026,p3382s3,132,Cabo Verde
+2026,p3382s3,116,Camboya
+2026,p3382s3,120,Camerún
+2026,p3382s3,124,Canadá
+2026,p3382s3,148,Chad
+2026,p3382s3,203,Chequia
+2026,p3382s3,152,Chile
+2026,p3382s3,156,China
+2026,p3382s3,344,"China, región administrativa especial de Hong Kong"
+2026,p3382s3,446,"China, región administrativa especial de Macao"
+2026,p3382s3,196,Chipre
+2026,p3382s3,170,Colombia
+2026,p3382s3,174,Comoras
+2026,p3382s3,178,Congo
+2026,p3382s3,188,Costa Rica
+2026,p3382s3,384,Côte d’Ivoire (Antiguo Costa de Marfil)
+2026,p3382s3,191,Croacia
+2026,p3382s3,192,Cuba
+2026,p3382s3,531,Curazao
+2026,p3382s3,208,Dinamarca
+2026,p3382s3,262,Djibouti
+2026,p3382s3,212,Dominica
+2026,p3382s3,218,Ecuador
+2026,p3382s3,818,Egipto
+2026,p3382s3,222,El Salvador
+2026,p3382s3,784,Emiratos Árabes Unidos
+2026,p3382s3,232,Eritrea
+2026,p3382s3,703,Eslovaquia
+2026,p3382s3,705,Eslovenia
+2026,p3382s3,724,España
+2026,p3382s3,275,Estado de Palestina
+2026,p3382s3,840,Estados Unidos de América
+2026,p3382s3,233,Estonia
+2026,p3382s3,748,Eswatini
+2026,p3382s3,231,Etiopía
+2026,p3382s3,643,Federación de Rusia
+2026,p3382s3,242,Fiji
+2026,p3382s3,608,Filipinas
+2026,p3382s3,246,Finlandia
+2026,p3382s3,250,Francia
+2026,p3382s3,266,Gabón
+2026,p3382s3,270,Gambia
+2026,p3382s3,268,Georgia
+2026,p3382s3,239,Georgia del Sur y las Islas Sandwich del Sur
+2026,p3382s3,288,Ghana
+2026,p3382s3,292,Gibraltar
+2026,p3382s3,308,Granada
+2026,p3382s3,300,Grecia
+2026,p3382s3,304,Groenlandia
+2026,p3382s3,312,Guadalupe
+2026,p3382s3,316,Guam
+2026,p3382s3,320,Guatemala
+2026,p3382s3,254,Guayana Francesa
+2026,p3382s3,831,Guernsey
+2026,p3382s3,324,Guinea
+2026,p3382s3,226,Guinea Ecuatorial
+2026,p3382s3,624,Guinea-Bissau
+2026,p3382s3,328,Guyana
+2026,p3382s3,332,Haití
+2026,p3382s3,340,Honduras
+2026,p3382s3,348,Hungría
+2026,p3382s3,356,India
+2026,p3382s3,360,Indonesia
+2026,p3382s3,364,Irán (República Islámica del)
+2026,p3382s3,368,Iraq
+2026,p3382s3,372,Irlanda
+2026,p3382s3,074,Isla Bouvet
+2026,p3382s3,162,Isla Christmas
+2026,p3382s3,833,Isla de Man
+2026,p3382s3,574,Isla Norfolk
+2026,p3382s3,352,Islandia
+2026,p3382s3,248,Islas Åland
+2026,p3382s3,136,Islas Caimán
+2026,p3382s3,166,Islas Cocos (Keeling)
+2026,p3382s3,184,Islas Cook
+2026,p3382s3,234,Islas Feroe
+2026,p3382s3,334,Islas Heard y McDonald
+2026,p3382s3,238,Islas Malvinas (Falkland)
+2026,p3382s3,580,Islas Marianas Septentrionales
+2026,p3382s3,584,Islas Marshall
+2026,p3382s3,581,Islas menores alejadas de Estados Unidos
+2026,p3382s3,090,Islas Salomón
+2026,p3382s3,744,Islas Svalbard y Jan Mayen
+2026,p3382s3,796,Islas Turcas y Caicos
+2026,p3382s3,092,Islas Vírgenes Británicas
+2026,p3382s3,850,Islas Vírgenes de los Estados Unidos
+2026,p3382s3,876,Islas Wallis y Futuna
+2026,p3382s3,376,Israel
+2026,p3382s3,380,Italia
+2026,p3382s3,388,Jamaica
+2026,p3382s3,392,Japón
+2026,p3382s3,832,Jersey
+2026,p3382s3,400,Jordania
+2026,p3382s3,398,Kazajstán
+2026,p3382s3,404,Kenya
+2026,p3382s3,417,Kirguistán
+2026,p3382s3,296,Kiribati
+2026,p3382s3,414,Kuwait
+2026,p3382s3,426,Lesotho
+2026,p3382s3,428,Letonia
+2026,p3382s3,422,Líbano
+2026,p3382s3,430,Liberia
+2026,p3382s3,434,Libia
+2026,p3382s3,438,Liechtenstein
+2026,p3382s3,440,Lituania
+2026,p3382s3,442,Luxemburgo
+2026,p3382s3,807,Macedonia del Norte
+2026,p3382s3,450,Madagascar
+2026,p3382s3,458,Malasia
+2026,p3382s3,454,Malawi
+2026,p3382s3,462,Maldivas
+2026,p3382s3,466,Malí
+2026,p3382s3,470,Malta
+2026,p3382s3,504,Marruecos
+2026,p3382s3,474,Martinica
+2026,p3382s3,480,Mauricio
+2026,p3382s3,478,Mauritania
+2026,p3382s3,175,Mayotte
+2026,p3382s3,484,México
+2026,p3382s3,583,Micronesia (Estados Federados de)
+2026,p3382s3,492,Mónaco
+2026,p3382s3,496,Mongolia
+2026,p3382s3,499,Montenegro
+2026,p3382s3,500,Montserrat
+2026,p3382s3,508,Mozambique
+2026,p3382s3,104,Myanmar
+2026,p3382s3,516,Namibia
+2026,p3382s3,520,Nauru
+2026,p3382s3,524,Nepal
+2026,p3382s3,558,Nicaragua
+2026,p3382s3,562,Níger
+2026,p3382s3,566,Nigeria
+2026,p3382s3,570,Niue
+2026,p3382s3,578,Noruega
+2026,p3382s3,540,Nueva Caledonia
+2026,p3382s3,554,Nueva Zelandia
+2026,p3382s3,512,Omán
+2026,p3382s3,528,Países Bajos (Reino de los)
+2026,p3382s3,586,Pakistán
+2026,p3382s3,585,Palau
+2026,p3382s3,591,Panamá
+2026,p3382s3,598,Papua Nueva Guinea
+2026,p3382s3,600,Paraguay
+2026,p3382s3,604,Perú
+2026,p3382s3,612,Pitcairn
+2026,p3382s3,258,Polinesia Francesa
+2026,p3382s3,616,Polonia
+2026,p3382s3,620,Portugal
+2026,p3382s3,630,Puerto Rico
+2026,p3382s3,634,Qatar
+2026,p3382s3,826,Reino Unido de Gran Bretaña e Irlanda del Norte
+2026,p3382s3,760,República Árabe Siria
+2026,p3382s3,140,República Centroafricana
+2026,p3382s3,410,República de Corea
+2026,p3382s3,498,República de Moldova
+2026,p3382s3,180,República Democrática del Congo
+2026,p3382s3,418,República Democrática Popular Lao
+2026,p3382s3,214,República Dominicana
+2026,p3382s3,408,República Popular Democrática de Corea
+2026,p3382s3,834,República Unida de Tanzanía
+2026,p3382s3,638,Reunión
+2026,p3382s3,642,Rumania
+2026,p3382s3,646,Rwanda
+2026,p3382s3,732,Sáhara Occidental
+2026,p3382s3,659,Saint Kitts y Nevis
+2026,p3382s3,882,Samoa
+2026,p3382s3,016,Samoa Americana
+2026,p3382s3,652,San Barthélemy
+2026,p3382s3,674,San Marino
+2026,p3382s3,663,San Martín (parte francesa)
+2026,p3382s3,534,San Martín (parte Holandesa)
+2026,p3382s3,666,San Pedro y Miquelón
+2026,p3382s3,670,San Vicente y las Granadinas
+2026,p3382s3,654,Santa Elena
+2026,p3382s3,662,Santa Lucía
+2026,p3382s3,336,Santa Sede
+2026,p3382s3,678,Santo Tomé y Príncipe
+2026,p3382s3,686,Senegal
+2026,p3382s3,688,Serbia
+2026,p3382s3,690,Seychelles
+2026,p3382s3,694,Sierra Leona
+2026,p3382s3,702,Singapur
+2026,p3382s3,706,Somalia
+2026,p3382s3,144,Sri Lanka
+2026,p3382s3,710,Sudáfrica
+2026,p3382s3,729,Sudán
+2026,p3382s3,728,Sudán del Sur
+2026,p3382s3,752,Suecia
+2026,p3382s3,756,Suiza
+2026,p3382s3,740,Suriname
+2026,p3382s3,764,Tailandia
+2026,p3382s3,762,Tayikistán
+2026,p3382s3,086,Territorio Británico del Océano Índico
+2026,p3382s3,260,Territorio de las Tierras Australes Francesas
+2026,p3382s3,626,Timor-Leste
+2026,p3382s3,768,Togo
+2026,p3382s3,772,Tokelau
+2026,p3382s3,776,Tonga
+2026,p3382s3,780,Trinidad y Tabago
+2026,p3382s3,788,Túnez
+2026,p3382s3,795,Turkmenistán
+2026,p3382s3,792,Türkiye (Turquía)
+2026,p3382s3,798,Tuvalu
+2026,p3382s3,804,Ucrania
+2026,p3382s3,800,Uganda
+2026,p3382s3,858,Uruguay
+2026,p3382s3,860,Uzbekistán
+2026,p3382s3,548,Vanuatu
+2026,p3382s3,862,Venezuela (República Bolivariana de)
+2026,p3382s3,704,Viet Nam
+2026,p3382s3,887,Yemen
+2026,p3382s3,894,Zambia
+2026,p3382s3,716,Zimbabwe
+2026,p3383,1,¿La cabecera municipal (donde está la alcaldía)?
+2026,p3383,2,"¿Parte rural (centro poblado, corregimiento, inspección, caserío, vereda, campo?"
+2026,p3384,1,No había nacido
+2026,p3384,2,En este municipio
+2026,p3384,3,En otro Municipio
+2026,p3384,4,En otro país
+2026,p3384s3,004,Afganistán
+2026,p3384s3,008,Albania
+2026,p3384s3,276,Alemania
+2026,p3384s3,020,Andorra
+2026,p3384s3,024,Angola
+2026,p3384s3,660,Anguila
+2026,p3384s3,010,Antártida
+2026,p3384s3,028,Antigua y Barbuda
+2026,p3384s3,682,Arabia Saudita
+2026,p3384s3,012,Argelia
+2026,p3384s3,032,Argentina
+2026,p3384s3,051,Armenia
+2026,p3384s3,533,Aruba
+2026,p3384s3,036,Australia
+2026,p3384s3,040,Austria
+2026,p3384s3,031,Azerbaiyán
+2026,p3384s3,044,Bahamas
+2026,p3384s3,048,Bahrein
+2026,p3384s3,050,Bangladesh
+2026,p3384s3,052,Barbados
+2026,p3384s3,112,Belarús
+2026,p3384s3,056,Bélgica
+2026,p3384s3,084,Belice
+2026,p3384s3,204,Benin
+2026,p3384s3,060,Bermuda
+2026,p3384s3,064,Bhután
+2026,p3384s3,068,Bolivia (Estado Plurinacional de)
+2026,p3384s3,535,"Bonaire, San Eustaquio y Saba"
+2026,p3384s3,070,Bosnia y Herzegovina
+2026,p3384s3,072,Botswana
+2026,p3384s3,076,Brasil
+2026,p3384s3,096,Brunei Darussalam
+2026,p3384s3,100,Bulgaria
+2026,p3384s3,854,Burkina Faso
+2026,p3384s3,108,Burundi
+2026,p3384s3,132,Cabo Verde
+2026,p3384s3,116,Camboya
+2026,p3384s3,120,Camerún
+2026,p3384s3,124,Canadá
+2026,p3384s3,148,Chad
+2026,p3384s3,203,Chequia
+2026,p3384s3,152,Chile
+2026,p3384s3,156,China
+2026,p3384s3,344,"China, región administrativa especial de Hong Kong"
+2026,p3384s3,446,"China, región administrativa especial de Macao"
+2026,p3384s3,196,Chipre
+2026,p3384s3,170,Colombia
+2026,p3384s3,174,Comoras
+2026,p3384s3,178,Congo
+2026,p3384s3,188,Costa Rica
+2026,p3384s3,384,Côte d’Ivoire (Antiguo Costa de Marfil)
+2026,p3384s3,191,Croacia
+2026,p3384s3,192,Cuba
+2026,p3384s3,531,Curazao
+2026,p3384s3,208,Dinamarca
+2026,p3384s3,262,Djibouti
+2026,p3384s3,212,Dominica
+2026,p3384s3,218,Ecuador
+2026,p3384s3,818,Egipto
+2026,p3384s3,222,El Salvador
+2026,p3384s3,784,Emiratos Árabes Unidos
+2026,p3384s3,232,Eritrea
+2026,p3384s3,703,Eslovaquia
+2026,p3384s3,705,Eslovenia
+2026,p3384s3,724,España
+2026,p3384s3,275,Estado de Palestina
+2026,p3384s3,840,Estados Unidos de América
+2026,p3384s3,233,Estonia
+2026,p3384s3,748,Eswatini
+2026,p3384s3,231,Etiopía
+2026,p3384s3,643,Federación de Rusia
+2026,p3384s3,242,Fiji
+2026,p3384s3,608,Filipinas
+2026,p3384s3,246,Finlandia
+2026,p3384s3,250,Francia
+2026,p3384s3,266,Gabón
+2026,p3384s3,270,Gambia
+2026,p3384s3,268,Georgia
+2026,p3384s3,239,Georgia del Sur y las Islas Sandwich del Sur
+2026,p3384s3,288,Ghana
+2026,p3384s3,292,Gibraltar
+2026,p3384s3,308,Granada
+2026,p3384s3,300,Grecia
+2026,p3384s3,304,Groenlandia
+2026,p3384s3,312,Guadalupe
+2026,p3384s3,316,Guam
+2026,p3384s3,320,Guatemala
+2026,p3384s3,254,Guayana Francesa
+2026,p3384s3,831,Guernsey
+2026,p3384s3,324,Guinea
+2026,p3384s3,226,Guinea Ecuatorial
+2026,p3384s3,624,Guinea-Bissau
+2026,p3384s3,328,Guyana
+2026,p3384s3,332,Haití
+2026,p3384s3,340,Honduras
+2026,p3384s3,348,Hungría
+2026,p3384s3,356,India
+2026,p3384s3,360,Indonesia
+2026,p3384s3,364,Irán (República Islámica del)
+2026,p3384s3,368,Iraq
+2026,p3384s3,372,Irlanda
+2026,p3384s3,074,Isla Bouvet
+2026,p3384s3,162,Isla Christmas
+2026,p3384s3,833,Isla de Man
+2026,p3384s3,574,Isla Norfolk
+2026,p3384s3,352,Islandia
+2026,p3384s3,248,Islas Åland
+2026,p3384s3,136,Islas Caimán
+2026,p3384s3,166,Islas Cocos (Keeling)
+2026,p3384s3,184,Islas Cook
+2026,p3384s3,234,Islas Feroe
+2026,p3384s3,334,Islas Heard y McDonald
+2026,p3384s3,238,Islas Malvinas (Falkland)
+2026,p3384s3,580,Islas Marianas Septentrionales
+2026,p3384s3,584,Islas Marshall
+2026,p3384s3,581,Islas menores alejadas de Estados Unidos
+2026,p3384s3,090,Islas Salomón
+2026,p3384s3,744,Islas Svalbard y Jan Mayen
+2026,p3384s3,796,Islas Turcas y Caicos
+2026,p3384s3,092,Islas Vírgenes Británicas
+2026,p3384s3,850,Islas Vírgenes de los Estados Unidos
+2026,p3384s3,876,Islas Wallis y Futuna
+2026,p3384s3,376,Israel
+2026,p3384s3,380,Italia
+2026,p3384s3,388,Jamaica
+2026,p3384s3,392,Japón
+2026,p3384s3,832,Jersey
+2026,p3384s3,400,Jordania
+2026,p3384s3,398,Kazajstán
+2026,p3384s3,404,Kenya
+2026,p3384s3,417,Kirguistán
+2026,p3384s3,296,Kiribati
+2026,p3384s3,414,Kuwait
+2026,p3384s3,426,Lesotho
+2026,p3384s3,428,Letonia
+2026,p3384s3,422,Líbano
+2026,p3384s3,430,Liberia
+2026,p3384s3,434,Libia
+2026,p3384s3,438,Liechtenstein
+2026,p3384s3,440,Lituania
+2026,p3384s3,442,Luxemburgo
+2026,p3384s3,807,Macedonia del Norte
+2026,p3384s3,450,Madagascar
+2026,p3384s3,458,Malasia
+2026,p3384s3,454,Malawi
+2026,p3384s3,462,Maldivas
+2026,p3384s3,466,Malí
+2026,p3384s3,470,Malta
+2026,p3384s3,504,Marruecos
+2026,p3384s3,474,Martinica
+2026,p3384s3,480,Mauricio
+2026,p3384s3,478,Mauritania
+2026,p3384s3,175,Mayotte
+2026,p3384s3,484,México
+2026,p3384s3,583,Micronesia (Estados Federados de)
+2026,p3384s3,492,Mónaco
+2026,p3384s3,496,Mongolia
+2026,p3384s3,499,Montenegro
+2026,p3384s3,500,Montserrat
+2026,p3384s3,508,Mozambique
+2026,p3384s3,104,Myanmar
+2026,p3384s3,516,Namibia
+2026,p3384s3,520,Nauru
+2026,p3384s3,524,Nepal
+2026,p3384s3,558,Nicaragua
+2026,p3384s3,562,Níger
+2026,p3384s3,566,Nigeria
+2026,p3384s3,570,Niue
+2026,p3384s3,578,Noruega
+2026,p3384s3,540,Nueva Caledonia
+2026,p3384s3,554,Nueva Zelandia
+2026,p3384s3,512,Omán
+2026,p3384s3,528,Países Bajos (Reino de los)
+2026,p3384s3,586,Pakistán
+2026,p3384s3,585,Palau
+2026,p3384s3,591,Panamá
+2026,p3384s3,598,Papua Nueva Guinea
+2026,p3384s3,600,Paraguay
+2026,p3384s3,604,Perú
+2026,p3384s3,612,Pitcairn
+2026,p3384s3,258,Polinesia Francesa
+2026,p3384s3,616,Polonia
+2026,p3384s3,620,Portugal
+2026,p3384s3,630,Puerto Rico
+2026,p3384s3,634,Qatar
+2026,p3384s3,826,Reino Unido de Gran Bretaña e Irlanda del Norte
+2026,p3384s3,760,República Árabe Siria
+2026,p3384s3,140,República Centroafricana
+2026,p3384s3,410,República de Corea
+2026,p3384s3,498,República de Moldova
+2026,p3384s3,180,República Democrática del Congo
+2026,p3384s3,418,República Democrática Popular Lao
+2026,p3384s3,214,República Dominicana
+2026,p3384s3,408,República Popular Democrática de Corea
+2026,p3384s3,834,República Unida de Tanzanía
+2026,p3384s3,638,Reunión
+2026,p3384s3,642,Rumania
+2026,p3384s3,646,Rwanda
+2026,p3384s3,732,Sáhara Occidental
+2026,p3384s3,659,Saint Kitts y Nevis
+2026,p3384s3,882,Samoa
+2026,p3384s3,016,Samoa Americana
+2026,p3384s3,652,San Barthélemy
+2026,p3384s3,674,San Marino
+2026,p3384s3,663,San Martín (parte francesa)
+2026,p3384s3,534,San Martín (parte Holandesa)
+2026,p3384s3,666,San Pedro y Miquelón
+2026,p3384s3,670,San Vicente y las Granadinas
+2026,p3384s3,654,Santa Elena
+2026,p3384s3,662,Santa Lucía
+2026,p3384s3,336,Santa Sede
+2026,p3384s3,678,Santo Tomé y Príncipe
+2026,p3384s3,686,Senegal
+2026,p3384s3,688,Serbia
+2026,p3384s3,690,Seychelles
+2026,p3384s3,694,Sierra Leona
+2026,p3384s3,702,Singapur
+2026,p3384s3,706,Somalia
+2026,p3384s3,144,Sri Lanka
+2026,p3384s3,710,Sudáfrica
+2026,p3384s3,729,Sudán
+2026,p3384s3,728,Sudán del Sur
+2026,p3384s3,752,Suecia
+2026,p3384s3,756,Suiza
+2026,p3384s3,740,Suriname
+2026,p3384s3,764,Tailandia
+2026,p3384s3,762,Tayikistán
+2026,p3384s3,086,Territorio Británico del Océano Índico
+2026,p3384s3,260,Territorio de las Tierras Australes Francesas
+2026,p3384s3,626,Timor-Leste
+2026,p3384s3,768,Togo
+2026,p3384s3,772,Tokelau
+2026,p3384s3,776,Tonga
+2026,p3384s3,780,Trinidad y Tabago
+2026,p3384s3,788,Túnez
+2026,p3384s3,795,Turkmenistán
+2026,p3384s3,792,Türkiye (Turquía)
+2026,p3384s3,798,Tuvalu
+2026,p3384s3,804,Ucrania
+2026,p3384s3,800,Uganda
+2026,p3384s3,858,Uruguay
+2026,p3384s3,860,Uzbekistán
+2026,p3384s3,548,Vanuatu
+2026,p3384s3,862,Venezuela (República Bolivariana de)
+2026,p3384s3,704,Viet Nam
+2026,p3384s3,887,Yemen
+2026,p3384s3,894,Zambia
+2026,p3384s3,716,Zimbabwe
+2026,p3385,1,¿La cabecera municipal (donde está la alcaldía)?
+2026,p3386,1,Trabajo
+2026,p3386,2,Estudio
+2026,p3386,3,Salud
+2026,p3386,4,Amenaza o riesgo para su vida o integridad física ocasionada por conflicto armado o grupos armados
+2026,p3386,5,"Amenaza o riesgo para su vida o integridad física por violencia NO asociada al conflicto armado (inseguridad, delincuencia común)"
+2026,p3386,6,"Emergencias causadas por inundaciones, deslizamientos, desabastecimiento de agua u otras detonadas por amenazas de origen natural."
+2026,p3386,7,Conformación de un nuevo hogar
+2026,p3386,8,Acompañar a otros miembros del hogar
+2026,p3386,9,Motivos culturales asociados a grupos étnicos
+2026,p3386,10,Adquisición de vivienda propia
+2026,p3386,11,Otro

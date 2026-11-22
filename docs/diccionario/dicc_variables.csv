@@ -1,0 +1,1917 @@
+version,variable,descripcion,tipo_dato,longitud,tabla_dane
+2023,directorio,Identificador de la vivienda,NUMBER,15,01
+2023,secuencia_p,Identificador del hogar,NUMBER,5,01
+2023,hogar,Número del hogar en la vivienda,VARCHAR2,2,01
+2023,p4000,Tipo de vivienda,NUMBER,5,01
+2023,p4010,¿Cuál es el material predominante de las paredes exteriores de la vivienda?,NUMBER,5,01
+2023,p4020,¿ Cual es el material predominante de los pisos de la vivienda?,NUMBER,5,01
+2023,p4030s1,¿Con cuáles de los siguientes servicios cuenta la vivienda? a. Energía eléctrica,NUMBER,5,01
+2023,p4030s1a1,¿Con cuáles de los siguientes servicios cuenta la vivienda? Estrato para tarifa,NUMBER,5,01
+2023,p4030s2,¿Con cuáles de los siguientes servicios cuenta la vivienda? b. Gas natural conectado a red pública,NUMBER,5,01
+2023,p4030s3,¿Con cuáles de los siguientes servicios cuenta la vivienda? c. Alcantarillado,NUMBER,5,01
+2023,p4030s4,¿Con cuáles de los siguientes servicios cuenta la vivienda? d. Recolección de basuras,NUMBER,5,01
+2023,p4030s4a1,¿Con cuáles de los siguientes servicios cuenta la vivienda? Veces por semana,NUMBER,5,01
+2023,p4030s5,¿Con cuáles de los siguientes servicios cuenta la vivienda? e. Acueducto,NUMBER,5,01
+2023,p70,¿Cuántos hogares hay en esta vivienda?,NUMBER,5,01
+2023,p5000,"Incluyendo sala-comedor, ¿de cuántos cuartos en total dispone este hogar?",NUMBER,3,01
+2023,p5010,¿En cuántos de esos cuartos duermen las personas de este hogar?,NUMBER,5,01
+2023,p5020,El servicio sanitario que utiliza el hogar es :,NUMBER,3,01
+2023,p5030,El servicio sanitario del hogar es:,NUMBER,3,01
+2023,p5040,¿Cómo eliminan principalmente la basura en este hogar?,NUMBER,3,01
+2023,p5050,¿De dónde obtiene principalmente este hogar el agua para consumo humano ?,NUMBER,3,01
+2023,p5070,"¿En cuál de los siguientes lugares, preparan los alimentos las personas de este hogar:",NUMBER,3,01
+2023,p5080,¿Con qué energía o combustibe cocinan principalmente en este hogar?,NUMBER,3,01
+2023,p5090,La vivienda ocupada por este hogar es:,NUMBER,3,01
+2023,p5090s1,La vivienda ocupada por este hogar es: ¿Cuál?,VARCHAR2,250,01
+2023,p5100,¿Cuánto pagan mensualmente por cuota de amortización?,NUMBER,12,01
+2023,p5110,"Si usted quisiera vender esta vivienda, ¿Cuál sería el precio minimo en que la vendería?",NUMBER,12,01
+2023,p5130,"Si tuviera que pagar arriendo por esta vivienda, ¿cuánto estima que tendría que pagar mensualmente",NUMBER,12,01
+2023,p5140,¿ Cuánto pagan mensualmente por arriendo ?,NUMBER,12,01
+2023,p5222s1,¿Cuáles de los siguientes productos financieros utiliza usted o algún miembro del hogar actualmente? Cuenta corriente,NUMBER,12,01
+2023,p5222s2,¿Cuáles de los siguientes productos financieros utiliza usted o algún miembro del hogar actualmente? Cuenta de ahorros,NUMBER,12,01
+2023,p5222s3,¿Cuáles de los siguientes productos financieros utiliza usted o algún miembro del hogar actualmente? CDT,NUMBER,12,01
+2023,p5222s4,¿Cuáles de los siguientes productos financieros utiliza usted o algún miembro del hogar actualmente? Préstamo para compra de vivienda,NUMBER,12,01
+2023,p5222s5,¿Cuáles de los siguientes productos financieros utiliza usted o algún miembro del hogar actualmente? Préstamo para compra de vehículo,NUMBER,12,01
+2023,p5222s6,¿Cuáles de los siguientes productos financieros utiliza usted o algún miembro del hogar actualmente? Préstamo de libre inversión,NUMBER,12,01
+2023,p5222s7,¿Cuáles de los siguientes productos financieros utiliza usted o algún miembro del hogar actualmente? Tarjeta de crédito,NUMBER,12,01
+2023,p5222s8,¿Cuáles de los siguientes productos financieros utiliza usted o algún miembro del hogar actualmente? Otro,NUMBER,12,01
+2023,p5222s8a1,¿Cuáles de los siguientes productos financieros utiliza usted o algún miembro del hogar actualmente? ¿Cuál?,VARCHAR2,250,01
+2023,p5222s9,¿Cuáles de los siguientes productos financieros utiliza usted o algún miembro del hogar actualmente? Ninguno,NUMBER,12,01
+2023,p5222s10,¿Cuáles de los siguientes productos financieros utiliza usted o algún miembro del hogar actualmente? No sabe,NUMBER,12,01
+2023,p6008,Total de personas en el hogar,NUMBER,2,01
+2023,periodo,"Año, mes y semana de recolección de la encuesta",NUMBER,8,01
+2023,per,Año de la encuesta,VARCHAR2,4,01
+2023,mes,Mes de la encuesta,VARCHAR2,2,01
+2023,regis,Identificador del tipo de registro,VARCHAR2,2,01
+2023,dpto,Identificador de departamento,,,01
+2023,area,Identificador de las area metropolitana,VARCHAR2,2,01
+2023,clase,Identificador de dominio,VARCHAR2,1,01
+2023,fex_c18,Factor de expansión de personas y Hogares,NUMBER,8,01
+2023,orden,Número de la persona en el hogar,VARCHAR2,2,10
+2023,pt,Indicador de persona,NUMBER,3,10
+2023,pob_may18,Indicador de persona mayor e igual a 18 años,NUMBER,3,10
+2023,p6016,Número de orden de la persona que proporciona la información:,NUMBER,3,10
+2023,p3271,Cuál fue su sexo al nacer?,NUMBER,3,10
+2023,p6040,¿Cuántos años cumplidos tiene … ?,NUMBER,3,10
+2023,p6030s1,¿Cuál es la fecha de nacimiento de ? Mes,VARCHAR2,50,10
+2023,p6030s3,¿Cuál es la fecha de nacimiento de ? Año,VARCHAR2,50,10
+2023,p6050,¿Cuál es el parentesco de … con el jefe o jefa del hogar?,NUMBER,3,10
+2023,p6083,¿La madre de … reside en este hogar?,NUMBER,3,10
+2023,p6083s1,¿La madre de … reside en este hogar? Número de orden de la persona,NUMBER,3,10
+2023,p6081,¿El padre de … reside en este hogar?,NUMBER,3,10
+2023,p6081s1,¿El padre de … reside en este hogar? Número de orden de la persona,NUMBER,3,10
+2023,p2057,¿Usted se considera campesino(a)?,NUMBER,3,10
+2023,p2059,¿Usted considera que alguna vez fue campesino(a)?,NUMBER,3,10
+2023,p2061,¿Usted considera que la comunidad en que vive es campesina?,NUMBER,3,10
+2023,p6080,"De acuerdo con su cultura, pueblo o rasgos físicos, es o se reconoce como:",NUMBER,3,10
+2023,p6080s1,¿A cuál pueblo o etnia indígena pertenece?,VARCHAR2,250,10
+2023,p6080s1a1,¿A cuál pueblo o etnia indígena pertenece? ¿Cuál?,VARCHAR2,250,10
+2023,p6070,Actualmente:,NUMBER,3,10
+2023,p6071,¿El (la) cónyuge de … reside en este hogar?,NUMBER,3,10
+2023,p6071s1,¿El (la) cónyuge de … reside en este hogar? Número de orden de la persona,NUMBER,3,10
+2023,p3147s1,"Debido a la situación que se presenta en el país con la pandemia de COVID - 19, ¿Cuáles de las siguientes dificultades se le han presentado a ...?",NUMBER,3,10
+2023,p3147s2,"Debido a la situación que se presenta en el país con la pandemia de COVID - 19, ¿Cuáles de las siguientes dificultades se le han presentado a ...?",NUMBER,3,10
+2023,p3147s3,"Debido a la situación que se presenta en el país con la pandemia de COVID - 19, ¿Cuáles de las siguientes dificultades se le han presentado a ...?",NUMBER,3,10
+2023,p3147s4,"Debido a la situación que se presenta en el país con la pandemia de COVID - 19, ¿Cuáles de las siguientes dificultades se le han presentado a ...?",NUMBER,3,10
+2023,p3147s5,"Debido a la situación que se presenta en el país con la pandemia de COVID - 19, ¿Cuáles de las siguientes dificultades se le han presentado a ...?",NUMBER,3,10
+2023,p3147s6,"Debido a la situación que se presenta en el país con la pandemia de COVID - 19, ¿Cuáles de las siguientes dificultades se le han presentado a ...?",NUMBER,3,10
+2023,p3147s7,"Debido a la situación que se presenta en el país con la pandemia de COVID - 19, ¿Cuáles de las siguientes dificultades se le han presentado a ...?",NUMBER,3,10
+2023,p3147s8,"Debido a la situación que se presenta en el país con la pandemia de COVID - 19, ¿Cuáles de las siguientes dificultades se le han presentado a ...?",NUMBER,3,10
+2023,p3147s9,"Debido a la situación que se presenta en el país con la pandemia de COVID - 19, ¿Cuáles de las siguientes dificultades se le han presentado a ...?",NUMBER,3,10
+2023,p3147s10,"Debido a la situación que se presenta en el país con la pandemia de COVID - 19, ¿Cuáles de las siguientes dificultades se le han presentado a ...?",NUMBER,3,10
+2023,p3147s10a1,"Debido a la situación que se presenta en el país con la pandemia de COVID - 19, ¿Cuáles de las siguientes dificultades se le han presentado a ...?",VARCHAR2,250,10
+2023,p3147s11,"Debido a la situación que se presenta en el país con la pandemia de COVID - 19, ¿Cuáles de las siguientes dificultades se le han presentado a ...?",NUMBER,3,10
+2023,p6090,"¿ ... está afiliado, es cotizante o es beneficiario de alguna entidad de seguridad social en salud? (Empresa Promotora de Salud - EPS o Administradora de",NUMBER,3,10
+2023,p6100,¿A cual de los siguientes regímenes de seguridad social en salud está afiliado:,NUMBER,3,10
+2023,p6110,¿Quién paga mensualmente por la afiliación de...?,NUMBER,3,10
+2023,p6120,¿Cuánto paga o cuánto le descuentan mensualmente?,NUMBER,9,10
+2023,p1906s1,"Dada su condición física y mental, en su vida diaria tiene dificultades para realizar las siguientes actividades: a. ¿Oír, aún con audífonos medicados?",NUMBER,3,10
+2023,p1906s2,"Dada su condición física y mental, en su vida diaria tiene dificultades para realizar las siguientes actividades: b. ¿Hablar o conversar?",NUMBER,3,10
+2023,p1906s3,"Dada su condición física y mental, en su vida diaria tiene dificultades para realizar las siguientes actividades: c. ¿Ver, aún usando lentes o gafas?",NUMBER,3,10
+2023,p1906s4,"Dada su condición física y mental, en su vida diaria tiene dificultades para realizar las siguientes actividades: d. ¿Mover el cuerpo, caminar o subir y bajar escaleras?",NUMBER,3,10
+2023,p1906s5,"Dada su condición física y mental, en su vida diaria tiene dificultades para realizar las siguientes actividades: e. ¿Agarrar o mover objetos con las manos?",NUMBER,3,10
+2023,p1906s6,"Dada su condición física y mental, en su vida diaria tiene dificultades para realizar las siguientes actividades: f. ¿Entender, aprender, recordar o tomar decisiones por si mismo/a?",NUMBER,3,10
+2023,p1906s7,"Dada su condición física y mental, en su vida diaria tiene dificultades para realizar las siguientes actividades: g. ¿Comer, vestirse o bañarse por si mismo (a)?",NUMBER,3,10
+2023,p1906s8,"Dada su condición física y mental, en su vida diaria tiene dificultades para realizar las siguientes actividades: h. ¿Relacionarse o interactuar con las demás personas?",NUMBER,3,10
+2023,p6160,¿Sabe leer y escribir?,NUMBER,3,10
+2023,p6170,"¿Actualmente asiste a alguna institución educativa (por ejemplo: jardín, escuela, colegio, universidad)?",NUMBER,3,10
+2023,p3041,La institución a la que asiste es:,NUMBER,3,10
+2023,p3042,¿Cuál es el mayor nivel educativo alcanzado y el último grado o semestre aprobado por …...?,NUMBER,3,10
+2023,p3042s1,¿Cuál es el mayor nivel educativo alcanzado y el último grado o semestre aprobado por …...? Año o Grado,NUMBER,3,10
+2023,p3042s2,¿Cuál es el mayor nivel educativo alcanzado y el último grado o semestre aprobado por …...? ¿En qué?,NUMBER,15,10
+2023,p3043,¿Cuál es el título o diploma de mayor nivel educativo que ha recibido...?,NUMBER,3,10
+2023,p3043s1,¿Cuál es el título o diploma de mayor nivel educativo que ha recibido...? ¿En qué?,NUMBER,12,10
+2023,p3038,¿Usted siente atracción sexual o romántica por?,NUMBER,15,10
+2023,p3039,¿Usted se reconoce como?,NUMBER,15,10
+2023,ft,Indicador de fuerza de trabajo,NUMBER,1,50
+2023,pet,Indicador de población en edad de trabajar,NUMBER,1,50
+2023,p6240,¿En que actividad ocupó … la mayor parte del tiempo la semana pasada?,NUMBER,5,50
+2023,p6240s1,¿En que actividad ocupó … la mayor parte del tiempo la semana pasada? ¿cuál?,VARCHAR2,250,50
+2023,p6240s2,¿En que actividad ocupó … la mayor parte del tiempo la semana pasada? ¿La persona recibió remuneración en dinero o en especie a cambio de este trabajo?,NUMBER,5,50
+2023,p6250,"Además de lo anterior, ¿… realizó la semana pasada alguna actividad paga por una hora o más?",NUMBER,3,50
+2023,p6260,"Aunque.... no trabajó la semana pasada, por una hora o más en forma remunerada, ¿tenía durante esa semana algún trabajo o negocio por el que recibe ingresos en dinero o en especie?",NUMBER,3,50
+2023,p6260s1,"Aunque.... no trabajó la semana pasada, por una hora o más en forma remunerada, ¿tenía durante esa semana algún trabajo o negocio por el que recibe ingresos en dinero o en especie? ¿Por qué razón no trabajó la semana pasada?",NUMBER,3,50
+2023,p6260s1a1,"Aunque.... no trabajó la semana pasada, por una hora o más en forma remunerada, ¿tenía durante esa semana algún trabajo o negocio por el que recibe ingresos en dinero o en especie? ¿Por qué razón no trabajó la semana pasada? ¿cuál?",VARCHAR2,250,50
+2023,p6260s2,"Aunque.... no trabajó la semana pasada, por una hora o más en forma remunerada, ¿tenía durante esa semana algún trabajo o negocio por el que recibe ingresos en dinero o en especie? ¿Cuánto tiempo estará ausente del trabajo (desde que dejó de trabajar hasta que regrese)?",NUMBER,3,50
+2023,p6270,¿....trabajó la semana pasada en un negocio por UNA HORA O MÁS sin que le pagaran?,NUMBER,3,50
+2023,p6280,En las ÚLTIMAS 4 SEMANAS ¿... hizo alguna diligencia para conseguir un trabajo o instalar un negocio?,NUMBER,3,50
+2023,p6290,¿Qué hizo ... principalmente en las ÚLTIMAS CUATRO SEMANAS para conseguir un trabajo o instalar un negocio?,NUMBER,3,50
+2023,p3362s1,"¿Qué hizo ... en las ÚLTIMAS CUATRO SEMANAS para conseguir un trabajo o instalar un negocio? a. Pidió ayuda a familiares, amigos, colegas",NUMBER,3,50
+2023,p3362s2,"¿Qué hizo ... en las ÚLTIMAS CUATRO SEMANAS para conseguir un trabajo o instalar un negocio? b. Visitó, llevó o envió hojas de vida a empresas o empleadores",NUMBER,3,50
+2023,p3362s3,"¿Qué hizo ... en las ÚLTIMAS CUATRO SEMANAS para conseguir un trabajo o instalar un negocio? c. Hizo uso de los servicios de agencias o bolsas de empleo, Cajas de Compensación Familiar, SENA, Entes Territoriales (Servicio Público de Empleo - SPE)",NUMBER,3,50
+2023,p3362s4,¿Qué hizo ... en las ÚLTIMAS CUATRO SEMANAS para conseguir un trabajo o instalar un negocio? d. Puso o consultó avisos clasificados,NUMBER,3,50
+2023,p3362s5,¿Qué hizo ... en las ÚLTIMAS CUATRO SEMANAS para conseguir un trabajo o instalar un negocio? e. Se presentó a convocatorias,NUMBER,3,50
+2023,p3362s6,¿Qué hizo ... en las ÚLTIMAS CUATRO SEMANAS para conseguir un trabajo o instalar un negocio? f. Hizo preparativos para iniciar un negocio,NUMBER,3,50
+2023,p3362s7,¿Qué hizo ... en las ÚLTIMAS CUATRO SEMANAS para conseguir un trabajo o instalar un negocio? g. Otro medio,NUMBER,3,50
+2023,p3362s7a1,"¿Qué hizo ... en las ÚLTIMAS CUATRO SEMANAS para conseguir un trabajo o instalar un negocio? g. Otro medio, ¿cuál?",VARCHAR2,250,50
+2023,p3362s8,"¿Qué hizo ... en las ÚLTIMAS CUATRO SEMANAS para conseguir un trabajo o instalar un negocio? h. No sabe, no informa",NUMBER,3,50
+2023,p6300,¿... desea conseguir un trabajo remunerado o instalar un negocio?,NUMBER,3,50
+2023,p6310,"Aunque ... desea trabajar, ¿por qué motivo principal no hizo diligencias para buscar un trabajo o instalar un negocio en las ÚLTIMAS 4 SEMANAS?",NUMBER,3,50
+2023,p6310s1,"Aunque ... desea trabajar, ¿por qué motivo principal no hizo diligencias para buscar un trabajo o instalar un negocio en las ÚLTIMAS 4 SEMANAS? Otro, ¿cuál?",VARCHAR2,250,50
+2023,p6320,,NUMBER,3,50
+2023,p6330,,NUMBER,3,50
+2023,p6340,,NUMBER,3,50
+2023,p6350,,NUMBER,3,50
+2023,p6351,,NUMBER,3,50
+2023,oci,Indicador de ocupados,NUMBER,1,60
+2023,inglabo,Ingreso laborales,NUMBER,8,60
+2023,rama4d_r4,Rama de actividad empleo principal,VARCHAR2,4,60
+2023,rama2d_r4,Rama de actividad empleo principal,VARCHAR2,2,60
+2023,oficio_c8,Oficio,VARCHAR2,4,60
+2023,p3044s2,"¿Cuál es el principal producto, grupos de productos o servicios que fabrica, comercializa u ofrece la empresa donde … trabaja o presta sus servicios? Ramas",NUMBER,4,60
+2023,p6440,¿Para realizar este trabajo tiene … algún tipo de contrato? (verbal o escrito),NUMBER,5,60
+2023,p6450,¿El contrato es verbal o escrito?,NUMBER,5,60
+2023,p6460,¿El contrato de trabajo es a término indefinido o a término fijo?,NUMBER,3,60
+2023,p6460s1,¿El contrato de trabajo es a término indefinido o a término fijo? Número Meses,NUMBER,5,60
+2023,p6400,"La empresa o persona que contrató a ..., ¿es la misma empresa donde trabaja o presta sus servicios?",NUMBER,5,60
+2023,p6410,La empresa que contrato a … es:,NUMBER,5,60
+2023,p6420s2,¿Cuál es la actividad de la empresa o persona que lo contrató? Ramas,VARCHAR2,4,60
+2023,p6422,¿Esta … conforme con el tipo de contrato que tiene?,NUMBER,3,60
+2023,p6424s1,"¿Por su contrato actual, recibe o tiene derecho a: Vacaciones con sueldo?",NUMBER,3,60
+2023,p6424s2,"¿Por su contrato actual, recibe o tiene derecho a: Prima de navidad?",NUMBER,3,60
+2023,p6424s3,"¿Por su contrato actual, recibe o tiene derecho a: Cesantías?",NUMBER,3,60
+2023,p6424s5,"¿Por su contrato actual, recibe o tiene derecho a: Licencia por enfermedad pagada",NUMBER,3,60
+2023,p6426,"¿Cuánto tiempo lleva … trabajando en esta empresa, negocio, industria, oficina, firma o finca de manera continua? (meses)",NUMBER,3,60
+2023,p6430,En este trabajo … es:,NUMBER,3,60
+2023,p6430s1,En este trabajo … es: ¿Cuál?,VARCHAR2,250,60
+2023,p3045s1,"La empresa, negocio o institución en la que ….. trabaja ¿está registrada o tiene: a. Cámara de comercio",NUMBER,3,60
+2023,p3045s2,"La empresa, negocio o institución en la que ….. trabaja ¿está registrada o tiene: b. RUT",NUMBER,3,60
+2023,p3045s3,"La empresa, negocio o institución en la que ….. trabaja ¿está registrada o tiene: c. Personería Jurídica",NUMBER,3,60
+2023,p3046,La empresa o negocio en la que …… trabaja tiene una oficina de contabilidad o cuenta con los servicios de un contador?,NUMBER,3,60
+2023,p3363,"¿Por qué medio principal, ... consiguió su empleo actual?",NUMBER,3,60
+2023,p9440,¿Su empleo actual lo obtuvo a través de páginas de internet?,NUMBER,3,60
+2023,p6500,"Antes de descuentos, ¿cuánto ganó … el mes pasado en este empleo? Incluya propinas y comisiones y excluya viáticos y pagos en especie.",NUMBER,15,60
+2023,p3364,¿Le descontaron retención en la fuente a lo que ganó el mes pasado en este empleo?,NUMBER,15,60
+2023,p3364s1,¿Le descontaron retención en la fuente a lo que ganó el mes pasado en este empleo? Valor,NUMBER,15,60
+2023,p6510,¿El mes pasado recibió ingresos por concepto de horas extras?,NUMBER,3,60
+2023,p6510s1,¿El mes pasado recibió ingresos por concepto de horas extras? ¿Cuánto recibió ($)?,NUMBER,15,60
+2023,p6510s2,¿El mes pasado recibió ingresos por concepto de horas extras? ¿Incluyó este valor en los ingresos del mes pasado que me declaró anteriormente?,NUMBER,3,60
+2023,p6590,"¿Además del salario en dinero, ¿ el mes pasado recibió alimentos como parte de pago por su trabajo ?",NUMBER,3,60
+2023,p6590s1,"¿Además del salario en dinero, ¿ el mes pasado recibió alimentos como parte de pago por su trabajo ? ¿En cuánto estima lo que recibió ($)?",NUMBER,15,60
+2023,p6600,"Además del salario en dinero, ¿el mes pasado recibió vivienda como parte de pago por su trabajo?",NUMBER,3,60
+2023,p6600s1,"Además del salario en dinero, ¿el mes pasado recibió vivienda como parte de pago por su trabajo? ¿En cuánto estima lo que recibió ($)?",NUMBER,15,60
+2023,p6610,¿ Normalmente … utiliza transporte de la empresa para desplazarse a su trabajo (bus o automóvil) ?,NUMBER,3,60
+2023,p6610s1,¿ Normalmente … utiliza transporte de la empresa para desplazarse a su trabajo (bus o automóvil) ? ¿En cuánto estima lo que recibió ($)?,NUMBER,15,60
+2023,p6620,"Además del salario en dinero, ¿el mes pasado ... recibió otros ingresos en especie por su trabajo? (electrodomésticos, ropa, productos diferentes",NUMBER,3,60
+2023,p6620s1,"Además del salario en dinero, ¿el mes pasado ... recibió otros ingresos en especie por su trabajo? (electrodomésticos, ropa, productos diferentes ¿En cuánto estima lo que recibió ($)?",NUMBER,15,60
+2023,p6585s1,¿Cuál o cuáles de los siguientes subsidios recibió … el mes pasado: Auxilio o subsidio de alimentación?,NUMBER,3,60
+2023,p6585s1a1,¿Cuál o cuáles de los siguientes subsidios recibió … el mes pasado: ¿Cuánto?,NUMBER,15,60
+2023,p6585s1a2,¿Cuál o cuáles de los siguientes subsidios recibió … el mes pasado: ¿ Incluyó este valor en los ingresos del mes pasado que me declaró anteriormente?,NUMBER,3,60
+2023,p6585s2,¿Cuál o cuáles de los siguientes subsidios recibió … el mes pasado: Auxilio o subsidio de transporte?,NUMBER,3,60
+2023,p6585s2a1,¿Cuál o cuáles de los siguientes subsidios recibió … el mes pasado: ¿Cuánto?,NUMBER,15,60
+2023,p6585s2a2,¿Cuál o cuáles de los siguientes subsidios recibió … el mes pasado: ¿ Incluyó este valor en los ingresos del mes pasado que me declaró anteriormente?,NUMBER,3,60
+2023,p6585s3,¿Cuál o cuáles de los siguientes subsidios recibió … el mes pasado: Subsidio Familiar?,NUMBER,3,60
+2023,p6585s3a1,¿Cuál o cuáles de los siguientes subsidios recibió … el mes pasado: ¿Cuánto?,NUMBER,15,60
+2023,p6585s3a2,¿Cuál o cuáles de los siguientes subsidios recibió … el mes pasado: ¿ Incluyó este valor en los ingresos del mes pasado que me declaró anteriormente?,NUMBER,15,60
+2023,p6585s4,¿Cuál o cuáles de los siguientes subsidios recibió … el mes pasado: Subsidio Educativo?,NUMBER,3,60
+2023,p6585s4a1,¿Cuál o cuáles de los siguientes subsidios recibió … el mes pasado: ¿Cuánto?,NUMBER,15,60
+2023,p6585s4a2,¿Cuál o cuáles de los siguientes subsidios recibió … el mes pasado: ¿ Incluyó este valor en los ingresos del mes pasado que me declaró anteriormente?,NUMBER,15,60
+2023,p6545,"¿El mes pasado recibió ... : Primas? (Técnica, de antiguedad, clima, orden público, otras. etc.)",NUMBER,15,60
+2023,p6545s1,¿El mes pasado recibió ... : ¿Cuánto?,NUMBER,15,60
+2023,p6545s2,¿El mes pasado recibió ... : ¿ Incluyó este valor en los ingresos del mes pasado que me declaró anteriormente?,NUMBER,3,60
+2023,p6580,¿El mes pasado recibió ... : Algún tipo de bonificación de carácter mensual?,NUMBER,3,60
+2023,p6580s1,¿El mes pasado recibió ... : ¿Cuánto?,NUMBER,15,60
+2023,p6580s2,¿El mes pasado recibió ... : ¿ Incluyó este valor en los ingresos del mes pasado que me declaró anteriormente?,NUMBER,3,60
+2023,p6630s1,¿En los últimos 12 meses recibió: Prima de servicios ?,NUMBER,15,60
+2023,p6630s1a1,¿En los últimos 12 meses recibió: ¿Cuánto recibió ($) ?,NUMBER,15,60
+2023,p6630s2,¿En los últimos 12 meses recibió: Prima de navidad ?,NUMBER,15,60
+2023,p6630s2a1,¿En los últimos 12 meses recibió: ¿Cuánto recibió ($) ?,NUMBER,15,60
+2023,p6630s3,¿En los últimos 12 meses recibió: Prima de vacaciones ?,NUMBER,3,60
+2023,p6630s3a1,¿En los últimos 12 meses recibió: ¿Cuánto recibió ($) ?,NUMBER,15,60
+2023,p6630s4,¿En los últimos 12 meses recibió: Viáticos permanentes y/o Bonificaciones anuales ?,NUMBER,15,60
+2023,p6630s4a1,¿En los últimos 12 meses recibió: ¿Cuánto recibió ($) ?,NUMBER,15,60
+2023,p6630s6,¿En los últimos 12 meses recibió: Pagos por accidentes de trabajo ?,NUMBER,15,60
+2023,p6630s6a1,¿En los últimos 12 meses recibió: ¿Cuánto recibió ($) ?,NUMBER,15,60
+2023,p6640,¿La semana pasada trabajó horas extras remuneradas?,NUMBER,15,60
+2023,p6640s1,¿La semana pasada trabajó horas extras remuneradas? ¿Cuántas?,NUMBER,15,60
+2023,p1800,"En ese trabajo, ¿tiene empleados o personas que le ayudan en su negocio o actividad?",NUMBER,15,60
+2023,p1800s1,"En ese trabajo, ¿tiene empleados o personas que le ayudan en su negocio o actividad? ¿cuántos?",NUMBER,15,60
+2023,p1801s1,"De las personas que ocupa o le ayudan en su negocio o actividad, cuántos son: Trabajadores que reciben un pago (Cuantos)",NUMBER,15,60
+2023,p1801s2,"De las personas que ocupa o le ayudan en su negocio o actividad, cuántos son: Socios (Cuantos)",NUMBER,15,60
+2023,p1801s3,"De las personas que ocupa o le ayudan en su negocio o actividad, cuántos son: Trabajadores o familiares sin remuneración (Cuantos)",NUMBER,15,60
+2023,p1802,… ofrece sus servicios o productos:,NUMBER,15,60
+2023,p3047,"En su trabajo, ¿quién decide sobre su horario de trabajo?",NUMBER,15,60
+2023,p3048,"En su trabajo, ¿quién decide sobre qué producir o vender?",NUMBER,15,60
+2023,p3049,"En su trabajo, ¿quién decide sobre el precio de los bienes, productos o servicios prestados?",NUMBER,15,60
+2023,p6765,"En la semana pasada, ¿cuál de las siguientes formas de trabajo realizó:",NUMBER,15,60
+2023,p6765s1,"En la semana pasada, ¿cuál de las siguientes formas de trabajo realizó: ¿Cuál?",VARCHAR2,250,60
+2023,p3051,"Antes de descuentos, ¿Cuánto recibió ... el mes pasado por concepto de honorarios profesionales? Honorarios profesionales en el mes pasado",VARCHAR2,250,60
+2023,p3051s1,"Antes de descuentos, ¿Cuánto recibió ... el mes pasado por concepto de honorarios profesionales? Confirme. Honorarios profesionales en el mes pasado",VARCHAR2,250,60
+2023,p3052,"Antes de descuentos, ¿Cuánto recibió ... el mes pasado por concepto de ingresos o comisiones? Ingresos o comisiones en el mes pasado",VARCHAR2,250,60
+2023,p3052s1,"Antes de descuentos, ¿Cuánto recibió ... el mes pasado por concepto de ingresos o comisiones? Confirme. Ingresos o comisiones en el mes pasado",VARCHAR2,250,60
+2023,p3053,¿ A cuántos meses corresponde lo que recibió?,NUMBER,15,60
+2023,p3365,¿Le descontaron retención en la fuente a lo que ganó el mes pasado en este empleo?,NUMBER,15,60
+2023,p3365s1,¿Le descontaron retención en la fuente a lo que ganó el mes pasado en este empleo? Valor,NUMBER,15,60
+2023,p3054,"Además de ingresos en dinero, ¿el mes pasado recibió alimentos como parte de pago por su trabajo?",NUMBER,15,60
+2023,p3054s1,"Además de ingresos en dinero, ¿el mes pasado recibió alimentos como parte de pago por su trabajo? ¿En cuánto estima lo que recibió ($)?",VARCHAR2,250,60
+2023,p3055,"Además de ingresos en dinero, ¿el mes pasado recibió vivienda como parte de pago por su trabajo?",NUMBER,15,60
+2023,p3055s1,"Además de ingresos en dinero, ¿el mes pasado recibió vivienda como parte de pago por su trabajo? ¿En cuánto estima lo que recibió ($)?",VARCHAR2,250,60
+2023,p3056,"La semana pasada, ¿qué tipo de actividad realizó en su negocio?",NUMBER,15,60
+2023,p3057,"¿Cuál fue el valor de las ventas o ingresos totales de su actividad o negocio, el mes pasado? Ventas o ingresos totales en el mes pasado",VARCHAR2,250,60
+2023,p6760,¿ A cuántos meses corresponde lo que recibió?,NUMBER,15,60
+2023,p3058s1,"¿Cuánto pagó durante el mes anterior, para el funcionamiento del negocio o actividad, por los siguientes conceptos? Salarios u honorarios",VARCHAR2,250,60
+2023,p3058s2,"¿Cuánto pagó durante el mes anterior, para el funcionamiento del negocio o actividad, por los siguientes conceptos? Insumos para la producción y/o compra de mercancías",VARCHAR2,250,60
+2023,p3058s3,"¿Cuánto pagó durante el mes anterior, para el funcionamiento del negocio o actividad, por los siguientes conceptos? Arrendamiento o alquiler de edificio, local, bodega o sitio para realizar su actividad",VARCHAR2,250,60
+2023,p3058s4,"¿Cuánto pagó durante el mes anterior, para el funcionamiento del negocio o actividad, por los siguientes conceptos? Servicios básicos como agua, alcantarillado, gas natural, gas propano en pipeta, luz, teléfono o internet",VARCHAR2,250,60
+2023,p3058s5,"¿Cuánto pagó durante el mes anterior, para el funcionamiento del negocio o actividad, por los siguientes conceptos? Transporte, combustible, mantenimiento, reparaciones, alquileres de bienes inmuebles, maquinarias y/o equipos",VARCHAR2,250,60
+2023,p3059,"¿Cuál fue el valor de las ventas o ingresos totales de productos agrícolas, ganaderos, pesqueros o actividades mineras, en los últimos 12 meses? Digite el valor de las ventas o ingresos totales en los últimos 12 meses.",VARCHAR2,250,60
+2023,p3061,¿ A cuántos meses corresponde lo que recibió?,NUMBER,15,60
+2023,p3062s1,"¿Cuánto pagó en los últimos 12 meses, para el funcionamiento del negocio o actividad, por los siguientes conceptos? Pago a trabajadores (salarios, honorarios, jornales, destajo, otros)",VARCHAR2,250,60
+2023,p3062s2,"¿Cuánto pagó en los últimos 12 meses, para el funcionamiento del negocio o actividad, por los siguientes conceptos? Servicios profesionales (agrónomo, veterinario, zootecnista, biólogo, etc.)",VARCHAR2,250,60
+2023,p3062s3,"¿Cuánto pagó en los últimos 12 meses, para el funcionamiento del negocio o actividad, por los siguientes conceptos? Transporte y alquiler de maquinaria y equipos",VARCHAR2,250,60
+2023,p3062s4,"¿Cuánto pagó en los últimos 12 meses, para el funcionamiento del negocio o actividad, por los siguientes conceptos? Combustibles, lubricantes y mantenimiento de maquinaria y equipo",VARCHAR2,250,60
+2023,p3062s5,"¿Cuánto pagó en los últimos 12 meses, para el funcionamiento del negocio o actividad, por los siguientes conceptos? Abono, fertilizante, herbicidas, insecticidas, funguicidas, semillas y riego",VARCHAR2,250,60
+2023,p3062s6,"¿Cuánto pagó en los últimos 12 meses, para el funcionamiento del negocio o actividad, por los siguientes conceptos? Vacunas y productos veterinarios",VARCHAR2,250,60
+2023,p3062s7,"¿Cuánto pagó en los últimos 12 meses, para el funcionamiento del negocio o actividad, por los siguientes conceptos? Compra de animales o reproductores",VARCHAR2,250,60
+2023,p3062s8,"¿Cuánto pagó en los últimos 12 meses, para el funcionamiento del negocio o actividad, por los siguientes conceptos? Alimentos y suplementos para animales",VARCHAR2,250,60
+2023,p3062s9,"¿Cuánto pagó en los últimos 12 meses, para el funcionamiento del negocio o actividad, por los siguientes conceptos? Arrendamiento de tierras",VARCHAR2,250,60
+2023,p3063,"¿En el mes anterior, usted o algún miembro del hogar tomó algo de lo que cultivó, produjo o extrajo para consumo del hogar?",NUMBER,15,60
+2023,p3063s1,"¿En el mes anterior, usted o algún miembro del hogar tomó algo de lo que cultivó, produjo o extrajo para consumo del hogar? ¿Cuánto tendría que pagar si tuviera que comprar este(os) artículo(s)?",VARCHAR2,250,60
+2023,p3064,"¿Usted es propietario de la totalidad o parte de la tierra, terreno o granja donde realiza su actividad productiva?",NUMBER,15,60
+2023,p3064s1,"¿Usted es propietario de la totalidad o parte de la tierra, terreno o granja donde realiza su actividad productiva? Si tuviera que pagar arriendo por ese terreno, tierra o granja; ¿cuánto estima que tendría que pagar mensualmente?",VARCHAR2,250,60
+2023,p3065,La empresa o negocio en la que ... realiza su trabajo ¿está registrada ante la cámara de comercio? (¿tiene registro mercantil?),NUMBER,15,60
+2023,p3066,La empresa o negocio en la que ... trabaja tiene una oficina de contabilidad o cuenta con los servicios de un contador?,NUMBER,15,60
+2023,p3067,¿... ha registrado el negocio ante ante la cámara de comercio? (¿tiene registro mercantil?),NUMBER,15,60
+2023,p3067s1,¿... ha renovado ese registro?,NUMBER,15,60
+2023,p3067s2,¿Cuál fue el último año en el que renovó este registro?,NUMBER,15,60
+2023,p6775,"¿El negocio o actividad de ... lleva contabilidad (realiza anualmente balance general y estado de perdidas y ganancias), o libro de registro diario de operaciones?",NUMBER,15,60
+2023,p3068,¿A través de la contabilidad se pueden separar los gastos del negocio de los gastos del hogar?,NUMBER,15,60
+2023,p6750,"¿Cuál fue la ganancia neta o los honorarios netos de ... en esa actividad, negocio, profesión o finca, el mes pasado ?",NUMBER,15,60
+2023,p3073,¿ A cuántos meses corresponde lo que recibió?,NUMBER,15,60
+2023,p550,¿Cuál fue la ganancia neta del negocio o de la cosecha durante los últimos doce meses?,NUMBER,15,60
+2023,p6780,Este trabajo es:,NUMBER,15,60
+2023,p6780s1,Este trabajo es: Especifique,VARCHAR2,250,60
+2023,p1879,¿Cuál es la razón principal por la que trabaja en forma independiente en lugar de trabajar para un empleador o patrono ?,NUMBER,15,60
+2023,p1805,"Si le ofrecieran un empleo como asalariado, en el cuál ganara lo mismo que obtiene actualmente pero con prestaciones, ¿aceptaría?",NUMBER,15,60
+2023,p6790,¿Cuántos meses trabajó en los últimos 12 meses?,NUMBER,15,60
+2023,p6800,¿Cuántas horas a la semana trabaja normalmente en ese trabajo?,NUMBER,15,60
+2023,p6810,¿Cuál es la razón por la que trabaja normalmente menos de 40 horas a la semana?,NUMBER,15,60
+2023,p6810s1,¿Cuál es la razón por la que trabaja normalmente menos de 40 horas a la semana? ¿Cuál?,VARCHAR2,250,60
+2023,p6850,¿Cuántas horas trabajó durante la semana pasada en este trabajo?,NUMBER,9,60
+2023,p6830,"¿Por qué razón, de las horas que normalmente trabaja, hubo algunas que no trabajó la semana pasada ?",NUMBER,15,60
+2023,p6830s1,"¿Por qué razón, de las horas que normalmente trabaja, hubo algunas que no trabajó la semana pasada ? ¿Cuál?",VARCHAR2,250,60
+2023,p3366,¿Esta razón está asociada a la pandemia de COVID-19?,NUMBER,15,60
+2023,p3069,"¿Cuántas personas en total tiene la empresa, negocio, industria, oficina, firma, finca o sitio donde ... trabaja?",NUMBER,15,60
+2023,p6880,Dónde realiza principalmente su trabajo:,NUMBER,15,60
+2023,p6880s1,Dónde realiza principalmente su trabajo: ¿Cuál?,VARCHAR2,250,60
+2023,p6915,En caso de enfermedad ¿cómo cubriría los costos médicos y los medicamentos?,NUMBER,15,60
+2023,p6915s1,En caso de enfermedad ¿cómo cubriría los costos médicos y los medicamentos? ¿Cuál?,VARCHAR2,250,60
+2023,p6920,¿Está … cotizando actualmente a un fondo de pensiones?,NUMBER,15,60
+2023,p6930,¿A cuál de los siguientes fondos cotiza actualmente:,NUMBER,15,60
+2023,p6940,¿ Quién paga mensualmente por la afiliación al fondo de pensiones de ...?,NUMBER,15,60
+2023,p6960,¿Cuántos años lleva cotizando al fondo de pensiones?,NUMBER,15,60
+2023,p6990,"¿Está afiliado por una empresa o individualmente a una Aseguradora de Riesgos Laborales (ARL) (por accidentes de trabajo, enfermedad profesional etc)?",NUMBER,15,60
+2023,p9450,¿Está afiliado a una caja de compensación familiar?,NUMBER,15,60
+2023,p7020,"Antes del actual trabajo, ¿… tuvo otro trabajo?",NUMBER,15,60
+2023,p760,¿Cuántos meses estuvo sin empleo o trabajo … entre el trabajo actual y el anterior?,NUMBER,15,60
+2023,p7026,¿Cuánto tiempo duró en su empleo anterior?,NUMBER,15,60
+2023,p7028,¿En su empleo anterior … era:,NUMBER,15,60
+2023,p7028s1,¿En su empleo anterior … era: ¿Cuál?,VARCHAR2,250,60
+2023,p1880,¿Cuál fue la razón principal por la que ... dejó su empleo anterior?,NUMBER,15,60
+2023,p1880s1,¿Cuál fue la razón principal por la que ... dejó su empleo anterior? ¿Cuál?,VARCHAR2,250,60
+2023,p7040,"Además de la ocupación principal, ¿… tenía la semana pasada otro trabajo o negocio?",NUMBER,15,60
+2023,p7045,¿Cuántas horas trabajó … la semana pasada en ese segundo trabajo?,NUMBER,15,60
+2023,p7050,En ese segundo trabajo … es:,NUMBER,15,60
+2023,p7070,¿Cuánto recibió o ganó … el mes pasado en ese segundo trabajo o negocio?,NUMBER,15,60
+2023,p7075,"¿Cuántas personas en total tiene la empresa, negocio o finca donde … trabaja?",NUMBER,15,60
+2023,p7077,Dónde realiza principalmente … su trabajo:,NUMBER,15,60
+2023,p7090,Además de las horas que trabaja actualmente ¿… quiere trabajar más horas?,NUMBER,15,60
+2023,p7100,¿Cuántas horas adicionales puede trabajar … a la semana?,NUMBER,15,60
+2023,p7110,"Durante las ÚLTIMAS 4 SEMANAS, ¿… hizo diligencias para trabajar más horas?",NUMBER,15,60
+2023,p7120,Si la semana pasada le hubiera resultado la posibilidad de trabajar más horas ¿… estaba disponible para hacerlo?,NUMBER,15,60
+2023,p7130,¿… desea cambiar el trabajo que tiene actualmente?,NUMBER,15,60
+2023,p7140s1,¿Por que motivos ... desea cambiar de trabajo o empleo: Para mejorar la utilización de sus capacidades o formación?,NUMBER,15,60
+2023,p7140s2,¿Por que motivos ... desea cambiar de trabajo o empleo: Desea mejorar sus ingresos?,NUMBER,15,60
+2023,p7140s3,¿Por que motivos ... desea cambiar de trabajo o empleo: Desea trabajar menos horas?,NUMBER,15,60
+2023,p7140s4,¿Por que motivos ... desea cambiar de trabajo o empleo: Porque el trabajo actual es temporal?,NUMBER,15,60
+2023,p7140s5,¿Por que motivos ... desea cambiar de trabajo o empleo: Problemas en el trabajo?,NUMBER,15,60
+2023,p7140s6,¿Por que motivos ... desea cambiar de trabajo o empleo: No le gusta su trabajo actual?,NUMBER,15,60
+2023,p7140s7,¿Por que motivos ... desea cambiar de trabajo o empleo: Su trabajo actual exige mucho esfuerzo físico o mental?,NUMBER,15,60
+2023,p7140s8,"¿Por que motivos ... desea cambiar de trabajo o empleo: Problemas ambientales (aire, olores, ruidos, temperatura, etc.)",NUMBER,15,60
+2023,p7140s9,¿Por que motivos ... desea cambiar de trabajo o empleo: Otro motivo,NUMBER,15,60
+2023,p7150,"Durante las ÚLTIMAS 4 SEMANAS, ¿... hizo diligencias para cambiar de trabajo?",NUMBER,15,60
+2023,p7160,Si le resultara un nuevo trabajo o empleo a $... ¿podría empezar a desempeñarlo antes de un mes?,NUMBER,15,60
+2023,p7170s1,¿Está ... satisfecho: Con su trabajo actual?,NUMBER,15,60
+2023,p7170s5,¿Está ... satisfecho: Con los beneficios y prestaciones que recibe?,NUMBER,15,60
+2023,p7170s6,¿Está ... satisfecho: Con su jornada laboral actual?,NUMBER,15,60
+2023,p7180,¿Está afiliado o hace parte de una asociación gremial o sindical?,NUMBER,15,60
+2023,p514,¿Considera que su empleo o trabajo actual es estable?,NUMBER,15,60
+2023,p515,¿Su horario de trabajo y sus responsabilidades familiares son compatibles?,NUMBER,15,60
+2023,p1881,¿Qué medio de transporte utiliza principalmente para desplazarse a su sitio de trabajo?,NUMBER,15,60
+2023,p1882,¿Cuánto tiempo se demora regularmente … en su desplazamiento hacia el trabajo?,NUMBER,15,60
+2023,p7240,"¿En caso de no tener trabajo, de donde obtendría principalmente los recursos para sus gastos y/o los de su hogar:",NUMBER,15,60
+2023,dsi,Indicador de no ocupados,NUMBER,1,70
+2023,oficio1_c8,"¿En qué ocupación, oficio o labor ha buscado trabajo?",VARCHAR2,4,70
+2023,oficio2_c8,"¿Qué ocupación, oficio o labor realizó … la última vez que trabajó?",VARCHAR2,4,70
+2023,rama4d_d_r4,"¿A qué actividad se dedicaba principalmente la empresa negocio, industria, oficina, firma o finca en la que … trabajó por última vez?",VARCHAR2,4,70
+2023,rama2d_d_r4,"¿A qué actividad se dedicaba principalmente la empresa negocio, industria, oficina, firma o finca en la que … trabajó por última vez?",VARCHAR2,2,70
+2023,p7250,¿Durante cuántas semanas ha estado o estuvo … buscando trabajo?,NUMBER,15,70
+2023,p7280,Ha buscado trabajo como:,NUMBER,15,70
+2023,p744,Si le hubiera resultado algún trabajo a … ¿estaba disponible la semana pasada para empezar a trabajar?,NUMBER,15,70
+2023,p3074,"Si le resultara algún trabajo, cuándo estaría … disponible para trabajar?",NUMBER,15,70
+2023,p7260,"Si le hubiera resultado un trabajo la semana pasada, ¿ cuántas horas a la semana estaba disponible para trabajar?",NUMBER,15,70
+2023,p1806,En caso de que le ofrecieran un empleo a … ¿Cuál sería el sueldo o el salario mensual más bajo por el que aceptaría?,NUMBER,15,70
+2023,p7430,¿Ha trabajado alguna vez por lo menos durante dos semanas consecutivas?,NUMBER,15,70
+2023,p7440s1,¿Cuánto tiempo hace que … trabajó por última vez? Meses,NUMBER,15,70
+2023,p7440s2,¿Cuánto tiempo hace que … trabajó por última vez? Semanas,NUMBER,15,70
+2023,p7450,¿Por qué motivo o razón principal ... dejó ese trabajo?,NUMBER,15,70
+2023,p7350,En este último trabajo era:,NUMBER,15,70
+2023,p7360,"¿Cuántas personas en total tenía la empresa, negocio o finca, donde .... trabajaba?",NUMBER,15,70
+2023,p9460,¿Actualmente recibe subsidio de desempleo?,NUMBER,15,70
+2023,p1519,¿Está cotizando actualmente a un fondo de pensiones?,NUMBER,15,70
+2023,p1883,¿A cuál fondo:,NUMBER,15,70
+2023,p7422,¿Recibió o ganó el mes pasado ingresos por concepto de trabajo?,NUMBER,15,70
+2023,p7422s1,¿Recibió o ganó el mes pasado ingresos por concepto de trabajo? ¿Cuánto?,NUMBER,15,70
+2023,p3076s1,"Cocinar, lavar los platos, poner la mesa en: a. Su hogar?",NUMBER,15,80
+2023,p3076s1a1,"Cocinar, lavar los platos, poner la mesa en: Días",NUMBER,15,80
+2023,p3076s1a2,"Cocinar, lavar los platos, poner la mesa en: Horas día",NUMBER,15,80
+2023,p3076s2,"Cocinar, lavar los platos, poner la mesa en: b. Hogares de personas familiares?",NUMBER,15,80
+2023,p3076s2a1,"Cocinar, lavar los platos, poner la mesa en: Días",NUMBER,15,80
+2023,p3076s2a2,"Cocinar, lavar los platos, poner la mesa en: Horas día",NUMBER,15,80
+2023,p3076s3,"Cocinar, lavar los platos, poner la mesa en: c. Hogares de personas no familiares?",NUMBER,15,80
+2023,p3076s3a1,"Cocinar, lavar los platos, poner la mesa en: Días",NUMBER,15,80
+2023,p3076s3a2,"Cocinar, lavar los platos, poner la mesa en: Horas día",NUMBER,15,80
+2023,p3077s1,"Lavar, colgar, planchar la ropa, reparar ropa en: a. Su hogar?",NUMBER,15,80
+2023,p3077s1a1,"Lavar, colgar, planchar la ropa, reparar ropa en: Días",NUMBER,15,80
+2023,p3077s1a2,"Lavar, colgar, planchar la ropa, reparar ropa en: Horas día",NUMBER,15,80
+2023,p3077s2,"Lavar, colgar, planchar la ropa, reparar ropa en: b. Hogares de personas familiares?",NUMBER,15,80
+2023,p3077s2a1,"Lavar, colgar, planchar la ropa, reparar ropa en: Días",NUMBER,15,80
+2023,p3077s2a2,"Lavar, colgar, planchar la ropa, reparar ropa en: Horas día",NUMBER,15,80
+2023,p3077s3,"Lavar, colgar, planchar la ropa, reparar ropa en: c. Hogares de personas no familiares?",NUMBER,15,80
+2023,p3077s3a1,"Lavar, colgar, planchar la ropa, reparar ropa en: Días",NUMBER,15,80
+2023,p3077s3a2,"Lavar, colgar, planchar la ropa, reparar ropa en: Horas día",NUMBER,15,80
+2023,p3078s1,"Limpiar o arreglar la casa, tender las camas, barrer trapear, sacar la basura en: a. Su hogar?",NUMBER,15,80
+2023,p3078s1a1,"Limpiar o arreglar la casa, tender las camas, barrer trapear, sacar la basura en: Días",NUMBER,15,80
+2023,p3078s1a2,"Limpiar o arreglar la casa, tender las camas, barrer trapear, sacar la basura en: Horas día",NUMBER,15,80
+2023,p3078s2,"Limpiar o arreglar la casa, tender las camas, barrer trapear, sacar la basura en: b. Hogares de personas familiares?",NUMBER,15,80
+2023,p3078s2a1,"Limpiar o arreglar la casa, tender las camas, barrer trapear, sacar la basura en: Días",NUMBER,15,80
+2023,p3078s2a2,"Limpiar o arreglar la casa, tender las camas, barrer trapear, sacar la basura en: Horas día",NUMBER,15,80
+2023,p3078s3,"Limpiar o arreglar la casa, tender las camas, barrer trapear, sacar la basura en: c. Hogares de personas no familiares?",NUMBER,15,80
+2023,p3078s3a1,"Limpiar o arreglar la casa, tender las camas, barrer trapear, sacar la basura en: Días",NUMBER,15,80
+2023,p3078s3a2,"Limpiar o arreglar la casa, tender las camas, barrer trapear, sacar la basura en: Horas día",NUMBER,15,80
+2023,p3079s1,Cuidar niñas o niños menores de 5 años que no estén enfermos ni en condición de discapacidad en: a. Su hogar?,NUMBER,15,80
+2023,p3079s1a1,Cuidar niñas o niños menores de 5 años que no estén enfermos ni en condición de discapacidad en: Días,NUMBER,15,80
+2023,p3079s1a2,Cuidar niñas o niños menores de 5 años que no estén enfermos ni en condición de discapacidad en: Horas día,NUMBER,15,80
+2023,p3079s2,Cuidar niñas o niños menores de 5 años que no estén enfermos ni en condición de discapacidad en: b. Hogares de personas familiares?,NUMBER,15,80
+2023,p3079s2a1,Cuidar niñas o niños menores de 5 años que no estén enfermos ni en condición de discapacidad en: Días,NUMBER,15,80
+2023,p3079s2a2,Cuidar niñas o niños menores de 5 años que no estén enfermos ni en condición de discapacidad en: Horas día,NUMBER,15,80
+2023,p3079s3,Cuidar niñas o niños menores de 5 años que no estén enfermos ni en condición de discapacidad en: c. Hogares de personas no familiares?,NUMBER,15,80
+2023,p3079s3a1,Cuidar niñas o niños menores de 5 años que no estén enfermos ni en condición de discapacidad en: Días,NUMBER,15,80
+2023,p3079s3a2,Cuidar niñas o niños menores de 5 años que no estén enfermos ni en condición de discapacidad en: Horas día,NUMBER,15,80
+2023,p3081s1,"Cuidar personas enfermas, en condición de discapacidad o adultos mayores en: a. Su hogar?",NUMBER,15,80
+2023,p3081s1a1,"Cuidar personas enfermas, en condición de discapacidad o adultos mayores en: Días",NUMBER,15,80
+2023,p3081s1a2,"Cuidar personas enfermas, en condición de discapacidad o adultos mayores en: Horas día",NUMBER,15,80
+2023,p3081s2,"Cuidar personas enfermas, en condición de discapacidad o adultos mayores en: b. Hogares de personas familiares?",NUMBER,15,80
+2023,p3081s2a1,"Cuidar personas enfermas, en condición de discapacidad o adultos mayores en: Días",NUMBER,15,80
+2023,p3081s2a2,"Cuidar personas enfermas, en condición de discapacidad o adultos mayores en: Horas día",NUMBER,15,80
+2023,p3081s3,"Cuidar personas enfermas, en condición de discapacidad o adultos mayores en: c. Hogares de personas no familiares?",NUMBER,15,80
+2023,p3081s3a1,"Cuidar personas enfermas, en condición de discapacidad o adultos mayores en: Días",NUMBER,15,80
+2023,p3081s3a2,"Cuidar personas enfermas, en condición de discapacidad o adultos mayores en: Horas día",NUMBER,15,80
+2023,p3082s1,Ayudar a personas con tareas o trabajos escolares en: a. Su hogar?,NUMBER,15,80
+2023,p3082s1a1,Ayudar a personas con tareas o trabajos escolares en: Días,NUMBER,15,80
+2023,p3082s1a2,Ayudar a personas con tareas o trabajos escolares en: Horas día,NUMBER,15,80
+2023,p3082s2,Ayudar a personas con tareas o trabajos escolares en: b. Hogares de personas familiares?,NUMBER,15,80
+2023,p3082s2a1,Ayudar a personas con tareas o trabajos escolares en: Días,NUMBER,15,80
+2023,p3082s2a2,Ayudar a personas con tareas o trabajos escolares en: Horas día,NUMBER,15,80
+2023,p3082s3,Ayudar a personas con tareas o trabajos escolares en: c. Hogares de personas no familiares?,NUMBER,15,80
+2023,p3082s3a1,Ayudar a personas con tareas o trabajos escolares en: Días,NUMBER,15,80
+2023,p3082s3a2,Ayudar a personas con tareas o trabajos escolares en: Horas día,NUMBER,15,80
+2023,p3083,¿En las últimas 4 semanas… realizó pasantías o practicas laborales?,NUMBER,15,80
+2023,p3083s1,¿En las últimas 4 semanas… realizó pasantías o practicas laborales? Horas a la semana,NUMBER,15,80
+2023,p3084s2,¿A qué actividad se dedica principalmente la empresa o negocio en el que … realiza sus prácticas o pasantías? Rama,NUMBER,4,80
+2023,p3085,¿Para realizar esta labor... tiene un contrato de aprendizaje?,NUMBER,15,80
+2023,p3086,La institución educativa con la cual realiza la pasantía o práctica es:,NUMBER,15,80
+2023,p3086s1,La institución educativa con la cual realiza la pasantía o práctica es: ¿Cuál?,VARCHAR2,250,80
+2023,p3087,Recibe algún ingreso por esta práctica o pasantía?,NUMBER,15,80
+2023,p3087s1,Recibe algún ingreso por esta práctica o pasantía? Valor mensual,VARCHAR2,250,80
+2023,p3088,¿Es un requisito para poder graduarse?,NUMBER,15,80
+2023,p3089,"Preparar conservas, quesos o embutidos para ser consumidas por usted las personas del hogar?",NUMBER,15,80
+2023,p3089s1,"Preparar conservas, quesos o embutidos para ser consumidas por usted las personas del hogar? Días",NUMBER,15,80
+2023,p3089s2,"Preparar conservas, quesos o embutidos para ser consumidas por usted las personas del hogar? Horas día",NUMBER,15,80
+2023,p3089s3,"Preparar conservas, quesos o embutidos para ser consumidas por usted las personas del hogar? ¿Cuánto tendría que pagar si tuviera que comprar este(os) artículo(s)?",VARCHAR2,250,80
+2023,p3091,Elaborar prendas de vestir para las personas de este hogar?,NUMBER,15,80
+2023,p3091s1,Elaborar prendas de vestir para las personas de este hogar? Días,NUMBER,15,80
+2023,p3091s2,Elaborar prendas de vestir para las personas de este hogar? Horas día,NUMBER,15,80
+2023,p3092,Traer agua para el uso de este hogar? (sólo para centros poblados y rural disperso),NUMBER,15,80
+2023,p3092s1,Traer agua para el uso de este hogar? (sólo para centros poblados y rural disperso) Días,NUMBER,15,80
+2023,p3092s2,Traer agua para el uso de este hogar? (sólo para centros poblados y rural disperso) Horas día,NUMBER,15,80
+2023,p3093,Construir o ampliar una vivieda propiedad del hogar?,NUMBER,15,80
+2023,p3093s1,Construir o ampliar una vivieda propiedad del hogar? Días,NUMBER,15,80
+2023,p3093s2,Construir o ampliar una vivieda propiedad del hogar? Horas día,NUMBER,15,80
+2023,p3094,"Plantar, regar, abonar, deshierbar o cosechar en una huerta casera o cultivo destinado solo para el consumo de este hogar.",NUMBER,15,80
+2023,p3094s1,"Plantar, regar, abonar, deshierbar o cosechar en una huerta casera o cultivo destinado solo para el consumo de este hogar. Días",NUMBER,15,80
+2023,p3094s2,"Plantar, regar, abonar, deshierbar o cosechar en una huerta casera o cultivo destinado solo para el consumo de este hogar. Horas día",NUMBER,15,80
+2023,p3094s3,"Plantar, regar, abonar, deshierbar o cosechar en una huerta casera o cultivo destinado solo para el consumo de este hogar. ¿Cuánto tendría que pagar si tuviera que comprar este(os) artículo(s)?",NUMBER,15,80
+2023,p3095,"Criar animales para el consumo de este hogar tales como: gallinas, cerdos, patos, conejos, etc., cazar o pescar animales para el consumo de este hogar.",NUMBER,15,80
+2023,p3095s1,"Criar animales para el consumo de este hogar tales como: gallinas, cerdos, patos, conejos, etc., cazar o pescar animales para el consumo de este hogar. Días",NUMBER,15,80
+2023,p3095s2,"Criar animales para el consumo de este hogar tales como: gallinas, cerdos, patos, conejos, etc., cazar o pescar animales para el consumo de este hogar. Horas día",NUMBER,15,80
+2023,p3095s3,"Criar animales para el consumo de este hogar tales como: gallinas, cerdos, patos, conejos, etc., cazar o pescar animales para el consumo de este hogar. ¿Cuánto tendría que pagar si tuviera que comprar este(os) artículo(s)?",NUMBER,15,80
+2023,p3096,"Extraer minerales como: carbón, sal, etc, para consumo de este hogar",NUMBER,15,80
+2023,p3096s1,"Extraer minerales como: carbón, sal, etc, para consumo de este hogar Días",NUMBER,15,80
+2023,p3096s2,"Extraer minerales como: carbón, sal, etc, para consumo de este hogar Horas día",NUMBER,15,80
+2023,p3096s3,"Extraer minerales como: carbón, sal, etc, para consumo de este hogar ¿Cuánto tendría que pagar si tuviera que comprar este(os) artículo(s)?",NUMBER,15,80
+2023,p3097,Recoger leña para el uso de este hogar. (sólo para centros poblados y rural disperso),NUMBER,15,80
+2023,p3097s1,Recoger leña para el uso de este hogar. (sólo para centros poblados y rural disperso) Días,NUMBER,15,80
+2023,p3097s2,Recoger leña para el uso de este hogar. (sólo para centros poblados y rural disperso) Horas día,NUMBER,15,80
+2023,p3098,"Hacer de manera voluntaria, reparaciones, labores de limpieza o algún trabajo en beneficio de su barrio, vereda, centro poblado o comunidad.",NUMBER,15,80
+2023,p3098s1,"Hacer de manera voluntaria, reparaciones, labores de limpieza o algún trabajo en beneficio de su barrio, vereda, centro poblado o comunidad. Días",NUMBER,15,80
+2023,p3098s2,"Hacer de manera voluntaria, reparaciones, labores de limpieza o algún trabajo en beneficio de su barrio, vereda, centro poblado o comunidad. Horas día",NUMBER,15,80
+2023,p3099,Realizar actividades de voluntariado (sin que le pagaran) a través de una institución sin ánimo de lucro,NUMBER,15,80
+2023,p3099s1,Realizar actividades de voluntariado (sin que le pagaran) a través de una institución sin ánimo de lucro Días,NUMBER,15,80
+2023,p3099s2,Realizar actividades de voluntariado (sin que le pagaran) a través de una institución sin ánimo de lucro Horas día,NUMBER,15,80
+2023,p3101,"Participar en reuniones de asociaciones de padres, sindicatos, partidos politicos, juntas de acción comunal",NUMBER,15,80
+2023,p3101s1,"Participar en reuniones de asociaciones de padres, sindicatos, partidos politicos, juntas de acción comunal Días",NUMBER,15,80
+2023,p3101s2,"Participar en reuniones de asociaciones de padres, sindicatos, partidos politicos, juntas de acción comunal Horas día",NUMBER,15,80
+2023,p7495,"El mes pasado, ¿recibió pagos por concepto de arriendos y/o pensiones?",NUMBER,15,90
+2023,p7500s1,"¿El mes pasado, recibió pagos por: a. Arriendos de casas, apartamentos, fincas, lotes, vehículos, equipos, etc.",NUMBER,15,90
+2023,p7500s1a1,"¿El mes pasado, recibió pagos por: Valor mes pasado $",NUMBER,15,90
+2023,p7500s2,"¿El mes pasado, recibió pagos por: b. Pensiones o jubilaciones por vejez, inválidez o sustitución pensional.",NUMBER,15,90
+2023,p7500s2a1,"¿El mes pasado, recibió pagos por: Valor mes pasado $",NUMBER,15,90
+2023,p7500s3,"¿El mes pasado, recibió pagos por: c. Pensión alimenticia por paternidad, divorcio o separación.",NUMBER,15,90
+2023,p7500s3a1,"¿El mes pasado, recibió pagos por: Valor mes pasado $",NUMBER,15,90
+2023,p7505,"Durante los últimos doce meses, ¿recibió dinero de otros hogares, personas o instituciones; dinero por intereses, dividendos, utilidades o por cesantias?",NUMBER,15,90
+2023,p7510s1,Durante los últimos doce meses recibió: a. Dinero de otros hogares o personas residentes en el país?,NUMBER,15,90
+2023,p7510s1a1,Durante los últimos doce meses recibió: Valor,NUMBER,15,90
+2023,p7510s2,Durante los últimos doce meses recibió: b. Dinero de otros hogares o personas residentes fueera del país?,NUMBER,15,90
+2023,p7510s2a1,Durante los últimos doce meses recibió: Valor,NUMBER,15,90
+2023,p7510s3,Durante los últimos doce meses recibió: c. Ayudas en dinero de instituciones del país o fuera del pais?,NUMBER,15,90
+2023,p7510s3a1,Durante los últimos doce meses recibió: Valor,NUMBER,15,90
+2023,p750s1,Durante los últimos doce meses recibió: Entidades privadas Nacionales,NUMBER,15,90
+2023,p750s1a1,Durante los últimos doce meses recibió: Valor,NUMBER,15,90
+2023,p750s2,Durante los últimos doce meses recibió: Entidades del gobierno,NUMBER,15,90
+2023,p750s2a1,Durante los últimos doce meses recibió: Valor,NUMBER,15,90
+2023,p1661s1,Durante los últimos doce meses recibió: Más familias en acción,NUMBER,15,90
+2023,p1661s1a1,Durante los últimos doce meses recibió: Valor,NUMBER,15,90
+2023,p1661s2,Durante los últimos doce meses recibió: Jovenes en acción,NUMBER,15,90
+2023,p1661s2a1,Durante los últimos doce meses recibió: Valor,NUMBER,15,90
+2023,p1661s3,Durante los últimos doce meses recibió: Colombia Mayor,NUMBER,15,90
+2023,p1661s3a1,Durante los últimos doce meses recibió: Valor,NUMBER,15,90
+2023,p1661s4,Durante los últimos doce meses recibió: Otro,NUMBER,15,90
+2023,p1661s4a1,Durante los últimos doce meses recibió: ¿Cuál?,VARCHAR2,250,90
+2023,p1661s4a2,Durante los últimos doce meses recibió: Valor,NUMBER,15,90
+2023,p750s3,Durante los últimos doce meses recibió: Entidades fuera del pais,NUMBER,15,90
+2023,p750s3a1,Durante los últimos doce meses recibió: Valor,NUMBER,15,90
+2023,p7510s5,"Durante los últimos doce meses recibió: d. Dinero por intereses de prestamos o por CDT's, depósitos de ahorro,",NUMBER,15,90
+2023,p7510s5a1,Durante los últimos doce meses recibió: Valor,NUMBER,15,90
+2023,p7510s6,Durante los últimos doce meses recibió: e. Ingresos por concepto de cesantías y/o intereses a las cesantías,NUMBER,15,90
+2023,p7510s6a1,Durante los últimos doce meses recibió: Valor,NUMBER,15,90
+2023,p7510s7,"Durante los últimos doce meses recibió: f. Dinero de otras fuentes diferentes a las anteriores? (ingresos por ganancias en juegos de azar, chances, loterías, indemnizaciones, liquidaciones, venta de propiedades, acciones, vehículos, etc.)",NUMBER,15,90
+2023,p7510s7a1,Durante los últimos doce meses recibió: Valor,NUMBER,15,90
+2023,p3367,¿Es propietario de una o varias propiedades inmuebles?,NUMBER,15,90
+2023,p3368,"Durante los últimos doce meses, ¿cuánto pagó por impuesto predial de su(s) propiedad(es)?",NUMBER,15,90
+2023,p3369,"Durante los últimos doce meses, ¿cuánto pagó por impuesto de valorización de su(s) propiedad(es)?",NUMBER,15,90
+2023,p3370,"Durante los últimos doce meses, ¿realizó el pago de impuesto de vehículos?",NUMBER,15,90
+2023,p3370s1,"Durante los últimos doce meses, ¿realizó el pago de impuesto de vehículos? a. Valor",NUMBER,15,90
+2023,p3371,"Durante los últimos doce meses, ¿realizó el pago de impuestos a la renta y complementarios?",NUMBER,15,90
+2023,p3371s1,"Durante los últimos doce meses, ¿realizó el pago de impuestos a la renta y complementarios? a. Valor",NUMBER,15,90
+2023,p3371s2,"Durante los últimos doce meses, ¿realizó el pago de impuestos a la renta y complementarios? b. ¿A cuántos años corresponde el pago?",NUMBER,15,90
+2023,p3371s3,"Durante los últimos doce meses, ¿realizó el pago de impuestos a la renta y complementarios? c. ¿Cuál fue el último año pagado?",NUMBER,15,90
+2023,p3371s4,"Durante los últimos doce meses, ¿realizó el pago de impuestos a la renta y complementarios? d. ¿Cuánto fue el monto del último año pagado?",NUMBER,15,90
+2023,p3372,"Durante los últimos doce meses, ¿realizó el pago de impuestos a ganancias en juegos de azar, chances, loterias, indemnizaciones, liquidaciones, venta de propiedades, acciones, vehículos, etc.?",NUMBER,15,90
+2023,p3372s1,"Durante los últimos doce meses, ¿realizó el pago de impuestos a ganancias en juegos de azar, chances, loterias, indemnizaciones, liquidaciones, venta de propiedades, acciones, vehículos, etc.? a. Valor",NUMBER,15,90
+2023,p3373,Dónde nació ...:,NUMBER,15,94
+2023,p3373s1,Dónde nació ...: Departamento,NUMBER,15,94
+2023,p3373s2,Dónde nació ...: Municipio,NUMBER,15,94
+2023,p3373s3,Dónde nació ...: En otro país:,NUMBER,15,94
+2023,p3373s3a1,Dónde nació ...: En qué año y mes llegó a Colombia por útima vez Año,NUMBER,15,94
+2023,p3373s3a2,Dónde nació ...: En qué año y mes llegó a Colombia por útima vez Mes,NUMBER,15,94
+2023,p3374,Nacionalidad:,NUMBER,15,94
+2023,p3374s1 - p3374s2 - p3374s3,Nacionalidad: País o países de nacionalidad:,NUMBER,15,94
+2023,p3375,¿... tiene la intención de quedarse a vivir en Colombia?,NUMBER,15,94
+2023,p3375s1,¿... tiene la intención de quedarse a vivir en Colombia? ¿Cuánto tiempo? Meses,NUMBER,15,94
+2023,p3376,¿Alguna vez ha vivido en otro(s) país(es) durante más de 6 meses?,NUMBER,15,94
+2023,p3377,"¿Mientras estuvo viviendo en el exterior ..., trabajó?",NUMBER,15,94
+2023,p3378,¿A qué país viajó por última vez a trabajar?,NUMBER,15,94
+2023,p3378s1,¿Durante cuánto tiempo estuvo trabajando en ese país? Meses,NUMBER,15,94
+2023,p3379,¿... en qué año viajó a ese país?,NUMBER,15,94
+2023,p3380,¿... en qué año salió de ese país?,NUMBER,15,94
+2023,p3381,¿... en qué año volvió a ese país?,NUMBER,15,94
+2023,p3382,"¿Dónde vivía …, hace 5 años?",NUMBER,15,94
+2023,p3382s1,"¿Dónde vivía …, hace 5 años? Departamento",NUMBER,15,94
+2023,p3382s2,"¿Dónde vivía …, hace 5 años? Municipio",NUMBER,15,94
+2023,p3382s3,"¿Dónde vivía …, hace 5 años? En otro país:",NUMBER,15,94
+2023,p3383,El lugar donde vivía hace 5 años era:,NUMBER,15,94
+2023,p3384,"¿Dónde vivía ..., hace 12 meses?",NUMBER,15,94
+2023,p3384s1,"¿Dónde vivía ..., hace 12 meses? Departamento",NUMBER,15,94
+2023,p3384s2,"¿Dónde vivía ..., hace 12 meses? Municipio",NUMBER,15,94
+2023,p3384s3,"¿Dónde vivía ..., hace 12 meses? En otro país:",NUMBER,15,94
+2023,p3385,El lugar donde vivía … hace 12 meses era:,NUMBER,15,94
+2023,p3386,¿Cuál fue el principal motivo por el que ... Cambió el lugar donde residia hace 12 meses?,NUMBER,15,94
+2023,p3386s1,¿Cuál fue el principal motivo por el que ... Cambió el lugar donde residia hace 12 meses? ¿Cuál?,VARCHAR2,250,94
+2023_completa,nro_encuesta,Identificador de la Investigación,NUMBER,5,4_1
+2023_completa,secuencia_encuesta,Secuencia en la encuesta,NUMBER,4,4_1
+2023_completa,fecha_carga,Fecha de carga de la encuesta,DATE,,4_1
+2023_completa,insertado,Insertado,NUMBER,5,4_1
+2023_completa,p1666,Fecha de inicio de la encuesta,VARCHAR2,250,4_1
+2023_completa,p3247,Fecha de inicio de la Vivienda,VARCHAR2,250,4_1
+2023_completa,p7,1. Indique ROL y CODIGO que le han sido asignados:,NUMBER,3,4_1
+2023_completa,p7s1,Código encuestador,NUMBER,5,4_1
+2023_completa,p7s1a1,Nombre(s) del encuestador,VARCHAR2,250,4_1
+2023_completa,p7s1a2,Apellido(s) del encuestador,VARCHAR2,250,4_1
+2023_completa,p7s1a3,Cédula de ciudadania,VARCHAR2,20,4_1
+2023_completa,p7s1a4,Confirme: Cédula de ciudadania,VARCHAR2,250,4_1
+2023_completa,p7s2,Codigo Supervisor,NUMBER,5,4_1
+2023_completa,p7s2a1,Nombre(s) del supervisor,VARCHAR2,250,4_1
+2023_completa,p7s2a2,Apellido(s) del supervisor,VARCHAR2,250,4_1
+2023_completa,p7s2a3,Cédula de ciudadania,VARCHAR2,20,4_1
+2023_completa,p7s2a4,Confirme: Cédula de ciudadania,VARCHAR2,250,4_1
+2023_completa,p3249,Fecha de inicio Capitulo de identificación,VARCHAR2,250,4_1
+2023_completa,geovisorx,GEOVISORX,VARCHAR2,100,4_1
+2023_completa,geovisory,GEOVISORY,VARCHAR2,100,4_1
+2023_completa,coor_lat,Georreferenciación - Latitud,VARCHAR2,150,4_1
+2023_completa,coor_lon,Georreferenciación - Longitud,VARCHAR2,150,4_1
+2023_completa,coor_alt,Georreferenciación - Altitud,VARCHAR2,150,4_1
+2023_completa,coor_acc,Georreferenciación - Precisión,VARCHAR2,150,4_1
+2023_completa,p810s1,Describa la justificación por la cual no se pudo tomar el punto con GPS,VARCHAR2,250,4_1
+2023_completa,p1663,geoshape,VARCHAR2,300,4_1
+2023_completa,p1,Municipio,VARCHAR2,100,4_1
+2023_completa,p11,Ag,VARCHAR2,10,4_1
+2023_completa,p4092,Departamento,VARCHAR2,10,4_1
+2023_completa,p4093,Municipio,VARCHAR2,10,4_1
+2023_completa,p3,Clase,VARCHAR2,10,4_1
+2023_completa,p4094,Sector Rural,VARCHAR2,10,4_1
+2023_completa,p4095,Sección Rural,VARCHAR2,10,4_1
+2023_completa,p1551,Centro Poblado,VARCHAR2,10,4_1
+2023_completa,p8,Sector Urbano,VARCHAR2,10,4_1
+2023_completa,p9,Sección Urbana,VARCHAR2,10,4_1
+2023_completa,p4,Segmento,NUMBER,6,4_1
+2023_completa,p5,Manzana,VARCHAR2,10,4_1
+2023_completa,p1370,12. Número de la edificación,NUMBER,5,4_1
+2023_completa,p6,13. Número de orden de la vivienda,NUMBER,5,4_1
+2023_completa,p20,"14. Barrio, centro poblado o vereda",VARCHAR2,250,4_1
+2023_completa,p10,15. La dirección es:,VARCHAR2,250,4_1
+2023_completa,p18,16. ¿Tiene número de teléfono?,NUMBER,5,4_1
+2023_completa,p17,Teléfono,VARCHAR2,250,4_1
+2023_completa,p4090,RESPONDE EL ENCUESTADOR : Condición de la vivienda a entrevistar:,NUMBER,5,4_1
+2023_completa,p4090s1,Otro Motivo,NUMBER,5,4_1
+2023_completa,p4090s1a1,¿Cuál?,VARCHAR2,500,4_1
+2023_completa,p4091,Ocupada con:,NUMBER,5,4_1
+2023_completa,p4091s1,¿Por qué motivo?,NUMBER,5,4_1
+2023_completa,p4091s1a1,¿Por qué motivo? (Rechazo),NUMBER,5,4_1
+2023_completa,p8868,RESPONDE EL ENCUESTADOR :¿Desea adicionar una observación final para esta vivienda?,NUMBER,5,4_1
+2023_completa,p8868s1,Observación,VARCHAR2,500,4_1
+2023_completa,p922,RESPONDE EL ENCUESTADOR : La encuesta a la vivienda es :,NUMBER,5,4_1
+2023_completa,p532,CLAVE DE FINALIZACION:,VARCHAR2,250,4_1
+2023_completa,p5588,Responde el SUPERVISOR: La encuesta fue diligenciada satisfactoriamente?,NUMBER,5,4_1
+2023_completa,p1667,Fecha de finalización de la encuesta,VARCHAR2,250,4_1
+2023_completa,p3250,Fecha de inicio Capitulo Datos de la vivienda,VARCHAR2,250,4_2
+2023_completa,p3241,Fecha de inicio del hogar,VARCHAR2,250,5_1
+2023_completa,p5002,RESPONDE EL ENCUESTADOR : ¿la información de este hogar va a ser suministrada en este momento?,NUMBER,3,5_1
+2023_completa,p5002s1,¿Por qué motivo?,NUMBER,3,5_1
+2023_completa,p5002s1a1,Rechazo ¿Por qué motivo?,NUMBER,3,5_1
+2023_completa,p3252,Fecha de inicio Capitulo Datos del hogar,VARCHAR2,250,5_1
+2023_completa,p5008,Confirme: ¿En cuántos de esos cuartos duermen las personas de este hogar?,NUMBER,5,5_1
+2023_completa,p5100s1,Confirme. 9A. ¿Cuánto pagan mensualmente por cuota de amortización?,NUMBER,12,5_1
+2023_completa,p5110s1,"Confirme. 10. Si usted quisiera vender esta vivienda, ¿Cuál sería el precio minimo en que la vendería?",NUMBER,12,5_1
+2023_completa,p5130s1,"Confirme. 11. Si tuviera que pagar arriendo por esta vivienda, ¿cuánto estima que tendría que pagar mensualmente",NUMBER,12,5_1
+2023_completa,p5140s1,Confirme. 12. ¿uánto pagan mensualmente por arriendo?,NUMBER,12,5_1
+2023_completa,p5950,RESPONDE EL ENCUESTADOR: Indique el resultado final de la entrevista para el hogar ... :,NUMBER,2,5_1
+2023_completa,p3242,Fecha de finalización del hogar,VARCHAR2,250,5_1
+2023_completa,p3243,Fecha de inicio de la persona,VARCHAR2,250,6_2
+2023_completa,p180,Nombres completos de la persona,VARCHAR2,250,6_2
+2023_completa,p190,Apellidos Completos de la persona,VARCHAR2,250,6_2
+2023_completa,p6001,RESPONDE EL ENCUESTADOR : ¿La información de va a ser suministrada en este momento?,NUMBER,3,6_2
+2023_completa,p6001s1,RESPONDE EL ENCUESTADOR : ¿La información de va a ser suministrada en este momento? ¿Por qué motivo?,NUMBER,15,6_2
+2023_completa,p6001s1a1,RESPONDE EL ENCUESTADOR : ¿La información de va a ser suministrada en este momento? Rechazo ¿Por qué motivo?,NUMBER,15,6_2
+2023_completa,p3253,Fecha de inicio Capitulo Características generales,VARCHAR2,250,6_2
+2023_completa,p548,3. ¿Cuál es la fecha de nacimiento de ?,NUMBER,3,6_2
+2023_completa,p6030,fecha de nacimiento,DATE,,6_2
+2023_completa,p6030s2,Día,VARCHAR2,50,6_2
+2023_completa,p8655,RESPONDE EL ENCUESTADOR : ¿Hay alguna observación para esta persona?,NUMBER,15,6_2
+2023_completa,p8655s1,RESPONDE EL ENCUESTADOR : ¿Hay alguna observación para esta persona? Observación :,VARCHAR2,500,6_2
+2023_completa,p8663,RESPONDE EL ENCUESTADOR: Indique el resultado final de la entrevista para ...:,NUMBER,15,6_2
+2023_completa,p3244,Fecha de finalización de la persona,VARCHAR2,250,6_2
+2023_completa,p3254,Fecha de inicio Capitulo Seguridad social,VARCHAR2,250,6_3
+2023_completa,p6254,Confirme. 4. ¿Cuánto paga o cuánto le descuentan mensualmente?,NUMBER,9,6_3
+2023_completa,p3255,Fecha de inicio Capitulo Educación,VARCHAR2,250,6_4
+2023_completa,p3256,Fecha de inicio Capitulo Fuerza de trabajo,VARCHAR2,250,6_5
+2023_completa,p6230,1. Registre el número de orden de la persona que suministra la información.,NUMBER,5,6_5
+2023_completa,p6290s1,¿cuál?,VARCHAR2,250,6_5
+2023_completa,p3257,Fecha de inicio Capitulo Ocupados,VARCHAR2,250,6_6
+2023_completa,p6360,1. ¿Por qué razón principal trabaja ...?,NUMBER,3,6_6
+2023_completa,p6360s1,¿cuál?,VARCHAR2,250,6_6
+2023_completa,p6370,1A. ¿Qué hace … en este trabajo?,VARCHAR2,250,6_6
+2023_completa,p6370s1,Oficios,NUMBER,5,6_6
+2023_completa,p6370s2,Ramas,NUMBER,4,6_6
+2023_completa,p6370s3,Ramas,NUMBER,4,6_6
+2023_completa,p6380,"2. ¿Cuál es el nombre de la empresa, negocio, industria, oficina, firma o finca donde trabaja?",VARCHAR2,250,6_6
+2023_completa,p388,3. ¿En qué municipio y departamento realiza … principalmente este trabajo? Departamento,VARCHAR2,100,6_6
+2023_completa,p389,3. ¿En qué municipio y departamento realiza principalmente este trabajo? Municipio,VARCHAR2,100,6_6
+2023_completa,p6390,4. ¿A qué actividad se dedica principalmente la empresa o negocio en la que … realiza su trabajo?,VARCHAR2,250,6_6
+2023_completa,p6390s1,Ramas,NUMBER,5,6_6
+2023_completa,p6390s2,Ramas,NUMBER,4,6_6
+2023_completa,p3044,"5. ¿Cuál es el principal producto, grupos de productos o servicios que fabrica, comercializa u ofrece la empresa donde … trabaja o presta sus servicios?",VARCHAR2,250,6_6
+2023_completa,p3044s1,Ramas,NUMBER,4,6_6
+2023_completa,p6410s1,¿Cuál?,VARCHAR2,250,6_6
+2023_completa,p6420,10. ¿Cuál es la actividad de la empresa o persona que lo contrató?,VARCHAR2,300,6_6
+2023_completa,p6420s1,Ramas,NUMBER,4,6_6
+2023_completa,p3363s1,¿Cuál?,VARCHAR2,250,6_6
+2023_completa,p6480,"16. ¿Por qué medio principal, ... consiguió su empleo actual?",NUMBER,3,6_6
+2023_completa,p6480s1,¿Cuál?,VARCHAR2,250,6_6
+2023_completa,p6255,"Confirme. 17. Antes de descuentos, ¿cuánto ganó … el mes pasado en este empleo? Incluya propinas y comisiones y excluya viáticos y pagos en especie.",NUMBER,15,6_6
+2023_completa,p3364s2,Confirme Valor,NUMBER,15,6_6
+2023_completa,p3365s2,Confirme Valor,NUMBER,15,6_6
+2023_completa,p3057s1,Confirme. 38. Ventas o ingresos totales en el mes pasado,VARCHAR2,250,6_6
+2023_completa,p3059s1,Confirme. 41. Digite el valor de las ventas o ingresos totales en los últimos 12 meses.,VARCHAR2,250,6_6
+2023_completa,p3560,46B. La empresa o negocio en la que ... trabaja ¿está registrada o tiene: RUT?,NUMBER,15,6_6
+2023_completa,p3561,46B. La empresa o negocio en la que ... trabaja ¿está registrada o tiene: Personería Jurídica?,NUMBER,15,6_6
+2023_completa,p3562,47E. El negocio o actividad de ... ¿está registrado o tiene:? a. RUT,NUMBER,15,6_6
+2023_completa,p3563,47E. El negocio o actividad de ... ¿está registrado o tiene:? b. Personería Jurídica,NUMBER,15,6_6
+2023_completa,p6256,"Confirme. 48. ¿Cuál fue la ganancia neta o los honorarios netos de ... en esa actividad, negocio, profesión o finca, el mes pasado?",NUMBER,15,6_6
+2023_completa,p550s1,Confirme. 49A. ¿Cuál fue la ganancia neta del negocio o de la cosecha durante los últimos doce meses?,NUMBER,15,6_6
+2023_completa,p1879s1,¿Cuál?,VARCHAR2,250,6_6
+2023_completa,p390,68A. ¿En qué municipio y departamento realiza ... principalmente este trabajo? Departamento,VARCHAR2,100,6_6
+2023_completa,p391,68A. ¿En qué municipio y departamento realiza ... principalmente este trabajo? Municipio,VARCHAR2,100,6_6
+2023_completa,p3071,70. ¿Qué hace ... en este trabajo?,VARCHAR2,250,6_6
+2023_completa,p3071s1,Oficios,VARCHAR2,250,6_6
+2023_completa,p3071s2,Ramas,NUMBER,4,6_6
+2023_completa,p3071s3,Ramas,NUMBER,4,6_6
+2023_completa,p3072,71. ¿A qué actividad se dedica principalmente la empresa o negocio en la que … realiza su trabajo?,VARCHAR2,250,6_6
+2023_completa,p3072s1,Ramas,VARCHAR2,250,6_6
+2023_completa,p3072s2,Ramas,NUMBER,4,6_6
+2023_completa,p7050s1,¿Cuál?,VARCHAR2,250,6_6
+2023_completa,p7070s1,Confirme. 73. ¿Cuánto recibió o ganó … el mes pasado en ese segundo trabajo o negocio?,NUMBER,15,6_6
+2023_completa,p7140s9a1,¿Cuál?,VARCHAR2,250,6_7
+2023_completa,p1881s1,¿Cuál?,VARCHAR2,250,6_7
+2023_completa,p7240s1,¿Cuáles?,VARCHAR2,250,6_7
+2023_completa,p3268,Fecha de inicio Capitulo No ocupados,VARCHAR2,250,6_8
+2023_completa,p7270,"2. ¿En qué ocupación, oficio o labor ha buscado trabajo?",VARCHAR2,250,6_8
+2023_completa,p7270s1,Rama,NUMBER,15,6_8
+2023_completa,p7270s2,Rama,NUMBER,15,6_8
+2023_completa,p7270s3,Rama,NUMBER,15,6_8
+2023_completa,p7280s1,¿Cuál?,VARCHAR2,250,6_8
+2023_completa,p1806s1,"Confirme, En caso de que le ofrecieran un empleo a ... ¿Cuál sería el sueldo o el salario mensual más bajo por el que aceptaría?",NUMBER,15,6_8
+2023_completa,p7450s1,¿cuál?,VARCHAR2,250,6_8
+2023_completa,p7330,"11. ¿Qué ocupación, oficio o labor realizó … la última vez que trabajó?",VARCHAR2,250,6_8
+2023_completa,p7330s1,Rama,NUMBER,15,6_8
+2023_completa,p7330s2,Rama,NUMBER,4,6_8
+2023_completa,p7330s3,Rama,NUMBER,4,6_8
+2023_completa,p7340,"12. ¿A qué actividad se dedicaba principalmente la empresa negocio, industria, oficina, firma o finca en la que … trabajó por última vez?",VARCHAR2,250,6_8
+2023_completa,p7340s1,Rama,NUMBER,15,6_8
+2023_completa,p7340s2,Rama,NUMBER,4,6_8
+2023_completa,p3075,13. ¿Cuál es el nombre de la empresa en la que trabajó por última vez?,VARCHAR2,250,6_8
+2023_completa,p7350s1,¿Cuál?,VARCHAR2,250,6_8
+2023_completa,p7422s1a1,Confirme. ¿Cuánto?,NUMBER,15,6_8
+2023_completa,p3269,Fecha de inicio Capitulo Otras formas de trabajo,VARCHAR2,250,6_9
+2023_completa,p3084,8. ¿A qué actividad se dedica principalmente la empresa o negocio en el que … realiza sus prácticas o pasantías?,VARCHAR2,250,6_9
+2023_completa,p3261,Fecha de inicio Capitulo Otros ingresos,VARCHAR2,250,6_10
+2023_completa,p7500s1a2,"Confirme, Valor mes pasado $",NUMBER,15,6_10
+2023_completa,p7500s2a2,"Confirme, Valor mes pasado $",NUMBER,15,6_10
+2023_completa,p7500s3a2,"Confirme, Valor mes pasado $",NUMBER,15,6_10
+2023_completa,p750s4,"Las ayudas en dinero fueron de : No sabe, no informa",NUMBER,15,6_10
+2023_completa,p3368s1,"Confirme, Valor",NUMBER,15,6_10
+2023_completa,p3369s1,"Confirme, Valor",NUMBER,15,6_10
+2023_completa,p3370s2,"Confirme, Valor",NUMBER,15,6_10
+2023_completa,p3371s1a1,"Confirme, Valor",NUMBER,15,6_10
+2023_completa,p3372s2,"Confirme, Valor",NUMBER,15,6_10
+2023_completa,p3262,Fecha de inicio Capitulo Micronegocios,VARCHAR2,250,6_11
+2023_completa,p1887,1. … ¿en su trabajo o actividad usted tiene un jefe o superior inmediato?,NUMBER,15,6_11
+2023_completa,p1888,"2. Entonces, ¿… se dedica a un negocio o actividad por su cuenta?",NUMBER,15,6_11
+2023_completa,p1889,"3. Además de su fuerza de trabajo, ¿usted es el propietario o toma en alquiler algún medio (por ejemplo: maquinaria, equipo, materiales, muebles, vehículos, herramientas, mercancía, etc.,) para el desarrollo de su actividad?",NUMBER,15,6_11
+2023_completa,p1890,"4. ¿Usted es el propietario de los productos fabricados o comercializados, o de los servicios que suministra?",NUMBER,15,6_11
+2023_completa,p439,"5. La actividad económica, negocio o empresa donde trabaja es propiedad de:",NUMBER,15,6_11
+2023_completa,p440,"6. ¿La información de esta actividad económica, negocio o empresa ya fue registrada?",NUMBER,15,6_11
+2023_completa,p442s1,"7. ¿Cuál fue el valor de las ventas o ingresos totales de su actividad, negocio, profesión o finca, el mes pasado?",NUMBER,15,6_11
+2023_completa,p442s2,"Confirme. ¿Cuál fue el valor de las ventas o ingresos totales de su actividad, negocio, profesión o finca, el mes pasado?",NUMBER,15,6_11
+2023_completa,p444,"8. ¿Cuánto fue el valor total pagado por salarios, honorarios, jornales el mes pasado?",NUMBER,15,6_11
+2023_completa,p444s2,"Confirme. ¿Cuánto fue el valor total pagado por salarios, honorarios, jornales el mes pasado?",NUMBER,15,6_11
+2023_completa,p3263,Fecha de inicio Capitulo Formación para el trabajo,VARCHAR2,250,6_14
+2023_completa,p455,1. ¿Actualmente asiste a un curso de formación para el trabajo?,NUMBER,15,6_14
+2023_completa,p456,2. En los últimos 24 meses ¿ha tomado y terminado algún curso de formación para el trabajo?,NUMBER,15,6_14
+2023_completa,p456s1,Cuántos,NUMBER,15,6_14
+2023_completa,p457,3. ¿Cuál es la duración total en horas del curso?,NUMBER,15,6_14
+2023_completa,p458,4. En qué modalidad se dicta este curso:,NUMBER,15,6_14
+2023_completa,p459,5. Lo dicta una institución:,NUMBER,15,6_14
+2023_completa,p460,6. Cuál institución pública lo dictó:,NUMBER,15,6_14
+2023_completa,p460s1,¿Cuál?,VARCHAR2,250,6_14
+2023_completa,p461,7. Cuál institución privada lo dictó:,NUMBER,15,6_14
+2023_completa,p461s1,¿Cuál?,VARCHAR2,250,6_14
+2023_completa,p759,8. ¿Cuál es la temática del curso?,NUMBER,15,6_14
+2023_completa,p758,9. Quién pagó por este curso:,NUMBER,15,6_14
+2023_completa,p758s1a1,Pagó todo - Valor $,NUMBER,15,6_14
+2023_completa,p758s1a2,Confirme. Valor $,NUMBER,15,6_14
+2023_completa,p758s2a1,Pagó una parte - Valor $,NUMBER,15,6_14
+2023_completa,p758s2a2,Confirme. Valor $,NUMBER,15,6_14
+2023_completa,p758s4a1,Pagó la totalidad otra persona o institución - Valor $,NUMBER,15,6_14
+2023_completa,p758s4a2,Confirme. Valor $,NUMBER,15,6_14
+2023_completa,p757,10. ¿Quién pagó la otra parte o la totalidad del curso?,NUMBER,15,6_14
+2023_completa,p757s2a1,Obtuvo un subsidio - Valor $,NUMBER,15,6_14
+2023_completa,p757s2a2,Confirme. Valor $,NUMBER,15,6_14
+2023_completa,p757s3a1,Otra persona o institución - Valor $,NUMBER,15,6_14
+2023_completa,p757s3a2,Confirme. Valor $,NUMBER,15,6_14
+2023_completa,p464,11. ¿Cuál era su principal objetivo al iniciar el curso?,NUMBER,15,6_14
+2023_completa,p465,12. Qué le ha permitido haber hecho ese curso?,NUMBER,15,6_14
+2023_completa,p466,13. Al finalizar el curso le entregaron:,NUMBER,15,6_14
+2023_completa,p467,14. ¿Cuál fue la razón principal para no tomar cursos de formación para el trabajo?,NUMBER,15,6_14
+2023_completa,p467s1,¿Cuál?,VARCHAR2,400,6_14
+2023_completa,p468,15. ¿Tiene planeado asistir a algún curso de formación para el trabajo en los próximos 12 meses?,NUMBER,15,6_14
+2023_completa,p469,"16. En los últimos 24 meses, ¿le han certificado alguna competencia, sin haber tomado un curso de formación para el trabajo?",NUMBER,15,6_14
+2023_completa,p3264,Fecha de inicio Capitulo Fecundidad,VARCHAR2,250,6_12
+2023_completa,p9380,1. ¿Ha tenido … algún HIJO O HIJA que haya NACIDO VIVO(A)?,NUMBER,15,6_12
+2023_completa,p9380s1,¿Cuántos?,NUMBER,15,6_12
+2023_completa,p9380s2,¿Cuántos hombres?,NUMBER,15,6_12
+2023_completa,p9380s3,¿Cuántas mujeres?,NUMBER,15,6_12
+2023_completa,p9390,"2. De los HIJOS e HIJAS que NACIERON VIVOS de ..., ¿cuántos están VIVOS ACTUALMENTE?",NUMBER,15,6_12
+2023_completa,p9390s1,¿Cuántos?,NUMBER,15,6_12
+2023_completa,p9390s2,¿Cuántos hombres?,NUMBER,15,6_12
+2023_completa,p9390s3,¿Cuántas mujeres?,NUMBER,15,6_12
+2023_completa,p3102s1,3. ¿En qué AÑO Y MES TUVO …. su ÚNICO ó ÚLTIMO hijo(a) nacido(a) vivo(a) ? Año,NUMBER,15,6_12
+2023_completa,p3102s2,3. ¿En qué AÑO Y MES TUVO …. su ÚNICO ó ÚLTIMO hijo(a) nacido(a) vivo(a) ? Mes,NUMBER,15,6_12
+2023_completa,p3265,Fecha de inicio Capitulo Migración,VARCHAR2,250,6_13
+2023_completa,p6074,1. ¿… siempre ha vivido en este municipio?,NUMBER,15,6_13
+2023_completa,p756,2. Dónde nació ...:,NUMBER,15,6_13
+2023_completa,p756s1,Departamento,VARCHAR2,250,6_13
+2023_completa,p756s2,Municipio,VARCHAR2,250,6_13
+2023_completa,p756s3,En otro país:,NUMBER,15,6_13
+2023_completa,p755,"3¿Dónde vivía …, hace 5 años?",NUMBER,15,6_13
+2023_completa,p755s1,Departamento,VARCHAR2,250,6_13
+2023_completa,p755s2,Municipio,VARCHAR2,250,6_13
+2023_completa,p755s3,En otro país:,NUMBER,15,6_13
+2023_completa,p754,4. El lugar donde vivía hace 5 años era:,NUMBER,15,6_13
+2023_completa,p753,"5. ¿Dónde vivía ..., hace 12 meses?",NUMBER,15,6_13
+2023_completa,p753s1,Departamento,VARCHAR2,250,6_13
+2023_completa,p753s2,Municipio,VARCHAR2,250,6_13
+2023_completa,p753s3,En otro país:,NUMBER,15,6_13
+2023_completa,p752,6. El lugar donde vivía … hace 12 meses era:,NUMBER,15,6_13
+2023_completa,p1662,7. ¿Cuál fue el principal motivo por el que ... Cambió el lugar donde residia hace 12 meses?,NUMBER,15,6_13
+2023_completa,p1662s1,¿Cuál?,VARCHAR2,250,6_13
+2023_completa,p3266,Fecha de inicio Capitulo Trabajo infantil,VARCHAR2,250,6_15
+2023_completa,p1712,1. Registre el número de orden de la persona que suministra la información.,NUMBER,15,6_15
+2023_completa,p400,2. ¿En que actividad ocupó la mayor parte del tiempo la semana pasada?,NUMBER,15,6_15
+2023_completa,p400s1,¿Cuál?,VARCHAR2,250,6_15
+2023_completa,p3564,2A. ¿... recibió remuneración en dinero o en especie a cambio de este trabajo?,NUMBER,15,6_15
+2023_completa,p401,"3. Además de lo anterior, ¿... realizó la semana pasada alguna actividad paga por una hora o más?",NUMBER,15,6_15
+2023_completa,p402,"4. Aunque ... no trabajó la semana pasada, por una hora o más en forma remunerada, ¿tenía durante esa semana algún trabajo o negocio por el que recibe ingresos?",NUMBER,15,6_15
+2023_completa,p403,5. ¿... trabajó o ayudó la semana pasada por UNA HORA O MÁS sin que le pagaran en la empresa o negocio de algún miembro de su familia u hogar?,NUMBER,15,6_15
+2023_completa,p404,6. En las ÚLTIMAS 4 SEMANAS ¿... hizo alguna diligencia para conseguir un trabajo o instalar un negocio?,NUMBER,15,6_15
+2023_completa,p405,1. ¿Por qué razón principal trabaja ...?,NUMBER,15,6_16
+2023_completa,p405s1,¿Cuál?,VARCHAR2,250,6_16
+2023_completa,p406,2. ¿Qué hace … en este trabajo?,VARCHAR2,250,6_16
+2023_completa,p406s3,Rama,NUMBER,4,6_16
+2023_completa,p407,3. ¿A qué actividad se dedica principalmente la empresa o negocio en la que ... realiza su trabajo?,VARCHAR2,250,6_16
+2023_completa,p407s2,Rama,NUMBER,4,6_16
+2023_completa,p408,4. En este trabajo ... es:,NUMBER,15,6_16
+2023_completa,p408s1,¿cuál?,VARCHAR2,250,6_16
+2023_completa,p409,"5. Antes de descuentos, ¿cuánto ganó ... el mes pasado en este empleo? Incluya propinas y comisiones y excluya viáticos y pagos en especie.",NUMBER,15,6_16
+2023_completa,p1713,"Confirme. Antes de descuentos, ¿cuánto ganó ... el mes pasado en este empleo? Incluya propinas y comisiones y excluya viáticos y pagos en especie.",NUMBER,15,6_16
+2023_completa,p410,"6. ¿Además del salario en dinero, ¿ el mes pasado recibió alimentos como parte de pago por su trabajo ?",NUMBER,15,6_16
+2023_completa,p410s1,¿En cuánto estima lo que recibió ($)?,NUMBER,15,6_16
+2023_completa,p411,"7. Además del salario en dinero, ¿el mes pasado recibió vivienda como parte de pago por su trabajo?",NUMBER,15,6_16
+2023_completa,p411s1,¿En cuánto estima lo que recibió ($)?,NUMBER,15,6_16
+2023_completa,p412,"8. Además del salario en dinero, ¿el mes pasado ... recibió otros ingresos en especie por su trabajo? (electrodomésticos, ropa, productos diferentes a alimentos o bonos tipo Sodexho)?",NUMBER,15,6_16
+2023_completa,p412s1,¿En cuánto estima lo que recibió ($)?,NUMBER,15,6_16
+2023_completa,p413,"9. ¿Cuál fue la ganancia neta o los honorarios netos de ... en esa actividad, negocio, profesión o finca, el mes pasado ?",NUMBER,15,6_16
+2023_completa,p1714,"Confirme. ¿Cuál fue la ganancia neta o los honorarios netos de ... en esa actividad, negocio, profesión o finca, el mes pasado ?",NUMBER,15,6_16
+2023_completa,p414,10. ¿Cuántos meses trabajó en los últimos 12 meses?,NUMBER,15,6_16
+2023_completa,p415,11. ¿Cuántas horas a la semana trabaja normalmente ... en ese trabajo?,NUMBER,15,6_16
+2023_completa,p416,12. ¿Cuántas horas trabajó durante la semana pasada en este trabajo?,NUMBER,15,6_16
+2023_completa,p420,13. Dónde realiza principalmente su trabajo:,NUMBER,15,6_16
+2023_completa,p420s1,¿Cuál?,VARCHAR2,250,6_16
+2023_completa,p3131s1,"¿La semana pasada ... realizó sin que le pagaran alguna de las siguientes actividades: 14. Cocinar, lavar los platos, poner la mesa en: a. Su hogar?",NUMBER,15,6_17
+2023_completa,p3131s1a1,Días,NUMBER,15,6_17
+2023_completa,p3131s1a2,Horas día,NUMBER,15,6_17
+2023_completa,p3131s2,"¿La semana pasada ... realizó sin que le pagaran alguna de las siguientes actividades: 14. Cocinar, lavar los platos, poner la mesa en: b. Hogares de personas familiares?",NUMBER,15,6_17
+2023_completa,p3131s2a1,Días,NUMBER,15,6_17
+2023_completa,p3131s2a2,Horas día,NUMBER,15,6_17
+2023_completa,p3131s3,"¿La semana pasada ... realizó sin que le pagaran alguna de las siguientes actividades: 14. Cocinar, lavar los platos, poner la mesa en: c. Hogares de personas no familiares?",NUMBER,15,6_17
+2023_completa,p3131s3a1,Días,NUMBER,15,6_17
+2023_completa,p3131s3a2,Horas día,NUMBER,15,6_17
+2023_completa,p3132s1,"¿La semana pasada ... realizó sin que le pagaran alguna de las siguientes actividades: 15. Lavar, colgar, planchar la ropa, reparar ropa en: a. Su hogar?",NUMBER,15,6_17
+2023_completa,p3132s1a1,Días,NUMBER,15,6_17
+2023_completa,p3132s1a2,Horas día,NUMBER,15,6_17
+2023_completa,p3132s2,"¿La semana pasada ... realizó sin que le pagaran alguna de las siguientes actividades: 15. Lavar, colgar, planchar la ropa, reparar ropa en: b. Hogares de personas familiares?",NUMBER,15,6_17
+2023_completa,p3132s2a1,Días,NUMBER,15,6_17
+2023_completa,p3132s2a2,Horas día,NUMBER,15,6_17
+2023_completa,p3132s3,"¿La semana pasada ... realizó sin que le pagaran alguna de las siguientes actividades: 15. Lavar, colgar, planchar la ropa, reparar ropa en: c. Hogares de personas no familiares?",NUMBER,15,6_17
+2023_completa,p3132s3a1,Días,NUMBER,15,6_17
+2023_completa,p3132s3a2,Horas día,NUMBER,15,6_17
+2023_completa,p3133s1,"¿La semana pasada ... realizó sin que le pagaran alguna de las siguientes actividades: 16. Limpiar o arreglar la casa, tender las camas, barrer trapear, sacar la basura en: a. Su hogar?",NUMBER,15,6_17
+2023_completa,p3133s1a1,Días,NUMBER,15,6_17
+2023_completa,p3133s1a2,Horas día,NUMBER,15,6_17
+2023_completa,p3133s2,"¿La semana pasada ... realizó sin que le pagaran alguna de las siguientes actividades: 16. Limpiar o arreglar la casa, tender las camas, barrer trapear, sacar la basura en: b. Hogares de personas familiares?",NUMBER,15,6_17
+2023_completa,p3133s2a1,Días,NUMBER,15,6_17
+2023_completa,p3133s2a2,Horas día,NUMBER,15,6_17
+2023_completa,p3133s3,"¿La semana pasada ... realizó sin que le pagaran alguna de las siguientes actividades: 16. Limpiar o arreglar la casa, tender las camas, barrer trapear, sacar la basura en: c. Hogares de personas no familiares?",NUMBER,15,6_17
+2023_completa,p3133s3a1,Días,NUMBER,15,6_17
+2023_completa,p3133s3a2,Horas día,NUMBER,15,6_17
+2023_completa,p3134s1,¿La semana pasada ... realizó sin que le pagaran alguna de las siguientes actividades: 17. Cuidar niñas o niños menores de 5 años que no estén enfermos ni en condición de discapacidad en: a. Su hogar?,NUMBER,15,6_17
+2023_completa,p3134s1a1,Días,NUMBER,15,6_17
+2023_completa,p3134s1a2,Horas día,NUMBER,15,6_17
+2023_completa,p3134s2,¿La semana pasada ... realizó sin que le pagaran alguna de las siguientes actividades: 17. Cuidar niñas o niños menores de 5 años que no estén enfermos ni en condición de discapacidad en: b. Hogares de personas familiares?,NUMBER,15,6_17
+2023_completa,p3134s2a1,Días,NUMBER,15,6_17
+2023_completa,p3134s2a2,Horas día,NUMBER,15,6_17
+2023_completa,p3134s3,¿La semana pasada ... realizó sin que le pagaran alguna de las siguientes actividades: 17. Cuidar niñas o niños menores de 5 años que no estén enfermos ni en condición de discapacidad en: c. Hogares de personas no familiares?,NUMBER,15,6_17
+2023_completa,p3134s3a1,Días,NUMBER,15,6_17
+2023_completa,p3134s3a2,Horas día,NUMBER,15,6_17
+2023_completa,p3135s1,"¿La semana pasada ... realizó sin que le pagaran alguna de las siguientes actividades: 18. Cuidar personas enfermas, en condición de discapacidad o adultos mayores en: a. Su hogar?",NUMBER,15,6_17
+2023_completa,p3135s1a1,Días,NUMBER,15,6_17
+2023_completa,p3135s1a2,Horas día,NUMBER,15,6_17
+2023_completa,p3135s2,"¿La semana pasada ... realizó sin que le pagaran alguna de las siguientes actividades: 18. Cuidar personas enfermas, en condición de discapacidad o adultos mayores en: b. Hogares de personas familiares?",NUMBER,15,6_17
+2023_completa,p3135s2a1,Días,NUMBER,15,6_17
+2023_completa,p3135s2a2,Horas día,NUMBER,15,6_17
+2023_completa,p3135s3,"¿La semana pasada ... realizó sin que le pagaran alguna de las siguientes actividades: 18. Cuidar personas enfermas, en condición de discapacidad o adultos mayores en: c. Hogares de personas no familiares?",NUMBER,15,6_17
+2023_completa,p3135s3a1,Días,NUMBER,15,6_17
+2023_completa,p3135s3a2,Horas día,NUMBER,15,6_17
+2023_completa,p3136s1,¿La semana pasada ... realizó sin que le pagaran alguna de las siguientes actividades: 19. Ayudar a personas con tareas o trabajos escolares en: a. Su hogar?,NUMBER,15,6_17
+2023_completa,p3136s1a1,Días,NUMBER,15,6_17
+2023_completa,p3136s1a2,Horas día,NUMBER,15,6_17
+2023_completa,p3136s2,¿La semana pasada ... realizó sin que le pagaran alguna de las siguientes actividades: 19. Ayudar a personas con tareas o trabajos escolares en: b. Hogares de personas familiares?,NUMBER,15,6_17
+2023_completa,p3136s2a1,Días,NUMBER,15,6_17
+2023_completa,p3136s2a2,Horas día,NUMBER,15,6_17
+2023_completa,p3136s3,¿La semana pasada ... realizó sin que le pagaran alguna de las siguientes actividades: 19. Ayudar a personas con tareas o trabajos escolares en: c. Hogares de personas no familiares?,NUMBER,15,6_17
+2023_completa,p3136s3a1,Días,NUMBER,15,6_17
+2023_completa,p3136s3a2,Horas día,NUMBER,15,6_17
+2023_completa,p3137,"¿Durante las últimas 4 semanas… realizó sin que le pagaran alguna de las siguientes actividades? 20. Preparar conservas, quesos o embutidos para ser consumidas por usted las personas del hogar?",NUMBER,15,6_17
+2023_completa,p3137s1,Días,NUMBER,15,6_17
+2023_completa,p3137s2,Horas día,NUMBER,15,6_17
+2023_completa,p3138,¿Durante las últimas 4 semanas… realizó sin que le pagaran alguna de las siguientes actividades? 21. Elaborar prendas de vestir para las personas de este hogar?,NUMBER,15,6_17
+2023_completa,p3138s1,Días,NUMBER,15,6_17
+2023_completa,p3138s2,Horas día,NUMBER,15,6_17
+2023_completa,p3139,¿Durante las últimas 4 semanas… realizó sin que le pagaran alguna de las siguientes actividades? 22. Traer agua para el uso de este hogar? (sólo para centros poblados y rural disperso),NUMBER,15,6_17
+2023_completa,p3139s1,Días,NUMBER,15,6_17
+2023_completa,p3139s2,Horas día,NUMBER,15,6_17
+2023_completa,p3141,¿Durante las últimas 4 semanas… realizó sin que le pagaran alguna de las siguientes actividades? 23. Construir o ampliar una vivieda propiedad del hogar?,NUMBER,15,6_17
+2023_completa,p3141s1,Días,NUMBER,15,6_17
+2023_completa,p3141s2,Horas día,NUMBER,15,6_17
+2023_completa,p3142,"¿Durante las últimas 4 semanas… realizó sin que le pagaran alguna de las siguientes actividades? 24. Plantar, regar, abonar, deshierbar o cosechar en una huerta casera o cultivo destinado solo para el consumo de este hogar.",NUMBER,15,6_17
+2023_completa,p3142s1,Días,NUMBER,15,6_17
+2023_completa,p3142s2,Horas día,NUMBER,15,6_17
+2023_completa,p3143,"¿Durante las últimas 4 semanas… realizó sin que le pagaran alguna de las siguientes actividades? 25. Criar animales para el consumo de este hogar tales como: gallinas, cerdos, patos, conejos, etc., cazar o pescar animales para el consumo de este hogar.",NUMBER,15,6_17
+2023_completa,p3143s1,Días,NUMBER,15,6_17
+2023_completa,p3143s2,Horas día,NUMBER,15,6_17
+2023_completa,p3144,"¿Durante las últimas 4 semanas… realizó sin que le pagaran alguna de las siguientes actividades? 26. Extraer minerales como: carbón, sal, etc, para consumo de este hogar",NUMBER,15,6_17
+2023_completa,p3144s1,Días,NUMBER,15,6_17
+2023_completa,p3144s2,Horas día,NUMBER,15,6_17
+2023_completa,p3145,¿Durante las últimas 4 semanas… realizó sin que le pagaran alguna de las siguientes actividades? 27. Recoger leña para el uso de este hogar. (sólo para centros poblados y rural disperso),NUMBER,15,6_17
+2023_completa,p3145s1,Días,NUMBER,15,6_17
+2023_completa,p3145s2,Horas día,NUMBER,15,6_17
+2023_completa,p3502,"¿Durante las últimas 4 semanas… realizó sin que le pagaran alguna de las siguientes actividades? 28. Hacer de manera voluntaria, reparaciones, labores de limpieza o algún trabajo en beneficio de su barrio, vereda, centro poblado o comunidad:",NUMBER,5,6_17
+2023_completa,p3502s1,Días,NUMBER,5,6_17
+2023_completa,p3502s2,Horas día,NUMBER,5,6_17
+2023_completa,p3503,¿Durante las últimas 4 semanas… realizó sin que le pagaran alguna de las siguientes actividades? 29. Realizar actividades de voluntariado (sin que le pagaran) a través de una institución sin ánimo de lucro:,NUMBER,5,6_17
+2023_completa,p3503s1,Días,NUMBER,5,6_17
+2023_completa,p3503s2,Horas día,NUMBER,5,6_17
+2023_completa,p3504,"¿Durante las últimas 4 semanas… realizó sin que le pagaran alguna de las siguientes actividades? 30. Participar en reuniones de asociaciones de padres, sindicatos, partidos políticos, juntas de acción comunal",NUMBER,5,6_17
+2023_completa,p3504s1,Días,NUMBER,5,6_17
+2023_completa,p3504s2,Horas día,NUMBER,5,6_17
+2023_completa,p423,31. ¿Por qué razón principal realiza o colabora en estos oficios?,NUMBER,15,6_17
+2023_completa,p423s1,¿cuál?,VARCHAR2,250,6_17
+2023_completa,p3267,Fecha de inicio Capitulo Tipo de identificación,VARCHAR2,250,6_1
+2023_completa,p5998,1. Tipo de identificación:,NUMBER,15,6_1
+2023_completa,p5998s3,¿Cuál?,VARCHAR2,250,6_1
+2023_completa,p5998s1,2. Número de identificación:,VARCHAR2,250,6_1
+2023_completa,p3270,3. Número telefónico de contacto,NUMBER,5,6_1
+2023_completa,p3270s1,Teléfono fijo:,VARCHAR2,50,6_1
+2023_completa,p3270s2,Teléfono celular:,VARCHAR2,50,6_1
+2023_completa,p3038s1,¿Cuál?,VARCHAR2,250,6_1
+2023_completa,p3039s1,¿Cuál?,VARCHAR2,250,6_1
+2025,directorio,Identificador de la vivienda,NUMBER,8,01
+2025,secuencia_p,Identificador del hogar,NUMBER,5,01
+2025,hogar,Número del hogar en la vivienda,NUMBER,4,01
+2025,p4005,Tipo de vivienda,NUMBER,5,01
+2025,p4010,¿Cuál es el material predominante de las paredes exteriores de la vivienda?,NUMBER,5,01
+2025,p4020,¿Cuál es el material predominante de los pisos de la vivienda?,NUMBER,5,01
+2025,p4030s1,¿Con cuáles de los siguientes servicios cuenta la vivienda? Energía eléctrica,NUMBER,5,01
+2025,p4030s1a1,¿Con cuáles de los siguientes servicios cuenta la vivienda? Estrato para tarifa,NUMBER,5,01
+2025,p4030s2,¿Con cuáles de los siguientes servicios cuenta la vivienda? Gas natural conectado a red pública,NUMBER,5,01
+2025,p4030s3,¿Con cuáles de los siguientes servicios cuenta la vivienda? Alcantarillado,NUMBER,5,01
+2025,p4030s4,¿Con cuáles de los siguientes servicios cuenta la vivienda? Recolección de basuras,NUMBER,5,01
+2025,p4030s4a1,¿Con cuáles de los siguientes servicios cuenta la vivienda? Veces por semana,NUMBER,5,01
+2025,p4030s5,¿Con cuáles de los siguientes servicios cuenta la vivienda? Acueducto,NUMBER,5,01
+2025,p70,¿Cuántos hogares hay en esta vivienda?,NUMBER,5,01
+2025,p5000,"Incluyendo sala-comedor, ¿de cuántos cuartos en total dispone este hogar?",NUMBER,3,01
+2025,p5010,¿En cuántos de esos cuartos duermen las personas de este hogar?,NUMBER,5,01
+2025,p5020,El servicio sanitario que utiliza el hogar es:,NUMBER,3,01
+2025,p5030,El servicio sanitario del hogar es:,NUMBER,3,01
+2025,p5040,¿Cómo eliminan principalmente la basura en este hogar?,NUMBER,3,01
+2025,p5050,¿De dónde obtiene principalmente este hogar el agua para consumo humano?,NUMBER,3,01
+2025,p5070,"¿En cuál de los siguientes lugares, preparan los alimentos las personas de este hogar:",NUMBER,3,01
+2025,p5080,¿Con qué energía o combustibe cocinan principalmente en este hogar?,NUMBER,3,01
+2025,p5090,La vivienda ocupada por este hogar es:,NUMBER,3,01
+2025,p5090s1,¿Cuál? (Otra),VARCHAR2,250,01
+2025,p5100,¿Cuánto pagan mensualmente por cuota de amortización?,NUMBER,12,01
+2025,p5110,"Si usted quisiera vender esta vivienda, ¿Cuál sería el precio mínimo en que la vendería?",NUMBER,20,01
+2025,p5130,"Si tuviera que pagar arriendo por esta vivienda, ¿Cuánto estima que tendría que pagar mensualmente?",NUMBER,12,01
+2025,p5140,¿Cuánto pagan mensualmente por arriendo?,NUMBER,12,01
+2025,p5222s1,¿Cuáles de los siguientes productos financieros utiliza usted o algún miembro del hogar actualmente? Cuenta corriente,NUMBER,12,01
+2025,p5222s2,¿Cuáles de los siguientes productos financieros utiliza usted o algún miembro del hogar actualmente? Cuenta de ahorros,NUMBER,12,01
+2025,p5222s3,¿Cuáles de los siguientes productos financieros utiliza usted o algún miembro del hogar actualmente? CDT,NUMBER,12,01
+2025,p5222s4,¿Cuáles de los siguientes productos financieros utiliza usted o algún miembro del hogar actualmente? Préstamo para compra de vivienda,NUMBER,12,01
+2025,p5222s5,¿Cuáles de los siguientes productos financieros utiliza usted o algún miembro del hogar actualmente? Préstamo para compra de vehículo,NUMBER,12,01
+2025,p5222s6,¿Cuáles de los siguientes productos financieros utiliza usted o algún miembro del hogar actualmente? Préstamo de libre inversión,NUMBER,12,01
+2025,p5222s7,¿Cuáles de los siguientes productos financieros utiliza usted o algún miembro del hogar actualmente? Tarjeta de crédito,NUMBER,12,01
+2025,p5222s11,¿Cuáles de los siguientes productos financieros utiliza usted o algún miembro del hogar actualmente? Tarjeta de crédito,NUMBER,12,01
+2025,p5222s8,¿Cuáles de los siguientes productos financieros utiliza usted o algún miembro del hogar actualmente? Otro,NUMBER,12,01
+2025,p5222s8a1,¿Cuál? (Otro),VARCHAR2,250,01
+2025,p5222s9,¿Cuáles de los siguientes productos financieros utiliza usted o algún miembro del hogar actualmente? Ninguno,NUMBER,12,01
+2025,p5222s10,¿Cuáles de los siguientes productos financieros utiliza usted o algún miembro del hogar actualmente? No sabe,NUMBER,12,01
+2025,p6008,Total de personas en el hogar,NUMBER,2,01
+2025,periodo,"Año, mes y semana de recolección de la encuesta",NUMBER,8,01
+2025,per,Año de la encuesta,NUMBER,8,01
+2025,mes,Mes de la encuesta,VARCHAR2,2,01
+2025,regis,Identificador del tipo de registro,VARCHAR2,2,01
+2025,dpto,Identificador de departamento,VARCHAR2,2,01
+2025,area,Identificador de las area metropolitana,VARCHAR2,2,01
+2025,clase,Identificador de dominio,VARCHAR2,1,01
+2025,fex_c18,Factor de expansión de personas y Hogares,NUMERICA,8,01
+2025,orden,Número de la persona en el hogar,NUMBER,5,10
+2025,pob_may18,Población mayor 18 años,NUMBER,8,10
+2025,pt,Población total,NUMBER,8,10
+2025,p6016,Número de orden de la persona que proporciona la información:,NUMBER,3,10
+2025,p3038,¿Usted siente atracción sexual o romántica por?,NUMBER,15,10
+2025,p3039,¿Usted se reconoce como?,NUMBER,15,10
+2025,p3271,Cuál fue su sexo al nacer?,NUMBER,3,10
+2025,p6030s1,Mes,VARCHAR2,50,10
+2025,p6030s3,Año,VARCHAR2,50,10
+2025,p6040,¿Cuántos años cumplidos tiene ...?,NUMBER,3,10
+2025,p6050,¿Cuál es el parentesco de … con el jefe o jefa del hogar?,NUMBER,3,10
+2025,p6083,¿La madre de ... reside en este hogar?,NUMBER,3,10
+2025,p6083s1,¿La madre de … reside en este hogar? Número de orden de la persona,NUMBER,3,10
+2025,p6081,¿El padre de … reside en este hogar?,NUMBER,3,10
+2025,p6081s1,¿El padre de … reside en este hogar? Número de orden de la persona,NUMBER,3,10
+2025,p2057,¿Usted se considera campesino(a)?,NUMBER,3,10
+2025,p2059,¿Usted considera que alguna vez fue campesino(a)?,NUMBER,3,10
+2025,p2061,¿Usted considera que la comunidad en la que vive es campesina?,NUMBER,3,10
+2025,p6080,"De acuerdo con su cultura, pueblo o rasgos físicos, ... es o se reconoce como:",NUMBER,3,10
+2025,p6080s1,¿A cuál pueblo indígena pertenece . . . ?,VARCHAR2,250,10
+2025,p6080s1a1,¿Cuál?,VARCHAR2,250,10
+2025,p6070,Actualmente:,NUMBER,3,10
+2025,p6071,¿El (la) cónyuge de … reside en este hogar?,NUMBER,3,10
+2025,p6071s1,¿El (la) cónyuge de … reside en este hogar? Número de orden de la persona,NUMBER,3,10
+2025,p6090,"¿... está afiliado, es cotizante o es beneficiario de alguna entidad de seguridad social en salud? (Empresa Promotora de Salud - EPS)",NUMBER,3,10
+2025,p6100,¿A cuál de los siguientes regímenes de seguridad social en salud está afiliado:,NUMBER,3,10
+2025,p6110,¿Quién paga mensualmente por la afiliación de ...?,NUMBER,3,10
+2025,p6120,¿Cuánto paga o cuánto le descuentan mensualmente?,NUMBER,9,10
+2025,p1906s1,"Dada su condición física y mental, en su vida diaria tiene dificultades para realizar las siguientes actividades: ¿Oír, aun usando audífonos medicados?",NUMBER,3,10
+2025,p1906s2,"Dada su condición física y mental, en su vida diaria tiene dificultades para realizar las siguientes actividades: ¿Hablar o conversar?",NUMBER,3,10
+2025,p1906s3,"Dada su condición física y mental, en su vida diaria tiene dificultades para realizar las siguientes actividades: ¿Ver, aún usando lentes o gafas?",NUMBER,3,10
+2025,p1906s4,"Dada su condición física y mental, en su vida diaria tiene dificultades para realizar las siguientes actividades: ¿Mover el cuerpo, caminar o subir y bajar escaleras?",NUMBER,3,10
+2025,p1906s5,"Dada su condición física y mental, en su vida diaria tiene dificultades para realizar las siguientes actividades: ¿Agarrar o mover objetos con las manos?",NUMBER,3,10
+2025,p1906s6,"Dada su condición física y mental, en su vida diaria tiene dificultades para realizar las siguientes actividades: ¿Entender, aprender, recordar o tomar decisiones por sí mismo(a)?",NUMBER,3,10
+2025,p1906s7,"Dada su condición física y mental, en su vida diaria tiene dificultades para realizar las siguientes actividades: ¿Comer, vestirse o bañarse por sí mismo (a)?",NUMBER,3,10
+2025,p1906s8,"Dada su condición física y mental, en su vida diaria tiene dificultades para realizar las siguientes actividades: ¿Relacionarse o interactuar con las demás personas?",NUMBER,3,10
+2025,p6160,¿Sabe leer y escribir?,NUMBER,3,10
+2025,p6170,"¿Actualmente asiste a alguna institución educativa (por ejemplo: jardín, escuela, colegio, universidad)?",NUMBER,3,10
+2025,p3041,La institución a la que asiste es:,NUMBER,3,10
+2025,p3042,¿Cuál es el mayor nivel educativo alcanzado y el último grado o semestre aprobado por ...?,NUMBER,3,10
+2025,p3042s1,¿Cuál es el mayor nivel educativo alcanzado y el último grado o semestre aprobado por …...? Año o Grado,NUMBER,3,10
+2025,p3042s2,¿En qué? (mayor nivel educativo alcanzado),NUMBER,15,10
+2025,p3043,¿Cuál es el título o diploma de mayor nivel educativo que ha recibido ...?,NUMBER,3,10
+2025,p3043s1,¿En qué? (título o diploma de mayor nivel educativo),NUMBER,12,10
+2025,ft,Indicador de fuerza de trabajo,NUMBER,8,50
+2025,fft,Indicador de fuera de la fuerza de trabajo,NUMBER,8,50
+2025,pet,Indicador de población en edad de trabajar,NUMBER,8,50
+2025,p6240,¿En que actividad ocupó … la mayor parte del tiempo la semana pasada?,NUMBER,5,50
+2025,p6240s1,¿cuál? (Otra actividad),VARCHAR2,250,50
+2025,p6240s2,¿... recibió remuneración en dinero o en especie a cambio de este trabajo?,NUMBER,5,50
+2025,p6250,"Además de lo anterior, ¿… realizó la semana pasada alguna actividad paga en dinero o en especie por una hora o más?",NUMBER,3,50
+2025,p6260,"Aunque ... no trabajó la semana pasada, por una hora o más en forma remunerada, ¿tenía durante esa semana algún trabajo o negocio por el que recibe ingresos en dinero o en especie?",NUMBER,3,50
+2025,p6260s1,¿Por qué razón no trabajó la semana pasada?,NUMBER,3,50
+2025,p6260s1a1,¿cuál? (Otro),VARCHAR2,250,50
+2025,p6260s2,¿Cuánto tiempo estará ausente del trabajo (desde que dejó de trabajar hasta que regrese)?,NUMBER,3,50
+2025,p6270,¿... trabajó o ayudó la semana pasada por UNA HORA O MÁS sin que le pagaran en la empresa o negocio de algún miembro de su familia u hogar?,NUMBER,3,50
+2025,p6280,En las ÚLTIMAS 4 SEMANAS ¿… hizo alguna diligencia para conseguir un trabajo o instalar un negocio?,NUMBER,3,50
+2025,p3362s1,"¿Qué hizo ... en las ÚLTIMAS CUATRO SEMANAS para conseguir un trabajo o instalar un negocio? Pidió ayuda a familiares, amigos, colegas",NUMBER,3,50
+2025,p3362s2,"¿Qué hizo ... en las ÚLTIMAS CUATRO SEMANAS para conseguir un trabajo o instalar un negocio? Visitó, llevó o envió hojas de vida a empresas o empleadores",NUMBER,3,50
+2025,p3362s3,"¿Qué hizo ... en las ÚLTIMAS CUATRO SEMANAS para conseguir un trabajo o instalar un negocio? Hizo uso de los servicios de agencias o bolsas de empleo, Cajas de Compensación Familiar, SENA, Entes Territoriales (Servicio Público de Empleo - SPE)",NUMBER,3,50
+2025,p3362s4,¿Qué hizo ... en las ÚLTIMAS CUATRO SEMANAS para conseguir un trabajo o instalar un negocio? Puso o consultó avisos clasificados,NUMBER,3,50
+2025,p3362s5,¿Qué hizo ... en las ÚLTIMAS CUATRO SEMANAS para conseguir un trabajo o instalar un negocio? Se presentó a convocatorias,NUMBER,3,50
+2025,p3362s6,¿Qué hizo ... en las ÚLTIMAS CUATRO SEMANAS para conseguir un trabajo o instalar un negocio? Hizo preparativos para iniciar un negocio,NUMBER,3,50
+2025,p3362s7,¿Qué hizo ... en las ÚLTIMAS CUATRO SEMANAS para conseguir un trabajo o instalar un negocio? Otro medio,NUMBER,3,50
+2025,p3362s7a1,¿cuál? (Otro medio),VARCHAR2,250,50
+2025,p3362s8,"¿Qué hizo ... en las ÚLTIMAS CUATRO SEMANAS para conseguir un trabajo o instalar un negocio? No sabe, no informa",NUMBER,3,50
+2025,p6300,¿... desea conseguir un trabajo remunerado o instalar un negocio?,NUMBER,3,50
+2025,p6310,"Aunque ... desea trabajar, ¿por qué motivo principal no hizo diligencias para buscar un trabajo o instalar un negocio en las ÚLTIMAS 4 SEMANAS?",NUMBER,3,50
+2025,p6310s1,¿cuál? (Otro),VARCHAR2,250,50
+2025,p6320,Durante los últimos 12 meses ¿... trabajó por lo menos 2 semanas consecutivas?,NUMBER,3,50
+2025,p6330,"Después de su último empleo, ¿... ha hecho alguna diligencia para conseguir trabajo o instalar un negocio?",NUMBER,3,50
+2025,p6340,Durante los últimos 12 meses ¿... ha hecho alguna diligencia para conseguir trabajo o instalar un negocio?,NUMBER,3,50
+2025,p6350,¿Cuántos meses hace que ... dejó de buscar trabajo por última vez?,NUMBER,3,50
+2025,p6351,"Si le hubiera resultado algún trabajo a ..., ¿estaba disponible la semana pasada para empezar a trabajar?",NUMBER,3,50
+2025,oci,Indicador de ocupados,NUMBER,8,60
+2025,inglabo,Ingreso laborales,NUMBER,8,60
+2025,rama4d_r4,Rama de actividad empleo principal,VARCHAR2,4,60
+2025,rama2d_r4,Rama de actividad empleo principal,VARCHAR2,2,60
+2025,oficio_c8,Oficio,VARCHAR2,4,60
+2025,p3044s2,"¿Cuál es el principal producto, grupos de productos o servicios que fabrica, comercializa u ofrece la empresa donde … trabaja o presta sus servicios? Ramas",NUMBER,4,60
+2025,p6440,¿Para realizar este trabajo tiene ... algún tipo de contrato? (verbal o escrito),NUMBER,5,60
+2025,p6450,¿El contrato es verbal o escrito?,NUMBER,5,60
+2025,p6460,¿El contrato de trabajo es a término indefinido o a término fijo?,NUMBER,3,60
+2025,p6460s1,Número Meses,NUMBER,5,60
+2025,p6400,"La empresa o persona que contrató a ..., ¿es la misma empresa donde trabaja o presta sus servicios?",NUMBER,5,60
+2025,p6410,La empresa que contrato a … es:,NUMBER,5,60
+2025,p6420s2,Ramas,VARCHAR2,4,60
+2025,p6422,¿Esta … conforme con el tipo de contrato que tiene?,NUMBER,3,60
+2025,p6424s1,"¿Por su contrato actual, recibe o tiene derecho a: Vacaciones con sueldo?",NUMBER,3,60
+2025,p6424s2,"¿Por su contrato actual, recibe o tiene derecho a: Prima de navidad?",NUMBER,3,60
+2025,p6424s3,"¿Por su contrato actual, recibe o tiene derecho a: Cesantías?",NUMBER,3,60
+2025,p6424s5,"¿Por su contrato actual, recibe o tiene derecho a: Licencia por enfermedad pagada",NUMBER,3,60
+2025,p6426,"¿Cuánto tiempo lleva ... trabajando en esta empresa, negocio, industria, oficina, firma o finca de manera continua? (meses)",NUMBER,3,60
+2025,p6430,En este trabajo … es:,NUMBER,3,60
+2025,p6430s1,¿Cuál? (Otro),VARCHAR2,250,60
+2025,p3045s1,"La empresa, negocio o institución en la que … trabaja ¿está registrada o tiene: Cámara de comercio",NUMBER,3,60
+2025,p3045s2,"La empresa, negocio o institución en la que … trabaja ¿está registrada o tiene: RUT",NUMBER,3,60
+2025,p3045s3,"La empresa, negocio o institución en la que … trabaja ¿está registrada o tiene: Personería Jurídica",NUMBER,3,60
+2025,p3046,La empresa o negocio en la que ... trabaja tiene una oficina de contabilidad o cuenta con los servicios de un contador?,NUMBER,3,60
+2025,p3363,"¿Por qué medio principal, ... consiguió su empleo actual?",NUMBER,3,60
+2025,p9440,¿Su empleo actual lo obtuvo a través de páginas de internet?,NUMBER,3,60
+2025,p6500,"Antes de descuentos, ¿cuánto ganó ... el mes pasado en este empleo? (Incluya propinas y comisiones y excluya viáticos y pagos en especie)",NUMBER,15,60
+2025,p3364,¿Le descontaron retención en la fuente a lo que ganó el mes pasado en este empleo?,NUMBER,15,60
+2025,p3364s1,Valor,NUMBER,15,60
+2025,p6510,¿El mes pasado recibió ingresos por concepto de horas extras?,NUMBER,3,60
+2025,p6510s1,¿Cuánto recibió ($)?,NUMBER,15,60
+2025,p6510s2,¿Incluyó este valor en los ingresos del mes pasado que me declaró anteriormente?,NUMBER,3,60
+2025,p6590,"Además del salario en dinero, ¿el mes pasado recibió alimentos como parte de pago por su trabajo?",NUMBER,3,60
+2025,p6590s1,¿En cuánto estima lo que recibió ($)?,NUMBER,15,60
+2025,p6600,"Además del salario en dinero, ¿el mes pasado recibió vivienda como parte de pago por su trabajo?",NUMBER,3,60
+2025,p6600s1,¿En cuánto estima lo que recibió ($)?,NUMBER,15,60
+2025,p6610,¿Normalmente … utiliza transporte de la empresa para desplazarse a su trabajo (bus o automóvil)?,NUMBER,3,60
+2025,p6610s1,¿En cuánto estima lo que recibió ($)?,NUMBER,15,60
+2025,p6620,"Además del salario en dinero, ¿el mes pasado … recibió otros ingresos en especie por su trabajo (electrodomésticos, ropa, productos diferentes a alimentos o bonos tipo Sodexho)?",NUMBER,3,60
+2025,p6620s1,¿En cuánto estima lo que recibió ($)?,NUMBER,15,60
+2025,p6585s1,¿Cuál o cuáles de los siguientes subsidios recibió … el mes pasado: Auxilio o subsidio de alimentación?,NUMBER,3,60
+2025,p6585s1a1,¿Cuánto? (Auxilio o subsidio de alimentación),NUMBER,15,60
+2025,p6585s1a2,¿Incluyó este valor en los ingresos del mes pasado que me declaró anteriormente? (Auxilio o subsidio de alimentación),NUMBER,3,60
+2025,p6585s2,¿Cuál o cuáles de los siguientes subsidios recibió … el mes pasado: Auxilio o subsidio de transporte?,NUMBER,3,60
+2025,p6585s2a1,¿Cuánto? (Auxilio o subsidio de transporte),NUMBER,15,60
+2025,p6585s2a2,¿Incluyó este valor en los ingresos del mes pasado que me declaró anteriormente? (Auxilio o subsidio de transporte),NUMBER,3,60
+2025,p6585s3,¿Cuál o cuáles de los siguientes subsidios recibió … el mes pasado: Subsidio Familiar?,NUMBER,3,60
+2025,p6585s3a1,¿Cuánto? (Subsidio Familiar),NUMBER,15,60
+2025,p6585s3a2,¿Incluyó este valor en los ingresos del mes pasado que me declaró anteriormente? (Subsidio Familiar),NUMBER,15,60
+2025,p6585s4,¿Cuál o cuáles de los siguientes subsidios recibió … el mes pasado: Subsidio Educativo?,NUMBER,3,60
+2025,p6585s4a1,¿Cuánto? (Subsidio Educativo),NUMBER,15,60
+2025,p6585s4a2,¿Incluyó este valor en los ingresos del mes pasado que me declaró anteriormente? (Subsidio Educativo),NUMBER,15,60
+2025,p6545,"¿El mes pasado recibió ...: Primas? (Técnica, de antiguedad, clima, orden público, otras. etc.)",NUMBER,15,60
+2025,p6545s1,"¿Cuánto? (Primas (Técnica, de antiguedad, clima, orden público, otras. etc.))",NUMBER,15,60
+2025,p6545s2,"¿Incluyó este valor en los ingresos del mes pasado que me declaró anteriormente? (Primas (Técnica, de antiguedad, clima, orden público, otras. etc.))",NUMBER,3,60
+2025,p6580,¿El mes pasado recibió ...: Algún tipo de bonificación de carácter mensual?,NUMBER,3,60
+2025,p6580s1,¿Cuánto? (Algún tipo de bonificación de carácter mensual),NUMBER,15,60
+2025,p6580s2,¿Incluyó este valor en los ingresos del mes pasado que me declaró anteriormente? (Algún tipo de bonificación de carácter mensual),NUMBER,3,60
+2025,p6630s1,¿En los últimos 12 meses recibió: Prima de servicios?,NUMBER,15,60
+2025,p6630s1a1,¿Cuánto recibió ($)? (Prima de servicios),NUMBER,15,60
+2025,p6630s2,¿En los últimos 12 meses recibió: Prima de navidad?,NUMBER,15,60
+2025,p6630s2a1,¿Cuánto recibió ($)? (Prima de navidad),NUMBER,15,60
+2025,p6630s3,¿En los últimos 12 meses recibió: Prima de vacaciones?,NUMBER,3,60
+2025,p6630s3a1,¿Cuánto recibió ($)? (Prima de vacaciones),NUMBER,15,60
+2025,p6630s4,¿En los últimos 12 meses recibió: Viáticos permanentes y/o Bonificaciones anuales?,NUMBER,15,60
+2025,p6630s4a1,¿Cuánto recibió ($)? (Viáticos permanentes y/o Bonificaciones anuales),NUMBER,15,60
+2025,p6630s6,¿En los últimos 12 meses recibió: Pagos por accidentes de trabajo?,NUMBER,15,60
+2025,p6630s6a1,¿Cuánto recibió ($)? (Pagos por accidentes de trabajo),NUMBER,15,60
+2025,p6640,¿La semana pasada trabajó horas extras remuneradas?,NUMBER,15,60
+2025,p6640s1,¿Cuántas?,NUMBER,15,60
+2025,p1800,"En ese trabajo, ¿tiene empleados o personas que le ayudan en su negocio o actividad?",NUMBER,15,60
+2025,p1800s1,¿cuántos?,NUMBER,15,60
+2025,p1801s1,"De las personas que ocupa o le ayudan en su negocio o actividad, cuántos son: Trabajadores que reciben un pago",NUMBER,15,60
+2025,p1801s2,"De las personas que ocupa o le ayudan en su negocio o actividad, cuántos son: Socios",NUMBER,15,60
+2025,p1801s3,"De las personas que ocupa o le ayudan en su negocio o actividad, cuántos son: Trabajadores o familiares sin remuneración",NUMBER,15,60
+2025,p1802,… ofrece sus servicios o productos:,NUMBER,15,60
+2025,p3047,"En su trabajo, ¿quién decide sobre su horario de trabajo?",NUMBER,15,60
+2025,p3048,"En su trabajo, ¿quién decide sobre qué producir o vender?",NUMBER,15,60
+2025,p3049,"En su trabajo, ¿quién decide sobre el precio de los bienes, productos o servicios prestados?",NUMBER,15,60
+2025,p6765,"En la semana pasada, ¿cuál de las siguientes formas de trabajo realizó:",NUMBER,15,60
+2025,p6765s1,¿Cuál? (Otro),VARCHAR2,250,60
+2025,p3051,"Antes de descuentos, ¿Cuánto recibió ... el mes pasado por concepto de honorarios profesionales? Honorarios profesionales en el mes pasado",VARCHAR2,250,60
+2025,p3052,"Antes de descuentos, ¿Cuánto recibió ... el mes pasado por concepto de ingresos o comisiones? Ingresos o comisiones en el mes pasado",VARCHAR2,250,60
+2025,p3053,¿A cuántos meses corresponde lo que recibió?,NUMBER,15,60
+2025,p3365,¿Le descontaron retención en la fuente a lo que ganó el mes pasado en este empleo?,NUMBER,15,60
+2025,p3365s1,Valor,NUMBER,15,60
+2025,p3054,"Además de ingresos en dinero, ¿el mes pasado recibió alimentos como parte de pago por su trabajo?",NUMBER,15,60
+2025,p3054s1,¿En cuánto estima lo que recibió ($)?,VARCHAR2,250,60
+2025,p3055,"Además de ingresos en dinero, ¿el mes pasado recibió vivienda como parte de pago por su trabajo?",NUMBER,15,60
+2025,p3055s1,¿En cuánto estima lo que recibió ($)?,VARCHAR2,250,60
+2025,p3056,"La semana pasada, ¿qué tipo de actividad realizó en su negocio?",NUMBER,15,60
+2025,p3057,"¿Cuál fue el valor de las ventas o ingresos totales de su actividad o negocio, el mes pasado? Ventas o ingresos totales en el mes pasado",VARCHAR2,250,60
+2025,p6760,¿A cuántos meses corresponde lo que recibió?,NUMBER,15,60
+2025,p3058s1,"¿Cuánto pagó durante el mes anterior, para el funcionamiento del negocio o actividad, por los siguientes conceptos? Salarios u honorarios",VARCHAR2,250,60
+2025,p3058s2,"¿Cuánto pagó durante el mes anterior, para el funcionamiento del negocio o actividad, por los siguientes conceptos? Insumos para la producción y/o compra de mercancías",VARCHAR2,250,60
+2025,p3058s3,"¿Cuánto pagó durante el mes anterior, para el funcionamiento del negocio o actividad, por los siguientes conceptos? Arrendamiento o alquiler de edificio, local, bodega o sitio para realizar su actividad",VARCHAR2,250,60
+2025,p3058s4,"¿Cuánto pagó durante el mes anterior, para el funcionamiento del negocio o actividad, por los siguientes conceptos? Servicios básicos como agua, alcantarillado, gas natural, gas propano en pipeta, luz, teléfono o internet",VARCHAR2,250,60
+2025,p3058s5,"¿Cuánto pagó durante el mes anterior, para el funcionamiento del negocio o actividad, por los siguientes conceptos? Transporte, combustible, mantenimiento, reparaciones, alquileres de bienes inmuebles, maquinarias y/o equipos",VARCHAR2,250,60
+2025,p3059,"¿Cuál fue el valor de las ventas o ingresos totales de productos agrícolas, ganaderos, pesqueros o actividades mineras, en los últimos 12 meses? Digite el valor de las ventas o ingresos totales en los últimos 12 meses.",VARCHAR2,250,60
+2025,p3061,¿ A cuántos meses corresponde lo que recibió?,NUMBER,15,60
+2025,p3062s1,"¿Cuánto pagó en los últimos 12 meses, para el funcionamiento del negocio o actividad, por los siguientes conceptos? Pago a trabajadores (salarios, honorarios, jornales, destajo, otros)",VARCHAR2,250,60
+2025,p3062s2,"¿Cuánto pagó en los últimos 12 meses, para el funcionamiento del negocio o actividad, por los siguientes conceptos? Servicios profesionales (agrónomo, veterinario, zootecnista, biólogo, etc.)",VARCHAR2,250,60
+2025,p3062s3,"¿Cuánto pagó en los últimos 12 meses, para el funcionamiento del negocio o actividad, por los siguientes conceptos? Transporte y alquiler de maquinaria y equipos",VARCHAR2,250,60
+2025,p3062s4,"¿Cuánto pagó en los últimos 12 meses, para el funcionamiento del negocio o actividad, por los siguientes conceptos? Combustibles, lubricantes y mantenimiento de maquinaria y equipo",VARCHAR2,250,60
+2025,p3062s5,"¿Cuánto pagó en los últimos 12 meses, para el funcionamiento del negocio o actividad, por los siguientes conceptos? Abono, fertilizante, herbicidas, insecticidas, funguicidas, semillas y riego",VARCHAR2,250,60
+2025,p3062s6,"¿Cuánto pagó en los últimos 12 meses, para el funcionamiento del negocio o actividad, por los siguientes conceptos? Vacunas y productos veterinarios",VARCHAR2,250,60
+2025,p3062s7,"¿Cuánto pagó en los últimos 12 meses, para el funcionamiento del negocio o actividad, por los siguientes conceptos? Compra de animales o reproductores",VARCHAR2,250,60
+2025,p3062s8,"¿Cuánto pagó en los últimos 12 meses, para el funcionamiento del negocio o actividad, por los siguientes conceptos? Alimentos y suplementos para animales",VARCHAR2,250,60
+2025,p3062s9,"¿Cuánto pagó en los últimos 12 meses, para el funcionamiento del negocio o actividad, por los siguientes conceptos? Arrendamiento de tierras",VARCHAR2,250,60
+2025,p3063,"¿En el mes anterior, usted o algún miembro del hogar tomó algo de lo que cultivó, produjo o extrajo para consumo del hogar?",NUMBER,15,60
+2025,p3063s1,¿Cuánto tendría que pagar si tuviera que comprar este(os) artículo(s)?,VARCHAR2,250,60
+2025,p3064,"¿Usted es propietario de la totalidad o parte de la tierra, terreno o granja donde realiza su actividad productiva?",NUMBER,15,60
+2025,p3064s1,"Si tuviera que pagar arriendo por ese terreno, tierra o granja; ¿cuánto estima que tendría que pagar mensualmente?",VARCHAR2,250,60
+2025,p3065,La empresa o negocio en la que ... realiza su trabajo ¿está registrada ante la cámara de comercio? (¿tiene registro mercantil?),NUMBER,15,60
+2025,p3066,La empresa o negocio en la que ... trabaja tiene una oficina de contabilidad o cuenta con los servicios de un contador?,NUMBER,15,60
+2025,p3067,¿... ha registrado el negocio ante ante la cámara de comercio? (¿tiene registro mercantil?),NUMBER,15,60
+2025,p3067s1,¿... ha renovado ese registro?,NUMBER,15,60
+2025,p3067s2,¿Cuál fue el último año en el que renovó este registro?,NUMBER,15,60
+2025,p6775,"¿El negocio o actividad de ... lleva contabilidad (realiza anualmente balance general y estado de perdidas y ganancias), o libro de registro diario de operaciones?",NUMBER,15,60
+2025,p3068,¿A través de la contabilidad se pueden separar los gastos del negocio de los gastos del hogar?,NUMBER,15,60
+2025,p6750,"¿Cuál fue la ganancia neta o los honorarios netos de ... en esa actividad, negocio, profesión o finca, el mes pasado ?",NUMBER,15,60
+2025,p3073,¿A cuántos meses corresponde lo que recibió?,NUMBER,15,60
+2025,p550,¿Cuál fue la ganancia neta del negocio o de la cosecha durante los últimos doce meses?,NUMBER,15,60
+2025,p6780,Este trabajo es:,NUMBER,15,60
+2025,p6780s1,Especifique (Otro),VARCHAR2,250,60
+2025,p1879,¿Cuál es la razón principal por la que trabaja en forma independiente en lugar de trabajar para un empleador o patrono ?,NUMBER,15,60
+2025,p1805,"Si le ofrecieran un empleo como asalariado, en el cuál ganara lo mismo que obtiene actualmente pero con prestaciones, ¿aceptaría?",NUMBER,15,60
+2025,p6790,¿Cuántos meses trabajó en los últimos 12 meses?,NUMBER,15,60
+2025,p6800,¿Cuántas horas a la semana trabaja normalmente ... en este trabajo?,NUMBER,15,60
+2025,p6810,¿Cuál es la razón por la que trabaja normalmente menos de 40 horas a la semana?,NUMBER,15,60
+2025,p6810s1,¿Cuál? (Otra razón),VARCHAR2,250,60
+2025,p6850,¿Cuántas horas trabajó durante la semana pasada en este trabajo?,NUMBER,9,60
+2025,p6830,"¿Por qué razón, de las horas que normalmente trabaja, hubo algunas que no trabajó la semana pasada?",NUMBER,15,60
+2025,p6830s1,¿Cuál? (Otro),VARCHAR2,250,60
+2025,p3069,"¿Cuántas personas en total tiene la empresa, negocio, industria, oficina, firma, finca o sitio donde ... trabaja?",NUMBER,15,60
+2025,p6880,Dónde realiza principalmente su trabajo:,NUMBER,15,60
+2025,p6880s1,¿Cuál? (Otro),VARCHAR2,250,60
+2025,p6915,En caso de enfermedad ¿cómo cubriría los costos médicos y los medicamentos?,NUMBER,15,60
+2025,p6915s1,¿Cuál? (Otro medio),VARCHAR2,250,60
+2025,p6920,¿Está … cotizando actualmente a un fondo de pensiones?,NUMBER,15,60
+2025,p6930,¿A cuál de los siguientes fondos cotiza actualmente:,NUMBER,15,60
+2025,p6940,¿ Quién paga mensualmente por la afiliación al fondo de pensiones de ...?,NUMBER,15,60
+2025,p6960,¿Cuántos años lleva cotizando al fondo de pensiones?,NUMBER,15,60
+2025,p6990,"¿Está afiliado por una empresa o individualmente a una Aseguradora de Riesgos Laborales (ARL) (por accidentes de trabajo, enfermedad profesional etc)?",NUMBER,15,60
+2025,p9450,¿Está afiliado a una caja de compensación familiar?,NUMBER,15,60
+2025,p7020,"Antes del actual trabajo, ¿… tuvo otro trabajo?",NUMBER,15,60
+2025,p760,¿Cuántos meses estuvo sin empleo o trabajo … entre el trabajo actual y el anterior?,NUMBER,15,60
+2025,p7026,¿Cuánto tiempo duró en su empleo anterior?,NUMBER,15,60
+2025,p7028,¿En su empleo anterior … era:,NUMBER,15,60
+2025,p7028s1,¿Cuál? (Otro),VARCHAR2,250,60
+2025,p1880,¿Cuál fue la razón principal por la que ... dejó su empleo anterior?,NUMBER,15,60
+2025,p1880s1,¿Cuál? (Otro),VARCHAR2,250,60
+2025,p7040,"Además de la ocupación principal, ¿… tenía la semana pasada otro trabajo o negocio?",NUMBER,15,60
+2025,p7045,¿Cuántas horas trabajó … la semana pasada en ese segundo trabajo?,NUMBER,15,60
+2025,p3071s3,Ramas,NUMBER,4,60
+2025,p3072s2,Ramas,NUMBER,4,60
+2025,p7050,En ese segundo trabajo … es:,NUMBER,15,60
+2025,p7070,¿Cuánto recibió o ganó … el mes pasado en ese segundo trabajo o negocio?,NUMBER,15,60
+2025,p7075,"¿Cuántas personas en total tiene la empresa, negocio o finca donde … trabaja?",NUMBER,15,60
+2025,p7077,Dónde realiza principalmente … su trabajo:,NUMBER,15,60
+2025,p7090,Además de las horas que trabaja actualmente ¿… quiere trabajar más horas?,NUMBER,15,60
+2025,p7100,¿Cuántas horas adicionales puede trabajar … a la semana?,NUMBER,15,60
+2025,p7110,"Durante las ÚLTIMAS 4 SEMANAS, ¿… hizo diligencias para trabajar más horas?",NUMBER,15,60
+2025,p7120,Si la semana pasada le hubiera resultado la posibilidad de trabajar más horas ¿estaba … disponible para hacerlo?,NUMBER,15,60
+2025,p7130,¿… desea cambiar el trabajo que tiene actualmente?,NUMBER,15,60
+2025,p7140s1,¿Por que motivos ... desea cambiar de trabajo o empleo: Para mejorar la utilización de sus capacidades o formación?,NUMBER,15,60
+2025,p7140s2,¿Por que motivos ... desea cambiar de trabajo o empleo: Desea mejorar sus ingresos?,NUMBER,15,60
+2025,p7140s3,¿Por que motivos ... desea cambiar de trabajo o empleo: Desea trabajar menos horas?,NUMBER,15,60
+2025,p7140s4,¿Por que motivos ... desea cambiar de trabajo o empleo: Porque el trabajo actual es temporal?,NUMBER,15,60
+2025,p7140s5,¿Por que motivos ... desea cambiar de trabajo o empleo: Problemas en el trabajo?,NUMBER,15,60
+2025,p7140s6,¿Por que motivos ... desea cambiar de trabajo o empleo: No le gusta su trabajo actual?,NUMBER,15,60
+2025,p7140s7,¿Por que motivos ... desea cambiar de trabajo o empleo: Su trabajo actual exige mucho esfuerzo físico o mental?,NUMBER,15,60
+2025,p7140s8,"¿Por que motivos ... desea cambiar de trabajo o empleo: Problemas ambientales (aire, olores, ruidos, temperatura, etc.)",NUMBER,15,60
+2025,p7140s9,¿Por que motivos ... desea cambiar de trabajo o empleo: Otro motivo,NUMBER,15,60
+2025,p7140s9a1,¿Cuál? (Otro motivo),VARCHAR2,250,60
+2025,p7150,"Durante las ÚLTIMAS 4 SEMANAS, ¿... hizo diligencias para cambiar de trabajo?",NUMBER,15,60
+2025,p7160,Si le resultara un nuevo trabajo o empleo a ... ¿podría empezar a desempeñarlo antes de un mes?,NUMBER,15,60
+2025,p7170s1,¿Está ... satisfecho: Con su trabajo actual?,NUMBER,15,60
+2025,p7170s5,¿Está ... satisfecho: Con los beneficios y prestaciones que recibe?,NUMBER,15,60
+2025,p7170s6,¿Está ... satisfecho: Con su jornada laboral actual?,NUMBER,15,60
+2025,p7180,¿Está afiliado o hace parte de una asociación gremial o sindical?,NUMBER,15,60
+2025,p514,¿Considera que su empleo o trabajo actual es estable?,NUMBER,15,60
+2025,p515,¿Su horario de trabajo y sus responsabilidades familiares son compatibles?,NUMBER,15,60
+2025,p1881,¿Qué medio de transporte utiliza principalmente para desplazarse a su sitio de trabajo?,NUMBER,15,60
+2025,p1881s1,¿Cuál? (Otro),VARCHAR2,250,60
+2025,p1882,¿Cuánto tiempo se demora regularmente ... en su desplazamiento hacia el trabajo? Incluya tiempo de espera del medio de transporte (Minutos),NUMBER,15,60
+2025,p7240,"¿En caso de no tener trabajo, de donde obtendría principalmente los recursos para sus gastos y/o los de su hogar:",NUMBER,15,60
+2025,p7240s1,¿Cuáles? (Otros),VARCHAR2,250,60
+2025,dsi,Indicador de no ocupados,NUMBER,8,70
+2025,oficio1_c8,"¿En qué ocupación, oficio o labor ha buscado trabajo?",VARCHAR2,4,70
+2025,oficio2_c8,"¿Qué ocupación, oficio o labor realizó … la última vez que trabajó?",VARCHAR2,4,70
+2025,rama4d_d_r4,"¿A qué actividad se dedicaba principalmente la empresa negocio, industria, oficina, firma o finca en la que … trabajó por última vez?",VARCHAR2,4,70
+2025,rama2d_d_r4,"¿A qué actividad se dedicaba principalmente la empresa negocio, industria, oficina, firma o finca en la que … trabajó por última vez?",VARCHAR2,2,70
+2025,p7250,¿Durante cuántas semanas ha estado o estuvo … buscando trabajo?,NUMBER,15,70
+2025,p7280,Ha buscado trabajo como:,NUMBER,15,70
+2025,p7280s1,¿Cuál? (Otro),VARCHAR2,250,70
+2025,p744,Si le hubiera resultado algún trabajo a … ¿estaba disponible la semana pasada para empezar a trabajar?,NUMBER,15,70
+2025,p3074,"Si le resultara algún trabajo, cuándo estaría … disponible para trabajar?",NUMBER,15,70
+2025,p7260,"Si le hubiera resultado un trabajo la semana pasada, ¿ cuántas horas a la semana estaba disponible para trabajar?",NUMBER,15,70
+2025,p1806,En caso de que le ofrecieran un empleo a … ¿Cuál sería el sueldo o el salario mensual más bajo por el que aceptaría?,NUMBER,15,70
+2025,p7430,¿Ha trabajado alguna vez por lo menos durante dos semanas consecutivas?,NUMBER,15,70
+2025,p7440s1,¿Cuánto tiempo hace que … trabajó por última vez? Meses,NUMBER,15,70
+2025,p7440s2,¿Cuánto tiempo hace que … trabajó por última vez? Semanas,NUMBER,15,70
+2025,p7450,¿Por qué motivo o razón principal ... dejó ese trabajo?,NUMBER,15,70
+2025,p7350,En este último trabajo era:,NUMBER,15,70
+2025,p7360,"¿Cuántas personas en total tenía la empresa, negocio o finca, donde .... trabajaba?",NUMBER,15,70
+2025,p9460,¿Actualmente recibe subsidio de desempleo?,NUMBER,15,70
+2025,p1519,¿Está ... cotizando actualmente a un fondo de pensiones?,NUMBER,15,70
+2025,p1883,¿A cuál fondo:,NUMBER,15,70
+2025,p7422,¿Recibió o ganó el mes pasado ingresos por concepto de trabajo?,NUMBER,15,70
+2025,p7422s1,¿Cuánto?,NUMBER,15,70
+2025,p3076s1,"¿La semana pasada ... realizó sin que le pagaran alguna de las siguientes actividades: Cocinar, lavar los platos, poner la mesa en: Su hogar?",NUMBER,15,80
+2025,p3076s1a1,Dias,NUMBER,15,80
+2025,p3076s1a2,Horas día,NUMBER,15,80
+2025,p3076s2,"¿La semana pasada ... realizó sin que le pagaran alguna de las siguientes actividades: Cocinar, lavar los platos, poner la mesa en: Hogares de personas familiares?",NUMBER,15,80
+2025,p3076s2a1,Dias,NUMBER,15,80
+2025,p3076s2a2,Horas día,NUMBER,15,80
+2025,p3076s3,"¿La semana pasada ... realizó sin que le pagaran alguna de las siguientes actividades: Cocinar, lavar los platos, poner la mesa en: Hogares de personas no familiares?",NUMBER,15,80
+2025,p3076s3a1,Dias,NUMBER,15,80
+2025,p3076s3a2,Horas día,NUMBER,15,80
+2025,p3077s1,"¿La semana pasada ... realizó sin que le pagaran alguna de las siguientes actividades: Lavar, colgar, planchar la ropa, reparar ropa en: Su hogar?",NUMBER,15,80
+2025,p3077s1a1,Dias,NUMBER,15,80
+2025,p3077s1a2,Horas día,NUMBER,15,80
+2025,p3077s2,"¿La semana pasada ... realizó sin que le pagaran alguna de las siguientes actividades: Lavar, colgar, planchar la ropa, reparar ropa en: Hogares de personas familiares?",NUMBER,15,80
+2025,p3077s2a1,Dias,NUMBER,15,80
+2025,p3077s2a2,Horas día,NUMBER,15,80
+2025,p3077s3,"¿La semana pasada ... realizó sin que le pagaran alguna de las siguientes actividades: Lavar, colgar, planchar la ropa, reparar ropa en: Hogares de personas no familiares?",NUMBER,15,80
+2025,p3077s3a1,Dias,NUMBER,15,80
+2025,p3077s3a2,Horas día,NUMBER,15,80
+2025,p3078s1,"¿La semana pasada ... realizó sin que le pagaran alguna de las siguientes actividades: Limpiar o arreglar la casa, tender las camas, barrer trapear, sacar la basura en: Su hogar?",NUMBER,15,80
+2025,p3078s1a1,Dias,NUMBER,15,80
+2025,p3078s1a2,Horas día,NUMBER,15,80
+2025,p3078s2,"¿La semana pasada ... realizó sin que le pagaran alguna de las siguientes actividades: Limpiar o arreglar la casa, tender las camas, barrer trapear, sacar la basura en: Hogares de personas familiares?",NUMBER,15,80
+2025,p3078s2a1,Dias,NUMBER,15,80
+2025,p3078s2a2,Horas día,NUMBER,15,80
+2025,p3078s3,"¿La semana pasada ... realizó sin que le pagaran alguna de las siguientes actividades: Limpiar o arreglar la casa, tender las camas, barrer trapear, sacar la basura en: Hogares de personas no familiares?",NUMBER,15,80
+2025,p3078s3a1,Dias,NUMBER,15,80
+2025,p3078s3a2,Horas día,NUMBER,15,80
+2025,p3079s1,¿La semana pasada ... realizó sin que le pagaran alguna de las siguientes actividades: Cuidar niñas o niños menores de 5 años que no estén enfermos ni en condición de discapacidad en: Su hogar?,NUMBER,15,80
+2025,p3079s1a1,Dias,NUMBER,15,80
+2025,p3079s1a2,Horas día,NUMBER,15,80
+2025,p3079s2,¿La semana pasada ... realizó sin que le pagaran alguna de las siguientes actividades: Cuidar niñas o niños menores de 5 años que no estén enfermos ni en condición de discapacidad en: Hogares de personas familiares?,NUMBER,15,80
+2025,p3079s2a1,Dias,NUMBER,15,80
+2025,p3079s2a2,Horas día,NUMBER,15,80
+2025,p3079s3,¿La semana pasada ... realizó sin que le pagaran alguna de las siguientes actividades: Cuidar niñas o niños menores de 5 años que no estén enfermos ni en condición de discapacidad en: Hogares de personas no familiares?,NUMBER,15,80
+2025,p3079s3a1,Dias,NUMBER,15,80
+2025,p3079s3a2,Horas día,NUMBER,15,80
+2025,p3081s1,"¿La semana pasada ... realizó sin que le pagaran alguna de las siguientes actividades: Cuidar personas enfermas, en condición de discapacidad o adultos mayores en: Su hogar?",NUMBER,15,80
+2025,p3081s1a1,Dias,NUMBER,15,80
+2025,p3081s1a2,Horas día,NUMBER,15,80
+2025,p3081s2,"¿La semana pasada ... realizó sin que le pagaran alguna de las siguientes actividades: Cuidar personas enfermas, en condición de discapacidad o adultos mayores en: Hogares de personas familiares?",NUMBER,15,80
+2025,p3081s2a1,Dias,NUMBER,15,80
+2025,p3081s2a2,Horas día,NUMBER,15,80
+2025,p3081s3,"¿La semana pasada ... realizó sin que le pagaran alguna de las siguientes actividades: Cuidar personas enfermas, en condición de discapacidad o adultos mayores en: Hogares de personas no familiares?",NUMBER,15,80
+2025,p3081s3a1,Dias,NUMBER,15,80
+2025,p3081s3a2,Horas día,NUMBER,15,80
+2025,p3082s1,¿La semana pasada ... realizó sin que le pagaran alguna de las siguientes actividades: Ayudar a personas con tareas o trabajos escolares en: Su hogar?,NUMBER,15,80
+2025,p3082s1a1,Dias,NUMBER,15,80
+2025,p3082s1a2,Horas día,NUMBER,15,80
+2025,p3082s2,¿La semana pasada ... realizó sin que le pagaran alguna de las siguientes actividades: Ayudar a personas con tareas o trabajos escolares en: Hogares de personas familiares?,NUMBER,15,80
+2025,p3082s2a1,Dias,NUMBER,15,80
+2025,p3082s2a2,Horas día,NUMBER,15,80
+2025,p3082s3,¿La semana pasada ... realizó sin que le pagaran alguna de las siguientes actividades: Ayudar a personas con tareas o trabajos escolares en: Hogares de personas no familiares?,NUMBER,15,80
+2025,p3082s3a1,Dias,NUMBER,15,80
+2025,p3082s3a2,Horas día,NUMBER,15,80
+2025,p3083,¿En las últimas 4 semanas… realizó pasantías o practicas laborales?,NUMBER,15,80
+2025,p3083s1,Horas a la semana,NUMBER,15,80
+2025,p3084s2,¿A qué actividad se dedica principalmente la empresa o negocio en el que … realiza sus prácticas o pasantías?,NUMBER,4,80
+2025,p3085,¿Para realizar esta labor... tiene un contrato de aprendizaje?,NUMBER,15,80
+2025,p3086,La institución educativa con la cual realiza la pasantía o práctica es:,NUMBER,15,80
+2025,p3086s1,¿Cuál? (Otra institución educativa),VARCHAR2,250,80
+2025,p3087,Recibe algún ingreso por esta práctica o pasantía?,NUMBER,15,80
+2025,p3087s1,Valor mensual,VARCHAR2,250,80
+2025,p3088,¿Es un requisito para poder graduarse?,NUMBER,15,80
+2025,p3089,"¿Durante las últimas 4 semanas ... realizó sin que le pagaran alguna de las siguientes actividades? Preparar conservas, quesos o embutidos para ser consumidas por usted o las personas del hogar?",NUMBER,15,80
+2025,p3089s1,Días,NUMBER,15,80
+2025,p3089s2,Horas día,NUMBER,15,80
+2025,p3089s3,¿Cuánto tendría que pagar si tuviera que comprar este(os) artículo(s)?,VARCHAR2,250,80
+2025,p3091,¿Durante las últimas 4 semanas ... realizó sin que le pagaran alguna de las siguientes actividades? Elaborar prendas de vestir para las personas de este hogar?,NUMBER,15,80
+2025,p3091s1,Días,NUMBER,15,80
+2025,p3091s2,Horas día,NUMBER,15,80
+2025,p3092,¿Durante las últimas 4 semanas ... realizó sin que le pagaran alguna de las siguientes actividades? Traer agua para el uso de este hogar? (sólo para centros poblados y rural disperso),NUMBER,15,80
+2025,p3092s1,Días,NUMBER,15,80
+2025,p3092s2,Horas día,NUMBER,15,80
+2025,p3093,¿Durante las últimas 4 semanas ... realizó sin que le pagaran alguna de las siguientes actividades? Construir o ampliar una vivienda propiedad del hogar?,NUMBER,15,80
+2025,p3093s1,Días,NUMBER,15,80
+2025,p3093s2,Horas día,NUMBER,15,80
+2025,p3094,"¿Durante las últimas 4 semanas ... realizó sin que le pagaran alguna de las siguientes actividades? Plantar, regar, abonar, deshierbar o cosechar en una huerta casera o cultivo destinado solo para el consumo de este hogar.",NUMBER,15,80
+2025,p3094s1,Días,NUMBER,15,80
+2025,p3094s2,Horas día,NUMBER,15,80
+2025,p3094s3,¿Cuánto tendría que pagar si tuviera que comprar este(os) artículo(s)?,NUMBER,15,80
+2025,p3095,"¿Durante las últimas 4 semanas ... realizó sin que le pagaran alguna de las siguientes actividades? Criar animales para el consumo de este hogar tales como: gallinas, cerdos, patos, conejos, etc., cazar o pescar animales para el consumo de este hogar.",NUMBER,15,80
+2025,p3095s1,Días,NUMBER,15,80
+2025,p3095s2,Horas día,NUMBER,15,80
+2025,p3095s3,¿Cuánto tendría que pagar si tuviera que comprar este(os) artículo(s)?,NUMBER,15,80
+2025,p3096,"¿Durante las últimas 4 semanas ... realizó sin que le pagaran alguna de las siguientes actividades? Extraer minerales como: carbón, sal, etc, para consumo de este hogar",NUMBER,15,80
+2025,p3096s1,Días,NUMBER,15,80
+2025,p3096s2,Horas día,NUMBER,15,80
+2025,p3096s3,¿Cuánto tendría que pagar si tuviera que comprar este(os) artículo(s)?,NUMBER,15,80
+2025,p3097,¿Durante las últimas 4 semanas ... realizó sin que le pagaran alguna de las siguientes actividades? Recoger leña para el uso de este hogar. (sólo para centros poblados y rural disperso),NUMBER,15,80
+2025,p3097s1,Días,NUMBER,15,80
+2025,p3097s2,Horas día,NUMBER,15,80
+2025,p3098,"¿Durante las últimas 4 semanas ... realizó sin que le pagaran alguna de las siguientes actividades? Hacer de manera voluntaria, reparaciones, labores de limpieza o algún trabajo en beneficio de su barrio, vereda, centro poblado o comunidad.",NUMBER,15,80
+2025,p3098s1,Días,NUMBER,15,80
+2025,p3098s2,Horas día,NUMBER,15,80
+2025,p3099,¿Durante las últimas 4 semanas ... realizó sin que le pagaran alguna de las siguientes actividades? Realizar actividades de voluntariado (sin que le pagaran) a través de una institución sin ánimo de lucro,NUMBER,15,80
+2025,p3099s1,Días,NUMBER,15,80
+2025,p3099s2,Horas día,NUMBER,15,80
+2025,p3101,"¿Durante las últimas 4 semanas ... realizó sin que le pagaran alguna de las siguientes actividades? Participar en reuniones de asociaciones de padres, sindicatos, partidos politicos, juntas de acción comunal",NUMBER,15,80
+2025,p3101s1,Días,NUMBER,15,80
+2025,p3101s2,Horas día,NUMBER,15,80
+2025,p7495,"El mes pasado, ¿recibió pagos por concepto de arriendos y/o pensiones?",NUMBER,15,90
+2025,p7500s1,"¿El mes pasado, recibió pagos por: Arriendos de casas, apartamentos, fincas, lotes, vehículos, equipos, etc.",NUMBER,15,90
+2025,p7500s1a1,Valor mes pasado,NUMBER,15,90
+2025,p7500s2,"¿El mes pasado, recibió pagos por: Pensiones o jubilaciones por vejez, invalidez o sustitución pensional.",NUMBER,15,90
+2025,p7500s2a1,Valor mes pasado,NUMBER,15,90
+2025,p7500s3,"¿El mes pasado, recibió pagos por: Pensión alimenticia por paternidad, divorcio o separación.",NUMBER,15,90
+2025,p7500s3a1,Valor mes pasado,NUMBER,15,90
+2025,p7505,"Durante los últimos doce meses, ¿recibió dinero de otros hogares, personas o instituciones; dinero por intereses, dividendos, utilidades o por cesantias?",NUMBER,15,90
+2025,p7510s1,Durante los últimos doce meses recibió: Dinero de otros hogares o personas residentes en el país?,NUMBER,15,90
+2025,p7510s1a1,Valor,NUMBER,15,90
+2025,p7510s2,Durante los últimos doce meses recibió: Dinero de otros hogares o personas residentes fuera del país?,NUMBER,15,90
+2025,p7510s2a1,Valor,NUMBER,15,90
+2025,p7510s3,Durante los últimos doce meses recibió: Ayudas en dinero de instituciones del país o fuera del pais?,NUMBER,15,90
+2025,p7510s3a1,Valor,NUMBER,15,90
+2025,p750s1,Las ayudas en dinero fueron de: Entidades privadas Nacionales,NUMBER,15,90
+2025,p750s1a1,Valor,NUMBER,15,90
+2025,p750s2,Las ayudas en dinero fueron de: Entidades del gobierno,NUMBER,15,90
+2025,p750s2a1,Valor,NUMBER,15,90
+2025,p1661s3,Las ayudas en dinero fueron de: Entidades del gobierno: Colombia Mayor,NUMBER,15,90
+2025,p1661s3a1,Valor (Colombia Mayor),NUMBER,15,90
+2025,p1661s4,Las ayudas en dinero fueron de: Entidades del gobierno: Otro,NUMBER,15,90
+2025,p1661s4a1,¿Cuál? (Otro),VARCHAR2,250,90
+2025,p1661s4a2,Valor (Otro),NUMBER,15,90
+2025,p1661s5,Las ayudas en dinero fueron de: Entidades del gobierno: Renta ciudadana,NUMBER,15,90
+2025,p1661s5a1,Valor (Renta ciudadana),NUMBER,15,90
+2025,p1661s6,Las ayudas en dinero fueron de: Entidades del gobierno: Renta joven,NUMBER,15,90
+2025,p1661s6a1,Valor (Renta joven),NUMBER,15,90
+2025,p750s3,Las ayudas en dinero fueron de: Entidades fuera del pais,NUMBER,15,90
+2025,p750s3a1,Valor,NUMBER,15,90
+2025,p7510s5,"Durante los últimos doce meses recibió: Dinero por intereses de prestamos o por CDT's, depósitos de ahorro, utilidades ganancias o dividendos por inversiones?",NUMBER,15,90
+2025,p7510s5a1,Valor,NUMBER,15,90
+2025,p7510s6,Durante los últimos doce meses recibió: Ingresos por concepto de cesantías y/o intereses a las cesantías,NUMBER,15,90
+2025,p7510s6a1,Valor,NUMBER,15,90
+2025,p7510s7,"Durante los últimos doce meses recibió: Dinero de otras fuentes diferentes a las anteriores? (ingresos por ganancias en juegos de azar, chances, loterías, indemnizaciones, liquidaciones, venta de propiedades, acciones, vehículos, etc.)",NUMBER,15,90
+2025,p7510s7a1,Valor,NUMBER,15,90
+2025,p3367,¿Es propietario de una o varias propiedades inmuebles?,NUMBER,15,90
+2025,p3368,"Durante los últimos doce meses, ¿cuánto pagó por impuesto predial de su(s) propiedad(es)?",NUMBER,15,90
+2025,p3369,"Durante los últimos doce meses, ¿cuánto pagó por impuesto de valorización de su(s) propiedad(es)?",NUMBER,15,90
+2025,p3370,"Durante los últimos doce meses, ¿realizó el pago de impuesto de vehículos?",NUMBER,15,90
+2025,p3370s1,a. Valor,NUMBER,15,90
+2025,p3371,"Durante los últimos doce meses, ¿realizó el pago de impuestos a la renta y complementarios?",NUMBER,15,90
+2025,p3371s1,a. Valor,NUMBER,15,90
+2025,p3371s2,b. ¿A cuántos años corresponde el pago?,NUMBER,15,90
+2025,p3371s3,c. ¿Cuál fue el último año pagado?,NUMBER,15,90
+2025,p3371s4,d. ¿Cuánto fue el monto del último año pagado?,NUMBER,15,90
+2025,p3372,"Durante los últimos doce meses, ¿realizó el pago de impuestos a ganancias en juegos de azar, chances, loterias, indemnizaciones, liquidaciones, venta de propiedades, acciones, vehículos, etc.?",NUMBER,15,90
+2025,p3372s1,a. Valor,NUMBER,15,90
+2025,p3373,Dónde nació ...:,NUMBER,15,94
+2025,p3373s1,Dónde nació ...: Departamento,VARCHAR2,2,94
+2025,p3373s2,Dónde nació ...: Municipio,VARCHAR2,5,94
+2025,p3373s3,Dónde nació ...: En otro país:,VARCHAR2,3,94
+2025,p3373s3a1,En qué año y mes llegó a Colombia por útima vez Año,NUMBER,15,94
+2025,p3373s3a2,En qué año y mes llegó a Colombia por útima vez Mes,NUMBER,15,94
+2025,p3374,¿Qué nacionalidad tiene?,NUMBER,15,94
+2025,p3374s1 - p3374s2 - p3374s3,País o países de nacionalidad:,VARCHAR2,3,94
+2025,p3375,¿... tiene la intención de quedarse a vivir en Colombia?,NUMBER,15,94
+2025,p3375s1,¿Cuánto tiempo? Meses,NUMBER,15,94
+2025,p3376,¿Alguna vez ha vivido en otro(s) país(es) durante más de 6 meses?,NUMBER,15,94
+2025,p3377,"¿Mientras estuvo viviendo en el exterior ..., trabajó?",NUMBER,15,94
+2025,p3378,¿A qué país viajó por última vez a trabajar?,VARCHAR2,3,94
+2025,p3378s1,¿Durante cuánto tiempo estuvo trabajando en ese país? Meses,NUMBER,15,94
+2025,p3379,¿... en qué año viajó a ese país?,NUMBER,15,94
+2025,p3380,¿... en qué año salió de ese país?,NUMBER,15,94
+2025,p3381,¿… en qué año volvió a vivir en Colombia?,NUMBER,15,94
+2025,p3382,"¿Dónde vivía …, hace 5 años?",NUMBER,15,94
+2025,p3382s1,Departamento,VARCHAR2,2,94
+2025,p3382s2,Municipio,VARCHAR2,3,94
+2025,p3382s3,En otro país:,VARCHAR2,3,94
+2025,p3383,El lugar donde vivía hace 5 años era:,NUMBER,15,94
+2025,p3384,"¿Dónde vivía ..., hace 12 meses?",NUMBER,15,94
+2025,p3384s1,Departamento,VARCHAR2,2,94
+2025,p3384s2,Municipio,VARCHAR2,5,94
+2025,p3384s3,En otro país:,VARCHAR2,3,94
+2025,p3385,El lugar donde vivía … hace 12 meses era:,NUMBER,15,94
+2025,p3386,¿Cuál fue el principal motivo por el que ... cambió el lugar donde residia hace 12 meses?,NUMBER,15,94
+2025,p3386s1,¿Cuál? (Otro),VARCHAR2,250,94
+2026,directorio,Identificador de la vivienda,NUMBER,15,1
+2026,secuencia_p,Identificador del hogar,NUMBER,5,1
+2026,hogar,Número del hogar en la vivienda,NUMBER,4,1
+2026,p4005,Tipo de vivienda,NUMBER,5,1
+2026,p4000,Tipo de vivienda,NUMBER,5,1
+2026,p4010,¿Cuál es el material predominante de las paredes exteriores de la vivienda?,NUMBER,5,1
+2026,p4020,¿Cuál es el material predominante de los pisos de la vivienda?,NUMBER,5,1
+2026,p4030s1,¿Con cuáles de los siguientes servicios cuenta la vivienda? Energía eléctrica,NUMBER,5,1
+2026,p4030s1a1,¿Con cuáles de los siguientes servicios cuenta la vivienda? Estrato para tarifa,NUMBER,5,1
+2026,p4030s2,¿Con cuáles de los siguientes servicios cuenta la vivienda? Gas natural conectado a red pública,NUMBER,5,1
+2026,p4030s3,¿Con cuáles de los siguientes servicios cuenta la vivienda? Alcantarillado,NUMBER,5,1
+2026,p4030s4,¿Con cuáles de los siguientes servicios cuenta la vivienda? Recolección de basuras,NUMBER,5,1
+2026,p4030s4a1,¿Con cuáles de los siguientes servicios cuenta la vivienda? Veces por semana,NUMBER,5,1
+2026,p4030s5,¿Con cuáles de los siguientes servicios cuenta la vivienda? Acueducto,NUMBER,5,1
+2026,p70,¿Cuántos hogares hay en esta vivienda?,NUMBER,5,1
+2026,p5000,"Incluyendo sala-comedor, ¿de cuántos cuartos en total dispone este hogar?",NUMBER,3,1
+2026,p5010,¿En cuántos de esos cuartos duermen las personas de este hogar?,NUMBER,5,1
+2026,p5020,El servicio sanitario que utiliza el hogar es:,NUMBER,3,1
+2026,p5030,El servicio sanitario del hogar es:,NUMBER,3,1
+2026,p5040,¿Cómo eliminan principalmente la basura en este hogar?,NUMBER,3,1
+2026,p5050,¿De dónde obtiene principalmente este hogar el agua para consumo humano?,NUMBER,3,1
+2026,p5070,"¿En cuál de los siguientes lugares, preparan los alimentos las personas de este hogar:",NUMBER,3,1
+2026,p5080,¿Con qué energía o combustibe cocinan principalmente en este hogar?,NUMBER,3,1
+2026,p5090,La vivienda ocupada por este hogar es:,NUMBER,3,1
+2026,p5090s1,¿Cuál? (Otra),VARCHAR2,250,1
+2026,p5100,¿Cuánto pagan mensualmente por cuota de amortización?,NUMBER,12,1
+2026,p5110,"Si usted quisiera vender esta vivienda, ¿Cuál sería el precio mínimo en que la vendería?",NUMBER,20,1
+2026,p5130,"Si tuviera que pagar arriendo por esta vivienda, ¿Cuánto estima que tendría que pagar mensualmente?",NUMBER,12,1
+2026,p5140,¿Cuánto pagan mensualmente por arriendo?,NUMBER,12,1
+2026,p6008,Total de personas en el hogar,NUMBER,2,1
+2026,p5222s1,¿Cuáles de los siguientes productos financieros utiliza usted o algún miembro del hogar actualmente? Cuenta corriente,NUMBER,12,1
+2026,p5222s2,¿Cuáles de los siguientes productos financieros utiliza usted o algún miembro del hogar actualmente? Cuenta de ahorros,NUMBER,12,1
+2026,p5222s3,¿Cuáles de los siguientes productos financieros utiliza usted o algún miembro del hogar actualmente? CDT,NUMBER,12,1
+2026,p5222s4,¿Cuáles de los siguientes productos financieros utiliza usted o algún miembro del hogar actualmente? Préstamo para compra de vivienda,NUMBER,12,1
+2026,p5222s5,¿Cuáles de los siguientes productos financieros utiliza usted o algún miembro del hogar actualmente? Préstamo para compra de vehículo,NUMBER,12,1
+2026,p5222s6,¿Cuáles de los siguientes productos financieros utiliza usted o algún miembro del hogar actualmente? Préstamo de libre inversión,NUMBER,12,1
+2026,p5222s7,¿Cuáles de los siguientes productos financieros utiliza usted o algún miembro del hogar actualmente? Tarjeta de crédito,NUMBER,12,1
+2026,p5222s8,¿Cuáles de los siguientes productos financieros utiliza usted o algún miembro del hogar actualmente? Otro,NUMBER,12,1
+2026,p5222s8a1,¿Cuál? (Otro),VARCHAR2,250,1
+2026,p5222s9,¿Cuáles de los siguientes productos financieros utiliza usted o algún miembro del hogar actualmente? Ninguno,NUMBER,12,1
+2026,p5222s10,¿Cuáles de los siguientes productos financieros utiliza usted o algún miembro del hogar actualmente? No sabe,NUMBER,12,1
+2026,p5222s11,"¿Cuáles de los siguientes productos financieros utiliza usted o algún miembro del hogar actualmente? Plataforma móvil (Daviplata, Bancolombia a la mano, Nequi, Movii, entre otros)",NUMBER,12,1
+2026,periodo,Periodo de la encuesta,NUMBER,8,1
+2026,per,Año de la encuesta,NUMBER,8,1
+2026,mes,Mes de la encuesta,VARCHAR2,2,1
+2026,regis,Identificador del tipo de registro,VARCHAR2,2,1
+2026,dpto,Identificador de departamento,VARCHAR2,2,1
+2026,area,Identificador de las area metropolitana,VARCHAR2,2,1
+2026,clase,Identificador de dominio,VARCHAR2,1,1
+2026,fex_c18,Factor de expansión de personas y Hogares,NUMERICA,8,1
+2026,orden,Orden,NUMBER,5,10
+2026,p3038,¿Usted siente atracción sexual o romántica por?,NUMBER,15,10
+2026,p3039,¿Usted se reconoce como?,NUMBER,15,10
+2026,p6016,Número de orden de la persona que proporciona la información:,NUMBER,3,10
+2026,p3271,Cuál fue su sexo al nacer?,NUMBER,3,10
+2026,p6040,¿Cuántos años cumplidos tiene ...?,NUMBER,3,10
+2026,p6030s1,Mes,VARCHAR2,50,10
+2026,p6030s3,Año,VARCHAR2,50,10
+2026,p6050,¿Cuál es el parentesco de … con el jefe o jefa del hogar?,NUMBER,3,10
+2026,p6083,¿La madre de ... reside en este hogar?,NUMBER,3,10
+2026,p6083s1,¿La madre de … reside en este hogar? Número de orden de la persona,NUMBER,3,10
+2026,p6081,¿El padre de … reside en este hogar?,NUMBER,3,10
+2026,p6081s1,¿El padre de … reside en este hogar? Número de orden de la persona,NUMBER,3,10
+2026,p2057,¿Usted se considera campesino(a)?,NUMBER,3,10
+2026,p2059,¿Usted considera que alguna vez fue campesino(a)?,NUMBER,3,10
+2026,p2061,¿Usted considera que la comunidad en la que vive es campesina?,NUMBER,3,10
+2026,p6080,"De acuerdo con su cultura, pueblo o rasgos físicos, ... es o se reconoce como:",NUMBER,3,10
+2026,p6080s1,¿A cuál pueblo indígena pertenece . . . ?,VARCHAR2,250,10
+2026,p6080s1a1,¿Cuál?,VARCHAR2,250,10
+2026,p6070,Actualmente:,NUMBER,3,10
+2026,p6071,¿El (la) cónyuge de … reside en este hogar?,NUMBER,3,10
+2026,p6071s1,¿El (la) cónyuge de … reside en este hogar? Número de orden de la persona,NUMBER,3,10
+2026,pob_may18,Población mayor 18 años,NUMBER,8,10
+2026,pt,Población total,NUMBER,8,10
+2026,p6090,"¿... está afiliado, es cotizante o es beneficiario de alguna entidad de seguridad social en salud? (Empresa Promotora de Salud - EPS)",NUMBER,3,10
+2026,p6100,¿A cuál de los siguientes regímenes de seguridad social en salud está afiliado:,NUMBER,3,10
+2026,p6110,¿Quién paga mensualmente por la afiliación de ...?,NUMBER,3,10
+2026,p6120,¿Cuánto paga o cuánto le descuentan mensualmente?,NUMBER,9,10
+2026,p1906s1,"Dada su condición física y mental, en su vida diaria tiene dificultades para realizar las siguientes actividades: ¿Oír, aun usando audífonos medicados?",NUMBER,3,10
+2026,p1906s2,"Dada su condición física y mental, en su vida diaria tiene dificultades para realizar las siguientes actividades: ¿Hablar o conversar?",NUMBER,3,10
+2026,p1906s3,"Dada su condición física y mental, en su vida diaria tiene dificultades para realizar las siguientes actividades: ¿Ver, aún usando lentes o gafas?",NUMBER,3,10
+2026,p1906s4,"Dada su condición física y mental, en su vida diaria tiene dificultades para realizar las siguientes actividades: ¿Mover el cuerpo, caminar o subir y bajar escaleras?",NUMBER,3,10
+2026,p1906s5,"Dada su condición física y mental, en su vida diaria tiene dificultades para realizar las siguientes actividades: ¿Agarrar o mover objetos con las manos?",NUMBER,3,10
+2026,p1906s6,"Dada su condición física y mental, en su vida diaria tiene dificultades para realizar las siguientes actividades: ¿Entender, aprender, recordar o tomar decisiones por si mismo(a)?",NUMBER,3,10
+2026,p1906s7,"Dada su condición física y mental, en su vida diaria tiene dificultades para realizar las siguientes actividades: ¿Comer, vestirse o bañarse por sí mismo (a)?",NUMBER,3,10
+2026,p1906s8,"Dada su condición física y mental, en su vida diaria tiene dificultades para realizar las siguientes actividades: ¿Relacionarse o interactuar con las demás personas?",NUMBER,3,10
+2026,p6160,¿Sabe leer y escribir?,NUMBER,3,10
+2026,p6170,"¿Actualmente asiste a alguna institución educativa (por ejemplo: jardín, escuela, colegio, universidad)?",NUMBER,3,10
+2026,p3041,La institución a la que asiste es:,NUMBER,3,10
+2026,p3042,¿Cuál es el mayor nivel educativo alcanzado y el último grado o semestre aprobado por ...?,NUMBER,3,10
+2026,p3042s1,¿Cuál es el mayor nivel educativo alcanzado y el último grado o semestre aprobado por …...? Año o Grado,NUMBER,3,10
+2026,p3042s2,¿En qué? (mayor nivel educativo alcanzado),NUMBER,15,10
+2026,p3043,¿Cuál es el título o diploma de mayor nivel educativo que ha recibido ...?,NUMBER,3,10
+2026,p3043s1,¿En qué? (título o diploma de mayor nivel educativo),NUMBER,12,10
+2026,p6240,¿En que actividad ocupó … la mayor parte del tiempo la semana pasada?,NUMBER,5,50
+2026,p6240s1,¿cuál? (Otra actividad),VARCHAR2,250,50
+2026,p6240s2,¿... recibió remuneración en dinero o en especie a cambio de este trabajo?,NUMBER,5,50
+2026,p6250,"Además de lo anterior, ¿… realizó la semana pasada alguna actividad paga en dinero o en especie por una hora o más?",NUMBER,3,50
+2026,p6260,"Aunque ... no trabajó la semana pasada, por una hora o más en forma remunerada, ¿tenía durante esa semana algún trabajo o negocio por el que recibe ingresos en dinero o en especie?",NUMBER,3,50
+2026,p6260s1,¿Por qué razón no trabajó la semana pasada?,NUMBER,3,50
+2026,p6260s1a1,¿cuál? (Otro),VARCHAR2,250,50
+2026,p6260s2,¿Cuánto tiempo estará ausente del trabajo (desde que dejó de trabajar hasta que regrese)?,NUMBER,3,50
+2026,p6270,¿... trabajó o ayudó la semana pasada por UNA HORA O MÁS sin que le pagaran en la empresa o negocio de algún miembro de su familia u hogar?,NUMBER,3,50
+2026,p6280,En las ÚLTIMAS 4 SEMANAS ¿… hizo alguna diligencia para conseguir un trabajo o instalar un negocio?,NUMBER,3,50
+2026,p3362s1,"¿Qué hizo ... en las ÚLTIMAS CUATRO SEMANAS para conseguir un trabajo o instalar un negocio? Pidió ayuda a familiares, amigos, colegas",NUMBER,3,50
+2026,p3362s2,"¿Qué hizo ... en las ÚLTIMAS CUATRO SEMANAS para conseguir un trabajo o instalar un negocio? Visitó, llevó o envió hojas de vida a empresas o empleadores",NUMBER,3,50
+2026,p3362s3,"¿Qué hizo ... en las ÚLTIMAS CUATRO SEMANAS para conseguir un trabajo o instalar un negocio? Hizo uso de los servicios de agencias o bolsas de empleo, Cajas de Compensación Familiar, SENA, Entes Territoriales (Servicio Público de Empleo - SPE)",NUMBER,3,50
+2026,p3362s4,¿Qué hizo ... en las ÚLTIMAS CUATRO SEMANAS para conseguir un trabajo o instalar un negocio? Puso o consultó avisos clasificados,NUMBER,3,50
+2026,p3362s5,¿Qué hizo ... en las ÚLTIMAS CUATRO SEMANAS para conseguir un trabajo o instalar un negocio? Se presentó a convocatorias,NUMBER,3,50
+2026,p3362s6,¿Qué hizo ... en las ÚLTIMAS CUATRO SEMANAS para conseguir un trabajo o instalar un negocio? Hizo preparativos para iniciar un negocio,NUMBER,3,50
+2026,p3362s7,¿Qué hizo ... en las ÚLTIMAS CUATRO SEMANAS para conseguir un trabajo o instalar un negocio? Otro medio,NUMBER,3,50
+2026,p3362s8,"¿Qué hizo ... en las ÚLTIMAS CUATRO SEMANAS para conseguir un trabajo o instalar un negocio? No sabe, no informa",NUMBER,3,50
+2026,p3362s7a1,¿cuál? (Otro medio),VARCHAR2,250,50
+2026,p6300,¿... desea conseguir un trabajo remunerado o instalar un negocio?,NUMBER,3,50
+2026,p6310,"Aunque ... desea trabajar, ¿por qué motivo principal no hizo diligencias para buscar un trabajo o instalar un negocio en las ÚLTIMAS 4 SEMANAS?",NUMBER,3,50
+2026,p6310s1,¿cuál? (Otro),VARCHAR2,250,50
+2026,p6320,Durante los últimos 12 meses ¿... trabajó por lo menos 2 semanas consecutivas?,NUMBER,3,50
+2026,p6330,"Después de su último empleo, ¿... ha hecho alguna diligencia para conseguir trabajo o instalar un negocio?",NUMBER,3,50
+2026,p6340,Durante los últimos 12 meses ¿... ha hecho alguna diligencia para conseguir trabajo o instalar un negocio?,NUMBER,3,50
+2026,p6350,¿Cuántos meses hace que ... dejó de buscar trabajo por última vez?,NUMBER,3,50
+2026,p6351,"Si le hubiera resultado algún trabajo a ..., ¿estaba disponible la semana pasada para empezar a trabajar?",NUMBER,3,50
+2026,ft,Indicador de fuerza de trabajo,NUMBER,8,50
+2026,fft,Indicador de fuera de la fuerza de trabajo,NUMBER,8,50
+2026,pet,Indicador de población en edad de trabajar,NUMBER,8,50
+2026,p3044s2,Ramas,NUMBER,4,60
+2026,p6440,¿Para realizar este trabajo tiene ... algún tipo de contrato? (verbal o escrito),NUMBER,5,60
+2026,p6450,¿El contrato es verbal o escrito?,NUMBER,5,60
+2026,p6460,¿El contrato de trabajo es a término indefinido o a término fijo?,NUMBER,3,60
+2026,p6460s1,Número Meses,NUMBER,5,60
+2026,p6400,"La empresa o persona que contrató a ..., ¿es la misma empresa donde trabaja o presta sus servicios?",NUMBER,5,60
+2026,p6410,La empresa que contrato a … es:,NUMBER,5,60
+2026,p6420s2,Ramas,VARCHAR2,4,60
+2026,p6422,"¿Esta … conforme con el tipo de contrato que tiene? (De trabajo, por prestación de servicios etc.)",NUMBER,3,60
+2026,p6424s1,"¿Por su contrato actual, recibe o tiene derecho a: Vacaciones con sueldo?",NUMBER,3,60
+2026,p6424s2,"¿Por su contrato actual, recibe o tiene derecho a: Prima de navidad?",NUMBER,3,60
+2026,p6424s3,"¿Por su contrato actual, recibe o tiene derecho a: Cesantías?",NUMBER,3,60
+2026,p6424s5,"¿Por su contrato actual, recibe o tiene derecho a: Licencia por enfermedad pagada",NUMBER,3,60
+2026,p6426,"¿Cuánto tiempo lleva ... trabajando en esta empresa, negocio, industria, oficina, firma o finca de manera continua? (meses)",NUMBER,3,60
+2026,p6430,En este trabajo … es:,NUMBER,3,60
+2026,p6430s1,¿Cuál? (Otro),VARCHAR2,250,60
+2026,p3045s1,"La empresa, negocio o institución en la que … trabaja ¿está registrada o tiene: Cámara de comercio",NUMBER,3,60
+2026,p3045s2,"La empresa, negocio o institución en la que … trabaja ¿está registrada o tiene: RUT",NUMBER,3,60
+2026,p3045s3,"La empresa, negocio o institución en la que … trabaja ¿está registrada o tiene: Personería Jurídica",NUMBER,3,60
+2026,p3046,La empresa o negocio en la que ... trabaja tiene una oficina de contabilidad o cuenta con los servicios de un contador?,NUMBER,3,60
+2026,p3363,"¿Por qué medio principal, ... consiguió su empleo actual?",NUMBER,3,60
+2026,p3363s1,¿Cuál? (Otro medio),VARCHAR2,250,60
+2026,p9440,¿Su empleo actual lo obtuvo a través de páginas de internet?,NUMBER,3,60
+2026,p6500,"Antes de descuentos, ¿cuánto ganó ... el mes pasado en este empleo? (Incluya propinas y comisiones y excluya viáticos y pagos en especie)",NUMBER,15,60
+2026,p3364,¿Le descontaron retención en la fuente a lo que ganó el mes pasado en este empleo?,NUMBER,15,60
+2026,p3364s1,Valor,NUMBER,15,60
+2026,p6510,¿El mes pasado recibió ingresos por concepto de horas extras?,NUMBER,3,60
+2026,p6510s1,¿Cuánto recibió ($)?,NUMBER,15,60
+2026,p6510s2,¿Incluyó este valor en los ingresos del mes pasado que me declaró anteriormente?,NUMBER,3,60
+2026,p6590,"Además del salario en dinero, ¿el mes pasado recibió alimentos como parte de pago por su trabajo?",NUMBER,3,60
+2026,p6590s1,¿En cuánto estima lo que recibió ($)?,NUMBER,15,60
+2026,p6600,"Además del salario en dinero, ¿el mes pasado recibió vivienda como parte de pago por su trabajo?",NUMBER,3,60
+2026,p6600s1,¿En cuánto estima lo que recibió ($)?,NUMBER,15,60
+2026,p6610,¿Normalmente … utiliza transporte de la empresa para desplazarse a su trabajo (bus o automóvil)?,NUMBER,3,60
+2026,p6610s1,¿En cuánto estima lo que recibió ($)?,NUMBER,15,60
+2026,p6620,"Además del salario en dinero, ¿el mes pasado … recibió otros ingresos en especie por su trabajo (electrodomésticos, ropa, productos diferentes a alimentos o bonos tipo Sodexho)?",NUMBER,3,60
+2026,p6620s1,¿En cuánto estima lo que recibió ($)?,NUMBER,15,60
+2026,p6585s1,¿Cuál o cuáles de los siguientes subsidios recibió … el mes pasado: Auxilio o subsidio de alimentación?,NUMBER,3,60
+2026,p6585s1a1,¿Cuánto? (Auxilio o subsidio de alimentación),NUMBER,15,60
+2026,p6585s1a2,¿Incluyó este valor en los ingresos del mes pasado que me declaró anteriormente? (Auxilio o subsidio de alimentación),NUMBER,3,60
+2026,p6585s2,¿Cuál o cuáles de los siguientes subsidios recibió … el mes pasado: Auxilio o subsidio de transporte?,NUMBER,3,60
+2026,p6585s2a1,¿Cuánto? (Auxilio o subsidio de transporte),NUMBER,15,60
+2026,p6585s2a2,¿Incluyó este valor en los ingresos del mes pasado que me declaró anteriormente? (Auxilio o subsidio de transporte),NUMBER,3,60
+2026,p6585s3,¿Cuál o cuáles de los siguientes subsidios recibió … el mes pasado: Subsidio Familiar?,NUMBER,3,60
+2026,p6585s3a1,¿Cuánto? (Subsidio Familiar),NUMBER,15,60
+2026,p6585s3a2,¿Incluyó este valor en los ingresos del mes pasado que me declaró anteriormente? (Subsidio Familiar),NUMBER,15,60
+2026,p6585s4,¿Cuál o cuáles de los siguientes subsidios recibió … el mes pasado: Subsidio Educativo?,NUMBER,3,60
+2026,p6585s4a1,¿Cuánto? (Subsidio Educativo),NUMBER,15,60
+2026,p6585s4a2,¿Incluyó este valor en los ingresos del mes pasado que me declaró anteriormente? (Subsidio Educativo),NUMBER,15,60
+2026,p6545,"¿El mes pasado recibió ...: Primas? (Técnica, de antiguedad, clima, orden público, otras. etc.)",NUMBER,15,60
+2026,p6545s1,"¿Cuánto? (Primas (Técnica, de antiguedad, clima, orden público, otras. etc.))",NUMBER,15,60
+2026,p6545s2,"¿Incluyó este valor en los ingresos del mes pasado que me declaró anteriormente? (Primas (Técnica, de antiguedad, clima, orden público, otras. etc.))",NUMBER,3,60
+2026,p6580,¿El mes pasado recibió ...: Algún tipo de bonificación de carácter mensual?,NUMBER,3,60
+2026,p6580s1,¿Cuánto? (Algún tipo de bonificación de carácter mensual),NUMBER,15,60
+2026,p6580s2,¿Incluyó este valor en los ingresos del mes pasado que me declaró anteriormente? (Algún tipo de bonificación de carácter mensual),NUMBER,3,60
+2026,p6630s1,¿En los últimos 12 meses recibió: Prima de servicios?,NUMBER,15,60
+2026,p6630s1a1,¿Cuánto recibió ($)? (Prima de servicios),NUMBER,15,60
+2026,p6630s2,¿En los últimos 12 meses recibió: Prima de navidad?,NUMBER,15,60
+2026,p6630s2a1,¿Cuánto recibió ($)? (Prima de navidad),NUMBER,15,60
+2026,p6630s3,¿En los últimos 12 meses recibió: Prima de vacaciones?,NUMBER,3,60
+2026,p6630s3a1,¿Cuánto recibió ($)? (Prima de vacaciones),NUMBER,15,60
+2026,p6630s4,¿En los últimos 12 meses recibió: Viáticos permanentes y/o Bonificaciones anuales?,NUMBER,15,60
+2026,p6630s4a1,¿Cuánto recibió ($)? (Viáticos permanentes y/o Bonificaciones anuales),NUMBER,15,60
+2026,p6630s6,¿En los últimos 12 meses recibió: Pagos por accidentes de trabajo?,NUMBER,15,60
+2026,p6630s6a1,¿Cuánto recibió ($)? (Pagos por accidentes de trabajo),NUMBER,15,60
+2026,p6640,¿La semana pasada trabajó horas extras remuneradas?,NUMBER,15,60
+2026,p6640s1,¿Cuántas?,NUMBER,15,60
+2026,p1800,"En ese trabajo, ¿tiene empleados o personas que le ayudan en su negocio o actividad?",NUMBER,15,60
+2026,p1800s1,¿cuántos?,NUMBER,15,60
+2026,p1801s1,"De las personas que ocupa o le ayudan en su negocio o actividad, cuántos son: Trabajadores que reciben un pago",NUMBER,15,60
+2026,p1801s2,"De las personas que ocupa o le ayudan en su negocio o actividad, cuántos son: Socios",NUMBER,15,60
+2026,p1801s3,"De las personas que ocupa o le ayudan en su negocio o actividad, cuántos son: Trabajadores o familiares sin remuneración",NUMBER,15,60
+2026,p1802,… ofrece sus servicios o productos:,NUMBER,15,60
+2026,p3047,"En su trabajo, ¿quién decide sobre su horario de trabajo?",NUMBER,15,60
+2026,p3048,"En su trabajo, ¿quién decide sobre qué producir o vender?",NUMBER,15,60
+2026,p3049,"En su trabajo, ¿quién decide sobre el precio de los bienes, productos o servicios prestados?",NUMBER,15,60
+2026,p6765,"En la semana pasada, ¿cuál de las siguientes formas de trabajo realizó:",NUMBER,15,60
+2026,p6765s1,¿Cuál? (Otro),VARCHAR2,250,60
+2026,p3051,"Antes de descuentos, ¿Cuánto recibió ... el mes pasado por concepto de honorarios profesionales? Honorarios profesionales en el mes pasado",VARCHAR2,250,60
+2026,p3052,"Antes de descuentos, ¿Cuánto recibió ... el mes pasado por concepto de ingresos o comisiones? Ingresos o comisiones en el mes pasado",VARCHAR2,250,60
+2026,p3053,¿A cuántos meses corresponde lo que recibió?,NUMBER,15,60
+2026,p3365,¿Le descontaron retención en la fuente a lo que ganó el mes pasado en este empleo?,NUMBER,15,60
+2026,p3365s1,Valor,NUMBER,15,60
+2026,p3054,"Además de ingresos en dinero, ¿el mes pasado recibió alimentos como parte de pago por su trabajo?",NUMBER,15,60
+2026,p3054s1,¿En cuánto estima lo que recibió ($)?,VARCHAR2,250,60
+2026,p3055,"Además de ingresos en dinero, ¿el mes pasado recibió vivienda como parte de pago por su trabajo?",NUMBER,15,60
+2026,p3055s1,¿En cuánto estima lo que recibió ($)?,VARCHAR2,250,60
+2026,p3056,"La semana pasada, ¿qué tipo de actividad realizó en su negocio?",NUMBER,15,60
+2026,p3057,"¿Cuál fue el valor de las ventas o ingresos totales de su actividad o negocio, el mes pasado? Ventas o ingresos totales en el mes pasado",VARCHAR2,250,60
+2026,p6760,¿A cuántos meses corresponde lo que recibió?,NUMBER,15,60
+2026,p3058s1,"¿Cuánto pagó durante el mes anterior, para el funcionamiento del negocio o actividad, por los siguientes conceptos? Salarios u honorarios",VARCHAR2,250,60
+2026,p3058s2,"¿Cuánto pagó durante el mes anterior, para el funcionamiento del negocio o actividad, por los siguientes conceptos? Insumos para la producción y/o compra de mercancías",VARCHAR2,250,60
+2026,p3058s3,"¿Cuánto pagó durante el mes anterior, para el funcionamiento del negocio o actividad, por los siguientes conceptos? Arrendamiento o alquiler de edificio, local, bodega o sitio para realizar su actividad",VARCHAR2,250,60
+2026,p3058s4,"¿Cuánto pagó durante el mes anterior, para el funcionamiento del negocio o actividad, por los siguientes conceptos? Servicios básicos como agua, alcantarillado, gas natural, gas propano en pipeta, luz, teléfono o internet",VARCHAR2,250,60
+2026,p3058s5,"¿Cuánto pagó durante el mes anterior, para el funcionamiento del negocio o actividad, por los siguientes conceptos? Transporte, combustible, mantenimiento, reparaciones, alquileres de bienes inmuebles, maquinarias y/o equipos",VARCHAR2,250,60
+2026,p3059,"¿Cuál fue el valor de las ventas o ingresos totales de productos agrícolas, ganaderos, pesqueros o actividades mineras, en los últimos 12 meses? Digite el valor de las ventas o ingresos totales en los últimos 12 meses.",VARCHAR2,250,60
+2026,p3061,¿ A cuántos meses corresponde lo que recibió?,NUMBER,15,60
+2026,p3062s1,"¿Cuánto pagó en los últimos 12 meses, para el funcionamiento del negocio o actividad, por los siguientes conceptos? Pago a trabajadores (salarios, honorarios, jornales, destajo, otros)",VARCHAR2,250,60
+2026,p3062s2,"¿Cuánto pagó en los últimos 12 meses, para el funcionamiento del negocio o actividad, por los siguientes conceptos? Servicios profesionales (agrónomo, veterinario, zootecnista, biólogo, etc.)",VARCHAR2,250,60
+2026,p3062s3,"¿Cuánto pagó en los últimos 12 meses, para el funcionamiento del negocio o actividad, por los siguientes conceptos? Transporte y alquiler de maquinaria y equipos",VARCHAR2,250,60
+2026,p3062s4,"¿Cuánto pagó en los últimos 12 meses, para el funcionamiento del negocio o actividad, por los siguientes conceptos? Combustibles, lubricantes y mantenimiento de maquinaria y equipo",VARCHAR2,250,60
+2026,p3062s5,"¿Cuánto pagó en los últimos 12 meses, para el funcionamiento del negocio o actividad, por los siguientes conceptos? Abono, fertilizante, herbicidas, insecticidas, funguicidas, semillas y riego",VARCHAR2,250,60
+2026,p3062s6,"¿Cuánto pagó en los últimos 12 meses, para el funcionamiento del negocio o actividad, por los siguientes conceptos? Vacunas y productos veterinarios",VARCHAR2,250,60
+2026,p3062s7,"¿Cuánto pagó en los últimos 12 meses, para el funcionamiento del negocio o actividad, por los siguientes conceptos? Compra de animales o reproductores",VARCHAR2,250,60
+2026,p3062s8,"¿Cuánto pagó en los últimos 12 meses, para el funcionamiento del negocio o actividad, por los siguientes conceptos? Alimentos y suplementos para animales",VARCHAR2,250,60
+2026,p3062s9,"¿Cuánto pagó en los últimos 12 meses, para el funcionamiento del negocio o actividad, por los siguientes conceptos? Arrendamiento de tierras",VARCHAR2,250,60
+2026,p3063,"¿En el mes anterior, usted o algún miembro del hogar tomó algo de lo que cultivó, produjo o extrajo para consumo del hogar?",NUMBER,15,60
+2026,p3063s1,¿Cuánto tendría que pagar si tuviera que comprar este(os) artículo(s)?,VARCHAR2,250,60
+2026,p3064,"¿Usted es propietario de la totalidad o parte de la tierra, terreno o granja donde realiza su actividad productiva?",NUMBER,15,60
+2026,p3064s1,"Si tuviera que pagar arriendo por ese terreno, tierra o granja; ¿cuánto estima que tendría que pagar mensualmente?",VARCHAR2,250,60
+2026,p3065,La empresa o negocio en la que ... realiza su trabajo ¿está registrada ante la cámara de comercio? (¿tiene registro mercantil?),NUMBER,15,60
+2026,p3066,La empresa o negocio en la que ... trabaja tiene una oficina de contabilidad o cuenta con los servicios de un contador?,NUMBER,15,60
+2026,p3560,La empresa o negocio en la que ... trabaja ¿está registrada o tiene: RUT?,NUMBER,15,60
+2026,p3561,La empresa o negocio en la que ... trabaja ¿está registrada o tiene: Personería Jurídica?,NUMBER,15,60
+2026,p3067,¿... ha registrado el negocio ante ante la cámara de comercio? (¿tiene registro mercantil?),NUMBER,15,60
+2026,p3067s1,¿... ha renovado ese registro?,NUMBER,15,60
+2026,p3067s2,¿Cuál fue el último año en el que renovó este registro?,NUMBER,15,60
+2026,p6775,"¿El negocio o actividad de ... lleva contabilidad (realiza anualmente balance general y estado de perdidas y ganancias), o libro de registro diario de operaciones?",NUMBER,15,60
+2026,p3068,¿A través de la contabilidad se pueden separar los gastos del negocio de los gastos del hogar?,NUMBER,15,60
+2026,p3562,El negocio o actividad de ... ¿está registrado o tiene:? a. RUT,NUMBER,15,60
+2026,p3563,El negocio o actividad de ... ¿está registrado o tiene:? b. Personería Jurídica,NUMBER,15,60
+2026,p6750,"¿Cuál fue la ganancia neta o los honorarios netos de ... en esa actividad, negocio, profesión o finca, el mes pasado ?",NUMBER,15,60
+2026,p3073,¿A cuántos meses corresponde lo que recibió?,NUMBER,15,60
+2026,p550,¿Cuál fue la ganancia neta del negocio o de la cosecha durante los últimos doce meses?,NUMBER,15,60
+2026,p6780,Este trabajo es:,NUMBER,15,60
+2026,p6780s1,Especifique (Otro),VARCHAR2,250,60
+2026,p1879,¿Cuál es la razón principal por la que trabaja en forma independiente en lugar de trabajar para un empleador o patrono ?,NUMBER,15,60
+2026,p1879s1,¿Cuál?,VARCHAR2,250,60
+2026,p1805,"Si le ofrecieran un empleo como asalariado, en el cuál ganara lo mismo que obtiene actualmente pero con prestaciones, ¿aceptaría?",NUMBER,15,60
+2026,p6790,¿Cuántos meses trabajó en los últimos 12 meses?,NUMBER,15,60
+2026,p6800,¿Cuántas horas a la semana trabaja normalmente ... en este trabajo?,NUMBER,15,60
+2026,p6810,¿Cuál es la razón por la que trabaja normalmente menos de 40 horas a la semana?,NUMBER,15,60
+2026,p6810s1,¿Cuál? (Otra razón),VARCHAR2,250,60
+2026,p6850,¿Cuántas horas trabajó durante la semana pasada en este trabajo?,NUMBER,9,60
+2026,p6830,"¿Por qué razón, de las horas que normalmente trabaja, hubo algunas que no trabajó la semana pasada?",NUMBER,15,60
+2026,p6830s1,¿Cuál? (Otro),VARCHAR2,250,60
+2026,p3069,"¿Cuántas personas en total tiene la empresa, negocio, industria, oficina, firma, finca o sitio donde ... trabaja?",NUMBER,15,60
+2026,p6880,Dónde realiza principalmente su trabajo:,NUMBER,15,60
+2026,p6880s1,¿Cuál? (Otro),VARCHAR2,250,60
+2026,p6915,En caso de enfermedad ¿cómo cubriría los costos médicos y los medicamentos?,NUMBER,15,60
+2026,p6915s1,¿Cuál? (Otro medio),VARCHAR2,250,60
+2026,p6920,¿Está … cotizando actualmente a un fondo de pensiones?,NUMBER,15,60
+2026,p6930,¿A cuál de los siguientes fondos cotiza actualmente:,NUMBER,15,60
+2026,p6940,¿ Quién paga mensualmente por la afiliación al fondo de pensiones de ...?,NUMBER,15,60
+2026,p6960,¿Cuántos años lleva cotizando al fondo de pensiones?,NUMBER,15,60
+2026,p6990,"¿Está afiliado por una empresa o individualmente a una Aseguradora de Riesgos Laborales (ARL) (por accidentes de trabajo, enfermedad profesional etc)?",NUMBER,15,60
+2026,p9450,¿Está afiliado a una caja de compensación familiar?,NUMBER,15,60
+2026,p7020,"Antes del actual trabajo, ¿… tuvo otro trabajo?",NUMBER,15,60
+2026,p760,¿Cuántos meses estuvo sin empleo o trabajo … entre el trabajo actual y el anterior?,NUMBER,15,60
+2026,p7026,¿Cuánto tiempo duró en su empleo anterior?,NUMBER,15,60
+2026,p7028,¿En su empleo anterior … era:,NUMBER,15,60
+2026,p7028s1,¿Cuál? (Otro),VARCHAR2,250,60
+2026,p1880,¿Cuál fue la razón principal por la que ... dejó su empleo anterior?,NUMBER,15,60
+2026,p1880s1,¿Cuál? (Otro),VARCHAR2,250,60
+2026,p7040,"Además de la ocupación principal, ¿… tenía la semana pasada otro trabajo o negocio?",NUMBER,15,60
+2026,p7045,¿Cuántas horas trabajó … la semana pasada en ese segundo trabajo?,NUMBER,15,60
+2026,p3071s3,Ramas,NUMBER,4,60
+2026,p3072s2,Ramas,NUMBER,4,60
+2026,p7050,En ese segundo trabajo … es:,NUMBER,15,60
+2026,p7070,¿Cuánto recibió o ganó … el mes pasado en ese segundo trabajo o negocio?,NUMBER,15,60
+2026,p7075,"¿Cuántas personas en total tiene la empresa, negocio o finca donde … trabaja?",NUMBER,15,60
+2026,p7077,Dónde realiza principalmente … su trabajo:,NUMBER,15,60
+2026,p7090,Además de las horas que trabaja actualmente ¿… quiere trabajar más horas?,NUMBER,15,60
+2026,p7100,¿Cuántas horas adicionales puede trabajar … a la semana?,NUMBER,15,60
+2026,p7110,"Durante las ÚLTIMAS 4 SEMANAS, ¿… hizo diligencias para trabajar más horas?",NUMBER,15,60
+2026,p7120,Si la semana pasada le hubiera resultado la posibilidad de trabajar más horas ¿estaba … disponible para hacerlo?,NUMBER,15,60
+2026,p7130,¿… desea cambiar el trabajo que tiene actualmente?,NUMBER,15,60
+2026,p7140s1,¿Por que motivos ... desea cambiar de trabajo o empleo: Para mejorar la utilización de sus capacidades o formación?,NUMBER,15,60
+2026,p7140s2,¿Por que motivos ... desea cambiar de trabajo o empleo: Desea mejorar sus ingresos?,NUMBER,15,60
+2026,p7140s3,¿Por que motivos ... desea cambiar de trabajo o empleo: Desea trabajar menos horas?,NUMBER,15,60
+2026,p7140s4,¿Por que motivos ... desea cambiar de trabajo o empleo: Porque el trabajo actual es temporal?,NUMBER,15,60
+2026,p7140s5,¿Por que motivos ... desea cambiar de trabajo o empleo: Problemas en el trabajo?,NUMBER,15,60
+2026,p7140s6,¿Por que motivos ... desea cambiar de trabajo o empleo: No le gusta su trabajo actual?,NUMBER,15,60
+2026,p7140s7,¿Por que motivos ... desea cambiar de trabajo o empleo: Su trabajo actual exige mucho esfuerzo físico o mental?,NUMBER,15,60
+2026,p7140s8,"¿Por que motivos ... desea cambiar de trabajo o empleo: Problemas ambientales (aire, olores, ruidos, temperatura, etc.)",NUMBER,15,60
+2026,p7140s9,¿Por que motivos ... desea cambiar de trabajo o empleo: Otro motivo,NUMBER,15,60
+2026,p7140s9a1,¿Cuál? (Otro motivo),VARCHAR2,250,60
+2026,p7150,"Durante las ÚLTIMAS CUATRO SEMANAS, ¿... hizo diligencias para cambiar de trabajo?",NUMBER,15,60
+2026,p7160,Si le resultara un nuevo trabajo o empleo a ... ¿podría empezar a desempeñarlo antes de un mes?,NUMBER,15,60
+2026,p7170s1,¿Está ... satisfecho: Con su trabajo actual?,NUMBER,15,60
+2026,p7170s5,¿Está ... satisfecho: Con los beneficios y prestaciones que recibe?,NUMBER,15,60
+2026,p7170s6,¿Está ... satisfecho: Con su jornada laboral actual?,NUMBER,15,60
+2026,p7180,¿Está afiliado o hace parte de una asociación gremial o sindical?,NUMBER,15,60
+2026,p514,¿Considera que su empleo o trabajo actual es estable?,NUMBER,15,60
+2026,p515,¿Su horario de trabajo y sus responsabilidades familiares son compatibles?,NUMBER,15,60
+2026,p1881,¿Qué medio de transporte utiliza principalmente para desplazarse a su sitio de trabajo?,NUMBER,15,60
+2026,p1881s1,¿Cuál? (Otro),VARCHAR2,250,60
+2026,p1882,¿Cuánto tiempo se demora regularmente ... en su desplazamiento hacia el trabajo? Incluya tiempo de espera del medio de transporte (Minutos),NUMBER,15,60
+2026,p7240,"¿En caso de no tener trabajo, de donde obtendría principalmente los recursos para sus gastos y/o los de su hogar:",NUMBER,15,60
+2026,p7240s1,¿Cuáles? (Otros),VARCHAR2,250,60
+2026,oci,Indicador de ocupados,NUMBER,8,60
+2026,inglabo,Ingreso laborales,NUMBER,8,60
+2026,rama4d_r4,Rama de actividad empleo principal,VARCHAR2,4,60
+2026,rama2d_r4,Rama de actividad empleo principal,VARCHAR2,2,60
+2026,oficio_c8,Oficio,VARCHAR2,4,60
+2026,p7250,¿Durante cuántas semanas ha estado o estuvo … buscando trabajo?,NUMBER,15,70
+2026,p7280,Ha buscado trabajo como:,NUMBER,15,70
+2026,p7280s1,¿Cuál? (Otro),VARCHAR2,250,70
+2026,p744,Si le hubiera resultado algún trabajo a … ¿estaba disponible la semana pasada para empezar a trabajar?,NUMBER,15,70
+2026,p3074,"Si le resultara algún trabajo, cuándo estaría … disponible para trabajar?",NUMBER,15,70
+2026,p7260,"Si le hubiera resultado un trabajo la semana pasada, ¿ cuántas horas a la semana estaba disponible para trabajar?",NUMBER,15,70
+2026,p1806,En caso de que le ofrecieran un empleo a … ¿Cuál sería el sueldo o el salario mensual más bajo por el que aceptaría?,NUMBER,15,70
+2026,p7430,¿Ha trabajado alguna vez por lo menos durante dos semanas consecutivas?,NUMBER,15,70
+2026,p7440s1,¿Cuánto tiempo hace que … trabajó por última vez? Meses,NUMBER,15,70
+2026,p7440s2,¿Cuánto tiempo hace que … trabajó por última vez? Semanas,NUMBER,15,70
+2026,p7450,¿Por qué motivo o razón principal ... dejó ese trabajo?,NUMBER,15,70
+2026,p7350,En este último trabajo era:,NUMBER,15,70
+2026,p7360,"¿Cuántas personas en total tenía la empresa, negocio o finca, donde .... trabajaba?",NUMBER,15,70
+2026,p9460,¿Actualmente recibe subsidio de desempleo?,NUMBER,15,70
+2026,p1519,¿Está ... cotizando actualmente a un fondo de pensiones?,NUMBER,15,70
+2026,p1883,¿A cuál fondo:,NUMBER,15,70
+2026,p7422,¿Recibió o ganó el mes pasado ingresos por concepto de trabajo?,NUMBER,15,70
+2026,p7422s1,¿Cuánto?,NUMBER,15,70
+2026,dsi,Indicador de no ocupados,NUMBER,8,70
+2026,oficio1_c8,"¿En qué ocupación, oficio o labor ha buscado trabajo?",VARCHAR2,4,70
+2026,oficio2_c8,"¿Qué ocupación, oficio o labor realizó … la última vez que trabajó?",VARCHAR2,4,70
+2026,rama4d_d_r4,"¿A qué actividad se dedicaba principalmente la empresa negocio, industria, oficina, firma o finca en la que … trabajó por última vez?",VARCHAR2,4,70
+2026,rama2d_d_r4,"¿A qué actividad se dedicaba principalmente la empresa negocio, industria, oficina, firma o finca en la que … trabajó por última vez?",VARCHAR2,2,70
+2026,p3076s1,"¿La semana pasada ... realizó sin que le pagaran alguna de las siguientes actividades: Cocinar, lavar los platos, poner la mesa en: Su hogar?",NUMBER,15,80
+2026,p3076s1a1,Dias,NUMBER,15,80
+2026,p3076s1a2,Horas día,NUMBER,15,80
+2026,p3076s2,"¿La semana pasada ... realizó sin que le pagaran alguna de las siguientes actividades: Cocinar, lavar los platos, poner la mesa en: Hogares de personas familiares?",NUMBER,15,80
+2026,p3076s2a1,Dias,NUMBER,15,80
+2026,p3076s2a2,Horas día,NUMBER,15,80
+2026,p3076s3,"¿La semana pasada ... realizó sin que le pagaran alguna de las siguientes actividades: Cocinar, lavar los platos, poner la mesa en: Hogares de personas no familiares?",NUMBER,15,80
+2026,p3076s3a1,Dias,NUMBER,15,80
+2026,p3076s3a2,Horas día,NUMBER,15,80
+2026,p3077s1,"¿La semana pasada ... realizó sin que le pagaran alguna de las siguientes actividades: Lavar, colgar, planchar la ropa, reparar ropa en: Su hogar?",NUMBER,15,80
+2026,p3077s1a1,Dias,NUMBER,15,80
+2026,p3077s1a2,Horas día,NUMBER,15,80
+2026,p3077s2,"¿La semana pasada ... realizó sin que le pagaran alguna de las siguientes actividades: Lavar, colgar, planchar la ropa, reparar ropa en: Hogares de personas familiares?",NUMBER,15,80
+2026,p3077s2a1,Dias,NUMBER,15,80
+2026,p3077s2a2,Horas día,NUMBER,15,80
+2026,p3077s3,"¿La semana pasada ... realizó sin que le pagaran alguna de las siguientes actividades: Lavar, colgar, planchar la ropa, reparar ropa en: Hogares de personas no familiares?",NUMBER,15,80
+2026,p3077s3a1,Dias,NUMBER,15,80
+2026,p3077s3a2,Horas día,NUMBER,15,80
+2026,p3078s1,"¿La semana pasada ... realizó sin que le pagaran alguna de las siguientes actividades: Limpiar o arreglar la casa, tender las camas, barrer trapear, sacar la basura en: Su hogar?",NUMBER,15,80
+2026,p3078s1a1,Dias,NUMBER,15,80
+2026,p3078s1a2,Horas día,NUMBER,15,80
+2026,p3078s2,"¿La semana pasada ... realizó sin que le pagaran alguna de las siguientes actividades: Limpiar o arreglar la casa, tender las camas, barrer trapear, sacar la basura en: Hogares de personas familiares?",NUMBER,15,80
+2026,p3078s2a1,Dias,NUMBER,15,80
+2026,p3078s2a2,Horas día,NUMBER,15,80
+2026,p3078s3,"¿La semana pasada ... realizó sin que le pagaran alguna de las siguientes actividades: Limpiar o arreglar la casa, tender las camas, barrer trapear, sacar la basura en: Hogares de personas no familiares?",NUMBER,15,80
+2026,p3078s3a1,Dias,NUMBER,15,80
+2026,p3078s3a2,Horas día,NUMBER,15,80
+2026,p3079s1,¿La semana pasada ... realizó sin que le pagaran alguna de las siguientes actividades: Cuidar niñas o niños menores de 5 años que no estén enfermos ni en condición de discapacidad en: Su hogar?,NUMBER,15,80
+2026,p3079s1a1,Dias,NUMBER,15,80
+2026,p3079s1a2,Horas día,NUMBER,15,80
+2026,p3079s2,¿La semana pasada ... realizó sin que le pagaran alguna de las siguientes actividades: Cuidar niñas o niños menores de 5 años que no estén enfermos ni en condición de discapacidad en: Hogares de personas familiares?,NUMBER,15,80
+2026,p3079s2a1,Dias,NUMBER,15,80
+2026,p3079s2a2,Horas día,NUMBER,15,80
+2026,p3079s3,¿La semana pasada ... realizó sin que le pagaran alguna de las siguientes actividades: Cuidar niñas o niños menores de 5 años que no estén enfermos ni en condición de discapacidad en: Hogares de personas no familiares?,NUMBER,15,80
+2026,p3079s3a1,Dias,NUMBER,15,80
+2026,p3079s3a2,Horas día,NUMBER,15,80
+2026,p3081s1,"¿La semana pasada ... realizó sin que le pagaran alguna de las siguientes actividades: Cuidar personas enfermas, en condición de discapacidad o adultos mayores en: Su hogar?",NUMBER,15,80
+2026,p3081s1a1,Dias,NUMBER,15,80
+2026,p3081s1a2,Horas día,NUMBER,15,80
+2026,p3081s2,"¿La semana pasada ... realizó sin que le pagaran alguna de las siguientes actividades: Cuidar personas enfermas, en condición de discapacidad o adultos mayores en: Hogares de personas familiares?",NUMBER,15,80
+2026,p3081s2a1,Dias,NUMBER,15,80
+2026,p3081s2a2,Horas día,NUMBER,15,80
+2026,p3081s3,"¿La semana pasada ... realizó sin que le pagaran alguna de las siguientes actividades: Cuidar personas enfermas, en condición de discapacidad o adultos mayores en: Hogares de personas no familiares?",NUMBER,15,80
+2026,p3081s3a1,Dias,NUMBER,15,80
+2026,p3081s3a2,Horas día,NUMBER,15,80
+2026,p3082s1,¿La semana pasada ... realizó sin que le pagaran alguna de las siguientes actividades: Ayudar a personas con tareas o trabajos escolares en: Su hogar?,NUMBER,15,80
+2026,p3082s1a1,Dias,NUMBER,15,80
+2026,p3082s1a2,Horas día,NUMBER,15,80
+2026,p3082s2,¿La semana pasada ... realizó sin que le pagaran alguna de las siguientes actividades: Ayudar a personas con tareas o trabajos escolares en: Hogares de personas familiares?,NUMBER,15,80
+2026,p3082s2a1,Dias,NUMBER,15,80
+2026,p3082s2a2,Horas día,NUMBER,15,80
+2026,p3082s3,¿La semana pasada ... realizó sin que le pagaran alguna de las siguientes actividades: Ayudar a personas con tareas o trabajos escolares en: Hogares de personas no familiares?,NUMBER,15,80
+2026,p3082s3a1,Dias,NUMBER,15,80
+2026,p3082s3a2,Horas día,NUMBER,15,80
+2026,p3083,¿En las últimas 4 semanas… realizó pasantías o practicas laborales?,NUMBER,15,80
+2026,p3083s1,Horas a la semana,NUMBER,15,80
+2026,p3084s2,¿A qué actividad se dedica principalmente la empresa o negocio en el que ¿ realiza sus prácticas o pasantías?,NUMBER,4,80
+2026,p3085,¿Para realizar esta labor... tiene un contrato de aprendizaje?,NUMBER,15,80
+2026,p3086,La institución educativa con la cual realiza la pasantía o práctica es:,NUMBER,15,80
+2026,p3086s1,¿Cuál? (Otra institución educativa),VARCHAR2,250,80
+2026,p3087,Recibe algún ingreso por esta práctica o pasantía?,NUMBER,15,80
+2026,p3087s1,Valor mensual,VARCHAR2,250,80
+2026,p3088,¿Es un requisito para poder graduarse?,NUMBER,15,80
+2026,p3089,"¿Durante las últimas 4 semanas ... realizó sin que le pagaran alguna de las siguientes actividades? Preparar conservas, quesos o embutidos para ser consumidas por usted o las personas del hogar?",NUMBER,15,80
+2026,p3089s1,Días,NUMBER,15,80
+2026,p3089s2,Horas día,NUMBER,15,80
+2026,p3089s3,¿Cuánto tendría que pagar si tuviera que comprar este(os) artículo(s)?,VARCHAR2,250,80
+2026,p3091,¿Durante las últimas 4 semanas ... realizó sin que le pagaran alguna de las siguientes actividades? Elaborar prendas de vestir para las personas de este hogar?,NUMBER,15,80
+2026,p3091s1,Días,NUMBER,15,80
+2026,p3091s2,Horas día,NUMBER,15,80
+2026,p3092,¿Durante las últimas 4 semanas ... realizó sin que le pagaran alguna de las siguientes actividades? Traer agua para el uso de este hogar? (sólo para centros poblados y rural disperso),NUMBER,15,80
+2026,p3092s1,Días,NUMBER,15,80
+2026,p3092s2,Horas día,NUMBER,15,80
+2026,p3093,¿Durante las últimas 4 semanas ... realizó sin que le pagaran alguna de las siguientes actividades? Construir o ampliar una vivienda propiedad del hogar?,NUMBER,15,80
+2026,p3093s1,Días,NUMBER,15,80
+2026,p3093s2,Horas día,NUMBER,15,80
+2026,p3094,"¿Durante las últimas 4 semanas ... realizó sin que le pagaran alguna de las siguientes actividades? Plantar, regar, abonar, deshierbar o cosechar en una huerta casera o cultivo destinado solo para el consumo de este hogar.",NUMBER,15,80
+2026,p3094s1,Días,NUMBER,15,80
+2026,p3094s2,Horas día,NUMBER,15,80
+2026,p3094s3,¿Cuánto tendría que pagar si tuviera que comprar este(os) artículo(s)?,NUMBER,15,80
+2026,p3095,"¿Durante las últimas 4 semanas ... realizó sin que le pagaran alguna de las siguientes actividades? Criar animales para el consumo de este hogar tales como: gallinas, cerdos, patos, conejos, etc., cazar o pescar animales para el consumo de este hogar.",NUMBER,15,80
+2026,p3095s1,Días,NUMBER,15,80
+2026,p3095s2,Horas día,NUMBER,15,80
+2026,p3095s3,¿Cuánto tendría que pagar si tuviera que comprar este(os) artículo(s)?,NUMBER,15,80
+2026,p3096,"¿Durante las últimas 4 semanas ... realizó sin que le pagaran alguna de las siguientes actividades? Extraer minerales como: carbón, sal, etc, para consumo de este hogar",NUMBER,15,80
+2026,p3096s1,Días,NUMBER,15,80
+2026,p3096s2,Horas día,NUMBER,15,80
+2026,p3096s3,¿Cuánto tendría que pagar si tuviera que comprar este(os) artículo(s)?,NUMBER,15,80
+2026,p3097,¿Durante las últimas 4 semanas ... realizó sin que le pagaran alguna de las siguientes actividades? Recoger leña para el uso de este hogar. (sólo para centros poblados y rural disperso),NUMBER,15,80
+2026,p3097s1,Días,NUMBER,15,80
+2026,p3097s2,Horas día,NUMBER,15,80
+2026,p3098,"¿Durante las últimas 4 semanas ... realizó sin que le pagaran alguna de las siguientes actividades? Hacer de manera voluntaria, reparaciones, labores de limpieza o algún trabajo en beneficio de su barrio, vereda, centro poblado o comunidad.",NUMBER,15,80
+2026,p3098s1,Días,NUMBER,15,80
+2026,p3098s2,Horas día,NUMBER,15,80
+2026,p3099,¿Durante las últimas 4 semanas ... realizó sin que le pagaran alguna de las siguientes actividades? Realizar actividades de voluntariado (sin que le pagaran) a través de una institución sin ánimo de lucro,NUMBER,15,80
+2026,p3099s1,Días,NUMBER,15,80
+2026,p3099s2,Horas día,NUMBER,15,80
+2026,p3101,"¿Durante las últimas 4 semanas ... realizó sin que le pagaran alguna de las siguientes actividades? Participar en reuniones de asociaciones de padres, sindicatos, partidos politicos, juntas de acción comunal",NUMBER,15,80
+2026,p3101s1,Días,NUMBER,15,80
+2026,p3101s2,Horas día,NUMBER,15,80
+2026,p7495,"El mes pasado, ¿recibió pagos por concepto de arriendos y/o pensiones?",NUMBER,15,90
+2026,p7500s1,"¿El mes pasado, recibió pagos por: Arriendos de casas, apartamentos, fincas, lotes, vehículos, equipos, etc.",NUMBER,15,90
+2026,p7500s1a1,Valor mes pasado,NUMBER,15,90
+2026,p7500s2,"¿El mes pasado, recibió pagos por: Pensiones o jubilaciones por vejez, invalidez o sustitución pensional.",NUMBER,15,90
+2026,p7500s2a1,Valor mes pasado,NUMBER,15,90
+2026,p7500s3,"¿El mes pasado, recibió pagos por: Pensión alimenticia por paternidad, divorcio o separación.",NUMBER,15,90
+2026,p7500s3a1,Valor mes pasado,NUMBER,15,90
+2026,p7505,"Durante los últimos doce meses, ¿recibió dinero de otros hogares, personas o instituciones; dinero por intereses, dividendos, utilidades o por cesantias?",NUMBER,15,90
+2026,p7510s1,Durante los últimos doce meses recibió: Dinero de otros hogares o personas residentes en el país?,NUMBER,15,90
+2026,p7510s1a1,Valor,NUMBER,15,90
+2026,p7510s2,Durante los últimos doce meses recibió: Dinero de otros hogares o personas residentes fuera del país?,NUMBER,15,90
+2026,p7510s2a1,Valor,NUMBER,15,90
+2026,p7510s3,Durante los últimos doce meses recibió: Ayudas en dinero de instituciones del país o fuera del pais?,NUMBER,15,90
+2026,p7510s3a1,Valor,NUMBER,15,90
+2026,p750s1,Las ayudas en dinero fueron de: Entidades privadas Nacionales,NUMBER,15,90
+2026,p750s1a1,Valor,NUMBER,15,90
+2026,p750s2,Las ayudas en dinero fueron de: Entidades del gobierno,NUMBER,15,90
+2026,p750s2a1,Valor,NUMBER,15,90
+2026,p1661s5,Las ayudas en dinero fueron de: Entidades del gobierno: Renta ciudadana,NUMBER,15,90
+2026,p1661s5a1,Valor (Renta ciudadana),NUMBER,15,90
+2026,p1661s6,Las ayudas en dinero fueron de: Entidades del gobierno: Renta joven,NUMBER,15,90
+2026,p1661s6a1,Valor (Renta joven),NUMBER,15,90
+2026,p1661s3,Las ayudas en dinero fueron de: Entidades del gobierno: Colombia Mayor,NUMBER,15,90
+2026,p1661s3a1,Valor (Colombia Mayor),NUMBER,15,90
+2026,p1661s4,Las ayudas en dinero fueron de: Entidades del gobierno: Otro,NUMBER,15,90
+2026,p1661s4a1,¿Cuál? (Otro),VARCHAR2,250,90
+2026,p1661s4a2,Valor (Otro),NUMBER,15,90
+2026,p750s3,Las ayudas en dinero fueron de: Entidades fuera del pais,NUMBER,15,90
+2026,p750s3a1,Valor,NUMBER,15,90
+2026,p750s4,"No sabe, no informa",NUMBER,15,90
+2026,p7510s5,"Durante los últimos doce meses recibió: Dinero por intereses de prestamos o por CDT's, depósitos de ahorro, utilidades ganancias o dividendos por inversiones?",NUMBER,15,90
+2026,p7510s5a1,Valor,NUMBER,15,90
+2026,p7510s6,Durante los últimos doce meses recibió: Ingresos por concepto de cesantías y/o intereses a las cesantías,NUMBER,15,90
+2026,p7510s6a1,Valor,NUMBER,15,90
+2026,p7510s7,"Durante los últimos doce meses recibió: Dinero de otras fuentes diferentes a las anteriores? (ingresos por ganancias en juegos de azar, chances, loterías, indemnizaciones, liquidaciones, venta de propiedades, acciones, vehículos, etc.)",NUMBER,15,90
+2026,p7510s7a1,Valor,NUMBER,15,90
+2026,p3367,¿Es propietario de una o varias propiedades inmuebles?,NUMBER,15,90
+2026,p3368,"Durante los últimos doce meses, ¿cuánto pagó por impuesto predial de su(s) propiedad(es)?",NUMBER,15,90
+2026,p3369,"Durante los últimos doce meses, ¿cuánto pagó por impuesto de valorización de su(s) propiedad(es)?",NUMBER,15,90
+2026,p3370,"Durante los últimos doce meses, ¿realizó el pago de impuesto de vehículos?",NUMBER,15,90
+2026,p3370s1,a. Valor,NUMBER,15,90
+2026,p3371,"Durante los últimos doce meses, ¿realizó el pago de impuestos a la renta y complementarios?",NUMBER,15,90
+2026,p3371s1,a. Valor,NUMBER,15,90
+2026,p3371s2,b. ¿A cuántos años corresponde el pago?,NUMBER,15,90
+2026,p3371s3,c. ¿Cuál fue el último año pagado?,NUMBER,15,90
+2026,p3371s4,d. ¿Cuánto fue el monto del último año pagado?,NUMBER,15,90
+2026,p3372,"Durante los últimos doce meses, ¿realizó el pago de impuestos a ganancias en juegos de azar, chances, loterias, indemnizaciones, liquidaciones, venta de propiedades, acciones, vehículos, etc.?",NUMBER,15,90
+2026,p3372s1,a. Valor,NUMBER,15,90
+2026,p3373,Dónde nació ...:,NUMBER,15,94
+2026,p3373s1,Dónde nació ...: Departamento,VARCHAR2,2,94
+2026,p3373s2,Dónde nació ...: Municipio,VARCHAR2,5,94
+2026,p3373s3,Dónde nació ...: En otro país:,VARCHAR2,3,94
+2026,p3373s3a1,En qué año y mes llegó a vivir a Colombia por útima vez Año,NUMBER,15,94
+2026,p3373s3a2,En qué año y mes llegó a vivir a Colombia por útima vez Mes,NUMBER,15,94
+2026,p3374,¿Qué nacionalidad tiene?,NUMBER,15,94
+2026,p3374s1 - p3374s2 - p3374s3,País o países de nacionalidad:,VARCHAR2,3,94
+2026,p3375,¿... tiene la intención de quedarse a vivir en Colombia?,NUMBER,15,94
+2026,p3375s1,¿Cuánto tiempo? Meses,NUMBER,15,94
+2026,p3376,¿Alguna vez ha vivido en otro(s) país(es) durante más de 6 meses? Solo para personas de 15 años y más,NUMBER,15,94
+2026,p3377,"¿Mientras estuvo viviendo en el exterior ..., trabajó? Solo para personas de 15 años y más",NUMBER,15,94
+2026,p3378,¿A qué país viajó por última vez a trabajar? Solo para personas de 15 años y más,VARCHAR2,3,94
+2026,p3378s1,¿Durante cuánto tiempo estuvo trabajando en ese país? Meses Solo para personas de 15 años y más,NUMBER,15,94
+2026,p3379,¿... en qué año viajó a ese país? Solo para personas de 15 años y más,NUMBER,15,94
+2026,p3380,¿... en qué año salió de ese país? Solo para personas de 15 años y más,NUMBER,15,94
+2026,p3381,¿… en qué año volvió a vivir en Colombia? Solo para personas de 15 años y más,NUMBER,15,94
+2026,p3382,"¿Dónde vivía …, hace 5 años?",NUMBER,15,94
+2026,p3382s1,Departamento,VARCHAR2,2,94
+2026,p3382s2,Municipio,VARCHAR2,3,94
+2026,p3382s3,En otro país:,VARCHAR2,3,94
+2026,p3383,El lugar donde vivía hace 5 años era:,NUMBER,15,94
+2026,p3384,"¿Dónde vivía ..., hace 12 meses?",NUMBER,15,94
+2026,p3384s1,Departamento,VARCHAR2,2,94
+2026,p3384s2,Municipio,VARCHAR2,5,94
+2026,p3384s3,En otro país:,VARCHAR2,3,94
+2026,p3385,El lugar donde vivía … hace 12 meses era:,NUMBER,15,94
+2026,p3386,¿Cuál fue el principal motivo por el que ... cambió el lugar donde residia hace 12 meses?,NUMBER,15,94
+2026,p3386s1,¿Cuál? (Otro),VARCHAR2,250,94

@@ -59,8 +59,11 @@ Cada tabla guarda la **unión** de columnas; si un mes no la trae queda en `NULL
 - Algunos meses traen `CSV.zip` anidado; la carpeta de DTA se llama `DTA` o `DAT`.
 - Registro en `meta.carga` de qué periodo y módulo ya se cargó, para la actualización incremental.
 
-## Pendientes antes de crear tablas
+## Validación
+
+Los 44 meses se cargaron en una base de prueba (PostgreSQL 16) con `src/geih/cargar.py`: 352 módulos, 3.041.886 filas en `persona`. Las llaves son únicas en todos los meses, no hay filas huérfanas, toda persona tiene hogar y ocupados + no ocupados = fuerza de trabajo en cada periodo.
+
+## Pendientes antes de la capa tipada
 
 1. Definir informalidad (criterio DANE) y construirla desde `ocupados`.
 2. Extraer las etiquetas de valores de los DTA para el diccionario.
-3. Validar 2023 y 2024 con las mismas pruebas de llaves que enero de 2025.
